@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:0 ,Automoto TV (Italia)
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
+#EXTINF:0 ,DeporTV
+http://538f0c8c264ca.streamlock.net/DXTV/smil:DXTV/chunklist_w170603515_b542000_slesp.m3u8
+#EXTINF:0 ,DirecTV Sports
+http://mariocs.latino-webtv.com:2048/livexd/106_.m3u8
+#EXTINF:0 ,Eurosport
+http://190.2.138.102:25461/1097/sintonizar.m3u8
+#EXTINF:0 ,ESPN
+http://mariocs.latino-webtv.com:2048/livexd/110_.m3u8
+#EXTINF:0 ,ESPN 2
+http://mariocs.latino-webtv.com:2048/livexd/100_.m3u8
+#EXTINF:0 ,ESPN 3
+http://mariocs.latino-webtv.com:2048/livexd/111_.m3u8
+#EXTINF:0 ,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w2058472605_b664000.m3u8
+#EXTINF:0 ,Fox Sports
+http://mariocs.latino-webtv.com:2048/livexd/101_.m3u8
+#EXTINF:0 ,Fox Sports 2
+http://mariocs.latino-webtv.com:2048/livexd/103_.m3u8
+#EXTINF:0 ,Fox Sports 3
+http://mariocs.latino-webtv.com:2048/livexd/109_.m3u8
+#EXTINF:0, Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1268811759_b946000_sleng.m3u8
+#EXTINF:0 ,Gol TV
+http://190.2.138.102:25461/1114/sintonizar.m3u8
+#EXTINF:0 ,Movistar F1
+http://190.2.138.102:25461/1083/sintonizar.m3u
+#EXTINF:0, Movistar Futbol
+http://190.2.138.102:25461/1084/sintonizar.m3u8
+#EXTINF:0 ,Mundo Auto TV
+http://tv.portalfoxmix.club:1935/8702/8702/chunklist_w1056629940.m3u8
+#EXTINF:0 ,NFL Sports
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0 ,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, TyC Sports
+http://190.2.138.102:25461/1267/sintonizar.m3u8
+#EXTINF:0 ,Animal Planet
+http://190.2.138.102:25461/1457/sintonizar.m3u8
+#EXTINF:0 ,Discovery Channel
+http://190.2.138.102:25461/1445/sintonizar.m3u8
+#EXTINF:0 ,Discovery Civilization
+http://190.2.138.102:25461/1234/sintonizar.m3u8
+#EXTINF:0 ,Discovery H&H
+http://190.2.138.102:25461/1444/sintonizar.m3u8
+#EXTINF:0 ,Discovery Science
+http://190.2.138.102:25461/921/sintonizar.m3u8
+#EXTINF:0 ,Discovery Theater
+http://190.2.138.102:25461/1442/sintonizar.m3u8
+#EXTINF:0 ,Discovery TLC
+http://190.2.138.102:25461/1398/sintonizar.m3u8
+#EXTINF:0 ,Discovery Turbo
+http://190.2.138.102:25461/1636/sintonizar.m3u8
+#EXTINF:0 ,Discovery World
+http://190.2.138.102:25461/1441/sintonizar.m3u8
+#EXTINF:0 ,History 2
+http://190.2.138.102:25461/1556/sintonizar.m3u8
+#EXTINF:0 ,History
+http://190.2.138.102:25461/1415/sintonizar.m3u8
+#EXTINF:0 ,Investigation Discovery
+http://190.2.138.102:25461/1413/sintonizar.m3u8
+#EXTINF:0 ,Nat Geo
+http://190.2.138.102:25461/1408/sintonizar.m3u8
+#EXTINF:0 ,Nat Geo Wild
+http://190.2.138.102:25461/1406/sintonizar.m3u8
+#EXTINF:0 ,A&E
+http://190.2.138.102:25461/1459/sintonizar.m3u8
+#EXTINF:0 ,AMC
+http://190.2.138.102:25461/1458/sintonizar.m3u8
+#EXTINF:0 ,AXN
+http://190.2.138.102:25461/1456/sintonizar.m3u8
+#EXTINF:0 ,Las Estrellas
+http://190.2.138.102:25461/1225/sintonizar.m3u8
+#EXTINF:0 ,Cinecanal
+http://190.2.138.102:25461/1449/sintonizar.m3u8
+#EXTINF:0 ,Cinemax
+http://190.2.138.102:25461/923/sintonizar.m3u8
+#EXTINF:0 ,DHE
+http://190.2.138.102:25461/1446/sintonizar.m3u8
+#EXTINF:0 ,El Gourmet
+http://190.2.138.102:25461/1440/sintonizar.m3u8
+#EXTINF:0 ,E!
+http://190.2.138.102:25461/1635/sintonizar.m3u8
+#EXTINF:0 ,Fox
+http://190.2.138.102:25461/1435/sintonizar.m3u8
+#EXTINF:0 ,FX
+http://190.2.138.102:25461/1423/sintonizar.m3u8
+#EXTINF:0 ,FXM
+http://190.2.138.102:25461/1423/sintonizar.m3u8
+#EXTINF:0 ,Fox Life
+http://190.2.138.102:25461/1427/sintonizar.m3u8
+#EXTINF:0 ,Golden
+http://190.2.138.102:25461/1421/sintonizar.m3u8
+#EXTINF:0 ,Paramount
+http://190.2.138.102:25461/1404/sintonizar.m3u8
+#EXTINF:0 ,Space
+http://190.2.138.102:25461/1401/sintonizar.m3u8
+#EXTINF:0 ,Studio Universal
+http://190.2.138.102:25461/1616/sintonizar.m3u8
+#EXTINF:0 ,Sony
+http://190.2.138.102:25461/1402/sintonizar.m3u8
+#EXTINF:0 ,Syfy
+http://190.2.138.102:25461/1615/sintonizar.m3u8
+#EXTINF:0 ,TBS
+http://190.2.138.102:25461/1399/sintonizar.m3u8
+#EXTINF:0 ,TNT
+http://190.2.138.102:25461/1397/sintonizar.m3u8
+#EXTINF:0 ,TNT Series
+http://190.2.138.102:25461/1396/sintonizar.m3u8
+#EXTINF:0 ,Tru TV
+http://190.2.138.102:25461/1395/sintonizar.m3u8
+#EXTINF:0 ,Universal Channel
+http://190.2.138.102:25461/1598/sintonizar.m3u8
+#EXTINF:0 ,Warner
+http://190.2.138.102:25461/1393/sintonizar.m3u8
+#EXTINF:0 ,Boomerang
+http://190.2.138.102:25461/924/sintonizar.m3u8
+#EXTINF:0 ,Cartoon Network
+http://190.2.138.102:25461/1451/sintonizar.m3u8
+#EXTINF:0 ,Discovery Kids
+http://190.2.138.102:25461/1443/sintonizar.m3u8
+#EXTINF:0 ,Disney Channel
+http://190.2.138.102:25461/1447/sintonizar.m3u8
+#EXTINF:0 ,Disney Junior
+http://190.2.138.102:25461/1552/sintonizar.m3u8
+#EXTINF:0 ,Disney XD
+http://190.2.138.102:25461/1553/sintonizar.m3u8
+#EXTINF:0 ,Nat Geo Kids
+http://190.2.138.102:25461/1407/sintonizar.m3u8
+#EXTINF:0 ,Nickelodeon
+http://190.2.138.102:25461/1405/sintonizar.m3u8
+#EXTINF:0 ,Nick 2
+http://190.2.138.102:25461/1554/sintonizar.m3u8
+#EXTINF:0 ,Nicktoons
+http://190.2.138.102:25461/1619/sintonizar.m3u8
+#EXTINF:0 ,Nick JR
+http://190.2.138.102:25461/1555/sintonizar.m3u8
+#EXTINF:0 ,Tooncast
+http://190.2.138.102:25461/901/sintonizar.m3u8
+#EXTINF:0 ,HBO
+http://190.2.138.102:25461/1420/sintonizar.m3u8
+#EXTINF:0 ,HBO 2
+http://190.2.138.102:25461/1419/sintonizar.m3u8
+#EXTINF:0 ,HBO Family
+http://190.2.138.102:25461/1418/sintonizar.m3u8
+#EXTINF:0 ,HBO Plus
+http://190.2.138.102:25461/1417/sintonizar.m3u8
+#EXTINF:0 ,HBO Signature
+http://190.2.138.102:25461/1416/sintonizar.m3u8
+#EXTINF:0 ,Max Prime
+http://190.2.138.102:25461/1412/sintonizar.m3u8
+#EXTINF:0 ,Fox Action
+http://190.2.138.102:25461/1434/sintonizar.m3u8
+#EXTINF:0 ,Fox Cinema
+http://190.2.138.102:25461/1433/sintonizar.m3u8
+#EXTINF:0 ,Fox Classics
+http://190.2.138.102:25461/1432/sintonizar.m3u8
+#EXTINF:0 ,Fox Comedy
+http://190.2.138.102:25461/1431/sintonizar.m3u8
+#EXTINF:0 ,Fox Movies
+http://190.2.138.102:25461/1429/sintonizar.m3u8
+#EXTINF:0 ,Fox Series
+http://190.2.138.102:25461/1428/sintonizar.m3u8
+#EXTINF:0 ,MTV
+http://190.2.138.102:25461/1410/sintonizar.m3u8
+#EXTINF:0 ,MTV Hits
+http://190.2.138.102:25461/1621/sintonizar.m3u8
+#EXTINF:0 ,MTV Live
+http://190.2.138.102:25461/1409/sintonizar.m3u8
+#EXTINF:0 ,VH1
+http://190.2.138.102:25461/1394/sintonizar.m3u8
