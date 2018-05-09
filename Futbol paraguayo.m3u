@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 ,Futbol en SD
-http://nlds89.cdnak.dal.neulion.com/nlds/tigopy/generaldaz/as/live/generaldaz_hd_400_android.m3u8?hdnea=expires%3D1525900421%7Eaccess%3D%2Fnlds%2Ftigopy%2Fgeneraldaz%2Fas%2Flive%2F*%7Emd5%3Da6e695922b9f8ad29beab874ea47268d&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+http://nlds87.cdnak.dal.neulion.com/nlds/tigopy/deportivocapiat/as/live/deportivocapiat_hd_400_android.m3u8?hdnea=expires%3D1525908811%7Eaccess%3D%2Fnlds%2Ftigopy%2Fdeportivocapiat%2Fas%2Flive%2F*%7Emd5%3D7004627e59b50803696b9a17f4273a4c&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,Futbol en HD
-http://nlds89.cdnak.dal.neulion.com/nlds/tigopy/generaldaz/as/live/generaldaz_hd_1200_android.m3u8?hdnea=expires%3D1525900421%7Eaccess%3D%2Fnlds%2Ftigopy%2Fgeneraldaz%2Fas%2Flive%2F*%7Emd5%3Da6e695922b9f8ad29beab874ea47268d&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+http://nlds87.cdnak.dal.neulion.com/nlds/tigopy/deportivocapiat/as/live/deportivocapiat_hd_1200_android.m3u8?hdnea=expires%3D1525908811%7Eaccess%3D%2Fnlds%2Ftigopy%2Fdeportivocapiat%2Fas%2Flive%2F*%7Emd5%3D7004627e59b50803696b9a17f4273a4c&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,Tiempo real
 http://213.183.46.114/hls-live/xmlive/_definst_/1417532/1417532.m3u8?whence=22
