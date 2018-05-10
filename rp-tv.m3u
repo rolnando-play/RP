@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/2146349_ico.png" group-title="DEPORTES", *** DEPORTES ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2146349_ico.png" group-title="DEPORTES", *** DEPORTES ***
 http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
