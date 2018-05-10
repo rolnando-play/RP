@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2146349_ico.png" group-title="DEPORTES", *** DEPORTES ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2146349_ico.png" group-title="DEPORTES", *********** DEPORTES **********
 http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
@@ -39,7 +39,7 @@ https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0, TyC Sports
 http://190.2.138.102:25461/1267/sintonizar.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", *** CULTURALES ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
 http://190.2.138.102:25461/1457/sintonizar.m3u8
@@ -69,7 +69,7 @@ http://190.2.138.102:25461/1413/sintonizar.m3u8
 http://190.2.138.102:25461/1408/sintonizar.m3u8
 #EXTINF:0 ,Nat Geo Wild
 http://190.2.138.102:25461/1406/sintonizar.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", *** ENTRETENIMIENTO ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
 http://190.2.138.102:25461/1459/sintonizar.m3u8
@@ -121,7 +121,7 @@ http://190.2.138.102:25461/1395/sintonizar.m3u8
 http://190.2.138.102:25461/1598/sintonizar.m3u8
 #EXTINF:0 ,Warner
 http://190.2.138.102:25461/1393/sintonizar.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", *** INFANTIL ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 ,Boomerang
 http://190.2.138.102:25461/924/sintonizar.m3u8
@@ -147,7 +147,7 @@ http://190.2.138.102:25461/1619/sintonizar.m3u8
 http://190.2.138.102:25461/1555/sintonizar.m3u8
 #EXTINF:0 ,Tooncast
 http://190.2.138.102:25461/901/sintonizar.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", *** PELICULAS ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
 http://190.2.138.102:25461/1420/sintonizar.m3u8
@@ -173,7 +173,7 @@ http://190.2.138.102:25461/1431/sintonizar.m3u8
 http://190.2.138.102:25461/1429/sintonizar.m3u8
 #EXTINF:0 ,Fox Series
 http://190.2.138.102:25461/1428/sintonizar.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", *** MUSICA ***
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0 ,MTV
 http://190.2.138.102:25461/1410/sintonizar.m3u8
