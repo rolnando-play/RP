@@ -80,49 +80,53 @@ http://190.2.138.102:25461/1459/sintonizar.m3u8
 #EXTINF:0 ,AMC
 http://190.2.138.102:25461/1458/sintonizar.m3u8
 #EXTINF:0 ,AXN
-http://190.2.138.102:25461/1456/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3731.m3u8
 #EXTINF:0 ,Las Estrellas
 http://190.2.138.102:25461/1225/sintonizar.m3u8
 #EXTINF:0 ,Cinecanal
-http://190.2.138.102:25461/1449/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3730.m3u8
 #EXTINF:0 ,Cinemax
-http://190.2.138.102:25461/923/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3729.m3u8
 #EXTINF:0 ,DHE
 http://190.2.138.102:25461/1446/sintonizar.m3u8
 #EXTINF:0 ,El Gourmet
 http://190.2.138.102:25461/1440/sintonizar.m3u8
 #EXTINF:0 ,E!
-http://190.2.138.102:25461/1635/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3741.m3u8
 #EXTINF:0 ,Fox
-http://190.2.138.102:25461/1435/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3723.m3u8
 #EXTINF:0 ,FX
-http://190.2.138.102:25461/1423/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3739.m3u8
 #EXTINF:0 ,FXM
 http://190.2.138.102:25461/1423/sintonizar.m3u8
 #EXTINF:0 ,Fox Life
 http://190.2.138.102:25461/1427/sintonizar.m3u8
 #EXTINF:0 ,Golden
-http://190.2.138.102:25461/1421/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3716.m3u8
+#EXTINF:0 ,Las estrellas
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3737.m3u8
 #EXTINF:0 ,Paramount
 http://190.2.138.102:25461/1404/sintonizar.m3u8
 #EXTINF:0 ,Space
-http://190.2.138.102:25461/1401/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3713.m3u8
 #EXTINF:0 ,Studio Universal
 http://190.2.138.102:25461/1616/sintonizar.m3u8
 #EXTINF:0 ,Sony
-http://190.2.138.102:25461/1402/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3714.m3u8
 #EXTINF:0 ,Syfy
-http://190.2.138.102:25461/1615/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3711.m3u8
 #EXTINF:0 ,TBS
 http://190.2.138.102:25461/1399/sintonizar.m3u8
+#EXTINF:0 ,Telemundo
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3734.m3u8
 #EXTINF:0 ,TNT
-http://190.2.138.102:25461/1397/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3709.m3u8
 #EXTINF:0 ,TNT Series
-http://190.2.138.102:25461/1396/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3708.m3u8
 #EXTINF:0 ,Tru TV
 http://190.2.138.102:25461/1395/sintonizar.m3u8
 #EXTINF:0 ,Universal Channel
-http://190.2.138.102:25461/1598/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3707.m3u8
 #EXTINF:0 ,Warner
 http://190.2.138.102:25461/1393/sintonizar.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
@@ -162,9 +166,9 @@ http://190.2.138.102:25461/1418/sintonizar.m3u8
 #EXTINF:0 ,HBO Plus
 http://190.2.138.102:25461/1417/sintonizar.m3u8
 #EXTINF:0 ,HBO Signature
-http://190.2.138.102:25461/1416/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3724.m3u8
 #EXTINF:0 ,Max Prime
-http://190.2.138.102:25461/1412/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3715.m3u8
 #EXTINF:0 ,Fox Action
 http://190.2.138.102:25461/1434/sintonizar.m3u8
 #EXTINF:0 ,Fox Cinema
@@ -172,7 +176,7 @@ http://190.2.138.102:25461/1433/sintonizar.m3u8
 #EXTINF:0 ,Fox Classics
 http://190.2.138.102:25461/1432/sintonizar.m3u8
 #EXTINF:0 ,Fox Comedy
-http://190.2.138.102:25461/1431/sintonizar.m3u8
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3720.m3u8
 #EXTINF:0 ,Fox Movies
 http://190.2.138.102:25461/1429/sintonizar.m3u8
 #EXTINF:0 ,Fox Series
