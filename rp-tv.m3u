@@ -119,6 +119,8 @@ http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3711.m3u8
 http://190.2.138.102:25461/1399/sintonizar.m3u8
 #EXTINF:0 ,Telemundo
 http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3734.m3u8
+#EXTINF:0 ,tlnovelas
+http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3750.m3u8
 #EXTINF:0 ,TNT
 http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3709.m3u8
 #EXTINF:0 ,TNT Series
