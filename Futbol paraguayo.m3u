@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 ,Futbol en SD
-http://nlds87.cdnak.dal.neulion.com/nlds/tigopy/deportivocapiat/as/live/deportivocapiat_hd_400_android.m3u8?hdnea=expires%3D1525908811%7Eaccess%3D%2Fnlds%2Ftigopy%2Fdeportivocapiat%2Fas%2Flive%2F*%7Emd5%3D7004627e59b50803696b9a17f4273a4c&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+http://nlds15.cdnak.dal.neulion.com/nlds/tigopy/cerroporteo/as/live/cerroporteo_hd_400_android.m3u8?hdnea=expires%3D1526154225%7Eaccess%3D%2Fnlds%2Ftigopy%2Fcerroporteo%2Fas%2Flive%2F*%7Emd5%3D2e58b6b425ad9bcabd30ce0b9c1ae85d&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,Futbol en HD
-http://nlds87.cdnak.dal.neulion.com/nlds/tigopy/deportivocapiat/as/live/deportivocapiat_hd_1200_android.m3u8?hdnea=expires%3D1525908811%7Eaccess%3D%2Fnlds%2Ftigopy%2Fdeportivocapiat%2Fas%2Flive%2F*%7Emd5%3D7004627e59b50803696b9a17f4273a4c&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+http://nlds15.cdnak.dal.neulion.com/nlds/tigopy/cerroporteo/as/live/cerroporteo_hd_1200_android.m3u8?hdnea=expires%3D1526154225%7Eaccess%3D%2Fnlds%2Ftigopy%2Fcerroporteo%2Fas%2Flive%2F*%7Emd5%3D2e58b6b425ad9bcabd30ce0b9c1ae85d&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,Tiempo real
 http://213.183.46.114/hls-live/xmlive/_definst_/1417599/1417599.m3u8?whence=22
