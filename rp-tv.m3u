@@ -3,6 +3,8 @@
 http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
+#EXTINF:0 ,beIN Sports
+http://waoplay.xyz:25461/1469/sintonizar.m3u8
 #EXTINF:0 ,Claro Sports
 http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3701.m3u8
 #EXTINF:0 ,DeporTV
