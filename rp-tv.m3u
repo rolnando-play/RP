@@ -15,19 +15,27 @@ http://mariocs.latino-webtv.com:2048/livexd/106_.m3u8
 http://190.2.138.102:25461/1097/sintonizar.m3u8
 #EXTINF:0 ,ESPN
 http://190.2.138.102:25461/1439/sintonizar.m3u8
+#EXTINF:0 ,ESPN - OP2
+http://tecnotv.info/premium/espn
 #EXTINF:0 ,ESPN 2
 https://bud122.budtv.tv/budtv/espn_2_p3/playlist.m3u8
+#EXTINF:0 ,ESPN 2 - OP2
+http://tecnotv.info/premium/espn2
 #EXTINF:0 ,ESPN 3
 https://bud122.budtv.tv/budtv/espn_3_p3/playlist.m3u8
+#EXTINF:0 ,ESPN 3 - OP2
+http://tecnotv.info/premium/espn3
+#EXTINF:0 ,ESPN +
+http://tecnotv.info/premium/espn-plus
 #EXTINF:0 ,Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w2058472605_b664000.m3u8
 #EXTINF:0 ,Fox Sports
 https://bud122.budtv.tv/budtv/fox_sports_1_p3/playlist.m3u8
-#EXTINF:0 ,Fox Sports OP 2
+#EXTINF:0 ,Fox Sports - OP2
 http://tecnotv.info/premium/fox-sport
 #EXTINF:0 ,Fox Sports 2
 https://bud122.budtv.tv/budtv/fox_sports_2_p3/playlist.m3u8
-#EXTINF:0 ,Fox Sports OP 2
+#EXTINF:0 ,Fox Sports - OP2
 http://tecnotv.info/premium/fox-sport2
 #EXTINF:0 ,Fox Sports 3
 http://190.2.138.102:25461/1424/sintonizar.m3u8
