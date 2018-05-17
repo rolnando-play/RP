@@ -1,11 +1,7 @@
-#EXTM3U
+//#EXTM3U
 #EXTINF:0 ,Futbol en SD
 http://nlds102.cdnak.dal.neulion.com/nlds/tigopy/guaran/as/live/guaran_hd_400_android.m3u8?hdnea=expires%3D1526253690%7Eaccess%3D%2Fnlds%2Ftigopy%2Fguaran%2Fas%2Flive%2F*%7Emd5%3Dd29b31a0bf0c2f2621352df1cf4e8562&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,Futbol en HD
 http://nlds102.cdnak.dal.neulion.com/nlds/tigopy/guaran/as/live/guaran_hd_1200_android.m3u8?hdnea=expires%3D1526253690%7Eaccess%3D%2Fnlds%2Ftigopy%2Fguaran%2Fas%2Flive%2F*%7Emd5%3Dd29b31a0bf0c2f2621352df1cf4e8562&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,Tiempo real
 http://213.183.46.114/hls-live/xmlive/_definst_/1427297/1427297.m3u8?whence=22
-#EXTINF:0 ,Defensor - CCP
-http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3692.m3u8
-#EXTINF:0 ,Defensor - CCP OP2
-http://213.183.46.114/hls-live/xmlive/_definst_/1430582/1430582.m3u8?whence=22
