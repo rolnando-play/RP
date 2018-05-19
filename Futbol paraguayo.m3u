@@ -1,7 +1,7 @@
-//#EXTM3U
+#EXTM3U
 #EXTINF:0 ,Futbol en SD
-http://neuclnlds53dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_400_android.m3u8?hdntl=exp=1526771229~acl=/*~data=hdntl~hmac=bf24d86cfe04922e5441607f0b1701da4f434bfe40ad0da97d10fb544f1ddeae
+http://neuclnlds89dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_400_android.m3u8?hdntl=exp=1526823775~acl=/*~data=hdntl~hmac=72d1897cd0bb8c21c5d8d7db9da85c3c6531f5de18d4dfcd1cbf1779c3ffe179
 #EXTINF:0 ,Futbol en HD
-http://neuclnlds53dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_1600_android.m3u8?hdntl=exp=1526771229~acl=/*~data=hdntl~hmac=bf24d86cfe04922e5441607f0b1701da4f434bfe40ad0da97d10fb544f1ddeae
-#EXTINF:0 ,Tiempo real
-http://213.183.46.114/hls-live/xmlive/_definst_/1427297/1427297.m3u8?whence=22
+http://neuclnlds89dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_1600_android.m3u8?hdntl=exp=1526823775~acl=/*~data=hdntl~hmac=72d1897cd0bb8c21c5d8d7db9da85c3c6531f5de18d4dfcd1cbf1779c3ffe179
+#EXTINF:0 ,Futbol en Full HD
+http://neuclnlds89dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_3000_android.m3u8?hdntl=exp=1526823775~acl=/*~data=hdntl~hmac=72d1897cd0bb8c21c5d8d7db9da85c3c6531f5de18d4dfcd1cbf1779c3ffe179
