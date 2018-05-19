@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0 ,Futbol en SD
-http://neuclnlds89dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_400_android.m3u8?hdntl=exp=1526823775~acl=/*~data=hdntl~hmac=72d1897cd0bb8c21c5d8d7db9da85c3c6531f5de18d4dfcd1cbf1779c3ffe179
+http://neuclnlds54dal.akamaized.net/nlds/tigopy/sportivoluqueo/as/live/nlncp/sportivoluqueo_hd_400_android.m3u8?hdntl=exp=1526849229~acl=/*~data=hdntl~hmac=bf500e62c2d0ae19436a87309a58b49c2c5f42470589534d7a08551b9881d92d
 #EXTINF:0 ,Futbol en HD
-http://neuclnlds89dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_1600_android.m3u8?hdntl=exp=1526823775~acl=/*~data=hdntl~hmac=72d1897cd0bb8c21c5d8d7db9da85c3c6531f5de18d4dfcd1cbf1779c3ffe179
-#EXTINF:0 ,Futbol en Full HD
-http://neuclnlds89dal.akamaized.net/nlds/tigopy/generaldaz/as/live/nlncp/generaldaz_hd_3000_android.m3u8?hdntl=exp=1526823775~acl=/*~data=hdntl~hmac=72d1897cd0bb8c21c5d8d7db9da85c3c6531f5de18d4dfcd1cbf1779c3ffe179
+http://neuclnlds54dal.akamaized.net/nlds/tigopy/sportivoluqueo/as/live/nlncp/sportivoluqueo_hd_3000_android.m3u8?hdntl=exp=1526849229~acl=/*~data=hdntl~hmac=bf500e62c2d0ae19436a87309a58b49c2c5f42470589534d7a08551b9881d92d
