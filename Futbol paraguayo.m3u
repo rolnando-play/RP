@@ -1,19 +1,6 @@
 #EXTM3U
-#EXTINF:0 ,CHAMPIONS
-http://127.0.0.1
-#EXTINF:0 ,ESPN
-http://192.189.25.106/mirtv/espnsur.php?index.m3u8
-#EXTINF:0 ,Fox Sports
-http://192.189.25.106/mirtv/foxsports1sur.php?index.m3u8
-#EXTINF:0 ,SNT
-http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
-#EXTINF:0 ,Antena 3
-http://2.akamai.vinstream.tv/live/LCZoHEIB4vN4M2nCcuqS3OxE5cmGouc0ZFZfU0PeHPMhlAjYuo5NbXi0b5YC/index.m3u8
 
-
-#EXTINF:0 ,FUTBOL PARAGUAYO
-http://127.0.0.1
 #EXTINF:0 ,HD
-http://neuclnlds50dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_3000_android.m3u8?h=d0432edb3a60d6a3538520bf7ce977cf.1527290203504&hdnea=exp=1527290263~acl=/*~hmac=5AE7227B94078EBC4E9AC3B39DDCFAAD57007659A027B71A4DE4DC195AA6DC7D&nltid=tigopy&nltdt=8&nltnt=2&uid=315%3Amvpd%3Atigoh-PY-4208342071
+http://neuclnlds15dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_3000_android.m3u8
 #EXTINF:0 ,SD
-http://neuclnlds50dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_400_android.m3u8?h=d0432edb3a60d6a3538520bf7ce977cf.1527290203504&hdnea=exp=1527290263~acl=/*~hmac=5AE7227B94078EBC4E9AC3B39DDCFAAD57007659A027B71A4DE4DC195AA6DC7D&nltid=tigopy&nltdt=8&nltnt=2&uid=315%3Amvpd%3Atigoh-PY-4208342071
+http://neuclnlds15dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_400_android.m3u8
