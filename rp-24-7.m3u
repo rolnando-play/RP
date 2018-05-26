@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/FB_IMG_1527306666739.jpg" group-title="ROLNANDO PLAY", ***ROLNANDO PLAY***
+http://127.0.0.1
 #EXTINF:0 ,Alf
 http://190.2.138.102:25461/1/sintonizar.m3u8
 #EXTINF:0 ,Animaniacs
@@ -29,7 +31,7 @@ http://190.2.138.102:25461/18/sintonizar.m3u8
 http://190.2.138.102:25461/19/sintonizar.m3u8
 #EXTINF:0 ,El Chapulin Colorado
 http://190.2.138.102:25461/10/sintonizar.m3u8
-#EXTINF:0 ,El p·jaro loco
+#EXTINF:0 ,El p√°jaro loco
 http://190.2.138.102:25461/21/sintonizar.m3u8
 #EXTINF:0 ,Futurama
 http://190.2.138.102:25461/24/sintonizar.m3u8
