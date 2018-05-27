@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:0 ,CCP-CGD
-http://127.0.0.1
 #EXTINF:0 ,HD
-http://neuclnlds53dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_3000_android.m3u8
+http://neuclnlds19dal.akamaized.net/nlds/tigopy/deportivosantan/as/live/nlncp/deportivosantan_hd_3000_android.m3u8?h=2a8460052a756ab510eb8e49f7b27d9a.1527459545930&hdnea=exp=1527459605~acl=/*~hmac=90D318F8A9F6A0F59BF76C3FE35CE9F0719B6328AFF9E46A279DCC48E1C76402&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,SD
-http://neuclnlds53dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_400_android.m3u8
-#EXTINF:0 ,SOL-OLI
-http://127.0.0.1
-EXTINF:0 ,HD
-http://neuclnlds13dal.akamaized.net/nlds/tigopy/soldeamrica/as/live/nlncp/soldeamrica_hd_3000_android.m3u8
-#EXTINF:0 ,SD
-http://neuclnlds13dal.akamaized.net/nlds/tigopy/soldeamrica/as/live/nlncp/soldeamrica_hd_400_android.m3u8
+http://neuclnlds19dal.akamaized.net/nlds/tigopy/deportivosantan/as/live/nlncp/deportivosantan_hd_400_android.m3u8?h=2a8460052a756ab510eb8e49f7b27d9a.1527459545930&hdnea=exp=1527459605~acl=/*~hmac=90D318F8A9F6A0F59BF76C3FE35CE9F0719B6328AFF9E46A279DCC48E1C76402&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
