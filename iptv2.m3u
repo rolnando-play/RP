@@ -1,1 +1,301 @@
-#EXTM3U #EXTINF:-1 , tvg-logo="" group-title="Inicio",---------Dark IPTV--------- http://canales.darkiptv.com/darktv.mp4 #EXTINF:-1 , tvg-logo="" group-title="Inicio",---------Donaciones Paypal--------- http://canales.darkiptv.com/darktv.mp4 #EXTINF:-1 , tvg-logo="" group-title="Inicio",------PayPal.me/fernandoovando------ http://canales.darkiptv.com/darktv.mp4 #EXTINF:-1 , tvg-logo="" group-title="Inicio",---------Facebook--------- http://canales.darkiptv.com/darktv.mp4 #EXTINF:-1 , tvg-logo="" group-title="Inicio",----http://fb.me/darktvoficial---- http://canales.darkiptv.com/darktv.mp4 #EXTINF:-1, PUMAS VS AMERICA 19:30 HRS http://149.56.100.251:8083/live/DarkIptv/DarkIptvdemo/153.m3u8 #EXTINF:-1, TIJUANA VS RAYADOS 21:30 HRS http://149.56.100.251:8083/live/DarkIptv/DarkIptvdemo/293.m3u8 #EXTINF:-1, TIJUANA VS RAYADOS 21:30 HRS OPC. 2 http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8 #EXTINF:-1, A&E http://www.canales.darkiptv.com/token/ae.php?canal=AE_MUNDO_HD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, ALJAZEERA http://www.canales.darkiptv.com/token/aljazeera.php?canal=ALJAZEERA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, AMC http://www.canales.darkiptv.com/token/amc.php?canal=AMC&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, ANIMAL PLANET http://www.canales.darkiptv.com/token/animalplanet.php?canal=ANIMAL_PLANET&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, ANTENA 3 http://www.canales.darkiptv.com/token/antena3.php?canal=ANTENA_3&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, ARIRANG http://www.canales.darkiptv.com/token/arirang.php?canal=ARIRANG&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, AXN http://www.canales.darkiptv.com/token/axn.php?canal=AXN&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, AZCORAZON http://www.canales.darkiptv.com/token/azcorazon.php?canal=AZCORAZON&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, AZMUNDO http://www.canales.darkiptv.com/token/azmundo.php?canal=AZMUNDO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,BABY TV http://www.canales.darkiptv.com/token/babytv.php?canal=BABY_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,BABY TV MX http://www.canales.darkiptv.com/token/babytv_mx.php?canal=BABY_TV_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,BBC WORLD http://www.canales.darkiptv.com/token/bbcworld.php?canal=BBC_WORLD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,BLOOMBERG http://www.canales.darkiptv.com/token/bloomberg.php?canal=BLOOMBERG&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,BOOMERANG http://www.canales.darkiptv.com/token/boomerang.php?canal=BOOMERANG&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CABLENOTICIAS http://www.canales.darkiptv.com/token/cableticias.php?canal=CABLENOTICIAS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CANAL CLARO http://www.canales.darkiptv.com/token/canalclaro.php?canal=CANAL_CLARO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CARACOL http://www.canales.darkiptv.com/token/caracol.php?canal=CARACOL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CARACOL INTERNACIONAL http://www.canales.darkiptv.com/token/caracol_int.php?canal=CARACOL_INTERNACIONAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CARTOON NETWORK http://www.canales.darkiptv.com/token/cart_net.php?canal=CARTOON_NETWORK&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CINECANAL http://www.canales.darkiptv.com/token/cinecanal.php?canal=CINECANAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CINEMA DINAMITA http://www.canales.darkiptv.com/token/cinema_dinamita.php?canal=CINEMA_DINAMITA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CINE LATINO http://www.canales.darkiptv.com/token/cinelatino.php?canal=CINE_LATINO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CINEMA PLUS http://www.canales.darkiptv.com/token/cinemaplus.php?canal=CINEMA_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CINEMAX http://www.canales.darkiptv.com/token/cinemax.php?canal=CINEMAX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CITY TV http://www.canales.darkiptv.com/token/citytv.php?canal=CITY_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CLARO CINEMA http://www.canales.darkiptv.com/token/claro_cinema.php?canal=CLARO_CINEMA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CLARO SPORTS 1 http://www.canales.darkiptv.com/token/clarosport1.php?canal=CLARO_SPORTS_1&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CLARO SPORTS 2 http://www.canales.darkiptv.com/token/clarosport2.php?canal=CLARO_SPORTS_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, CNN ESPAÑOL http://www.canales.darkiptv.com/token/cnnesp.php?canal=CNN_ESPAÑOL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CNN INTERNACIONAL http://www.canales.darkiptv.com/token/cnnint.php?canal=CNN_INTERNACIONAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, COMEDY CENTRAL http://www.canales.darkiptv.com/token/comedycentral.php?canal=COMEDY_CENTRAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,CONCERT http://www.canales.darkiptv.com/token/concert.php?canal=CONCERT&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DE PELICULA http://www.canales.darkiptv.com/token/depelicula.php?canal=DE_PELICULA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DHE http://www.canales.darkiptv.com/token/dhe.php?canal=DHE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY THEATER http://www.canales.darkiptv.com/token/discovery_theater.php?canal=DISCOVERY_THEATER&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY WORLD http://www.canales.darkiptv.com/token/discovery_world.php?canal=DISCOVERY_WORLD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY CHANNEL http://www.canales.darkiptv.com/token/discoverychannel.php?canal=DISCOVERY_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY CIVILIZATION http://www.canales.darkiptv.com/token/discoverycivil.php?canal=DISCOVERY_CIVILIZATION&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY H&H http://www.canales.darkiptv.com/token/discoveryhh.php?canal=DISCOVERY_H&H&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY KIDS http://www.canales.darkiptv.com/token/discoverykids.php?canal=DISCOVERY_KIDS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY SCIENCE http://www.canales.darkiptv.com/token/discoveryscience.php?canal=DISCOVERY_SCIENCE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISCOVERY TURBO http://www.canales.darkiptv.com/token/discoveryturbo.php?canal=DISCOVERY_TURBO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISNEY http://www.canales.darkiptv.com/token/disney.php?canal=DISNEY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISNEY JR http://www.canales.darkiptv.com/token/disneyjr.php?canal=DISNEY_JR&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DISNEY XD http://www.canales.darkiptv.com/token/disneyxd.php?canal=DISNEY_XD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DW http://www.canales.darkiptv.com/token/dw.php?canal=DW&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,DW AMERICA http://www.canales.darkiptv.com/token/dwamerica.php?canal=DW_AMERICA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,E! http://www.canales.darkiptv.com/token/einter.php?canal=E!&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,EL GOURMET http://www.canales.darkiptv.com/token/elgourmet.php?canal=EL_GOURMET&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,ESPN http://www.canales.darkiptv.com/token/espn.php?canal=ESPN&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,ESPN 2 http://www.canales.darkiptv.com/token/espn2.php?canal=ESPN_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,ESPN 3 http://www.canales.darkiptv.com/token/espn3.php?canal=ESPN_3&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,ESPN + http://www.canales.darkiptv.com/token/espnplus.php?canal=ESPN_+&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,LAS ESTRELLAS MX http://www.canales.darkiptv.com/token/estrellas_mx.php?canal=LAS_ESTRELLAS_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,EUROCHANNEL http://www.canales.darkiptv.com/token/eurochannel.php?canal=EUROCHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX http://www.canales.darkiptv.com/token/fox.php?canal=FOX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX ACTION http://www.canales.darkiptv.com/token/fox_action.php?canal=FOX_ACTION&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX ACTION MX http://www.canales.darkiptv.com/token/fox_action_mx.php?canal=FOX_ACTION_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX CINEMA http://www.canales.darkiptv.com/token/fox_cinema.php?canal=FOX_CINEMA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX CINEMA SUB http://www.canales.darkiptv.com/token/fox_cinema_sub.php?canal=FOX_CINEMA_SUB&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX CLASSICS http://www.canales.darkiptv.com/token/fox_classics.php?canal=FOX_CLASSICS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX COMEDY http://www.canales.darkiptv.com/token/fox_comedy.php?canal=FOX_COMEDY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX FAMILY http://www.canales.darkiptv.com/token/fox_family.php?canal=FOX_FAMILY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOXLIFE http://www.canales.darkiptv.com/token/foxlife.php?canal=FOXLIFE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOXLIFE MX http://www.canales.darkiptv.com/token/foxlife_mx.php?canal=FOXLIFE_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOXNEWS http://www.canales.darkiptv.com/token/foxnews.php?canal=FOXNEWS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX MOVIES http://www.canales.darkiptv.com/token/fox_movies.php?canal=FOX_MOVIES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX MX http://www.canales.darkiptv.com/token/fox_mx.php?canal=FOX_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SERIES http://www.canales.darkiptv.com/token/fox_series.php?canal=FOX_SERIES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SERIES SUB http://www.canales.darkiptv.com/token/foxseries_sub.php?canal=FOX_SERIES_SUB&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SPORTS http://www.canales.darkiptv.com/token/foxsports.php?canal=FOX_SPORTS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1, FOX SPORTS MX http://www.canales.darkiptv.com/token/foxsports_mx.php?canal=FOX_SPORTS_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SPORTS 2 http://www.canales.darkiptv.com/token/foxsports2.php?canal=FOX_SPORTS_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SPORTS 2 MX http://www.canales.darkiptv.com/token/foxsports2_mx.php?canal=FOX_SPORTS_2_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SPORTS 3 http://www.canales.darkiptv.com/token/foxsports3.php?canal=FOX_SPORTS_3&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FOX SPORTS 3 MX http://www.canales.darkiptv.com/token/foxsports3_mx.php?canal=FOX_SPORTS_3_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FX http://www.canales.darkiptv.com/token/fx.php?canal=FX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FX MX http://www.canales.darkiptv.com/token/fx_mx.php?canal=FX_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FXM http://www.canales.darkiptv.com/token/fxm.php?canal=FMX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,FXM MX http://www.canales.darkiptv.com/token/fxm_mx.php?canal=FXM_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,GLITZ http://www.canales.darkiptv.com/token/glitz.php?canal=GLITZ&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,GOLDEN http://www.canales.darkiptv.com/token/golden.php?canal=GOLDEN&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,GOLDEN PLUS http://www.canales.darkiptv.com/token/goldenplus.php?canal=GOLDEN_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,GOLF CHANNEL http://www.canales.darkiptv.com/token/golfchannel.php?canal=GOLF_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,H2 http://www.canales.darkiptv.com/token/h2.php?canal=H2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HBO http://www.canales.darkiptv.com/token/hbo.php?canal=HBO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HBO 2 http://www.canales.darkiptv.com/token/hbo2.php?canal=HBO_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HBO FAMILY http://www.canales.darkiptv.com/token/hbo_family.php?canal=HBO_FAMILY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HBO PLUS http://www.canales.darkiptv.com/token/hbo_plus.php?canal=HBO_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HBO SIGNATURE http://www.canales.darkiptv.com/token/hbo_signature.php?canal=HBO_SIGNATURE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HBO SUB http://www.canales.darkiptv.com/token/hbo_sub.php?canal=HBO_SUB&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HEAD LINE http://www.canales.darkiptv.com/token/headline.php?canal=HEAD_LINE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HISTORY http://www.canales.darkiptv.com/token/history.php?canal=HISTORY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HOLA TV http://www.canales.darkiptv.com/token/holatv.php?canal=HOLA_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,HTV http://www.canales.darkiptv.com/token/htv.php?canal=HTV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,INVESTIGATION DISCOVERY http://www.canales.darkiptv.com/token/id.php?canal=INVESTIGATION_DISCOVERY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,ISAT http://www.canales.darkiptv.com/token/isat.php?canal=ISAT&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,LIFETIME http://www.canales.darkiptv.com/token/lifetime.php?canal=LIFETIME&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MAS CHIC http://www.canales.darkiptv.com/token/mas_chic.php?canal=MAS_CHIC&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MAX PRIME http://www.canales.darkiptv.com/token/maxup.php?canal=MAX_PRIME&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MAX PRIME PLUS http://www.canales.darkiptv.com/token/max_prime.php?canal=MAX_PRIME_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MTV http://www.canales.darkiptv.com/token/mtv.php?canal=MTV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MTV HITS http://www.canales.darkiptv.com/token/mtv_hits.php?canal=MTV_HITS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MTV LIVE http://www.canales.darkiptv.com/token/mtv_live.php?canal=MTV_LIVE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,MULTIPREMIER http://www.canales.darkiptv.com/token/multipremier.php?canal=MULTIPREMIER&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NATGEO http://www.canales.darkiptv.com/token/natgeo.php?canal=NATGEO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NATGEO MX http://www.canales.darkiptv.com/token/natgeo_mx.php?canal=NATGEO_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NATGEO KIDS http://www.canales.darkiptv.com/token/natgeo_kids.php?canal=NATGEO_KIDS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NATGEO KIDS MX http://www.canales.darkiptv.com/token/natgeo_kids_mx.php?canal=NATGEO_KIDS_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NATGEO WILD http://www.canales.darkiptv.com/token/natgeo_wild.php?canal=NATGEO_WILD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NATGEO WILD MX http://www.canales.darkiptv.com/token/natgeo_wild_mx.php?canal=NATGEO_WILD_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NICK2 http://www.canales.darkiptv.com/token/nick2.php?canal=NICK_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NICKELODEON http://www.canales.darkiptv.com/token/nickelodeon.php?canal=NICKELODEON&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,NICK JR http://www.canales.darkiptv.com/token/nick_jr.php?canal=NICK_JR&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,PARAMOUNT CHANNEL http://www.canales.darkiptv.com/token/paramount.php?canal=PARAMOUNT_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,PASIONES http://www.canales.darkiptv.com/token/pasiones.php?canal=PASIONES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,RAI ITALYA http://www.canales.darkiptv.com/token/rai.php?canal=RAI_ITALYA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,RCN TELENOVELAS http://www.canales.darkiptv.com/token/rcn_televelas.php?canal=RCN_TELENOVELAS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,SONY http://www.canales.darkiptv.com/token/sony.php?canal=SONY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,SPACE http://www.canales.darkiptv.com/token/space.php?canal=SPACE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,STUDIO UNIVERSAL http://www.canales.darkiptv.com/token/studio_universal.php?canal=STUDIO_UNIVERSAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,SUNDANCE http://www.canales.darkiptv.com/token/sundance.php?canal=SUNDANCE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TBS http://www.canales.darkiptv.com/token/tbs.php?canal=TBS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TCM http://www.canales.darkiptv.com/token/tcm.php?canal=TCM&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TELEMUNDO INTERNACIONAL http://www.canales.darkiptv.com/token/telemundo_int.php?canal=TELEMUNDO_INTERNACIONAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TLC http://www.canales.darkiptv.com/token/tlc.php?canal=TLC&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TNT http://www.canales.darkiptv.com/token/tnt.php?canal=TNT&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TNT SERIES http://www.canales.darkiptv.com/token/tnt_series.php?canal=TNT_SERIES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TOONCAST http://www.canales.darkiptv.com/token/tooncast.php?canal=TOONCAST&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TRU TV http://www.canales.darkiptv.com/token/trutv.php?canal=TRU_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TV5 http://www.canales.darkiptv.com/token/tv5.php?canal=TV5&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,TV AMERICA http://www.canales.darkiptv.com/token/tvamerica.php?canal=TV_AMERICA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,UNICABLE http://www.canales.darkiptv.com/token/unicable.php?canal=UNICABLE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,UNIVERSAL http://www.canales.darkiptv.com/token/universal.php?canal=UNIVERSAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,UNIVERSAL HD http://www.canales.darkiptv.com/token/universalhd.php?canal=UNIVERSAL_HD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,UTV http://www.canales.darkiptv.com/token/utv.php?canal=UTV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,VE PLUS http://www.canales.darkiptv.com/token/veplus.php?canal=VE_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,VH1 http://www.canales.darkiptv.com/token/vh1.php?canal=VH1&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,VH1 HD http://www.canales.darkiptv.com/token/vh1_hd.php?canal=VH1_HD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,VH1 CLASSICS http://www.canales.darkiptv.com/token/vh1_classic.php?canal=VH1_CLASSICS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,WARNER CHANNEL http://www.canales.darkiptv.com/token/warner.php?canal=WARNER_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8 #EXTINF:-1,WINSPORTS http://www.canales.darkiptv.com/token/winsports.php?canal=WINSPORTS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="Inicio",---------Dark IPTV---------
+http://canales.darkiptv.com/darktv.mp4
+#EXTINF:0 tvg-id="avi" group-title="Inicio",---------Donaciones Paypal---------
+http://canales.darkiptv.com/darktv.mp4
+#EXTINF:0 tvg-id="avi" group-title="Inicio",------PayPal.me/fernandoovando------
+http://canales.darkiptv.com/darktv.mp4
+#EXTINF:0 tvg-id="avi" group-title="Inicio",---------Facebook---------
+http://canales.darkiptv.com/darktv.mp4
+#EXTINF:0 tvg-id="avi" group-title="Inicio",----http://fb.me/darktvoficial----
+http://canales.darkiptv.com/darktv.mp4
+#EXTINF:0 tvg-id="ext" group-title="Inicio",PUMAS VS AMERICA 19:30 HRS
+http://149.56.100.251:8083/live/DarkIptv/DarkIptvdemo/153.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",TIJUANA VS RAYADOS 21:30 HRS
+http://149.56.100.251:8083/live/DarkIptv/DarkIptvdemo/293.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",TIJUANA VS RAYADOS 21:30 HRS OPC. 2
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/master.m3u8
+#EXTINF:0 tvg-id="AyE.mx" group-title="Inicio",A&E
+http://www.canales.darkiptv.com/token/ae.php?canal=AE_MUNDO_HD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Inicio",ALJAZEERA
+http://www.canales.darkiptv.com/token/aljazeera.php?canal=ALJAZEERA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="mgm-int" group-title="Inicio",AMC
+http://www.canales.darkiptv.com/token/amc.php?canal=AMC&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Inicio",ANIMAL PLANET
+http://www.canales.darkiptv.com/token/animalplanet.php?canal=ANIMAL_PLANET&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Antena3.ro" group-title="Inicio",ANTENA 3
+http://www.canales.darkiptv.com/token/antena3.php?canal=ANTENA_3&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="arirang-en" group-title="Inicio",ARIRANG
+http://www.canales.darkiptv.com/token/arirang.php?canal=ARIRANG&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Inicio",AXN
+http://www.canales.darkiptv.com/token/axn.php?canal=AXN&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Inicio",AZCORAZON
+http://www.canales.darkiptv.com/token/azcorazon.php?canal=AZCORAZON&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="Inicio",AZMUNDO
+http://www.canales.darkiptv.com/token/azmundo.php?canal=AZMUNDO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="Inicio",BABY TV
+http://www.canales.darkiptv.com/token/babytv.php?canal=BABY_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",BABY TV MX
+http://www.canales.darkiptv.com/token/babytv_mx.php?canal=BABY_TV_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="Inicio",BBC WORLD
+http://www.canales.darkiptv.com/token/bbcworld.php?canal=BBC_WORLD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="bloomberg" group-title="Inicio",BLOOMBERG
+http://www.canales.darkiptv.com/token/bloomberg.php?canal=BLOOMBERG&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Inicio",BOOMERANG
+http://www.canales.darkiptv.com/token/boomerang.php?canal=BOOMERANG&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CABLENOTICIAS
+http://www.canales.darkiptv.com/token/cableticias.php?canal=CABLENOTICIAS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CANAL CLARO
+http://www.canales.darkiptv.com/token/canalclaro.php?canal=CANAL_CLARO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Inicio",CARACOL
+http://www.canales.darkiptv.com/token/caracol.php?canal=CARACOL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CaracolTV.us" group-title="Inicio",CARACOL INTERNACIONAL
+http://www.canales.darkiptv.com/token/caracol_int.php?canal=CARACOL_INTERNACIONAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Inicio",CARTOON NETWORK
+http://www.canales.darkiptv.com/token/cart_net.php?canal=CARTOON_NETWORK&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Inicio",CINECANAL
+http://www.canales.darkiptv.com/token/cinecanal.php?canal=CINECANAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CINEMA DINAMITA
+http://www.canales.darkiptv.com/token/cinema_dinamita.php?canal=CINEMA_DINAMITA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="Inicio",CINE LATINO
+http://www.canales.darkiptv.com/token/cinelatino.php?canal=CINE_LATINO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CINEMA PLUS
+http://www.canales.darkiptv.com/token/cinemaplus.php?canal=CINEMA_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Inicio",CINEMAX
+http://www.canales.darkiptv.com/token/cinemax.php?canal=CINEMAX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Inicio",CITY TV
+http://www.canales.darkiptv.com/token/citytv.php?canal=CITY_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CLARO CINEMA
+http://www.canales.darkiptv.com/token/claro_cinema.php?canal=CLARO_CINEMA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CLARO SPORTS 1
+http://www.canales.darkiptv.com/token/clarosport1.php?canal=CLARO_SPORTS_1&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CLARO SPORTS 2
+http://www.canales.darkiptv.com/token/clarosport2.php?canal=CLARO_SPORTS_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Inicio",CNN ESPAÑOL
+http://www.canales.darkiptv.com/token/cnnesp.php?canal=CNN_ESPAÑOL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="CNNInternacional.ar" group-title="Inicio",CNN INTERNACIONAL
+http://www.canales.darkiptv.com/token/cnnint.php?canal=CNN_INTERNACIONAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Inicio",COMEDY CENTRAL
+http://www.canales.darkiptv.com/token/comedycentral.php?canal=COMEDY_CENTRAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",CONCERT
+http://www.canales.darkiptv.com/token/concert.php?canal=CONCERT&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Inicio",DE PELICULA
+http://www.canales.darkiptv.com/token/depelicula.php?canal=DE_PELICULA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",DHE
+http://www.canales.darkiptv.com/token/dhe.php?canal=DHE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Inicio",DISCOVERY THEATER
+http://www.canales.darkiptv.com/token/discovery_theater.php?canal=DISCOVERY_THEATER&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Inicio",DISCOVERY WORLD
+http://www.canales.darkiptv.com/token/discovery_world.php?canal=DISCOVERY_WORLD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Inicio",DISCOVERY CHANNEL
+http://www.canales.darkiptv.com/token/discoverychannel.php?canal=DISCOVERY_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Inicio",DISCOVERY CIVILIZATION
+http://www.canales.darkiptv.com/token/discoverycivil.php?canal=DISCOVERY_CIVILIZATION&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Inicio",DISCOVERY H&H
+http://www.canales.darkiptv.com/token/discoveryhh.php?canal=DISCOVERY_H&H&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Inicio",DISCOVERY KIDS
+http://www.canales.darkiptv.com/token/discoverykids.php?canal=DISCOVERY_KIDS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Inicio",DISCOVERY SCIENCE
+http://www.canales.darkiptv.com/token/discoveryscience.php?canal=DISCOVERY_SCIENCE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Inicio",DISCOVERY TURBO
+http://www.canales.darkiptv.com/token/discoveryturbo.php?canal=DISCOVERY_TURBO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Inicio",DISNEY
+http://www.canales.darkiptv.com/token/disney.php?canal=DISNEY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Inicio",DISNEY JR
+http://www.canales.darkiptv.com/token/disneyjr.php?canal=DISNEY_JR&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Inicio",DISNEY XD
+http://www.canales.darkiptv.com/token/disneyxd.php?canal=DISNEY_XD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="Inicio",DW
+http://www.canales.darkiptv.com/token/dw.php?canal=DW&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",DW AMERICA
+http://www.canales.darkiptv.com/token/dwamerica.php?canal=DW_AMERICA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="E.uk" group-title="Inicio",E!
+http://www.canales.darkiptv.com/token/einter.php?canal=E!&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Inicio",EL GOURMET
+http://www.canales.darkiptv.com/token/elgourmet.php?canal=EL_GOURMET&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Inicio",ESPN
+http://www.canales.darkiptv.com/token/espn.php?canal=ESPN&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Inicio",ESPN 2
+http://www.canales.darkiptv.com/token/espn2.php?canal=ESPN_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Inicio",ESPN 3
+http://www.canales.darkiptv.com/token/espn3.php?canal=ESPN_3&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ESPNPlus.ar" group-title="Inicio",ESPN +
+http://www.canales.darkiptv.com/token/espnplus.php?canal=ESPN_+&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",LAS ESTRELLAS MX
+http://www.canales.darkiptv.com/token/estrellas_mx.php?canal=LAS_ESTRELLAS_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="eurochannel" group-title="Inicio",EUROCHANNEL
+http://www.canales.darkiptv.com/token/eurochannel.php?canal=EUROCHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="fox-crime" group-title="Inicio",FOX
+http://www.canales.darkiptv.com/token/fox.php?canal=FOX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="Inicio",FOX ACTION
+http://www.canales.darkiptv.com/token/fox_action.php?canal=FOX_ACTION&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOX ACTION MX
+http://www.canales.darkiptv.com/token/fox_action_mx.php?canal=FOX_ACTION_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="Inicio",FOX CINEMA
+http://www.canales.darkiptv.com/token/fox_cinema.php?canal=FOX_CINEMA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOX CINEMA SUB
+http://www.canales.darkiptv.com/token/fox_cinema_sub.php?canal=FOX_CINEMA_SUB&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="Inicio",FOX CLASSICS
+http://www.canales.darkiptv.com/token/fox_classics.php?canal=FOX_CLASSICS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Inicio",FOX COMEDY
+http://www.canales.darkiptv.com/token/fox_comedy.php?canal=FOX_COMEDY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxFamilyW.mx" group-title="Inicio",FOX FAMILY
+http://www.canales.darkiptv.com/token/fox_family.php?canal=FOX_FAMILY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Inicio",FOXLIFE
+http://www.canales.darkiptv.com/token/foxlife.php?canal=FOXLIFE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOXLIFE MX
+http://www.canales.darkiptv.com/token/foxlife_mx.php?canal=FOXLIFE_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOXNEWS
+http://www.canales.darkiptv.com/token/foxnews.php?canal=FOXNEWS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Inicio",FOX MOVIES
+http://www.canales.darkiptv.com/token/fox_movies.php?canal=FOX_MOVIES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOX MX
+http://www.canales.darkiptv.com/token/fox_mx.php?canal=FOX_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxSerie.de" group-title="Inicio",FOX SERIES
+http://www.canales.darkiptv.com/token/fox_series.php?canal=FOX_SERIES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOX SERIES SUB
+http://www.canales.darkiptv.com/token/foxseries_sub.php?canal=FOX_SERIES_SUB&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Inicio",FOX SPORTS
+http://www.canales.darkiptv.com/token/foxsports.php?canal=FOX_SPORTS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOX SPORTS MX
+http://www.canales.darkiptv.com/token/foxsports_mx.php?canal=FOX_SPORTS_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Inicio",FOX SPORTS 2
+http://www.canales.darkiptv.com/token/foxsports2.php?canal=FOX_SPORTS_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Inicio",FOX SPORTS 2 MX
+http://www.canales.darkiptv.com/token/foxsports2_mx.php?canal=FOX_SPORTS_2_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Inicio",FOX SPORTS 3
+http://www.canales.darkiptv.com/token/foxsports3.php?canal=FOX_SPORTS_3&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FOX SPORTS 3 MX
+http://www.canales.darkiptv.com/token/foxsports3_mx.php?canal=FOX_SPORTS_3_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Inicio",FX
+http://www.canales.darkiptv.com/token/fx.php?canal=FX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FX MX
+http://www.canales.darkiptv.com/token/fx_mx.php?canal=FX_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Inicio",FXM
+http://www.canales.darkiptv.com/token/fxm.php?canal=FMX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",FXM MX
+http://www.canales.darkiptv.com/token/fxm_mx.php?canal=FXM_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Inicio",GLITZ
+http://www.canales.darkiptv.com/token/glitz.php?canal=GLITZ&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Golden.mx" group-title="Inicio",GOLDEN
+http://www.canales.darkiptv.com/token/golden.php?canal=GOLDEN&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",GOLDEN PLUS
+http://www.canales.darkiptv.com/token/goldenplus.php?canal=GOLDEN_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Golf.fr" group-title="Inicio",GOLF CHANNEL
+http://www.canales.darkiptv.com/token/golfchannel.php?canal=GOLF_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="history2-rus" group-title="Inicio",H2
+http://www.canales.darkiptv.com/token/h2.php?canal=H2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Inicio",HBO
+http://www.canales.darkiptv.com/token/hbo.php?canal=HBO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Inicio",HBO 2
+http://www.canales.darkiptv.com/token/hbo2.php?canal=HBO_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Inicio",HBO FAMILY
+http://www.canales.darkiptv.com/token/hbo_family.php?canal=HBO_FAMILY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Inicio",HBO PLUS
+http://www.canales.darkiptv.com/token/hbo_plus.php?canal=HBO_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Inicio",HBO SIGNATURE
+http://www.canales.darkiptv.com/token/hbo_signature.php?canal=HBO_SIGNATURE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",HBO SUB
+http://www.canales.darkiptv.com/token/hbo_sub.php?canal=HBO_SUB&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",HEAD LINE
+http://www.canales.darkiptv.com/token/headline.php?canal=HEAD_LINE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="history-rus" group-title="Inicio",HISTORY
+http://www.canales.darkiptv.com/token/history.php?canal=HISTORY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Inicio",HOLA TV
+http://www.canales.darkiptv.com/token/holatv.php?canal=HOLA_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="HTV.mx" group-title="Inicio",HTV
+http://www.canales.darkiptv.com/token/htv.php?canal=HTV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Inicio",INVESTIGATION DISCOVERY
+http://www.canales.darkiptv.com/token/id.php?canal=INVESTIGATION_DISCOVERY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ISat.mx" group-title="Inicio",ISAT
+http://www.canales.darkiptv.com/token/isat.php?canal=ISAT&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Inicio",LIFETIME
+http://www.canales.darkiptv.com/token/lifetime.php?canal=LIFETIME&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Inicio",MAS CHIC
+http://www.canales.darkiptv.com/token/mas_chic.php?canal=MAS_CHIC&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Inicio",MAX PRIME
+http://www.canales.darkiptv.com/token/maxup.php?canal=MAX_PRIME&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",MAX PRIME PLUS
+http://www.canales.darkiptv.com/token/max_prime.php?canal=MAX_PRIME_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Inicio",MTV
+http://www.canales.darkiptv.com/token/mtv.php?canal=MTV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Inicio",MTV HITS
+http://www.canales.darkiptv.com/token/mtv_hits.php?canal=MTV_HITS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Inicio",MTV LIVE
+http://www.canales.darkiptv.com/token/mtv_live.php?canal=MTV_LIVE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="Inicio",MULTIPREMIER
+http://www.canales.darkiptv.com/token/multipremier.php?canal=MULTIPREMIER&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Inicio",NATGEO
+http://www.canales.darkiptv.com/token/natgeo.php?canal=NATGEO&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",NATGEO MX
+http://www.canales.darkiptv.com/token/natgeo_mx.php?canal=NATGEO_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",NATGEO KIDS
+http://www.canales.darkiptv.com/token/natgeo_kids.php?canal=NATGEO_KIDS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",NATGEO KIDS MX
+http://www.canales.darkiptv.com/token/natgeo_kids_mx.php?canal=NATGEO_KIDS_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Inicio",NATGEO WILD
+http://www.canales.darkiptv.com/token/natgeo_wild.php?canal=NATGEO_WILD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",NATGEO WILD MX
+http://www.canales.darkiptv.com/token/natgeo_wild_mx.php?canal=NATGEO_WILD_MX&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",NICK2
+http://www.canales.darkiptv.com/token/nick2.php?canal=NICK_2&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Inicio",NICKELODEON
+http://www.canales.darkiptv.com/token/nickelodeon.php?canal=NICKELODEON&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Inicio",NICK JR
+http://www.canales.darkiptv.com/token/nick_jr.php?canal=NICK_JR&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="paramount" group-title="Inicio",PARAMOUNT CHANNEL
+http://www.canales.darkiptv.com/token/paramount.php?canal=PARAMOUNT_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Pasiones.us" group-title="Inicio",PASIONES
+http://www.canales.darkiptv.com/token/pasiones.php?canal=PASIONES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",RAI ITALYA
+http://www.canales.darkiptv.com/token/rai.php?canal=RAI_ITALYA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",RCN TELENOVELAS
+http://www.canales.darkiptv.com/token/rcn_televelas.php?canal=RCN_TELENOVELAS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="set" group-title="Inicio",SONY
+http://www.canales.darkiptv.com/token/sony.php?canal=SONY&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Inicio",SPACE
+http://www.canales.darkiptv.com/token/space.php?canal=SPACE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Inicio",STUDIO UNIVERSAL
+http://www.canales.darkiptv.com/token/studio_universal.php?canal=STUDIO_UNIVERSAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="SundanceChannel.gr" group-title="Inicio",SUNDANCE
+http://www.canales.darkiptv.com/token/sundance.php?canal=SUNDANCE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Inicio",TBS
+http://www.canales.darkiptv.com/token/tbs.php?canal=TBS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="TCM.uk" group-title="Inicio",TCM
+http://www.canales.darkiptv.com/token/tcm.php?canal=TCM&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="TelemundoEast.us" group-title="Inicio",TELEMUNDO INTERNACIONAL
+http://www.canales.darkiptv.com/token/telemundo_int.php?canal=TELEMUNDO_INTERNACIONAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Inicio",TLC
+http://www.canales.darkiptv.com/token/tlc.php?canal=TLC&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Inicio",TNT
+http://www.canales.darkiptv.com/token/tnt.php?canal=TNT&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Inicio",TNT SERIES
+http://www.canales.darkiptv.com/token/tnt_series.php?canal=TNT_SERIES&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Inicio",TOONCAST
+http://www.canales.darkiptv.com/token/tooncast.php?canal=TOONCAST&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Inicio",TRU TV
+http://www.canales.darkiptv.com/token/trutv.php?canal=TRU_TV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="TV5Monde.tr" group-title="Inicio",TV5
+http://www.canales.darkiptv.com/token/tv5.php?canal=TV5&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="America2.ar" group-title="Inicio",TV AMERICA
+http://www.canales.darkiptv.com/token/tvamerica.php?canal=TV_AMERICA&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Inicio",UNICABLE
+http://www.canales.darkiptv.com/token/unicable.php?canal=UNICABLE&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Inicio",UNIVERSAL
+http://www.canales.darkiptv.com/token/universal.php?canal=UNIVERSAL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="Universal.uk" group-title="Inicio",UNIVERSAL HD
+http://www.canales.darkiptv.com/token/universalhd.php?canal=UNIVERSAL_HD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="utv" group-title="Inicio",UTV
+http://www.canales.darkiptv.com/token/utv.php?canal=UTV&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",VE PLUS
+http://www.canales.darkiptv.com/token/veplus.php?canal=VE_PLUS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="vh1-europe" group-title="Inicio",VH1
+http://www.canales.darkiptv.com/token/vh1.php?canal=VH1&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Inicio",VH1 HD
+http://www.canales.darkiptv.com/token/vh1_hd.php?canal=VH1_HD&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="VH1Classic.svn" group-title="Inicio",VH1 CLASSICS
+http://www.canales.darkiptv.com/token/vh1_classic.php?canal=VH1_CLASSICS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Inicio",WARNER CHANNEL
+http://www.canales.darkiptv.com/token/warner.php?canal=WARNER_CHANNEL&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Inicio",WINSPORTS
+http://www.canales.darkiptv.com/token/winsports.php?canal=WINSPORTS&calidad=03&token=9c0e99010f632b92345788bc0a529b85&f=.m3u8
