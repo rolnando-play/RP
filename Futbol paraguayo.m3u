@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0, Auto
-http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
-#EXTINF:0 ,HD
-http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_3000_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
-#EXTINF:0 ,SD
-http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_400_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+#EXTINF:0, OLI-LIB
+http://neuclnlds13dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_android.m3u8?h=af05ffa2fda67e9d74ba52474b9569f1.1527720764247&hdnea=exp=1527720824~acl=/*~hmac=C03039B83CF86E81BFDDDC900393D8B7611D961B74E97F5830869CA05D418653&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+#EXTINF:0 ,LUQ-CCP
+http://neuclnlds52dal.akamaized.net/nlds/tigopy/sportivoluqueo/as/live/nlncp/sportivoluqueo_hd_android.m3u8?h=1eb43d2b70afb0be3b9a618835a3cb17.1527720779240&hdnea=exp=1527720839~acl=/*~hmac=BA33EB3026ED018FA466C544064E0829ED1F16DC536BBF93B4CA7897B2FC43E7&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
