@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:0, Auto
+http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,HD
 http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_3000_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
 #EXTINF:0 ,SD
 http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_400_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
-#EXTINF:0, Auto
-http://neuclnlds54dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_android.m3u8?h=de40931e0ec34fc920d38677aa9f47d1.1527712165707&hdnea=exp=1527712225~acl=/*~hmac=F871BE911C3983AD2BDCF3CF735D72FCA03D99DEEDB1C809C995800018AE2587&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
