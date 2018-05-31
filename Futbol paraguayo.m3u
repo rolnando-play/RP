@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0, OLI-LIB
-http://neuclnlds13dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_android.m3u8?h=af05ffa2fda67e9d74ba52474b9569f1.1527720764247&hdnea=exp=1527720824~acl=/*~hmac=C03039B83CF86E81BFDDDC900393D8B7611D961B74E97F5830869CA05D418653&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
-#EXTINF:0 ,LUQ-CCP
-http://neuclnlds52dal.akamaized.net/nlds/tigopy/sportivoluqueo/as/live/nlncp/sportivoluqueo_hd_android.m3u8?h=1eb43d2b70afb0be3b9a618835a3cb17.1527720779240&hdnea=exp=1527720839~acl=/*~hmac=BA33EB3026ED018FA466C544064E0829ED1F16DC536BBF93B4CA7897B2FC43E7&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
+#EXTINF:0, GRD-3DF
+http://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8?h=f117343236f7c236aefccdc4f5650af6.1527800517626&hdnea=exp=1527800577~acl=/*~hmac=9799E5E3FC11C21C4E238E8C80C542CA674212CD219EF381E3A78657B9AA5E34&nltid=tigopy&nltdt=8&nltnt=1&uid=315%3Amvpd%3Atigoh-PY-4208342071
