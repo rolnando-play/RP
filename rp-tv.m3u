@@ -56,11 +56,11 @@ http://198.255.22.106:25461/8/zapintv.m3u8
 #EXTINF:0 ,Discovery Channel
 http://190.2.138.102:25461/1445/sintonizar.m3u8
 #EXTINF:0 ,Discovery Civilization
-http://190.2.138.102:25461/1234/sintonizar.m3u8
+http://198.255.22.106:25461/104/zapintv.m3u8
 #EXTINF:0 ,Discovery H&H
 http://198.255.22.106:25461/6/zapintv.m3u8
 #EXTINF:0 ,Discovery Science
-http://190.2.138.102:25461/921/sintonizar.m3u8
+http://198.255.22.106:25461/103/zapintv.m3u8
 #EXTINF:0 ,Discovery Theater
 http://190.2.138.102:25461/1442/sintonizar.m3u8
 #EXTINF:0 ,Discovery TLC
@@ -90,7 +90,7 @@ http://198.255.22.106:25461/77/zapintv.m3u8
 #EXTINF:0 ,Las Estrellas
 http://190.2.138.102:25461/1225/sintonizar.m3u8
 #EXTINF:0 ,Cinecanal
-http://190.2.138.102:25461/1449/sintonizar.m3u8
+http://198.255.22.106:25461/110/zapintv.m3u8
 #EXTINF:0 ,Cinemax
 http://198.255.22.106:25461/40/zapintv.m3u8
 #EXTINF:0 ,DHE
@@ -104,9 +104,9 @@ http://198.255.22.106:25461/57/zapintv.m3u8
 #EXTINF:0 ,FX
 http://198.255.22.106:25461/64/zapintv.m3u8
 #EXTINF:0 ,FXM
-http://190.2.138.102:25461/1423/sintonizar.m3u8
+http://198.255.22.106:25461/107/zapintv.m3u8
 #EXTINF:0 ,Fox Life
-http://190.2.138.102:25461/1427/sintonizar.m3u8
+http://198.255.22.106:25461/101/zapintv.m3u8
 #EXTINF:0 ,Golden
 http://198.255.22.106:25461/39/zapintv.m3u8
 #EXTINF:0 ,Golden Plus
@@ -118,13 +118,13 @@ http://190.2.138.102:25461/1404/sintonizar.m3u8
 #EXTINF:0 ,Space
 http://198.255.22.106:25461/56/zapintv.m3u8
 #EXTINF:0 ,Studio Universal
-http://190.2.138.102:25461/1616/sintonizar.m3u8
+http://198.255.22.106:25461/32/zapintv.m3u8
 #EXTINF:0 ,Sony
 http://198.255.22.106:25461/20/zapintv.m3u8
 #EXTINF:0 ,Syfy
 http://198.255.22.106:25461/42/zapintv.m3u8
 #EXTINF:0 ,TBS
-http://190.2.138.102:25461/1399/sintonizar.m3u8
+http://198.255.22.106:25461/99/zapintv.m3u8
 #EXTINF:0 ,Telemundo
 http://190.2.138.102:25461/1465/sintonizar.m3u8
 #EXTINF:0 ,tlnovelas
@@ -201,3 +201,5 @@ http://190.2.138.102:25461/1621/sintonizar.m3u8
 http://198.255.22.106:25461/87/zapintv.m3u8
 #EXTINF:0 ,VH1
 http://198.255.22.106:25461/84/zapintv.m3u8
+#EXTINF:0 ,VH1 Classics
+http://198.255.22.106:25461/111/zapintv.m3u8
