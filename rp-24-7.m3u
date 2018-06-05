@@ -16,21 +16,21 @@ http://190.2.138.102:25461/7/sintonizar.m3u8
 #EXTINF:0 ,Coraje el perro cobarde
 http://198.255.22.106:25461/170/zapintv.m3u8
 #EXTINF:0 ,Caballeros del Zodiaco
-http://190.2.138.102:25461/8/sintonizar.m3u8
+http://198.255.22.106:25461/195/zapintv.m3u8
 #EXTINF:0 ,El coyote y el correcaminos
-http://190.2.138.102:25461/14/sintonizar.m3u8
+http://198.255.22.106:25461/185/zapintv.m3u8
 #EXTINF:0 ,Cat-Dog
-http://190.2.138.102:25461/9/sintonizar.m3u8
+http://198.255.22.106:25461/194/zapintv.m3u8
 #EXTINF:0 ,Dragon Ball Z
-http://190.2.138.102:25461/16/sintonizar.m3u8
+http://198.255.22.106:25461/189/zapintv.m3u8
 #EXTINF:0 ,Digimon
-http://190.2.138.102:25461/17/sintonizar.m3u8
+http://198.255.22.106:25461/190/zapintv.m3u8
 #EXTINF:0 ,Ed Edd y Eddy
-http://190.2.138.102:25461/18/sintonizar.m3u8
+http://198.255.22.106:25461/188/zapintv.m3u8
 #EXTINF:0 ,El chavo
-http://190.2.138.102:25461/19/sintonizar.m3u8
+http://198.255.22.106:25461/186/zapintv.m3u8
 #EXTINF:0 ,El Chapulin Colorado
-http://190.2.138.102:25461/10/sintonizar.m3u8
+http://198.255.22.106:25461/193/zapintv.m3u8
 #EXTINF:0 ,El pájaro loco
 http://198.255.22.106:25461/184/zapintv.m3u8
 #EXTINF:0 ,Futurama
@@ -59,3 +59,5 @@ http://198.255.22.106:25461/164/zapintv.m3u8
 http://198.255.22.106:25461/166/zapintv.m3u8
 #EXTINF:0 ,Thundercats
 http://190.2.138.102:25461/1255/sintonizar.m3u8
+#EXTINF:0 ,Timon y Pumba
+http://198.255.22.106:25461/192/zapintv.m3u8
