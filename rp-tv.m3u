@@ -52,21 +52,21 @@ http://190.2.138.102:25461/1267/sintonizar.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-http://190.2.138.102:25461/1457/sintonizar.m3u8
+http://198.255.22.106:25461/8/zapintv.m3u8
 #EXTINF:0 ,Discovery Channel
 http://190.2.138.102:25461/1445/sintonizar.m3u8
 #EXTINF:0 ,Discovery Civilization
 http://190.2.138.102:25461/1234/sintonizar.m3u8
 #EXTINF:0 ,Discovery H&H
-http://190.2.138.102:25461/1444/sintonizar.m3u8
+http://198.255.22.106:25461/6/zapintv.m3u8
 #EXTINF:0 ,Discovery Science
 http://190.2.138.102:25461/921/sintonizar.m3u8
 #EXTINF:0 ,Discovery Theater
 http://190.2.138.102:25461/1442/sintonizar.m3u8
 #EXTINF:0 ,Discovery TLC
-http://190.2.138.102:25461/1398/sintonizar.m3u8
+http://198.255.22.106:25461/3/zapintv.m3u8
 #EXTINF:0 ,Discovery Turbo
-http://190.2.138.102:25461/1636/sintonizar.m3u8
+http://198.255.22.106:25461/7/zapintv.m3u8
 #EXTINF:0 ,Discovery World
 http://190.2.138.102:25461/1441/sintonizar.m3u8
 #EXTINF:0 ,History 2
@@ -76,7 +76,7 @@ http://190.2.138.102:25461/1415/sintonizar.m3u8
 #EXTINF:0 ,Investigation Discovery
 http://190.2.138.102:25461/1413/sintonizar.m3u8
 #EXTINF:0 ,Nat Geo
-http://190.2.138.102:25461/1408/sintonizar.m3u8
+http://198.255.22.106:25461/4/zapintv.m3u8
 #EXTINF:0 ,Nat Geo Wild
 http://190.2.138.102:25461/1406/sintonizar.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
@@ -156,7 +156,7 @@ http://190.2.138.102:25461/1407/sintonizar.m3u8
 #EXTINF:0 ,Nickelodeon
 http://190.2.138.102:25461/1405/sintonizar.m3u8
 #EXTINF:0 ,Nick 2
-http://190.2.138.102:25461/1554/sintonizar.m3u8
+http://198.255.22.106:25461/10/zapintv.m3u8
 #EXTINF:0 ,Nicktoons
 http://190.2.138.102:25461/1619/sintonizar.m3u8
 #EXTINF:0 ,Nick JR
