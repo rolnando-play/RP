@@ -74,7 +74,7 @@ http://190.2.138.102:25461/1556/sintonizar.m3u8
 #EXTINF:0 ,History
 http://190.2.138.102:25461/1415/sintonizar.m3u8
 #EXTINF:0 ,Investigation Discovery
-http://190.2.138.102:25461/1413/sintonizar.m3u8
+http://198.255.22.106:25461/50/zapintv.m3u8
 #EXTINF:0 ,Nat Geo
 http://198.255.22.106:25461/4/zapintv.m3u8
 #EXTINF:0 ,Nat Geo Wild
@@ -98,9 +98,9 @@ http://198.255.22.106:25461/29/zapintv.m3u8
 #EXTINF:0 ,El Gourmet
 http://198.255.22.106:25461/28/zapintv.m3u8
 #EXTINF:0 ,E!
-http://190.2.138.102:25461/1635/sintonizar.m3u8
+http://198.255.22.106:25461/58/zapintv.m3u8
 #EXTINF:0 ,Fox
-http://190.2.138.102:25461/1435/sintonizar.m3u8
+http://198.255.22.106:25461/57/zapintv.m3u8
 #EXTINF:0 ,FX
 http://190.2.138.102:25461/1423/sintonizar.m3u8
 #EXTINF:0 ,FXM
@@ -116,7 +116,7 @@ http://190.2.138.102:25461/1225/sintonizar.m3u8
 #EXTINF:0 ,Paramount
 http://190.2.138.102:25461/1404/sintonizar.m3u8
 #EXTINF:0 ,Space
-http://190.2.138.102:25461/1401/sintonizar.m3u8
+http://198.255.22.106:25461/56/zapintv.m3u8
 #EXTINF:0 ,Studio Universal
 http://190.2.138.102:25461/1616/sintonizar.m3u8
 #EXTINF:0 ,Sony
@@ -130,21 +130,21 @@ http://190.2.138.102:25461/1465/sintonizar.m3u8
 #EXTINF:0 ,tlnovelas
 http://198.255.22.106:25461/31/zapintv.m3u8
 #EXTINF:0 ,TNT
-http://190.2.138.102:25461/1397/sintonizar.m3u8
+http://198.255.22.106:25461/55/zapintv.m3u8
 #EXTINF:0 ,TNT Series
-http://190.2.138.102:25461/1396/sintonizar.m3u8
+http://198.255.22.106:25461/54/zapintv.m3u8
 #EXTINF:0 ,Tru TV
 http://190.2.138.102:25461/1395/sintonizar.m3u8
 #EXTINF:0 ,Universal Channel
 http://190.2.138.102:25461/1598/sintonizar.m3u8
 #EXTINF:0 ,Warner
-http://190.2.138.102:25461/1393/sintonizar.m3u8
+http://198.255.22.106:25461/48/zapintv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 ,Boomerang
 http://190.2.138.102:25461/924/sintonizar.m3u8
 #EXTINF:0 ,Cartoon Network
-http://190.2.138.102:25461/1451/sintonizar.m3u8
+http://198.255.22.106:25461/44/zapintv.m3u8
 #EXTINF:0 ,Discovery Kids
 http://190.2.138.102:25461/1443/sintonizar.m3u8
 #EXTINF:0 ,Disney Channel
