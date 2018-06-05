@@ -16,13 +16,13 @@ http://tecnotv.info/premium/directv
 #EXTINF:0 ,Eurosport
 http://190.2.138.102:25461/1097/sintonizar.m3u8
 #EXTINF:0 ,ESPN
-http://192.189.25.106/mirtv/espnsur.php?index.m3u8
+http://198.255.22.106:25461/128/zapintv.m3u8
 #EXTINF:0 ,ESPN 2
-http://192.189.25.106/mirtv/espn2sur.php?index.m3u8
+http://198.255.22.106:25461/129/zapintv.m3u8
 #EXTINF:0 ,ESPN 3
-http://192.189.25.106/mirtv/espn3sur.php?index.m3u8
+http://198.255.22.106:25461/130/zapintv.m3u8
 #EXTINF:0 ,ESPN +
-http://tecnotv.info/premium/espn-plus
+http://198.255.22.106:25461/131/zapintv.m3u8
 #EXTINF:0 ,Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w2058472605_b664000.m3u8
 #EXTINF:0 ,Fox Sports
@@ -72,7 +72,7 @@ http://190.2.138.102:25461/1441/sintonizar.m3u8
 #EXTINF:0 ,History 2
 http://190.2.138.102:25461/1556/sintonizar.m3u8
 #EXTINF:0 ,History
-http://190.2.138.102:25461/1415/sintonizar.m3u8
+http://198.255.22.106:25461/72/zapintv.m3u8
 #EXTINF:0 ,Investigation Discovery
 http://198.255.22.106:25461/50/zapintv.m3u8
 #EXTINF:0 ,Nat Geo
@@ -82,11 +82,11 @@ http://198.255.22.106:25461/33/zapintv.m3u88
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-http://190.2.138.102:25461/1459/sintonizar.m3u8
+http://198.255.22.106:25461/83/zapintv.m3u8
 #EXTINF:0 ,AMC
 http://198.255.22.106:25461/41/zapintv.m3u8
 #EXTINF:0 ,AXN
-http://190.2.138.102:25461/1456/sintonizar.m3u8
+http://198.255.22.106:25461/77/zapintv.m3u8
 #EXTINF:0 ,Las Estrellas
 http://190.2.138.102:25461/1225/sintonizar.m3u8
 #EXTINF:0 ,Cinecanal
@@ -102,7 +102,7 @@ http://198.255.22.106:25461/58/zapintv.m3u8
 #EXTINF:0 ,Fox
 http://198.255.22.106:25461/57/zapintv.m3u8
 #EXTINF:0 ,FX
-http://190.2.138.102:25461/1423/sintonizar.m3u8
+http://198.255.22.106:25461/64/zapintv.m3u8
 #EXTINF:0 ,FXM
 http://190.2.138.102:25461/1423/sintonizar.m3u8
 #EXTINF:0 ,Fox Life
@@ -134,9 +134,9 @@ http://198.255.22.106:25461/55/zapintv.m3u8
 #EXTINF:0 ,TNT Series
 http://198.255.22.106:25461/54/zapintv.m3u8
 #EXTINF:0 ,Tru TV
-http://190.2.138.102:25461/1395/sintonizar.m3u8
+http://198.255.22.106:25461/66/zapintv.m3u8
 #EXTINF:0 ,Universal Channel
-http://190.2.138.102:25461/1598/sintonizar.m3u8
+http://198.255.22.106:25461/78/zapintv.m3u8
 #EXTINF:0 ,Warner
 http://198.255.22.106:25461/48/zapintv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
@@ -154,7 +154,7 @@ http://198.255.22.106:25461/13/zapintv.m3u8
 #EXTINF:0 ,Disney XD
 http://198.255.22.106:25461/12/zapintv.m3u8
 #EXTINF:0 ,Nat Geo Kids
-http://190.2.138.102:25461/1407/sintonizar.m3u8
+http://198.255.22.106:25461/79/zapintv.m3u8
 #EXTINF:0 ,Nickelodeon
 http://198.255.22.106:25461/11/zapintv.m3u8
 #EXTINF:0 ,Nick 2
@@ -194,10 +194,10 @@ http://198.255.22.106:25461/15/zapintv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0 ,MTV
-http://190.2.138.102:25461/1410/sintonizar.m3u8
+http://198.255.22.106:25461/88/zapintv.m3u8
 #EXTINF:0 ,MTV Hits
 http://190.2.138.102:25461/1621/sintonizar.m3u8
 #EXTINF:0 ,MTV Live
-http://190.2.138.102:25461/1409/sintonizar.m3u8
+http://198.255.22.106:25461/87/zapintv.m3u8
 #EXTINF:0 ,VH1
-http://190.2.138.102:25461/1394/sintonizar.m3u8
+http://198.255.22.106:25461/84/zapintv.m3u8
