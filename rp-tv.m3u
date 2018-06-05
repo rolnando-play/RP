@@ -78,13 +78,13 @@ http://190.2.138.102:25461/1413/sintonizar.m3u8
 #EXTINF:0 ,Nat Geo
 http://198.255.22.106:25461/4/zapintv.m3u8
 #EXTINF:0 ,Nat Geo Wild
-http://190.2.138.102:25461/1406/sintonizar.m3u8
+http://198.255.22.106:25461/33/zapintv.m3u88
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
 http://190.2.138.102:25461/1459/sintonizar.m3u8
 #EXTINF:0 ,AMC
-http://190.2.138.102:25461/1458/sintonizar.m3u8
+http://198.255.22.106:25461/41/zapintv.m3u8
 #EXTINF:0 ,AXN
 http://190.2.138.102:25461/1456/sintonizar.m3u8
 #EXTINF:0 ,Las Estrellas
@@ -92,11 +92,11 @@ http://190.2.138.102:25461/1225/sintonizar.m3u8
 #EXTINF:0 ,Cinecanal
 http://190.2.138.102:25461/1449/sintonizar.m3u8
 #EXTINF:0 ,Cinemax
-http://190.2.138.102:25461/923/sintonizar.m3u8
+http://198.255.22.106:25461/40/zapintv.m3u8
 #EXTINF:0 ,DHE
-http://190.2.138.102:25461/1446/sintonizar.m3u8
+http://198.255.22.106:25461/29/zapintv.m3u8
 #EXTINF:0 ,El Gourmet
-http://190.2.138.102:25461/1440/sintonizar.m3u8
+http://198.255.22.106:25461/28/zapintv.m3u8
 #EXTINF:0 ,E!
 http://190.2.138.102:25461/1635/sintonizar.m3u8
 #EXTINF:0 ,Fox
@@ -108,7 +108,9 @@ http://190.2.138.102:25461/1423/sintonizar.m3u8
 #EXTINF:0 ,Fox Life
 http://190.2.138.102:25461/1427/sintonizar.m3u8
 #EXTINF:0 ,Golden
-http://190.2.138.102:25461/1421/sintonizar.m3u8
+http://198.255.22.106:25461/39/zapintv.m3u8
+#EXTINF:0 ,Golden Plus
+http://198.255.22.106:25461/38/zapintv.m3u8
 #EXTINF:0 ,Las estrellas
 http://190.2.138.102:25461/1225/sintonizar.m3u8
 #EXTINF:0 ,Paramount
@@ -118,15 +120,15 @@ http://190.2.138.102:25461/1401/sintonizar.m3u8
 #EXTINF:0 ,Studio Universal
 http://190.2.138.102:25461/1616/sintonizar.m3u8
 #EXTINF:0 ,Sony
-http://190.2.138.102:25461/1402/sintonizar.m3u8
+http://198.255.22.106:25461/20/zapintv.m3u8
 #EXTINF:0 ,Syfy
-http://190.2.138.102:25461/1615/sintonizar.m3u8
+http://198.255.22.106:25461/42/zapintv.m3u8
 #EXTINF:0 ,TBS
 http://190.2.138.102:25461/1399/sintonizar.m3u8
 #EXTINF:0 ,Telemundo
 http://190.2.138.102:25461/1465/sintonizar.m3u8
 #EXTINF:0 ,tlnovelas
-http://190.2.138.102:25461/1264/sintonizar.m3u8
+http://198.255.22.106:25461/31/zapintv.m3u8
 #EXTINF:0 ,TNT
 http://190.2.138.102:25461/1397/sintonizar.m3u8
 #EXTINF:0 ,TNT Series
@@ -148,13 +150,13 @@ http://190.2.138.102:25461/1443/sintonizar.m3u8
 #EXTINF:0 ,Disney Channel
 http://190.2.138.102:25461/1447/sintonizar.m3u8
 #EXTINF:0 ,Disney Junior
-http://190.2.138.102:25461/1552/sintonizar.m3u8
+http://198.255.22.106:25461/13/zapintv.m3u8
 #EXTINF:0 ,Disney XD
-http://190.2.138.102:25461/1553/sintonizar.m3u8
+http://198.255.22.106:25461/12/zapintv.m3u8
 #EXTINF:0 ,Nat Geo Kids
 http://190.2.138.102:25461/1407/sintonizar.m3u8
 #EXTINF:0 ,Nickelodeon
-http://190.2.138.102:25461/1405/sintonizar.m3u8
+http://198.255.22.106:25461/11/zapintv.m3u8
 #EXTINF:0 ,Nick 2
 http://198.255.22.106:25461/10/zapintv.m3u8
 #EXTINF:0 ,Nicktoons
@@ -178,17 +180,17 @@ http://190.2.138.102:25461/1416/sintonizar.m3u8
 #EXTINF:0 ,Max Prime
 http://190.2.138.102:25461/1412/sintonizar.m3u8
 #EXTINF:0 ,Fox Action
-http://190.2.138.102:25461/1434/sintonizar.m3u8
+http://198.255.22.106:25461/18/zapintv.m3u8
 #EXTINF:0 ,Fox Cinema
-http://190.2.138.102:25461/1433/sintonizar.m3u8
+http://198.255.22.106:25461/18/zapintv.m3u8
 #EXTINF:0 ,Fox Classics
 http://190.2.138.102:25461/1432/sintonizar.m3u8
 #EXTINF:0 ,Fox Comedy
-http://190.2.138.102:25461/1431/sintonizar.m3u8
+http://198.255.22.106:25461/17/zapintv.m3u8
 #EXTINF:0 ,Fox Movies
-http://190.2.138.102:25461/1429/sintonizar.m3u8
+http://198.255.22.106:25461/16/zapintv.m3u8
 #EXTINF:0 ,Fox Series
-http://190.2.138.102:25461/1428/sintonizar.m3u8
+http://198.255.22.106:25461/15/zapintv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0 ,MTV
