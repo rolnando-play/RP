@@ -1,6 +1,40 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/FB_IMG_1527306666739.jpg" group-title="ROLNANDO PLAY", ***ROLNANDO PLAY***
 https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
+http://127.0.0.1
+#EXTINF:0 ,Telefuturo
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 ,Noticias Paraguay
+http://xnoticiasparaguayx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 ,RPC
+http://174.138.118.252/live/canal13stream.m3u8
+#EXTINF:0 ,SNT
+http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
+#EXTINF:0 ,C9N
+http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8
+#EXTINF:0 ,Unicanal
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:0 ,Latele
+http://xlatelepyx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 ,Paraguay TV
+http://api.new.livestream.com/accounts/25680986/events/7856569/live.m3u8
+#EXTINF:0 ,Gen
+http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8
+#EXTINF:0 ,Hei
+http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8
+#EXTINF:0 ,Lobo Station
+http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8
+#EXTINF:0 ,TVS Encarnación
+http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8
+#EXTINF:0 ,Venus Media
+http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8
+#EXTINF:0 ,Amor TV
+http://181.40.66.93:1935/amortv/amortv/playlist.m3u8
+#EXTINF:0 ,Fernando de la Mora TV
+http://181.40.66.93:1935/fernandotv/fernandotv/playlist.m3u8
+#EXTINF:0 ,Farra Play
+http://159.203.148.226/live/farra_mid.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2146349_ico.png" group-title="DEPORTES", *********** DEPORTES **********
 http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
