@@ -8,7 +8,7 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
 #EXTINF:0 ,Claro Sports
 http://198.255.22.106:25461/287/zapintv.m3u8
 #EXTINF:0 ,DeporTV
-http://538f0c8c264ca.streamlock.net/DXTV/smil:DXTV/chunklist_w170603515_b542000_slesp.m3u8
+http://132.255.200.250:80/hls/master-Deportv.m3u8
 #EXTINF:0 ,ESPN
 http://198.255.22.106:25461/128/zapintv.m3u8
 #EXTINF:0 ,ESPN 2
@@ -202,15 +202,20 @@ http://198.255.22.106:25461/111/zapintv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2000px-Argentina_flag_tv.svg.png" group-title="ARGENTINA", ********** ARGENTINA **********
 http://127.0.0.1
 #EXTINF:0 ,América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8
+http://132.255.200.250:80/hls/master-America.m3u8
 #EXTINF:0 ,El Trece
-https://secure.watcha.live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1OWJmNjlhNDdiOGMwNzE5YzRmODE1MTgiLCJpc3MiOiJhcGkud2F0Y2hhLmxpdmUiLCJpYXQiOjE1MjYzMDQ4MzUsInNjb3BlIjp7InJvbGUiOiJ1c2VyIiwiY2hhbm5lbHMiOltdLCJhY3Rpb25zIjpbInJldm9rZV90b2tlbiJdLCJjb250ZW50IjoiMjFtZiIsInByZW1pdW0iOlt7InN0YXR1cyI6ZmFsc2UsInRvIjowfV19LCJwcmVtaXVtIjp7InN0YXR1cyI6ZmFsc2UsInRvIjowfSwiZXhwIjoxNTI2MzkxMjM1fQ.zePKHN901KFj_Q9s2cCO9-vn63AEw0H6PJGTY-p23Yc/ch7/hi.m3u8
+http://132.255.200.250:80/hls/master-Canal13.m3u8
 #EXTINF:0 ,TV Pública
-https://stream01-xrolaglsgc.stackpathdns.com/video/BJQRNMF6b_720/index.m3u8
+http://132.255.200.250/hls/master-TVP.m3u8
 #EXTINF:0 ,Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:0 ,Canal 9
-http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_b1328000.m3u8
+http://132.255.200.250:80/hls/master-Canal9HD.m3u8
 #EXTINF:0 ,Telefé
-http://vp01-ch07.delivery.fuugo.com/smil:vp01-ch07.smil/chunklist_b2596000_sleng.m3u8
-
+http://132.255.200.250:80/hls/master-Telefe.m3u8
+#EXTINF:0 ,C5N
+http://132.255.200.250/hls/master-C5N.m3u8
+#EXTINF:0 ,Crónica TV
+http://132.255.200.250:80/hls/master-CronicaTV.m3u8
+#EXTINF:0 ,CineAR
+http://132.255.200.250:80/hls/master-CineAR.m3u8
