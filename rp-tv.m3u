@@ -279,3 +279,5 @@ https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
 http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:0 ,T13
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+#EXTINF:0 ,CDO
+http://edge1.cl.grupoz.cl/cdofree/smil:live.smil/playlist.m3u8
