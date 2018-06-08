@@ -273,3 +273,5 @@ http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8
 http://live.hls.http.chv.ztreaming.com/desktop/chvmid.m3u8
 #EXTINF:0 ,UCV
 http://unlimited1-us.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8
+#EXTINF:0 ,La Red
+https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
