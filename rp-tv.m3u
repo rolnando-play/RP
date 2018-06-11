@@ -39,6 +39,8 @@ http://159.203.148.226/live/farra_mid.m3u8
 http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
+#EXTINF:0 ,beIn Sports
+http://server2.jadegames.net:8000/live/free/free/52.ts
 #EXTINF:0 ,Claro Sports
 http://198.255.22.106:25461/287/zapintv.m3u8
 #EXTINF:0 ,DeporTV
@@ -65,6 +67,8 @@ http://198.255.22.106:25461/339/zapintv.m3u8
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1268811759_b946000_sleng.m3u8
 #EXTINF:0 ,La Liga TV
 http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3705.m3u8
+#EXTINF:0 ,Movistar Futbol
+http://server3.jadegames.net:8000/live/free/free/53.ts
 #EXTINF:0 ,Mundo Auto TV
 http://tv.portalfoxmix.club:1935/8702/8702/chunklist_w1056629940.m3u8
 #EXTINF:0 ,NFL Sports
