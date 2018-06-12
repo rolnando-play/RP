@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/FB_IMG_1527306666739.jpg" group-title="ROLNANDO PLAY", ***ROLNANDO PLAY***
+https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
+#EXTINF:0 ,Visit-X
+https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
