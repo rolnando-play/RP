@@ -285,7 +285,8 @@ http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
 #EXTINF:0 ,CDO
 http://edge1.cl.grupoz.cl/cdofree/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/holy-bible.png" group-title="COLOMBIA", ********** COLOMBIA **********
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/co.png" group-title="COLOMBIA", ********** COLOMBIA **********
+http://127.0.0.1
 #EXTINF:0 ,RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/holy-bible.png" group-title="RELIGIÓN", ********** RELIGIÓN **********
