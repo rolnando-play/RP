@@ -289,3 +289,5 @@ http://edge1.cl.grupoz.cl/cdofree/smil:live.smil/playlist.m3u8
 http://127.0.0.1
 #EXTINF:0 ,ESNE
 http://live.tv.esnetv.org:1935/esne-live/esnetv.smil/playlist.m3u8
+#EXTINF:0 ,EWTN
+http://streamcdnc2.mainstreaming.tv/cdn/live/101129/playlist.m3u8
