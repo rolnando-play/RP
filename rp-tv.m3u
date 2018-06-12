@@ -288,4 +288,4 @@ http://edge1.cl.grupoz.cl/cdofree/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/holy-bible.png" group-title="RELIGIÓN", ********** RELIGIÓN **********
 http://127.0.0.1
 #EXTINF:0 ,ESNE
-http://server3.jadegames.net:8000/live/free/free/50.ts
+http://live.tv.esnetv.org:1935/esne-live/esnetv.smil/playlist.m3u8
