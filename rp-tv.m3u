@@ -1,6 +1,34 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/FB_IMG_1527306666739.jpg" group-title="ROLNANDO PLAY", ***ROLNANDO PLAY***
 https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
+#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/b83c1070c97c369e6b95b824aabbac22.png" group-title="RUSIA 2018", *********** RUSIA 2018 **********
+http://127.0.0.1
+#EXTINF:0 ,Telefuturo
+http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 ,SNT
+http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
+#EXTINF:0 ,TVP Argentina
+http://132.255.200.250/hls/master-TVP.m3u8
+#EXTINF:0 ,TyC Sports
+http://198.255.22.106:25461/144/zapintv.m3u8
+#EXTINF:0 ,Canal 13 (Chile)
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8
+#EXTINF:0 ,Telecinco (España)
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
+#EXTINF:0 ,Cuatro (España)
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8
+#EXTINF:0 ,De las Estrellas
+http://198.255.22.106:25461/49/zapintv.m3u8
+#EXTINF:0 ,Univision TDN
+http://198.255.22.106:25461/145/zapintv.m3u8
+#EXTINF:0 ,Monte Carlo (Uruguay)
+http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8
+#EXTINF:0 ,Teledoce (Uruguay)
+http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+#EXTINF:0 ,Teletica (Costa Rica)
+http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+#EXTINF:0 ,TV Azteca (Guatemala)
+http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
 http://127.0.0.1
 #EXTINF:0 ,Telefuturo
