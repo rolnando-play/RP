@@ -188,7 +188,7 @@ http://198.255.22.106:25461/42/zapintv.m3u8
 #EXTINF:0 ,TBS
 http://198.255.22.106:25461/99/zapintv.m3u8
 #EXTINF:0 ,Telemundo
-http://live.izzitv.mx:80/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
 #EXTINF:0 ,tlnovelas
 http://198.255.22.106:25461/31/zapintv.m3u8
 #EXTINF:0 ,TNT
