@@ -3,6 +3,8 @@
 https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/b83c1070c97c369e6b95b824aabbac22.png" group-title="RUSIA 2018", *********** RUSIA 2018 **********
 http://127.0.0.1
+#EXTINF:0 ,Tigo (solo partidos)
+http://127.0.0.1
 #EXTINF:0 ,Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0 ,SNT
