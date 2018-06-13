@@ -26,7 +26,7 @@ http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8
 #EXTINF:0 ,Teledoce (Uruguay)
 http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
 #EXTINF:0 ,Teletica (Costa Rica)
-http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
+https://stream-02.nyc.dailymotion.com/08/dm/3/x29e3wg/live-1.m3u8
 #EXTINF:0 ,TV Azteca (Guatemala)
 http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/index_1_av-p.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
