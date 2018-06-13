@@ -22,7 +22,7 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8
 #EXTINF:0 ,De las Estrellas
 http://198.255.22.106:25461/49/zapintv.m3u8
 #EXTINF:0 ,Univision TDN
-http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(01)/index.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(04)/index.m3u8
 #EXTINF:0 ,Monte Carlo (Uruguay)
 http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8
 #EXTINF:0 ,Teledoce (Uruguay)
@@ -112,7 +112,7 @@ http://198.255.22.106:25461/340/zapintv.m3u8
 #EXTINF:0, TyC Sports
 http://198.255.22.106:25461/144/zapintv.m3u8
 #EXTINF:0, Univisión TDN
-http://198.255.22.106:25461/145/zapintv.m3u8
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
