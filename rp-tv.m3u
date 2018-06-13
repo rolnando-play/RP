@@ -109,6 +109,12 @@ http://tv.portalfoxmix.club:1935/8702/8702/chunklist_w1056629940.m3u8
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:0 ,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 ,SporTV
+http://apk.goo.ac:8081/live/20/playlist.m3u8
+#EXTINF:0 ,SporTV 2
+http://apk.goo.ac:8081/live/15/playlist.m3u8
+#EXTINF:0 ,SporTV 3
+http://apk.goo.ac:8081/live/7/playlist.m3u8
 #EXTINF:0 ,TNT Sports
 http://198.255.22.106:25461/340/zapintv.m3u8
 #EXTINF:0, TyC Sports
