@@ -40,7 +40,7 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
 #EXTINF:0 ,Cable Onda Sports FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
 #EXTINF:0 ,RPC (Panamá)
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
 http://127.0.0.1
 #EXTINF:0 ,Telefuturo
