@@ -122,7 +122,7 @@ http://198.255.22.106:25461/144/zapintv.m3u8
 #EXTINF:0, Univisión TDN
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(04)/index.m3u8
 #EXTINF:0 ,VTV (Uruguay)
-http://photocall.tv/vg1531.m3u8?ch=vt
+http://photocall.tv/vg1531.m3u8?ch=vtv
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
