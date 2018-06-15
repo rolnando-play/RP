@@ -3,8 +3,6 @@
 https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/b83c1070c97c369e6b95b824aabbac22.png" group-title="RUSIA 2018", *********** RUSIA 2018 **********
 http://127.0.0.1
-#EXTINF:0 ,Tigo (solo partidos)
-http://127.0.0.1
 #EXTINF:0 ,Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0 ,SNT
@@ -27,14 +25,6 @@ https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(04)/index.m3u8
 #EXTINF:0 ,Univision TDN
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(04)/index.m3u8
-#EXTINF:0 ,Monte Carlo (Uruguay)
-http://api.new.livestream.com/accounts/152816/events/4235094/live.m3u8
-#EXTINF:0 ,Teledoce (Uruguay)
-http://mdstrm.com/live-stream-playlist/5aba9ca777ed89391543b607.m3u8
-#EXTINF:0 ,Teletica (Costa Rica)
-https://stream-02.nyc.dailymotion.com/08/dm/3/x29e3wg/live-1.m3u8
-#EXTINF:0 ,TV Azteca (Guatemala)
-http://aztecalive-lh.akamaihd.net/i/0j674ifgl_1@500584/index_1_av-p.m3u8
 #EXTINF:0 ,Cable Onda Sports
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
 #EXTINF:0 ,Cable Onda Sports FC
