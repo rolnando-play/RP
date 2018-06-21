@@ -214,7 +214,7 @@ http://198.255.22.106:25461/66/zapintv.m3u8
 #EXTINF:0 ,Universal Channel
 http://198.255.22.106:25461/78/zapintv.m3u8
 #EXTINF:0 ,Univisión
-http://198.255.22.106:25461/157/zapintv.m3u8
+https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
 http://198.255.22.106:25461/48/zapintv.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
