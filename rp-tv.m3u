@@ -24,7 +24,7 @@ https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 ,Foro TV
 http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(04)/index.m3u8
 #EXTINF:0 ,Univision TDN
-http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(04)/index.m3u8
+https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_3000.m3u8
 #EXTINF:0 ,DirecTV Sports
 http://162.244.80.90/loadbalance/32189436821963757487/chunks.m3u8?pxAuth=ne3bgpEzrIPCblndA2yr6D5Y7IcNrIdI
 #EXTINF:0 ,Cable Onda Sports
