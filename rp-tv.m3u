@@ -14,11 +14,13 @@ http://198.255.22.106:25461/144/zapintv.m3u8
 #EXTINF:0 ,Telemundo
 http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
 #EXTINF:0 ,Canal 13 (Chile)
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8
+http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
 #EXTINF:0 ,Telecinco (España)
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
 #EXTINF:0 ,Cuatro (España)
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8
+#EXTINF:0 ,be Mad (España)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:0 ,RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 #EXTINF:0 ,Foro TV
