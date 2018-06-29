@@ -7,4 +7,8 @@
       <Nombre>Be Mad</Nombre>
       <URL>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</URL>
    </Canal>
+   <Canal>
+      <Nombre>Hola</Nombre>
+      <URL>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</URL>
+   </Canal>
 </Canales>
