@@ -1,2 +1,3 @@
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
+http://213.183.46.114/hls-live/xmlive/_definst_/1515724/1515724.m3u8?whence=22
