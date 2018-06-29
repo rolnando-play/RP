@@ -1,8 +1,10 @@
-<canales>
-   <rcn>
+<Canales>
+   <Canal>
+   <Rcn>
       <url>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8</url>
-   </rcn>
-   <bemad>
+   </Rcn>
+   <Bemad>
       <url>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</url>
-   </bemad>
-</canales>
+   </Bemad>
+   </Canal>
+</Canales>
