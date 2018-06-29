@@ -1,10 +1,10 @@
 <Canales>
    <Canal>
       <Nombre>RCN</Nombre>
-      <url>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8</url>
+      <URL>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8</url>
    </Canal>
    <Canal>
       <Nombre>Be Mad</Nombre>
-      <url>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</url>
+      <URL>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</url>
    </Canal>
 </Canales>
