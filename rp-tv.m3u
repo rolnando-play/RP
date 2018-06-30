@@ -25,6 +25,8 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
 #EXTINF:0 ,RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:0 ,TSi (Honduras)
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 #EXTINF:0 ,Foro TV
 http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(04)/index.m3u8
 #EXTINF:0 ,Univision TDN
