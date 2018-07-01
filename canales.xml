@@ -31,4 +31,12 @@
       <Nombre>Canal 3 Pinamar Argentina</Nombre>
       <URL>http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8</URL>
    </Canal>
+   <Canal>
+      <Nombre>Telesol Argentina</Nombre>
+      <URL>http://149.56.98.124:9090/hls/telesol.m3u8</URL>
+   </Canal>
+   <Canal>
+      <Nombre>TSN1 en inglés</Nombre>
+      <URL>https://sportsbar.pw/lba/123/g2/TSN1.m3u8</URL>
+   </Canal>
 </Canales>
