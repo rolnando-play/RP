@@ -43,4 +43,8 @@
       <Nombre>Canal de eventos</Nombre>
       <URL>http://213.183.46.114/hls-live/xmlive/_definst_/1524134/1524134.m3u8?whence=22</URL>
    </Canal>
+   <Canal>
+      <Nombre>TVN Panamá</Nombre>
+      <URL>https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8</URL>
+   </Canal>
 </Canales>
