@@ -4,15 +4,15 @@
       <URL>https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8</URL>
    </Canal>
    <Canal>
-      <Nombre>beMad (España)</Nombre>
+      <Nombre>beMad (EspaÃ±a)</Nombre>
       <URL>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8</URL>
    </Canal>
    <Canal>
-      <Nombre>Telecinco Geobloqueo España</Nombre>
+      <Nombre>Telecinco Geobloqueo EspaÃ±a</Nombre>
       <URL>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8</URL>
    </Canal>
    <Canal>
-      <Nombre>Cuatro Geobloqueo España</Nombre>
+      <Nombre>Cuatro Geobloqueo EspaÃ±a</Nombre>
       <URL>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8</URL>
    </Canal>
    <Canal>
@@ -36,7 +36,7 @@
       <URL>http://149.56.98.124:9090/hls/telesol.m3u8</URL>
    </Canal>
    <Canal>
-      <Nombre>TSN1 en inglés</Nombre>
+      <Nombre>TSN1 EE.UU</Nombre>
       <URL>https://sportsbar.pw/lba/123/g2/TSN1.m3u8</URL>
    </Canal>
    <Canal>
@@ -44,7 +44,7 @@
       <URL>http://213.183.46.114/hls-live/xmlive/_definst_/1524134/1524134.m3u8?whence=22</URL>
    </Canal>
    <Canal>
-      <Nombre>TVN Panamá</Nombre>
+      <Nombre>TVN Panama</Nombre>
       <URL>https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8</URL>
    </Canal>
 </Canales>
