@@ -84,25 +84,25 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
 #EXTINF:0 ,beIn Sports
 http://server2.jadegames.net:8000/live/free/free/52.ts
 #EXTINF:0 ,Claro Sports
-http://198.255.22.106:25461/287/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/clarospotscol.php?index.m3u8
 #EXTINF:0 ,DeporTV
 http://132.255.200.250:80/hls/master-Deportv.m3u8
 #EXTINF:0 ,ESPN
-http://198.255.22.106:25461/128/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/espn.php?index.m3u8
 #EXTINF:0 ,ESPN 2
-http://198.255.22.106:25461/129/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/espn2.php?index.m3u8
 #EXTINF:0 ,ESPN 3
-http://198.255.22.106:25461/130/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/espn3.php?index.m3u8
 #EXTINF:0 ,ESPN +
-http://198.255.22.106:25461/131/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/espnplus.php?index.m3u8
 #EXTINF:0 ,Fighting (UFC)
 http://198.255.22.106:25461/281/zapintv.m3u8
 #EXTINF:0 ,Fox Sports
-http://198.255.22.106:25461/132/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxsports.php?index.m3u8
 #EXTINF:0 ,Fox Sports 2
-http://198.255.22.106:25461/133/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxsports2.php?index.m3u8
 #EXTINF:0 ,Fox Sports 3
-http://198.255.22.106:25461/134/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxsports3.php?index.m3u8
 #EXTINF:0 ,Fox Sports Premium
 http://198.255.22.106:25461/339/zapintv.m3u8
 #EXTINF:0, Garage TV
@@ -134,159 +134,165 @@ http://photocall.tv/vg1531.m3u8?ch=vtv
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-http://198.255.22.106:25461/8/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/animalp.php?index.m3u8
 #EXTINF:0 ,Discovery Channel
-http://198.255.22.106:25461/126/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/discoverych.php?index.m3u8
 #EXTINF:0 ,Discovery Civilization
 http://198.255.22.106:25461/104/zapintv.m3u8
 #EXTINF:0 ,Discovery H&H
-http://198.255.22.106:25461/6/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/discoveryhh.php?index.m3u8
 #EXTINF:0 ,Discovery Science
-http://198.255.22.106:25461/103/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/discoverysci.php?index.m3u8
 #EXTINF:0 ,Discovery Theater
-http://198.255.22.106:25461/125/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/discoverythe.php?index.m3u8
 #EXTINF:0 ,Discovery TLC
-http://198.255.22.106:25461/3/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/tlc.php?index.m3u8
 #EXTINF:0 ,Discovery Turbo
-http://198.255.22.106:25461/7/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/discoverytur.php?index.m3u8
 #EXTINF:0 ,Discovery World
-http://198.255.22.106:25461/124/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/discoveryw.php?index.m3u8
 #EXTINF:0 ,History 2
-http://198.255.22.106:25461/152/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/h2.php?index.m3u8
 #EXTINF:0 ,History
-http://198.255.22.106:25461/72/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/historycha.php?index.m3u8
 #EXTINF:0 ,Investigation Discovery
-http://198.255.22.106:25461/50/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/investigationd.php?index.m3u8
 #EXTINF:0 ,Nat Geo
-http://198.255.22.106:25461/4/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/natgeomx.php?index.m3u8
 #EXTINF:0 ,Nat Geo Wild
 http://198.255.22.106:25461/33/zapintv.m3u88
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-http://198.255.22.106:25461/83/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/aemundo.php?index.m3u8
 #EXTINF:0 ,AMC
-http://198.255.22.106:25461/41/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/amc.php?index.m3u8
 #EXTINF:0 ,AXN
-http://198.255.22.106:25461/77/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/axn.php?index.m3u8
 #EXTINF:0 ,Las Estrellas
-http://198.255.22.106:25461/49/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/canalestrellas.php?index.m3u8
 #EXTINF:0 ,Cinecanal
-http://198.255.22.106:25461/110/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/cinecanal.php?index.m3u8
+#EXTINF:0 ,Cinelatino
+http://gameriptv.com/chan/sd54fs21ds654/cinelatino.php?index.m3u8
 #EXTINF:0 ,Cinemax
-http://198.255.22.106:25461/40/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/cinemax.php?index.m3u8
 #EXTINF:0 ,DHE
-http://198.255.22.106:25461/29/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/dhe.php?index.m3u8
 #EXTINF:0 ,El Gourmet
-http://198.255.22.106:25461/28/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/elgourmet.php?index.m3u8
 #EXTINF:0 ,E!
-http://198.255.22.106:25461/58/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/e_ent.php?index.m3u8
 #EXTINF:0 ,Fox
-http://198.255.22.106:25461/57/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/fox.php?index.m3u8
 #EXTINF:0 ,FX
-http://198.255.22.106:25461/64/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/fx.php?index.m3u8
 #EXTINF:0 ,FXM
-http://198.255.22.106:25461/107/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/thefilmzone.php?index.m3u8
 #EXTINF:0 ,Fox Life
-http://198.255.22.106:25461/101/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxlife.php?index.m3u8
 #EXTINF:0 ,Golden
 http://198.255.22.106:25461/39/zapintv.m3u8
 #EXTINF:0 ,Golden Plus
-http://198.255.22.106:25461/38/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/goldpremier.php?index.m3u8
 #EXTINF:0 ,iSat
-http://198.255.22.106:25461/106/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/isat.php?index.m3u8
 #EXTINF:0 ,Paramount
-http://198.255.22.106:25461/151/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/paramount.php?index.m3u8
 #EXTINF:0 ,Space
-http://198.255.22.106:25461/56/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/space.php?index.m3u8
 #EXTINF:0 ,Studio Universal
-http://198.255.22.106:25461/32/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/estudiouniversal.php?index.m3u8
 #EXTINF:0 ,Sony
-http://198.255.22.106:25461/20/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/sony.php?index.m3u8
 #EXTINF:0 ,Syfy
 http://198.255.22.106:25461/42/zapintv.m3u8
 #EXTINF:0 ,TBS
-http://198.255.22.106:25461/99/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/tbs.php?index.m3u8
 #EXTINF:0 ,Telemundo
 http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
 #EXTINF:0 ,tlnovelas
 http://198.255.22.106:25461/31/zapintv.m3u8
 #EXTINF:0 ,TNT
-http://198.255.22.106:25461/55/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/tnt.php?index.m3u8
 #EXTINF:0 ,TNT Series
-http://198.255.22.106:25461/54/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/tntseries.php?index.m3u8
 #EXTINF:0 ,Tru TV
-http://198.255.22.106:25461/66/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/trutv.php?index.m3u8
 #EXTINF:0 ,Universal Channel
-http://198.255.22.106:25461/78/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/universalchannel.php?index.m3u8
 #EXTINF:0 ,Univisión
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
-http://198.255.22.106:25461/48/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/warner.php?index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
+#EXTINF:0 , Boomerang
+http://gameriptv.com/chan/sd54fs21ds654/boomerang.php?index.m3u8
 #EXTINF:0 ,Cartoon Network
-http://198.255.22.106:25461/44/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/cartoonnet.php?index.m3u8
 #EXTINF:0 ,Discovery Kids
-http://198.255.22.106:25461/115/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/disckids.php?index.m3u8
 #EXTINF:0 ,Disney Channel
-http://198.255.22.106:25461/13/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/disneyhd.php?index.m3u8
 #EXTINF:0 ,Disney Junior
-http://198.255.22.106:25461/43/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/disneyjr.php?index.m3u8
 #EXTINF:0 ,Disney XD
-http://198.255.22.106:25461/12/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/disneyxd.php?index.m3u8
 #EXTINF:0 ,Nat Geo Kids
-http://198.255.22.106:25461/79/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/natgeokids.php?index.m3u8
 #EXTINF:0 ,Nickelodeon
-http://198.255.22.106:25461/11/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/nickelodeon.php?index.m3u8
 #EXTINF:0 ,Nick 2
-http://198.255.22.106:25461/10/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/nick2.php?index.m3u8
 #EXTINF:0 ,Nicktoons
 http://198.255.22.106:25461/9/zapintv.m3u8
 #EXTINF:0 ,Nick JR
 http://198.255.22.106:25461/10/zapintv.m3u8
 #EXTINF:0 ,Tooncast
-http://198.255.22.106:25461/122/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/tooncast.php?index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
-http://198.255.22.106:25461/135/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/hbosub.php?index.m3u8
 #EXTINF:0 ,HBO 2
-http://198.255.22.106:25461/136/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/hbo2.php?index.m3u8
 #EXTINF:0 ,HBO Family
-http://198.255.22.106:25461/137/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/hbofam.php?index.m3u8
 #EXTINF:0 ,HBO Plus
-http://198.255.22.106:25461/138/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/hboplus.php?index.m3u8
 #EXTINF:0 ,HBO Signature
-http://198.255.22.106:25461/139/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/hbosign.php?index.m3u8
 #EXTINF:0 ,Max Prime
-http://198.255.22.106:25461/140/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/max_prime.php?index.m3u8
+#EXTINF:0 ,Max Up
+http://gameriptv.com/chan/sd54fs21ds654/maxup.php?index.m3u8
 #EXTINF:0 ,Fox Action
-http://198.255.22.106:25461/19/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxaction.php?index.m3u8
 #EXTINF:0 ,Fox Cinema
-http://198.255.22.106:25461/18/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxcinema.php?index.m3u8
 #EXTINF:0 ,Fox Classics
-http://198.255.22.106:25461/17/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxclass.php?index.m3u8
 #EXTINF:0 ,Fox Comedy
-http://198.255.22.106:25461/147/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxcomedy.php?index.m3u8
 #EXTINF:0 ,Fox Family
-http://198.255.22.106:25461/148/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxfamily.php?index.m3u8
 #EXTINF:0 ,Fox Movies
-http://198.255.22.106:25461/16/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxmovies.php?index.m3u8
 #EXTINF:0 ,Fox Series
-http://198.255.22.106:25461/15/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/foxseries.php?index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0 ,MTV
-http://198.255.22.106:25461/88/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/mtv.php?index.m3u8
 #EXTINF:0 ,MTV Hits
-http://198.255.22.106:25461/114/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/mtvhits.php?index.m3u8
 #EXTINF:0 ,MTV Live
-http://198.255.22.106:25461/87/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/mtvlive.php?index.m3u8
 #EXTINF:0 ,VH1
-http://198.255.22.106:25461/84/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/vh1.php?index.m3u8
 #EXTINF:0 ,VH1 Classics
-http://198.255.22.106:25461/111/zapintv.m3u8
+http://gameriptv.com/chan/sd54fs21ds654/vh1class.php?index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2000px-Argentina_flag_tv.svg.png" group-title="ARGENTINA", ********** ARGENTINA **********
 http://127.0.0.1
 #EXTINF:0 ,América TV
