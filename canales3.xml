@@ -47,4 +47,7 @@
       <Nombre>TVN Panama</Nombre>
       <URL>https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8</URL>
    </Canal>
-</Canales>
+   <Canal>
+      <Nombre>Caracol</Nombre>
+      <URL>https://live83.vkuserlive.com/639908/live/0/64IGBFdnAxNEFpNkx5PDM4PzM6PzM2/playlist.m3u8</URL>
+   </Canal>
