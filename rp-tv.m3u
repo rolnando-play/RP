@@ -86,7 +86,7 @@ http://server2.jadegames.net:8000/live/free/free/52.ts
 #EXTINF:0 ,Claro Sports
 http://gameriptv.com/chan/sd54fs21ds654/clarospotscol.php?index.m3u8
 #EXTINF:0 ,DeporTV
-http://132.255.200.250:80/hls/master-Deportv.m3u8
+https://538f0c8c264ca.streamlock.net/DXTV/smil:DXTV/playlist.m3u8
 #EXTINF:0 ,ESPN
 http://gameriptv.com/chan/sd54fs21ds654/espn.php?index.m3u8
 #EXTINF:0 ,ESPN 2
