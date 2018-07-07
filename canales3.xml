@@ -53,6 +53,6 @@
    </Canal>
    <Canal>
       <Nombre>DirecTV Sports</Nombre>
-      <URL>http://185.23.213.90/hls/VeoPartidos.m3u8</URL>
+      <URL>http://185.23.213.90/hls/VeoPartidos2.m3u8</URL>
    </Canal>
 </Canales>
