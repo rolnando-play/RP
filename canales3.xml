@@ -51,4 +51,8 @@
       <Nombre>Caracol</Nombre>
       <URL>http://gameriptv.com/chan/sd54fs21ds654/caracol.php?index.m3u8</URL>
    </Canal>
+   <Canal>
+      <Nombre>DirecTV Sports</Nombre>
+      <URL>http://185.23.213.90/hls/VeoPartidos2.m3u8</URL>
+   </Canal>
 </Canales>
