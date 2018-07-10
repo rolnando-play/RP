@@ -1,6 +1,4 @@
-{
-  "Canales": {
-    "Canal": [
+[
       {
         "Nombre": "RCN",
         "URL": "https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8"
@@ -66,5 +64,3 @@
         "URL": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2065.ts"
       }
     ]
-  }
-}
