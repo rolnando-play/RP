@@ -1,0 +1,70 @@
+{
+  "Canales": {
+    "Canal": [
+      {
+        "Nombre": "RCN",
+        "URL": "https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8"
+      },
+      {
+        "Nombre": "beMad ES",
+        "URL": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8"
+      },
+      {
+        "Nombre": "Telecinco Geobloqueo ES",
+        "URL": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8"
+      },
+      {
+        "Nombre": "Cuatro Geobloqueo ES",
+        "URL": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8"
+      },
+      {
+        "Nombre": "Telemundo",
+        "URL": "http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8"
+      },
+      {
+        "Nombre": "Canal 13 Chile",
+        "URL": "http://13.live.cdnz.cl/13hddesktop/13hd.m3u8"
+      },
+      {
+        "Nombre": "TSi Honduras",
+        "URL": "https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8"
+      },
+      {
+        "Nombre": "Canal 3 Pinamar Argentina",
+        "URL": "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8"
+      },
+      {
+        "Nombre": "Telesol Argentina",
+        "URL": "http://149.56.98.124:9090/hls/telesol.m3u8"
+      },
+      {
+        "Nombre": "TSN1 en ingles",
+        "URL": "https://sportsbar.pw/lba/123/g2/TSN1.m3u8"
+      },
+      {
+        "Nombre": "Canal de eventos",
+        "URL": "http://213.183.46.114/hls-live/xmlive/_definst_/1532852/1532852.m3u8?whence=22"
+      },
+      {
+        "Nombre": "TVN Panama",
+        "URL": "https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8"
+      },
+      {
+        "Nombre": "Caracol",
+        "URL": "http://gameriptv.com/chan/sd54fs21ds654/caracol.php?index.m3u8"
+      },
+      {
+        "Nombre": "DirecTV Sports",
+        "URL": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2032.ts"
+      },
+      {
+        "Nombre": "TV Pública",
+        "URL": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2067.ts"
+      },
+      {
+        "Nombre": "TyC Sports",
+        "URL": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2065.ts"
+      }
+    ]
+  }
+}
