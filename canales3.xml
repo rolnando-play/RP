@@ -53,6 +53,14 @@
    </Canal>
    <Canal>
       <Nombre>DirecTV Sports</Nombre>
-      <URL>http://185.23.213.90/hls/VeoPartidos2.m3u8</URL>
+      <URL>http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2032.ts</URL>
+   </Canal>
+   <Canal>
+      <Nombre>TV Pública</Nombre>
+      <URL>http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2067.ts</URL>
+   </Canal>
+   <Canal>
+      <Nombre>TyC Sports</Nombre>
+      <URL>http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2065.ts</URL>
    </Canal>
 </Canales>
