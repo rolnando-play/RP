@@ -41,7 +41,7 @@
    </Canal>
    <Canal>
       <Nombre>Canal de eventos</Nombre>
-      <URL>http://213.183.46.114/hls-live/xmlive/_definst_/1540878/1540878.m3u8?whence=22</URL>
+      <URL>http://213.183.46.114/hls-live/xmlive/_definst_/1549182/1549182.m3u8?whence=22</URL>
    </Canal>
    <Canal>
       <Nombre>TVN Panama</Nombre>
@@ -62,9 +62,5 @@
    <Canal>
       <Nombre>TyC Sports</Nombre>
       <URL>http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2065.ts</URL>
-   </Canal>
-   <Canal>
-      <Nombre>CCP vs Talleres</Nombre>
-      <URL>https://neuclnlds52dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_android.m3u8</URL>
    </Canal>
 </Canales>
