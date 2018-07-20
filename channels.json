@@ -1,74 +1,92 @@
 [
       {
         "Nombre": "test",
-        "Enlace": "https://www.sample-videos.com/video/mp4/480/big_buck_bunny_480p_1mb.mp4"
+        "Enlace": "https://www.sample-videos.com/video/mp4/480/big_buck_bunny_480p_1mb.mp4",
+        "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "test2",
-        "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_1600_pc.m3u8"
+        "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_1600_pc.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "RCN",
-        "Enlace": "https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8"
+        "Enlace": "https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "beMad ES",
-        "Enlace": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8"
+        "Enlace": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Telecinco Geobloqueo ES",
-        "Enlace": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8"
+        "Enlace": "https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Cuatro Geobloqueo ES",
-        "Enlace": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8"
+        "Enlace": "https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Telemundo",
-        "Enlace": "http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8"
+        "Enlace": "http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8",
+           "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png" 
       },
       {
         "Nombre": "Canal 13 Chile",
-        "Enlace": "http://13.live.cdnz.cl/13hddesktop/13hd.m3u8"
+        "Enlace": "http://13.live.cdnz.cl/13hddesktop/13hd.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "TSi Honduras",
-        "Enlace": "https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8"
+        "Enlace": "https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Canal 3 Pinamar Argentina",
-        "Enlace": "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8"
+        "Enlace": "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Telesol Argentina",
-        "Enlace": "http://149.56.98.124:9090/hls/telesol.m3u8"
+        "Enlace": "http://149.56.98.124:9090/hls/telesol.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "TSN1 en ingles",
-        "Enlace": "https://sportsbar.pw/lba/123/g2/TSN1.m3u8"
+        "Enlace": "https://sportsbar.pw/lba/123/g2/TSN1.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Canal de eventos",
-        "Enlace": "http://213.183.46.114/hls-live/xmlive/_definst_/1532852/1532852.m3u8?whence=22"
+        "Enlace": "http://213.183.46.114/hls-live/xmlive/_definst_/1532852/1532852.m3u8?whence=22",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "TVN Panama",
-        "Enlace": "https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8"
+        "Enlace": "https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8",
+      "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "Caracol",
-        "Enlace": "http://gameriptv.com/chan/sd54fs21ds654/caracol.php?index.m3u8"
+        "Enlace": "http://gameriptv.com/chan/sd54fs21ds654/caracol.php?index.m3u8",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "DirecTV Sports",
-        "Enlace": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2032.ts"
+        "Enlace": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2032.ts",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "TV Pública",
-        "Enlace": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2067.ts"
+        "Enlace": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2067.ts",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
         "Nombre": "TyC Sports",
-        "Enlace": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2065.ts"
+        "Enlace": "http://tvpremiumhd.club/lista-gratuita/060610/tv/v/2065.ts",
+            "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       }
 ]
