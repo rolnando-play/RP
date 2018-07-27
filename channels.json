@@ -1,12 +1,12 @@
 [
       {
-        "Nombre": "test",
+        "Nombre": "Test",
         "Enlace": "https://www.sample-videos.com/video/mp4/480/big_buck_bunny_480p_1mb.mp4",
         "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
             
       },
       {
-        "Nombre": "test2",
+        "Nombre": "Test2",
         "Enlace": "http://213.183.46.114/hls-live/xmlive/_definst_/1571022/1571022.m3u8?whence=22",
             "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
@@ -16,7 +16,7 @@
             "Imglink": "https://vignette.wikia.nocookie.net/logopedia/images/9/91/RCNtv.png/revision/latest?cb=20170828180639"
       },
       {
-        "Nombre": "beMad ES",
+        "Nombre": "BeMad ES",
         "Enlace": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8",
             "Imglink": "https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png"
       },
