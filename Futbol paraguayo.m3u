@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0, CAP-LIB
-http://213.183.46.114/hls-live/xmlive/_definst_/1571022/1571022.m3u8?whence=22
-#EXTINF:0, 24 SEP - OLI
-http://213.183.46.114/hls-live/xmlive/_definst_/1571090/1571090.m3u8?whence=22
+#EXTINF:0, LIB-CCP
+http://213.183.46.114/hls-live/xmlive/_definst_/1577894/1577894.m3u8?whence=22
