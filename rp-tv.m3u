@@ -1,48 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/FB_IMG_1527306666739.jpg" group-title="ROLNANDO PLAY", ***ROLNANDO PLAY***
 https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/b83c1070c97c369e6b95b824aabbac22.png" group-title="RUSIA 2018", *********** RUSIA 2018 **********
-http://127.0.0.1
-#EXTINF:0 ,Telefuturo
-http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 ,SNT
-http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8
-#EXTINF:0 ,TVP Argentina
-http://level3itvo.cdnar.net/itvmedia/7/1/channel_000.m3u8
-#EXTINF:0, Canal 13  (Chile)
-http://13.live.cdnz.cl/13hddesktop/13hd-900.m3u8
-#EXTINF:0, Caracol
-http://gameriptv.com/chan/sd54fs21ds654/caracol.php?index.m3u8
-#EXTINF:0 ,TyC Sports
-http://198.255.22.106:25461/144/zapintv.m3u8
-#EXTINF:0 ,Telemundo
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8
-#EXTINF:0 ,Telecinco (España)
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
-#EXTINF:0 ,Cuatro (España)
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_3.m3u8
-#EXTINF:0 ,be Mad (España)
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_3.m3u8
-#EXTINF:0 ,RCN
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-#EXTINF:0 ,TSi (Honduras)
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-#EXTINF:0, Canal 3 Pinamar (Argentina) 
-http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
-#EXTINF:0 ,Foro TV
-http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(04)/index.m3u8
-#EXTINF:0 ,Univision TDN
-https://nludnoo.akamaized.net/nlds/univision/as/live/udnoo_hd_3000.m3u8
-#EXTINF:0 ,TVN Panamá
-https://ssai-apac.ooyala.com/hls/delta/CFLIVE/out/u/ezye7lz7hql35/107829/JlbDRrZjE6JBi2W0IpB3pRbFcNpyNh5W/cn/34ee71d50185402b81af1ebb43af1706.m3u8
-#EXTINF:0 ,Cable Onda Sports
-http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/playlist.m3u8
-#EXTINF:0 ,Cable Onda Sports FC
-http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/playlist.m3u8
-#EXTINF:0 ,RPC (Panamá)
-http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
-#EXTINF:0 ,Telemetro (Panamá)
-http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-480p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
 http://127.0.0.1
 #EXTINF:0 ,Telefuturo
