@@ -16,7 +16,7 @@ http://gameriptv.com/chan/sd54fs21ds654/caracol.php?index.m3u8
 #EXTINF:0 ,TyC Sports
 http://198.255.22.106:25461/144/zapintv.m3u8
 #EXTINF:0 ,Telemundo
-http://nl.zonasports.in/ch/13wc/chunklist_w253220525.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Telecinco (España)
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_3.m3u8
 #EXTINF:0 ,Cuatro (España)
@@ -136,47 +136,47 @@ http://photocall.tv/vg1531.m3u8?ch=vtv
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-http://gameriptv.com/chan/sd54fs21ds654/animalp.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery Channel
 http://gameriptv.com/chan/sd54fs21ds654/discoverych.php?index.m3u8
 #EXTINF:0 ,Discovery Civilization
-http://198.255.22.106:25461/104/zapintv.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery H&H
-http://gameriptv.com/chan/sd54fs21ds654/discoveryhh.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery Science
-http://gameriptv.com/chan/sd54fs21ds654/discoverysci.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery Theater
-http://gameriptv.com/chan/sd54fs21ds654/discoverythe.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery TLC
-http://gameriptv.com/chan/sd54fs21ds654/tlc.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery Turbo
-http://gameriptv.com/chan/sd54fs21ds654/discoverytur.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery World
 http://gameriptv.com/chan/sd54fs21ds654/discoveryw.php?index.m3u8
-#EXTINF:0 ,History 2
-http://gameriptv.com/chan/sd54fs21ds654/h2.php?index.m3u8
 #EXTINF:0 ,History
-http://gameriptv.com/chan/sd54fs21ds654/historycha.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
+#EXTINF:0 ,History
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(02)/index.m3u8
 #EXTINF:0 ,Investigation Discovery
-http://gameriptv.com/chan/sd54fs21ds654/investigationd.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nat Geo
-http://gameriptv.com/chan/sd54fs21ds654/natgeomx.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nat Geo Wild
 http://198.255.22.106:25461/33/zapintv.m3u88
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-http://gameriptv.com/chan/sd54fs21ds654/aemundo.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,AMC
 http://gameriptv.com/chan/sd54fs21ds654/amc.php?index.m3u8
 #EXTINF:0 ,AXN
-http://gameriptv.com/chan/sd54fs21ds654/axn.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Las Estrellas
 http://gameriptv.com/chan/sd54fs21ds654/canalestrellas.php?index.m3u8
 #EXTINF:0 ,Cinecanal
-http://gameriptv.com/chan/sd54fs21ds654/cinecanal.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Cinelatino
-http://gameriptv.com/chan/sd54fs21ds654/cinelatino.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Cinemax
 http://gameriptv.com/chan/sd54fs21ds654/cinemax.php?index.m3u8
 #EXTINF:0 ,DHE
@@ -184,49 +184,49 @@ http://gameriptv.com/chan/sd54fs21ds654/dhe.php?index.m3u8
 #EXTINF:0 ,El Gourmet
 http://gameriptv.com/chan/sd54fs21ds654/elgourmet.php?index.m3u8
 #EXTINF:0 ,E!
-http://gameriptv.com/chan/sd54fs21ds654/e_ent.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox
-http://gameriptv.com/chan/sd54fs21ds654/fox.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,FX
-http://gameriptv.com/chan/sd54fs21ds654/fx.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,FXM
-http://gameriptv.com/chan/sd54fs21ds654/thefilmzone.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Life
-http://gameriptv.com/chan/sd54fs21ds654/foxlife.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Golden
-http://198.255.22.106:25461/39/zapintv.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(03)/index.m3u8
 #EXTINF:0 ,Golden Plus
 http://gameriptv.com/chan/sd54fs21ds654/goldpremier.php?index.m3u8
 #EXTINF:0 ,iSat
 http://gameriptv.com/chan/sd54fs21ds654/isat.php?index.m3u8
 #EXTINF:0 ,Paramount
-http://gameriptv.com/chan/sd54fs21ds654/paramount.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Space
-http://gameriptv.com/chan/sd54fs21ds654/space.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Studio Universal
 http://gameriptv.com/chan/sd54fs21ds654/estudiouniversal.php?index.m3u8
 #EXTINF:0 ,Sony
-http://gameriptv.com/chan/sd54fs21ds654/sony.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Syfy
 http://198.255.22.106:25461/42/zapintv.m3u8
 #EXTINF:0 ,TBS
 http://gameriptv.com/chan/sd54fs21ds654/tbs.php?index.m3u8
 #EXTINF:0 ,Telemundo
-http://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/master.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8
 #EXTINF:0 ,tlnovelas
-http://198.255.22.106:25461/31/zapintv.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(03)/index.m3u8
 #EXTINF:0 ,TNT
-http://gameriptv.com/chan/sd54fs21ds654/tnt.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,TNT Series
-http://gameriptv.com/chan/sd54fs21ds654/tntseries.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Tru TV
 http://gameriptv.com/chan/sd54fs21ds654/trutv.php?index.m3u8
 #EXTINF:0 ,Universal Channel
-http://gameriptv.com/chan/sd54fs21ds654/universalchannel.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Univisión
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
-http://gameriptv.com/chan/sd54fs21ds654/warner.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/index.m3u8 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
@@ -238,9 +238,9 @@ http://gameriptv.com/chan/sd54fs21ds654/disckids.php?index.m3u8
 #EXTINF:0 ,Disney Channel
 http://gameriptv.com/chan/sd54fs21ds654/disneyhd.php?index.m3u8
 #EXTINF:0 ,Disney Junior
-http://gameriptv.com/chan/sd54fs21ds654/disneyjr.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8 
 #EXTINF:0 ,Disney XD
-http://gameriptv.com/chan/sd54fs21ds654/disneyxd.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nat Geo Kids
 http://gameriptv.com/chan/sd54fs21ds654/natgeokids.php?index.m3u8
 #EXTINF:0 ,Nickelodeon
@@ -252,49 +252,49 @@ http://198.255.22.106:25461/9/zapintv.m3u8
 #EXTINF:0 ,Nick JR
 http://198.255.22.106:25461/10/zapintv.m3u8
 #EXTINF:0 ,Tooncast
-http://gameriptv.com/chan/sd54fs21ds654/tooncast.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
-http://gameriptv.com/chan/sd54fs21ds654/hbosub.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,HBO 2
 http://gameriptv.com/chan/sd54fs21ds654/hbo2.php?index.m3u8
 #EXTINF:0 ,HBO Family
-http://gameriptv.com/chan/sd54fs21ds654/hbofam.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,HBO Plus
-http://gameriptv.com/chan/sd54fs21ds654/hboplus.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,HBO Signature
-http://gameriptv.com/chan/sd54fs21ds654/hbosign.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Max Prime
-http://gameriptv.com/chan/sd54fs21ds654/max_prime.php?index.m3u8
-#EXTINF:0 ,Max Up
-http://gameriptv.com/chan/sd54fs21ds654/maxup.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(03)/index.m3u8
+#EXTINF:0 ,Max
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Action
-http://gameriptv.com/chan/sd54fs21ds654/foxaction.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Cinema
-http://gameriptv.com/chan/sd54fs21ds654/foxcinema.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Classics
-http://gameriptv.com/chan/sd54fs21ds654/foxclass.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Comedy
-http://gameriptv.com/chan/sd54fs21ds654/foxcomedy.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Family
-http://gameriptv.com/chan/sd54fs21ds654/foxfamily.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Movies
-http://gameriptv.com/chan/sd54fs21ds654/foxmovies.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Series
 http://gameriptv.com/chan/sd54fs21ds654/foxseries.php?index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0 ,MTV
-http://gameriptv.com/chan/sd54fs21ds654/mtv.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,MTV Hits
 http://gameriptv.com/chan/sd54fs21ds654/mtvhits.php?index.m3u8
 #EXTINF:0 ,MTV Live
 http://gameriptv.com/chan/sd54fs21ds654/mtvlive.php?index.m3u8
 #EXTINF:0 ,VH1
-http://gameriptv.com/chan/sd54fs21ds654/vh1.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(03)/index.m3u8
 #EXTINF:0 ,VH1 Classics
-http://gameriptv.com/chan/sd54fs21ds654/vh1class.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2000px-Argentina_flag_tv.svg.png" group-title="ARGENTINA", ********** ARGENTINA **********
 http://127.0.0.1
 #EXTINF:0 ,América TV
