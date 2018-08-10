@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0, SOL-IND
-https://videocdn.mixer.com/hls/46594080-ec099306c1e99bf0f2c84db71382bcdb9243c356_source/index.m3u8
+#EXTINF:0, GRD-LUQ
+https://videocdn.mixer.com/hls/46594080-1c9176e92824494982e2a6745b03a5faa02aee80_source/index.m3u8
+#EXTINF:0, GRD-LUQ 2
+http://91.201.66.58/hls-live/xmlive/_definst_/1605550/1605550.m3u8?whence=1001
