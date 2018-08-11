@@ -47,6 +47,12 @@ http://server2.jadegames.net:8000/live/free/free/52.ts
 http://gameriptv.com/chan/sd54fIs21ds654/clarospotscol.php?index.m3u8
 #EXTINF:0 ,DeporTV
 https://538f0c8c264ca.streamlock.net/DXTV/smil:DXTV/playlist.m3u8
+#EXTINF:0 ,DirecTV Sports
+https://waoplay.xyz/50/waoplay.m3u8
+#EXTINF:0 ,DirecTV Sports 2
+https://waoplay.xyz/20/waoplay.m3u8
+#EXTINF:0 ,DirecTV Sports +
+https://waoplay.xyz/51/waoplay.m3u8
 #EXTINF:0 ,ESPN
 http://gameriptv.com/chan/sd54fIs21ds654/espn.php?index.m3u8
 #EXTINF:0 ,ESPN 2
@@ -120,7 +126,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(03)/index.m
 #EXTINF:0 ,Nat Geo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nat Geo Wild
-http://198.255.22.106:25461/33/zapintv.m3u88
+https://waoplay.xyz/19/waoplay.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
@@ -166,7 +172,7 @@ http://gameriptv.com/chan/sd54fIs21ds654/estudiouniversal.php?index.m3u8
 #EXTINF:0 ,Sony
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Syfy
-http://198.255.22.106:25461/42/zapintv.m3u8
+https://waoplay.xyz/17/waoplay.m3u8
 #EXTINF:0 ,TBS
 http://gameriptv.com/chan/sd54fIs21ds654/tbs.php?index.m3u8
 #EXTINF:0 ,Telemundo
