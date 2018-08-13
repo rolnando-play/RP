@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0, LIB-GUA
-https://videocdn.mixer.com/hls/46594080-f1a1feb103927b20749be16386936b7e7f31ac64_source/index.m3u8
+#EXTINF:0, 3DF-CCP
+https://videocdn.mixer.com/hls/46594080-58b4247ab4b4b05370bfd3e8b8da4031e7a775dc_source/index.m3u8
+#EXTINF:0, 3DF-CCP op2
+http://91.201.66.58/hls-live/xmlive/_definst_/1612343/1612343.m3u8?whence=1001
