@@ -165,6 +165,8 @@ http://gameriptv.com/chan/sd54fIs21ds654/dhe.php?index.m3u8
 http://gameriptv.com/chan/sd54fIs21ds654/elgourmet.php?index.m3u8
 #EXTINF:0 ,E!
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8
+#EXTINF:0 ,Film&Arts
+https://waoplay.xyz/305/waoplay.m3u8
 #EXTINF:0 ,Fox
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,FX
@@ -176,6 +178,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE_HD)/Stream(03)/i
 #EXTINF:0 ,Golden
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(03)/index.m3u8
 #EXTINF:0 ,Golden Plus
+https://waoplay.xyz/470/waoplay.m3u8
+#EXTINF:0 ,Golden Premier
 http://gameriptv.com/chan/sd54fIs21ds654/goldpremier.php?index.m3u8
 #EXTINF:0 ,iSat
 http://gameriptv.com/chan/sd54fIs21ds654/isat.php?index.m3u8
@@ -278,7 +282,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(03)/i
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2000px-Argentina_flag_tv.svg.png" group-title="ARGENTINA", ********** ARGENTINA **********
 http://127.0.0.1
 #EXTINF:0 ,América TV
-http://132.255.200.250:80/hls/master-America.m3u8
+https://waoplay.xyz/360/waoplay.m3u8
 #EXTINF:0 ,El Trece
 http://132.255.200.250:80/hls/master-Canal13.m3u8
 #EXTINF:0 ,TV Pública
