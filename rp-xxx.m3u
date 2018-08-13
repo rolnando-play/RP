@@ -18,7 +18,7 @@ http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 #EXTINF:0 ,Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:0 ,Miami TV
-http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/playlist.m3u8
+https://dag.vidillion.com/dag1.m3u8?sid=mia&cid=miamitv1&appid=miamitv
 #EXTINF:0 ,Sextreme
 http://paraisotv.ddns.net:80/011/myStream/live.m3u8
 #EXTINF:0 ,Sex Privé
