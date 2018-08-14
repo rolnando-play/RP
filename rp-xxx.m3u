@@ -27,3 +27,5 @@ http://paraisotv.ddns.net:80/058/myStream/live.m3u8
 http://paraisotv.ddns.net:80/057/myStream/live.m3u8
 #EXTINF:0 ,Sex Zone
 http://paraisotv.ddns.net:80/008/myStream/live.m3u8
+#EXTINF:0 ,Visit-X
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8
