@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:0, CCP-OLI
 https://videocdn.mixer.com/hls/16492937-0f8b095b59eed39b8bef979e10e59e02daa31189_source/index.m3u8
-#EXTINF:0, GUA-SOL op2
-http://91.201.66.58/hls-live/xmlive/_definst_/1623662/1623662.m3u8?whence=1001
-#EXTINF:0, GUA-SOL op3
-https://videocdn.mixer.com/hls/16492937-75d5737ae4ea7cd3e736f929800d6d38d921be84_source/index.m3u8
+#EXTINF:0, CCP-OLI op2
+http://91.201.66.58/hls-live/xmlive/_definst_/1626058/1626058.m3u8?whence=1001
