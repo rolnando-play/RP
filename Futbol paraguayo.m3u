@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0, CAP-GRD
 https://videocdn.mixer.com/hls/16492937-802691d6629a51a653b66c5fb3a33b1a3973213e_source/index.m3u8
-#EXTINF:0, CAP-GRD
+#EXTINF:0, CAP-GRD op2
+https://videocdn.mixer.com/hls/47850672-0b5b92c35a75c6b6c9d7b713b0b0bebaa98743ab_source/index.m3u8
+#EXTINF:0, CAP-GRD op3
 http://91.201.66.58/hls-live/xmlive/_definst_/1627963/1627963.m3u8?whence=1001
