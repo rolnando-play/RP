@@ -41,24 +41,30 @@ http://159.203.148.226/live/farra_mid.m3u8
 http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
-#EXTINF:0 ,beIn Sports
-http://server2.jadegames.net:8000/live/free/free/52.ts
+#EXTINF:0 ,beIn Sports Ñ
+https://m3uplayer.net/301/waoplay.m3u8
 #EXTINF:0 ,Claro Sports
 https://m3uplayer.net/228/waoplay.m3u8
 #EXTINF:0 ,DeporTV
-https://waoplay.xyz/205/waoplay.m3u8
+https://m3uplayer.net/292/waoplay.m3u8
 #EXTINF:0 ,DirecTV Sports
-https://waoplay.xyz/50/waoplay.m3u8
+https://m3uplayer.net/291/waoplay.m3u8
 #EXTINF:0 ,DirecTV Sports 2
-https://waoplay.xyz/20/waoplay.m3u8
+https://m3uplayer.net/290/waoplay.m3u8
 #EXTINF:0 ,DirecTV Sports +
-https://waoplay.xyz/51/waoplay.m3u8
+https://m3uplayer.net/289/waoplay.m3u8
 #EXTINF:0 ,ESPN
 http://gameriptv.com/chan/sd54fIs21ds654/espn.php?index.m3u8
+#EXTINF:0 ,ESPN MX
+https://m3uplayer.net/287/waoplay.m3u8
 #EXTINF:0 ,ESPN 2
 http://gameriptv.com/chan/sd54fIs21ds654/espn2.php?index.m3u8
+#EXTINF:0 ,ESPN 2 MX
+https://m3uplayer.net/285/waoplay.m3u8
 #EXTINF:0 ,ESPN 3
 http://gameriptv.com/chan/sd54fIs21ds654/espn3.php?index.m3u8
+#EXTINF:0 ,ESPN 3 MX
+https://m3uplayer.net/283/waoplay.m3u8
 #EXTINF:0 ,ESPN +
 http://gameriptv.com/chan/sd54fIs21ds654/espnplus.php?index.m3u8
 #EXTINF:0 ,ESPN + MX
@@ -80,25 +86,25 @@ https://m3uplayer.net/270/waoplay.m3u8
 #EXTINF:0, Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1268811759_b946000_sleng.m3u8
 #EXTINF:0,Gol TV
-https://waoplay.xyz/179/waoplay.m3u8
+https://m3uplayer.net/257/waoplay.m3u8
 #EXTINF:0 ,La Liga TV
-http://178.132.5.98:25461/live/oDNKz4UHGu/47iuV7JxAv/3705.m3u8
+https://m3uplayer.net/300/waoplay.m3u8
 #EXTINF:0 ,Movistar Deportes
 https://waoplay.xyz/146/waoplay.m3u8
 #EXTINF:0 ,Movistar Deportes 1
 https://waoplay.xyz/145/waoplay.m3u8
 #EXTINF:0 ,Movistar Golf
-https://waoplay.xyz/161/waoplay.m3u8
+https://m3uplayer.net/263/waoplay.m3u8
 #EXTINF:0 ,Movistar MotoGP
-https://waoplay.xyz/160/waoplay.m3u8
+https://m3uplayer.net/262/waoplay.m3u8
 #EXTINF:0 ,Movistar Formula 1
-https://waoplay.xyz/163/waoplay.m3u8
+https://m3uplayer.net/265/waoplay.m3u8
 #EXTINF:0 ,Movistar Futbol
 https://waoplay.xyz/162/waoplay.m3u8
 #EXTINF:0 ,Mundo Auto TV
 http://tv.portalfoxmix.club:1935/8702/8702/chunklist_w1056629940.m3u8
 #EXTINF:0 ,NBA
-https://waoplay.xyz/159/waoplay.m3u8
+https://m3uplayer.net/261/waoplay.m3u8
 #EXTINF:0 ,NFL Sports
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:0 ,RAI
@@ -114,13 +120,13 @@ http://apk.goo.ac:8081/live/15/playlist.m3u8
 #EXTINF:0 ,SporTV 3
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 #EXTINF:0 ,TNT Sports
-https://m3uplayer.net/155/waoplay.m3u8
+https://m3uplayer.net/259/waoplay.m3u8
 #EXTINF:0 ,Univision TDN
 https://m3uplayer.net/255/waoplay.m3u8
 #EXTINF:0, TyC Sports
-https://waoplay.xyz/256/waoplay.m3u8
+https://m3uplayer.net/256/waoplay.m3u8
 #EXTINF:0, Univisión TDN
-https://waoplay.xyz/255/waoplay.m3u8
+https://m3uplayer.net/2566/waoplay.m3u8
 #EXTINF:0 ,VTV (Uruguay)
 https://m3uplayer.net/254/waoplay.m3u8
 #EXTINF:0 ,Win Sports
