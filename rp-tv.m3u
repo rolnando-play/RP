@@ -95,6 +95,10 @@ http://tv.portalfoxmix.club:1935/8702/8702/chunklist_w1056629940.m3u8
 https://waoplay.xyz/159/waoplay.m3u8
 #EXTINF:0 ,NFL Sports
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+#EXTINF:0 ,RAI
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(RAI)/Stream(02)/index.m3u8
+#EXTINF:0 ,RAI Sport
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 #EXTINF:0 ,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 ,SporTV
