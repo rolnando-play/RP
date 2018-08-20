@@ -116,7 +116,7 @@ https://waoplay.xyz/150/waoplay.m3u8
 #EXTINF:0 ,VTV (Uruguay)
 https://waoplay.xyz/146/waoplay.m3u8
 #EXTINF:0 ,Win Sports
-https://waoplay.xyz/146/waoplay.m3u8
+https://m3uplayer.net/166/waoplay.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
@@ -156,7 +156,7 @@ http://gameriptv.com/chan/sd54fIs21ds654/amc.php?index.m3u8
 #EXTINF:0 ,AXN
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Las Estrellas
-http://gameriptv.com/chan/sd54fs21ds654/canalestrellas.php?index.m3u8
+https://m3uplayer.net/165/waoplay.m3u8
 #EXTINF:0 ,Cinecanal
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Cinelatino
@@ -200,7 +200,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index
 #EXTINF:0 ,Syfy
 https://waoplay.xyz/17/waoplay.m3u8
 #EXTINF:0 ,TBS
-http://gameriptv.com/chan/sd54fIs21ds654/tbs.php?index.m3u8
+https://m3uplayer.net/171/waoplay.m3u8
 #EXTINF:0 ,Telemundo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8
 #EXTINF:0 ,tlnovelas
@@ -290,13 +290,13 @@ http://127.0.0.1
 #EXTINF:0 ,América TV
 https://waoplay.xyz/360/waoplay.m3u8
 #EXTINF:0 ,El Trece
-http://132.255.200.250:80/hls/master-Canal13.m3u8
+https://m3uplayer.net/156/waoplay.m3u8
 #EXTINF:0 ,TV Pública
 http://132.255.200.250/hls/master-TVP.m3u8
 #EXTINF:0 ,Canal 26
 http://132.255.200.250:80/hls/master-C26.m3u8
 #EXTINF:0 ,Canal 9
-http://132.255.200.250:80/hls/master-Canal9HD.m3u8
+https://m3uplayer.net/157/waoplay.m3u8
 #EXTINF:0 ,Telefé
 http://132.255.200.250:80/hls/master-Telefe.m3u8
 #EXTINF:0 ,C5N
