@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, LIB-NAC
 https://videocdn.mixer.com/hls/16492937-528fb3c4faef47f65f72f7001cd2d82be083531d_source/index.m3u8
-#EXTINF:0, COPA PARAGUAY RIV-IND
-https://videocdn.mixer.com/hls/47850672-5874f51353b2935ffc598c05727af848060678dc_source/index.m3u8
+#EXTINF:0, COPA PARAGUAY IND-CAA
+https://videocdn.mixer.com/hls/47850672-b99605bbe169587a47721a0116a337977cb22330_source/index.m3u8
 #EXTINF:0, LIB-NAC op3
 http://91.201.66.58/hls-live/xmlive/_definst_/1628041/1628041.m3u8?whence=1001
