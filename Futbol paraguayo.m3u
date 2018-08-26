@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, NAC-LUQ
 https://videocdn.mixer.com/hls/47861949-486f05ebee1f9080d8aca17622335d24c89df465_source/index.m3u8
-#EXTINF:0, NAC-LUQ op2
-https://videocdn.mixer.com/hls/46594080-6069346577f4024ddb5389a9e9bbda3cf137c415_source/index.m3u8
+#EXTINF:0, CDS-CAP op2
+https://videocdn.mixer.com/hls/47861949-b5c44462466edf3613089896ba93e11318bbcca5_source/index.m3u8
 #EXTINF:0, CDS-CAP p3
 http://91.201.66.58/hls-live/xmlive/_definst_/1641230/1641230.m3u8?whence=1001
