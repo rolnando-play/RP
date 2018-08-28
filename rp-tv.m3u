@@ -150,7 +150,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(03)/index.
 #EXTINF:0 ,Discovery Turbo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery World
-http://gameriptv.com/chan/sd54fs21ds654/discoveryw.php?index.m3u8
+http://gameriptv.com/chan/sd54fIs21ds654/discoveryw.php?index.m3u8
 #EXTINF:0 ,History
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,History 2
@@ -166,25 +166,17 @@ http://127.0.0.1
 #EXTINF:0 ,A&E
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,AMC
-https://m3uplayer.net/239/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(AMC_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,AXN
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Las Estrellas
-https://m3uplayer.net/165/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(ESTRELLAS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Cinecanal
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Cinelatino
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Cinemax
-http://gameriptv.com/chan/sd54fIs21ds654/cinemax.php?index.m3u8
-#EXTINF:0 ,DHE
-https://m3uplayer.net/225/waoplay.m3u8
-#EXTINF:0 ,El Gourmet
-https://m3uplayer.net/218/waoplay.m3u8
-#EXTINF:0 ,E!
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(E)/Stream(03)/index.m3u8
-#EXTINF:0 ,Film&Arts
-https://waoplay.xyz/305/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(CINEMAX)/Stream(02)/index.m3u8
 #EXTINF:0 ,Fox
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,FX
@@ -214,7 +206,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index
 #EXTINF:0 ,Syfy
 https://m3uplayer.net/314/waoplay.m3u8
 #EXTINF:0 ,TBS
-https://m3uplayer.net/313/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(TBS)/Stream(03)/index.m3u8
 #EXTINF:0 ,Telemundo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(03)/index.m3u8
 #EXTINF:0 ,tlnovelas
