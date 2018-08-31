@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0, CAP-LUQ
 https://videocdn.mixer.com/hls/47861949-116dc292116c6c37b2e2123865ab9f1c73de6990_source/index.m3u8
+#EXTINF:0, CAP-LUQ OP2
+http://91.201.66.58/hls-live/xmlive/_definst_/1652079/1652079.m3u8?whence=1001
