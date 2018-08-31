@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0, OLI-IND
-https://videocdn.mixer.com/hls/46594080-0d465d259c4102516c7c8b1a39b77a8d6547279b_source/index.m3u8
-#EXTINF:0, OLI-IND op2
-https://videocdn.mixer.com/hls/47861949-390028e40c526171c183d665b6257ab2fc99a237_source/index.m3u8
-#EXTINF:0, OLI-IND op3
-http://91.201.66.58/hls-live/xmlive/_definst_/1641338/1641338.m3u8?whence=1001
+#EXTINF:0, CAP-LUQ
+https://videocdn.mixer.com/hls/47861949-116dc292116c6c37b2e2123865ab9f1c73de6990_source/index.m3u8
