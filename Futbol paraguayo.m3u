@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:0, GUA-OLI
-https://videocdn.mixer.com/hls/47861949-81d52dc50962acb1fb32de7bf1c51f6d0b5aa9dd_source/index.m3u8
+#EXTINF:0, GUA-OLI 
+http://91.201.66.58/hls-live/xmlive/_definst_/1657750/1657750.m3u8?whence=1001
 #EXTINF:0, GUA-OLI OP2
-http://91.201.66.58/hls-live/xmlive/_definst_/1657616/1657616.m3u8?whence=1001
+https://videocdn.mixer.com/hls/47861949-81d52dc50962acb1fb32de7bf1c51f6d0b5aa9dd_source/index.m3u8
+
