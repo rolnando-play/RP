@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:0, LIB-3DF
-http://91.201.66.58/hls-live/xmlive/_definst_/1659420/1659420.m3u8?whence=1001
-#EXTINF:0, LIB-3DF P2
+#EXTINF:0, CCP-SAN
 https://videocdn.mixer.com/hls/47861949-ba53e48acd0991ce20ec282757fca151f4e4d219_source/index.m3u8
-
+#EXTINF:0, CCP-SAN OP2
+http://91.201.66.58/hls-live/xmlive/_definst_/1659420/1659420.m3u8?whence=1001
