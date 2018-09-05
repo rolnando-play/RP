@@ -54,35 +54,23 @@ https://m3uplayer.net/290/waoplay.m3u8
 #EXTINF:0 ,DirecTV Sports +
 https://m3uplayer.net/289/waoplay.m3u8
 #EXTINF:0 ,ESPN
-http://gameriptv.com/chan/sd54fIs21ds654/espn.php?index.m3u8
-#EXTINF:0 ,ESPN MX
-https://m3uplayer.net/287/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,ESPN 2
-http://gameriptv.com/chan/sd54fIs21ds654/espn2.php?index.m3u8
-#EXTINF:0 ,ESPN 2 MX
-https://m3uplayer.net/285/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_2_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,ESPN 3
-http://gameriptv.com/chan/sd54fIs21ds654/espn3.php?index.m3u8
-#EXTINF:0 ,ESPN 3 MX
-https://m3uplayer.net/283/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_3_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,ESPN +
-http://gameriptv.com/chan/sd54fIs21ds654/espnplus.php?index.m3u8
-#EXTINF:0 ,ESPN + MX
-https://m3uplayer.net/216/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Fighting (UFC)
 http://198.255.22.106:25461/281/zapintv.m3u8
 #EXTINF:0 ,Fox Sports
-http://gameriptv.com/chan/sd54fIs21ds654/foxsports.php?index.m3u8
-#EXTINF:0 ,Fox Sports MX
-https://m3uplayer.net/207/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Fox Sports 2
-http://gameriptv.com/chan/sd54fIs21ds654/foxsports2.php?index.m3u8
-#EXTINF:0 ,Fox Sports 2 MX
-https://m3uplayer.net/205/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Fox Sports 3
-http://gameriptv.com/chan/sd54fIs21ds654/foxsports3.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Fox Sports Premium
-https://m3uplayer.net/270/waoplay.m3u8
+http://sv1.futbollibre.net/superliga.m3u8
 #EXTINF:0, Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1268811759_b946000_sleng.m3u8
 #EXTINF:0,Gol TV
@@ -120,13 +108,13 @@ http://apk.goo.ac:8081/live/15/playlist.m3u8
 #EXTINF:0 ,SporTV 3
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 #EXTINF:0 ,TNT Sports
-https://m3uplayer.net/259/waoplay.m3u8
+https://m3uplayer.net/155/waoplay.m3u8
 #EXTINF:0 ,Univision TDN
 https://m3uplayer.net/255/waoplay.m3u8
 #EXTINF:0, TyC Sports
 https://m3uplayer.net/256/waoplay.m3u8
 #EXTINF:0, Univisión TDN
-https://m3uplayer.net/2566/waoplay.m3u8
+https://m3uplayer.net/255/waoplay.m3u8
 #EXTINF:0 ,VTV (Uruguay)
 https://m3uplayer.net/254/waoplay.m3u8
 #EXTINF:0 ,Win Sports
@@ -136,7 +124,7 @@ http://127.0.0.1
 #EXTINF:0 ,Animal Planet
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery Channel
-http://gameriptv.com/chan/sd54fIs21ds654/discoverych.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(02)/index.m3u8.m3u8
 #EXTINF:0 ,Discovery Civilization
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery H&H
@@ -150,7 +138,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(03)/index.
 #EXTINF:0 ,Discovery Turbo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery World
-http://gameriptv.com/chan/sd54fIs21ds654/discoveryw.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_WORLD_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,History
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,History 2
@@ -190,7 +178,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(03)/index.
 #EXTINF:0 ,Golden Plus
 https://m3uplayer.net/198/waoplay.m3u8
 #EXTINF:0 ,Golden Premier
-http://gameriptv.com/chan/sd54fIs21ds654/goldpremier.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(GOLDEN_PREMIER_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,iSat
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ISAT)/Stream(03)/index.m3u8
 #EXTINF:0 ,Paramount
@@ -200,7 +188,7 @@ http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(RAI)/Stream(02)/index.
 #EXTINF:0 ,Space
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Studio Universal
-http://gameriptv.com/chan/sd54fIs21ds654/estudiouniversal.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(02)/index.m3u8
 #EXTINF:0 ,Sony
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Syfy
@@ -216,7 +204,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(03)/index.
 #EXTINF:0 ,TNT Series
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Tru TV
-http://gameriptv.com/chan/sd54fIs21ds654/trutv.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TRU_TV_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Universal Channel
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Univisión
@@ -226,23 +214,23 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/ind
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
-http://gameriptv.com/chan/sd54fIs21ds654/boomerang.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(BOOMERANG)/Stream(02)/index.m3u8
 #EXTINF:0 ,Cartoon Network
-http://gameriptv.com/chan/sd54fIs21ds654/cartoonnet.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(CARTOON_NETWORK_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Discovery Kids
-http://gameriptv.com/chan/sd54fIs21ds654/disckids.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Disney Channel
-http://gameriptv.com/chan/sd54fIs21ds654/disneyhd.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(DISNEY_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Disney Junior
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8 
 #EXTINF:0 ,Disney XD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nat Geo Kids
-http://gameriptv.com/chan/sd54fIs21ds654/natgeokids.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(NATGEO_KIDS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nickelodeon
-http://gameriptv.com/chan/sd54fIs21ds654/nickelodeon.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(NICKELODEON_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nick 2
-http://gameriptv.com/chan/sd54fIs21ds654/nick2.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(NICK_2_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nicktoons
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nick JR
@@ -254,7 +242,7 @@ http://127.0.0.1
 #EXTINF:0 ,HBO
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,HBO 2
-http://gameriptv.com/chan/sd54fIs21ds654/hbo2.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(HBO_2_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,HBO Family
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,HBO Plus
@@ -286,9 +274,9 @@ http://127.0.0.1
 #EXTINF:0 ,MTV
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,MTV Hits
-http://gameriptv.com/chan/sd54fIs21ds654/mtvhits.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(MTV_HITS)/Stream(02)/index.m3u8
 #EXTINF:0 ,MTV Live
-http://gameriptv.com/chan/sd54fIs21ds654/mtvlive.php?index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(MTV_LIVE_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,VH1
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(03)/index.m3u8
 #EXTINF:0 ,VH1 Classics
