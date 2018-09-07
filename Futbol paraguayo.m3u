@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0, SAN-IND
-https://videocdn.mixer.com/hls/47861949-e3c2594e8bd80fe96375a75b3e8fb1c51c6a086f_source/index.m3u8
-#EXTINF:0, SAN-IND
+https://videocdn.mixer.com/hls/47861949-1b97c7fc7412c5e97f35d1385083e2b2a95578c8_source/index.m3u8
+#EXTINF:0, SAN-IND op2
 http://91.201.66.58/hls-live/xmlive/_definst_/1668499/1668499.m3u8?whence=1001
