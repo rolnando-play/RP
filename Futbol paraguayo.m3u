@@ -1,5 +1,5 @@
 #EXTM3U
+#EXTINF:0, OLI-LIB
+http://91.201.66.58/hls-live/xmlive/_definst_/1674081/1674081.m3u8?whence=1001
 #EXTINF:0, LUQ-CCP
 https://videocdn.mixer.com/hls/47861949-1b97c7fc7412c5e97f35d1385083e2b2a95578c8_source/index.m3u8
-#EXTINF:0, GRD-GUA
-http://91.201.66.58/hls-live/xmlive/_definst_/1673967/1673967.m3u8?whence=1001
