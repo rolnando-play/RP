@@ -44,7 +44,7 @@ http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
 #EXTINF:0 ,beIn Sports Ñ
 https://m3uplayer.net/301/waoplay.m3u8
 #EXTINF:0 ,Claro Sports
-https://m3uplayer.net/228/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(CLARO_SPORTS_COL_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,DeporTV
 https://m3uplayer.net/292/waoplay.m3u8
 #EXTINF:0 ,DirecTV Sports
@@ -118,13 +118,13 @@ https://m3uplayer.net/255/waoplay.m3u8
 #EXTINF:0 ,VTV (Uruguay)
 https://m3uplayer.net/254/waoplay.m3u8
 #EXTINF:0 ,Win Sports
-https://m3uplayer.net/166/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WINSPORTS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery Channel
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(02)/index.m3u8.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Discovery Civilization
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery H&H
@@ -138,7 +138,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(03)/index.
 #EXTINF:0 ,Discovery Turbo
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Discovery World
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_WORLD_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_WORLD_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,History
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,History 2
@@ -165,6 +165,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(03)/
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(03)/index.m3u8
 #EXTINF:0 ,Cinemax
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CINEMAX)/Stream(03)/index.m3u8
+#EXTINF:0 ,El Gourmet
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOURMET_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,FX
@@ -214,27 +216,27 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(03)/ind
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(BOOMERANG)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(BOOMERANG)/Stream(02)/index.m3u8
 #EXTINF:0 ,Cartoon Network
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(CARTOON_NETWORK_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CARTOON_NETWORK_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Discovery Kids
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Disney Channel
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(DISNEY_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Disney Junior
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8 
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_JR)/Stream(02)/index.m3u8 
 #EXTINF:0 ,Disney XD
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Nat Geo Kids
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(NATGEO_KIDS_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_KIDS_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nickelodeon
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(NICKELODEON_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nick 2
-http://live.lcdn.claro.net.co/Content/hls_kr/Live/Channel(NICK_2_HD)/Stream(02)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_2_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nicktoons
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(02)/index.m3u8
 #EXTINF:0 ,Nick JR
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NICK_JR)/Stream(03)/index.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_JR_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,Tooncast
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
@@ -268,7 +270,7 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(03)/
 #EXTINF:0 ,Fox Movies
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(03)/index.m3u8
 #EXTINF:0 ,Fox Series
-https://m3uplayer.net/208/waoplay.m3u8
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX1_HD)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0 ,MTV
