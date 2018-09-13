@@ -273,6 +273,8 @@ http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(02)/
 http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX1_HD)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
+#EXTINF:0, Concert Channel
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CONCERT_CHANNEL_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,MTV
 http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(02)/index.m3u8
 #EXTINF:0 ,MTV Hits
