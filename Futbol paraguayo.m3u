@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0, LIB-GRD
 http://91.201.66.58/hls-live/xmlive/_definst_/1685818/1685818.m3u8?whence=1001
-#EXTINF:0, IND-LUQ op2
-https://videocdn.mixer.com/hls/16492937-ad06d35ba829d162e3ef1d4a860b7c1a695eebba_source/index.m3u8
+#EXTINF:0, LIB-GRD op2
+https://edge.hls.hitbox.tv/hls/appargento/index.m3u8?st=LBao68vcw29o1gjEPvV5_g;ci=he6ukgWbcxUKjHXCcgM5_Q
+#EXTINF:0, LIB-GRD op3
