@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, IND-LUQ
-http://91.201.66.58/hls-live/xmlive/_definst_/1685718/1685718.m3u8?whence=1001
+#EXTINF:0, LIB-GRD
+http://91.201.66.58/hls-live/xmlive/_definst_/1685818/1685818.m3u8?whence=1001
 #EXTINF:0, IND-LUQ op2
 https://videocdn.mixer.com/hls/16492937-ad06d35ba829d162e3ef1d4a860b7c1a695eebba_source/index.m3u8
