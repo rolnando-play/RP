@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0, NAC-CAP
-http://91.201.66.58/hls-live/xmlive/_definst_/1676000/1676000.m3u8?whence=1001
+#EXTINF:0, IND-LUQ
+http://91.201.66.58/hls-live/xmlive/_definst_/1685718/1685718.m3u8?whence=1001
 #EXTINF:0, NAC-CAP op2
 https://videocdn.mixer.com/hls/47861949-542d8e0cf8a3a3c064b800a3b084ae8f9200352f_source/index.m3u8
-#EXTINF:0, NAC-CAP MEJOR
-https://neuclnlds53dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_android.m3u8
