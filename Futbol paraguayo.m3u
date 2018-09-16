@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0, SOL-OLI
+#EXTINF:0, CCP-CAP
 https://dcunilive42-lh.akamaihd.net/i/dclive_1@707277/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, SOL-OLI op2
+#EXTINF:0, CCP-CAP op2
 https://live-aws-us-east-1.mobcrush.com/hls/1/5b9d683bbbbaad0333b30b29.m3u8
-#EXTINF:0, SOL-OLI op3
+#EXTINF:0, CCP-CAP op3
 https://videocdn.mixer.com/hls/47861949-fe0848dfc88ed87b2245a145a76eb318191363f8_source/index.m3u8
-#EXTINF:0, SOL-OLI op4
+#EXTINF:0, CCP-CAP op4
 http://91.201.66.58/hls-live/xmlive/_definst_/1688578/1688578.m3u8?whence=1001
