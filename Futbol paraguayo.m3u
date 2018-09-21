@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:0, CCP-CAP
-https://edge.hls.hitbox.tv/hls/rolnandoplay/index.m3u8?st=hxfnvLXWV_37PA7hU_PyRA;ci=GbLrIE7mh_Qsa0IUz5BQXQ
-#EXTINF:0, CCP-CAP op2
-https://live-aws-us-east-1.mobcrush.com/hls/1/5b9d683bbbbaad0333b30b29.m3u8
-#EXTINF:0, CCP-CAP op3
-https://videocdn.mixer.com/hls/47861949-fe0848dfc88ed87b2245a145a76eb318191363f8_source/index.m3u8
-#EXTINF:0, GRD-SOL
+#EXTINF:0, LUQ-GUA
+https://videocdn.mixer.com/hls/47861949-f7adf62c102d2811bdb22d66b8b619d06e604d27_source/index.m3u8
+#EXTINF:0, LUQ-GUA OP2
 http://91.201.66.58/hls-live/xmlive/_definst_/1702589/1702589.m3u8?whence=1001
