@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, SAN-LIB
-https://videocdn.mixer.com/hls/47861949-7d6631d7a80182833e7df9d91fd8758bae979f17_source/index.m3u8
+#EXTINF:0, Intermedia SL-FDM
+https://neuclnlds83dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_android.m3u8
 #EXTINF:0, SAN-LIB OP2
 http://91.201.66.58/hls-live/xmlive/_definst_/1705456/1705456.m3u8?whence=1001
