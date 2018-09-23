@@ -3,3 +3,9 @@
 https://neuclnlds83dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_android.m3u8
 #EXTINF:0, SAN-LIB OP2
 http://91.201.66.58/hls-live/xmlive/_definst_/1705456/1705456.m3u8?whence=1001
+#EXTINF:0, BOCA-RIVER
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(02)/index.m3u8
+#EXTINF:0, BOCA-RIVER op2
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(03)/index.m3u8
+#EXTINF:0, BOCA-RIVER op3
+http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(04)/index.m3u8
