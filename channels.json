@@ -6,8 +6,8 @@
             
       },
       {
-        "Nombre": "Test2",
-        "Enlace": "http://213.183.46.114/hls-live/xmlive/_definst_/1571022/1571022.m3u8?whence=22",
+        "Nombre": "GEN",
+        "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
             "Imglink": "https://d1e4pidl3fu268.cloudfront.net/66963e4a-ccba-4fdd-ba18-d5862fb4dba7/test.png"
       },
       {
