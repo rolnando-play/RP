@@ -3,6 +3,8 @@
 https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
 http://127.0.0.1
+#EXTINF:0 ,dfgdfg
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
 #EXTINF:0 ,Telefuturo
 http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:0 ,Noticias Paraguay
