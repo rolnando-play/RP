@@ -2,5 +2,13 @@
       {
             "Nombre": "RPC",
             "Enlace": "http://174.138.118.252/live/canal13stream.m3u8" 
+      },
+      {
+            "Nombre": "TNT",
+            "Enlace": "http://174.138.118.252/live/canal13stream.m3u8" 
+      },
+      {
+            "Nombre": "CANAL",
+            "Enlace": "http://174.138.118.252/live/canal13stream.m3u8" 
       }
 ]
