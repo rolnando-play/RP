@@ -5,5 +5,5 @@ https://videocdn.mixer.com/hls/46974729-c81fd2957fc428fe43d462ebd785b7d8946bea93
 https://videocdn.mixer.com/hls/16492937-5d6cd662422b5cdf7164caffee8fca118a196b06_source/index.m3u8
 #EXTINF:0, CCP-IND op3
 https://videocdn.mixer.com/hls/47861949-13dcfd06d669ae89ffbfbfbd40f1925474d04b68_source/index.m3u8
-#EXTINF:0, SAN-SOL op3
-http://91.201.66.58/hls-live/xmlive/_definst_/1723406/1723406.m3u8?whence=1001
+#EXTINF:0, CCP-IND op4
+http://91.201.66.58/hls-live/xmlive/_definst_/1723535/1723535.m3u8?whence=1001
