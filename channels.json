@@ -1,14 +1,20 @@
 [
       {
             "Nombre": "RPC",
-            "Enlace": "http://174.138.118.252/live/canal13stream.m3u8" 
+            "Enlace": "http://174.138.118.252/live/canal13stream.m3u8" ,
+                        "Imglink": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_de_RPC_2016.png" 
+
       },
       {
             "Nombre": "Capiata vs. Guarani op 1",
-            "Enlace": "https://videocdn.mixer.com/hls/47861949-aee2ca9f33f28454da7370397317e90c1cd21d5c_source/index.m3u8" 
+            "Enlace": "https://videocdn.mixer.com/hls/47861949-aee2ca9f33f28454da7370397317e90c1cd21d5c_source/index.m3u8" ,
+                        "Imglink": "http://ibopeparaguay.com.py/files/u1/Logo%20Nuevo%20TELEFUTURO%202014.png" 
+
       },
       {
             "Nombre": "Capiata vs. Guarani op 2",
-            "Enlace": "http://91.201.66.58/hls-live/xmlive/_definst_/1720300/1720300.m3u8?whence=1001" 
+            "Enlace": "http://91.201.66.58/hls-live/xmlive/_definst_/1720300/1720300.m3u8?whence=1001", 
+                        "Imglink": "http://logoroga.com/wp-content/uploads/2012/05/tigo.png" 
+
       }
 ]
