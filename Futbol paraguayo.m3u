@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0, CAP-GUA
-https://videocdn.mixer.com/hls/47861949-aee2ca9f33f28454da7370397317e90c1cd21d5c_source/index.m3u8
-#EXTINF:0, CAP-GUA op2
-http://91.201.66.58/hls-live/xmlive/_definst_/1720300/1720300.m3u8?whence=1001
+#EXTINF:0, SAN-SOL
+https://videocdn.mixer.com/hls/47861949-a3f8777ff733cb0b9ea1ce456b968ed0ddadb1fd_source/index.m3u8
+#EXTINF:0, SAN-SOL op2
+https://videocdn.mixer.com/hls/16492937-5d6cd662422b5cdf7164caffee8fca118a196b06_source/index.m3u8
+#EXTINF:0, SAN-SOL op3
+http://91.201.66.58/hls-live/xmlive/_definst_/1723406/1723406.m3u8?whence=1001
