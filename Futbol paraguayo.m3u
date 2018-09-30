@@ -3,7 +3,5 @@
 https://videocdn.mixer.com/hls/46974729-2f1a87056f3f76aafc5bb322523f2f2c75f23e31_source/index.m3u8
 #EXTINF:0, OLI-NAC op2
 https://videocdn.mixer.com/hls/47861949-1a132c03c3485a0bac5c98071058c943cd8e972b_source/index.m3u8
-#EXTINF:0, CCP-IND op3
-https://videocdn.mixer.com/hls/47861949-13dcfd06d669ae89ffbfbfbd40f1925474d04b68_source/index.m3u8
-#EXTINF:0, CCP-IND op4
-http://91.201.66.58/hls-live/xmlive/_definst_/1723535/1723535.m3u8?whence=1001
+#EXTINF:0, OLI-NAC op3
+http://91.201.66.58/hls-live/xmlive/_definst_/1726626/1726626.m3u8?whence=1001
