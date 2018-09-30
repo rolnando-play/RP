@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:0, OLI-NAC
-https://videocdn.mixer.com/hls/46974729-83d0296eafd7d0ef7f93cdb9d4139df4f444f9a4_source/index.m3u8
-#EXTINF:0, OLI-NAC op2
+#EXTINF:0, LUQ-LIB op
 https://videocdn.mixer.com/hls/47861949-1a132c03c3485a0bac5c98071058c943cd8e972b_source/index.m3u8
-#EXTINF:0, OLI-NAC op3
+#EXTINF:0, LUQ-LIB op2
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpkESYmqXG6hTjj0o1ATW1m1hwHJPu3X0-wa8sJkVGjhLUoGOAMRZstnyKcSNT_0tzYNRC4udJcLd3-zWF34MdSBa3N4noUDQFU2uRKL6tNi_kQJtGtVAWofINuTmvsLa0EA9WvLHL19NRj52UDykX3-mq8u1dPKX8XcYVKIcVKIva8vpj2RhROilDnQIKhoA2FalwB3sU6aFmBMyJhnURFsANi-oTCoc4l-5Uf1sUwWlhyMHxv4HY8NrOUmu2OVyYdX3Bu1Ope6v9W-igvhV7rYt8Ecc5hcTe8S4FoG9fWgXn1_V-VBxbY-eqe0guWkCAbGjTOPWT9ocOOM-gei6X2ZQcDBZy66v-pc81H8udyv9d0N9FgYJQastHwm7xU4dKxlaTs6rtxAP_njNuAOwrmoYx2RGtyfIJfyr5hxB98oPxbnih7LhkThEDWr3Rfxu8MlCx0HrfWPv3vMbgj51c4AgtSwf7uFrs0tiRLZa56gLfebckm5eZwOxN7VGuCb7FkMS17j4cCbE2yzHssyMn5jedxodA6ktJ8G971YFrGhRpiQmW0c64UGakVtcI_uQsASDyWalCA53Z1qY0ffl38_h8YmXZaTqbfAiByYpYlNRx8R5AEaBbfI08ypdVbP2VPwjQEBajXS64tbL5JVwi-NMH9SLXStBLlswHvrG1CU9-skl9JbRwQnF4bHfy8doLO7ZxSY5yNmOdevEhBbvNx5BEwzHwlzVCho91gzGgxd3OaCnkIh7SRNCsQ.m3u8
-#EXTINF:0, OLI-NAC op4
-http://91.201.66.58/hls-live/xmlive/_definst_/1726626/1726626.m3u8?whence=1001
+#EXTINF:0, LUQ-LIB op3
+http://91.201.66.58/hls-live/xmlive/_definst_/1726760/1726760.m3u8?whence=1001
