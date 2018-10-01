@@ -1,7 +1,7 @@
 [
       {
-            "Nombre": "SSL-FDM op2",
-            "Enlace": "https://videocdn.mixer.com/hls/47861949-a3f8777ff733cb0b9ea1ce456b968ed0ddadb1fd_source/index.m3u8" ,
+            "Nombre": "RPC",
+            "Enlace": "http://174.138.118.252/live/canal13stream.m3u8" ,
             "Imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Copa_de_primera.png/260px-Copa_de_primera.png" 
       },
       {
