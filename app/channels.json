@@ -1,5 +1,10 @@
 [
       {
+            "Nombre": "GEN",
+            "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8" ,
+            "Imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Copa_de_primera.png/260px-Copa_de_primera.png" 
+      },
+      {
             "Nombre": "MTV",
             "Enlace": "http://stream.gleeze.com/kr/ptybz.m3u8?qt=3&ch=mtv" ,
             "Imglink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Copa_de_primera.png/260px-Copa_de_primera.png" 
