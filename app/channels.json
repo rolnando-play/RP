@@ -1,5 +1,13 @@
 [
   {
+    "Nombre": "Olimpia vs. Trinidense",
+    "Enlace": "https://videocdn.mixer.com/hls/16492937-fd2f923e859599719f39b90f5c6ab5c897d4e07a_source/index.m3u8"
+  },
+  {
+    "Nombre": "Olimpia vs. Trinidense",
+    "Enlace": "https://videocdn.mixer.com/hls/46974729-3fe315422fcf8c096d07de24e5182ce86a78f080_source/index.m3u8"
+  },
+  {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
