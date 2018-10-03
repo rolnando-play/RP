@@ -20,10 +20,6 @@
     "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8"
   },
   {
-    "Nombre": "Intercable",
-    "Enlace": "http://201.217.3.212/TV/intercable/chunklist_w1906207489.m3u8"
-  },
-  {
     "Nombre": "Lobo Station",
     "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8"
   },
