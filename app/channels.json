@@ -1,5 +1,13 @@
 [
  {
+    "Nombre": "Sol de América vs. Luqueño",
+    "Enlace": "https://videocdn.mixer.com/hls/47861949-f4b10ee25f0bd756f477fe160c33eae33e532ed6_source/index.m3u8"
+  },
+ {
+    "Nombre": "Sol de América vs. Luqueño op2",
+    "Enlace": " https://videocdn.mixer.com/hls/16492937-9f52bb9c14644663a4639aca494524805f2a8930_source/index.m3u8"
+  },
+ {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
