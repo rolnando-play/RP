@@ -36,6 +36,10 @@
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1744043/1744043.m3u8?whence=1001"
   },
  {
+    "Nombre": "A&E",
+    "Enlace": " http://alt.mirandatvandroid.cf/mirandatvhls/streams/1_.m3u8"
+  },
+ {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
