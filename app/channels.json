@@ -24,6 +24,34 @@
     "Enlace": " http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fox"
   },
  {
+    "Nombre": "Fox Cinema",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
+},
+{
+    "Nombre": "Fox Series",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxseries"
+},
+{
+    "Nombre": "Fox Family",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxfamily"
+},
+{
+    "Nombre": "Fox Movies",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
+},
+{
+    "Nombre": "Fox Classics",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
+},
+{
+    "Nombre": "Fox Comedy",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
+},
+{
+    "Nombre": "Fox Action",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
+},
+ {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
