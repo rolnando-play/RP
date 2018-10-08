@@ -223,6 +223,10 @@
     "Nombre": "Fox Sports 3",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs2"
   },
+ {
+    "Nombre": "History",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=history"
+  },
   {
     "Nombre": "H2",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=h2"
