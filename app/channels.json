@@ -283,6 +283,14 @@
     "Nombre": "Nick JR",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nickjr"
   },
+ {
+    "Nombre": "Rai Sport",
+    "Enlace": "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8"
+  },
+ {
+    "Nombre": "Rai Sport +",
+    "Enlace": " https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.m3u8"
+  },
   {
     "Nombre": "Sony",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=sony"
