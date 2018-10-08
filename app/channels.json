@@ -156,14 +156,6 @@
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
   },
   {
-    "Nombre": "Fox Action",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
-  },
-  {
-    "Nombre": "Fox Cinema",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
-  },
-  {
     "Nombre": "Fox Cinema",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
   },
@@ -172,20 +164,8 @@
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
   },
   {
-    "Nombre": "Fox Classics",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
-  },
-  {
     "Nombre": "Fox Comedy",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
-  },
-  {
-    "Nombre": "Fox Comedy",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
-  },
-  {
-    "Nombre": "Fox Family",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxfamily"
   },
   {
     "Nombre": "Fox Family",
@@ -198,14 +178,6 @@
   {
     "Nombre": "Fox Movies",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
-  },
-  {
-    "Nombre": "Fox Movies",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
-  },
-  {
-    "Nombre": "Fox Series",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxseries"
   },
   {
     "Nombre": "Fox Series",
