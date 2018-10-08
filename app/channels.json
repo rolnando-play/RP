@@ -119,6 +119,10 @@
     "Nombre": "Discovery World",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=world"
   },
+ {
+    "Nombre": "Disney Channel",
+    "Enlace": " http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=disney"
+  },
   {
     "Nombre": "ESPN",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn"
