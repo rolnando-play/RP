@@ -20,38 +20,6 @@
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1747169/1747169.m3u8?whence=1001"
   },
  {
-    "Nombre": "Fox",
-    "Enlace": " http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fox"
-  },
- {
-    "Nombre": "Fox Cinema",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
-},
-{
-    "Nombre": "Fox Series",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxseries"
-},
-{
-    "Nombre": "Fox Family",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxfamily"
-},
-{
-    "Nombre": "Fox Movies",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
-},
-{
-    "Nombre": "Fox Classics",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
-},
-{
-    "Nombre": "Fox Comedy",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
-},
-{
-    "Nombre": "Fox Action",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
-},
- {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
@@ -90,5 +58,297 @@
   {
     "Nombre": "Venus Media",
     "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8"
+  },
+ {
+    "Nombre": "AMC",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=amc"
+  },
+  {
+    "Nombre": "AXN",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=axn"
+  },
+  {
+    "Nombre": "Animal Planet",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=animal"
+  },
+  {
+    "Nombre": "Boomerang",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=boomerang"
+  },
+  {
+    "Nombre": "Cartoon Network",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=cartoon"
+  },
+  {
+    "Nombre": "Cinecanal",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=cinecanal"
+  },
+  {
+    "Nombre": "Cinemax",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=maxprime"
+  },
+  {
+    "Nombre": "Discovery Channel",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=discovery"
+  },
+  {
+    "Nombre": "Discovery H&H",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hh"
+  },
+  {
+    "Nombre": "Discovery Kids",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=kids"
+  },
+  {
+    "Nombre": "Discovery Sciende",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=science"
+  },
+  {
+    "Nombre": "Discovery TLC",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tlc"
+  },
+  {
+    "Nombre": "Discovery Theater",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=theater"
+  },
+  {
+    "Nombre": "Discovery Turbo",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=turbo"
+  },
+  {
+    "Nombre": "Discovery World",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=world"
+  },
+  {
+    "Nombre": "ESPN",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn"
+  },
+  {
+    "Nombre": "ESPN 2",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn2"
+  },
+  {
+    "Nombre": "ESPN 3",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn3"
+  },
+  {
+    "Nombre": "ESPN +",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espnplus"
+  },
+  {
+    "Nombre": "El Gourmet",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=gourmet"
+  },
+  {
+    "Nombre": "FX",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fx"
+  },
+  {
+    "Nombre": "FXM",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fxm"
+  },
+  {
+    "Nombre": "Fox",
+    "Enlace": " http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fox"
+  },
+  {
+    "Nombre": "Fox Action",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
+  },
+  {
+    "Nombre": "Fox Action",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
+  },
+  {
+    "Nombre": "Fox Cinema",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
+  },
+  {
+    "Nombre": "Fox Cinema",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
+  },
+  {
+    "Nombre": "Fox Classics",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
+  },
+  {
+    "Nombre": "Fox Classics",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
+  },
+  {
+    "Nombre": "Fox Comedy",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
+  },
+  {
+    "Nombre": "Fox Comedy",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
+  },
+  {
+    "Nombre": "Fox Family",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxfamily"
+  },
+  {
+    "Nombre": "Fox Family",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxfamily"
+  },
+  {
+    "Nombre": "Fox Life",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxlife"
+  },
+  {
+    "Nombre": "Fox Movies",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
+  },
+  {
+    "Nombre": "Fox Movies",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
+  },
+  {
+    "Nombre": "Fox Series",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxseries"
+  },
+  {
+    "Nombre": "Fox Series",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxseries"
+  },
+  {
+    "Nombre": "Fox Sports 1",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs1"
+  },
+  {
+    "Nombre": "Fox Sports 2",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs2"
+  },
+  {
+    "Nombre": "Fox Sports 3",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs2"
+  },
+  {
+    "Nombre": "H2",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=h2"
+  },
+  {
+    "Nombre": "HBO",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbo"
+  },
+  {
+    "Nombre": "HBO 2",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbo2"
+  },
+  {
+    "Nombre": "HBO Family",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbofamily"
+  },
+  {
+    "Nombre": "HBO Plus",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hboplus"
+  },
+  {
+    "Nombre": "HBO Signature",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbosign"
+  },
+  {
+    "Nombre": "ID",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=id"
+  },
+  {
+    "Nombre": "Isat",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=isat"
+  },
+  {
+    "Nombre": "MTV",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=mtv"
+  },
+  {
+    "Nombre": "MTV Hits",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=mtvhits"
+  },
+  {
+    "Nombre": "MTV Live",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=mtvlive"
+  },
+  {
+    "Nombre": "Max",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=max"
+  },
+  {
+    "Nombre": "Max Prime",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=maxprime"
+  },
+  {
+    "Nombre": "Max Up",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=maxup"
+  },
+  {
+    "Nombre": "Nat Geo",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=natgeo"
+  },
+  {
+    "Nombre": "Nat Geo Kids",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=natgeokids"
+  },
+  {
+    "Nombre": "Nat Geo Wild",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=natgeowild"
+  },
+  {
+    "Nombre": "Nick",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nick"
+  },
+  {
+    "Nombre": "Nick 2",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nick2"
+  },
+  {
+    "Nombre": "Nick JR",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nickjr"
+  },
+  {
+    "Nombre": "Sony",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=sony"
+  },
+  {
+    "Nombre": "Space",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=space"
+  },
+  {
+    "Nombre": "Studio Universal",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=studio"
+  },
+  {
+    "Nombre": "TBS",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tbs"
+  },
+  {
+    "Nombre": "TNT",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tnt"
+  },
+  {
+    "Nombre": "TNT Series",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tntseries"
+  },
+  {
+    "Nombre": "Tooncast",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tooncast"
+  },
+  {
+    "Nombre": "Tru TV",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=trutv"
+  },
+  {
+    "Nombre": "Universal Channel",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=universal"
+  },
+  {
+    "Nombre": "VH1",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=vh1hd"
+  },
+  {
+    "Nombre": "VH1 Classic",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=vh1classic"
+  },
+  {
+    "Nombre": "Warner",
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=warner"
   }
 ]
