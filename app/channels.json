@@ -20,6 +20,10 @@
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1747169/1747169.m3u8?whence=1001"
   },
  {
+    "Nombre": "Space",
+    "Enlace": " http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(02)/index.m3u8"
+  },
+ {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
