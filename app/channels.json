@@ -45,7 +45,7 @@
   },
   {
     "Nombre": "AXN",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=axn"
+    "Enlace": "https://tucine.xyz:2087/282/playercine.m3u8"
   },
   {
     "Nombre": "Animal Planet",
@@ -69,19 +69,23 @@
   },
   {
     "Nombre": "Discovery Channel",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=discovery"
+    "Enlace": "https://tucine.xyz:2087/285/playercine.m3u8"
+  },
+ {
+    "Nombre": "Discovery Civilization",
+    "Enlace": "https://tucine.xyz:2087/286/playercine.m3u8"
   },
   {
     "Nombre": "Discovery H&H",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hh"
+    "Enlace": "https://tucine.xyz:2087/287/playercine.m3u8"
   },
   {
     "Nombre": "Discovery Kids",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=kids"
+    "Enlace": "https://tucine.xyz:2087/288/playercine.m3u8"
   },
   {
     "Nombre": "Discovery Science",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=science"
+    "Enlace": "https://tucine.xyz:2087/289/playercine.m3u8"
   },
   {
     "Nombre": "Discovery TLC",
@@ -89,7 +93,7 @@
   },
   {
     "Nombre": "Discovery Theater",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=theater"
+    "Enlace": "https://tucine.xyz:2087/290/playercine.m3u8"
   },
   {
     "Nombre": "Discovery Turbo",
@@ -101,7 +105,7 @@
   },
  {
     "Nombre": "Disney Channel",
-    "Enlace": " http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=disney"
+    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=disney"
   },
   {
     "Nombre": "ESPN",
