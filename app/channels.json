@@ -197,23 +197,23 @@
   },
   {
     "Nombre": "HBO",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbo"
+    "Enlace": "https://tucine.xyz:2087/269/playercine.m3u8"
   },
   {
     "Nombre": "HBO 2",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbo2"
+    "Enlace": "https://tucine.xyz:2087/270/playercine.m3u8"
   },
   {
     "Nombre": "HBO Family",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbofamily"
+    "Enlace": "https://tucine.xyz:2087/271/playercine.m3u8"
   },
   {
     "Nombre": "HBO Plus",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hboplus"
+    "Enlace": "https://tucine.xyz:2087/272/playercine.m3u8"
   },
   {
     "Nombre": "HBO Signature",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=hbosign"
+    "Enlace": "https://tucine.xyz:2087/273/playercine.m3u8"
   },
   {
     "Nombre": "ID",
