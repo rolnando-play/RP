@@ -217,7 +217,7 @@
   },
   {
     "Nombre": "ID",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=id"
+    "Enlace": "https://tucine.xyz:2087/278/playercine.m3u8"
   },
   {
     "Nombre": "Isat",
@@ -241,7 +241,7 @@
   },
   {
     "Nombre": "Max Prime",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=maxprime"
+    "Enlace": "https://tucine.xyz:2087/281/playercine.m3u8"
   },
   {
     "Nombre": "Max Up",
