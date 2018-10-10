@@ -101,23 +101,27 @@
   },
   {
     "Nombre": "Discovery World",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=world"
+    "Enlace": "https://tucine.xyz:2087/294/playercine.m3u8"
   },
  {
     "Nombre": "Disney Channel",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=disney"
   },
+ {
+    "Nombre": "Disney Junior",
+    "Enlace": "https://tucine.xyz:2087/295/playercine.m3u8"
+  },
   {
     "Nombre": "ESPN",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn"
+    "Enlace": "https://tucine.xyz:2087/307/playercine.m3u8"
   },
   {
     "Nombre": "ESPN 2",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn2"
+    "Enlace": "https://tucine.xyz:2087/308/playercine.m3u8"
   },
   {
     "Nombre": "ESPN 3",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=espn3"
+    "Enlace": "https://tucine.xyz:2087/311/playercine.m3u8"
   },
   {
     "Nombre": "ESPN +",
@@ -141,23 +145,23 @@
   },
   {
     "Nombre": "Fox Action",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxaction"
+    "Enlace": "https://tucine.xyz:2087/318/playercine.m3u8"
   },
   {
     "Nombre": "Fox Cinema",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcinema"
+    "Enlace": "https://tucine.xyz:2087/319/playercine.m3u8"
   },
   {
     "Nombre": "Fox Classics",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxclassics"
+    "Enlace": "https://tucine.xyz:2087/320/playercine.m3u8"
   },
   {
     "Nombre": "Fox Comedy",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxcomedy"
+    "Enlace": "https://tucine.xyz:2087/321/playercine.m3u8"
   },
   {
     "Nombre": "Fox Family",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxfamily"
+    "Enlace": "https://tucine.xyz:2087/322/playercine.m3u8"
   },
   {
     "Nombre": "Fox Life",
@@ -165,11 +169,11 @@
   },
   {
     "Nombre": "Fox Movies",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxmovies"
+    "Enlace": "https://tucine.xyz:2087/323/playercine.m3u8"
   },
   {
     "Nombre": "Fox Series",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxseries"
+    "Enlace": "https://tucine.xyz:2087/324/playercine.m3u8"
   },
   {
     "Nombre": "Fox Sports 1",
@@ -226,6 +230,10 @@
   {
     "Nombre": "Isat",
     "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=isat"
+  },
+ {
+    "Nombre": "Las Estrellas",
+    "Enlace": "https://tucine.xyz:2087/301/playercine.m3u8"
   },
   {
     "Nombre": "MTV",
@@ -298,6 +306,10 @@
   {
     "Nombre": "TBS",
     "Enlace": "https://tucine.xyz:2087/228/playercine.m3u8"
+  },
+ {
+    "Nombre": "Telemundo",
+    "Enlace": "https://tucine.xyz:2087/325/playercine.m3u8"
   },
   {
     "Nombre": "TNT",
