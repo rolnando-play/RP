@@ -61,11 +61,15 @@
   },
   {
     "Nombre": "Cinecanal",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=cinecanal"
+    "Enlace": "https://tucine.xyz:2087/393/playercine.m3u8"
   },
   {
     "Nombre": "Cinemax",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=maxprime"
+    "Enlace": "https://tucine.xyz:2087/394/playercine.m3u8"
+  },
+ {
+    "Nombre": "DirecTV Sports",
+    "Enlace": " https://tucine.xyz:2087/403/playercine.m3u8"
   },
   {
     "Nombre": "Discovery Channel",
@@ -89,7 +93,7 @@
   },
   {
     "Nombre": "Discovery TLC",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tlc"
+    "Enlace": "https://tucine.xyz:2087/403/playercine.m3u8"
   },
   {
     "Nombre": "Discovery Theater",
@@ -105,7 +109,7 @@
   },
  {
     "Nombre": "Disney Channel",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=disney"
+    "Enlace": "https://tucine.xyz:2087/407/playercine.m3u8"
   },
  {
     "Nombre": "Disney Junior",
@@ -186,6 +190,10 @@
   {
     "Nombre": "Fox Sports 3",
     "Enlace": "https://tucine.xyz:2087/255/playercine.m3u8"
+  },
+ {
+    "Nombre": "Fox Sports Premium",
+    "Enlace": "https://tucine.xyz:2087/450/playercine.m3u8"
   },
  {
     "Nombre": "Golden Plus",
