@@ -1,25 +1,5 @@
 [
  {
-    "Nombre": "Libertad vs. Capiatá 1",
-    "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd.m3u8"
-  },
- {
-    "Nombre": "Libertad vs. Capiatá 2",
-    "Enlace": "https://videocdn.mixer.com/hls/16492937-f68467ae5f04b86bd6bcece7ca65be2eee75515a_source/index.m3u8"
-  },
- {
-    "Nombre": "Libertad vs. Capiatá 3",
-    "Enlace": "https://videocdn.mixer.com/hls/47861949-083f9bd9a7b6ac344a6ec353ddad2d48bc61dbb0_source/index.m3u8"
-  },
- {
-    "Nombre": "Libertad vs. Capiatá 4",
-    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CokE2m-N96Wth-1w0AdPbVtEzPVJKPJdOmMqHl6XCE469fQD--7klBdoBZtd6AWwTMEKG_C9or6HL0DnLExE9GUy4pnbDiP-EmkiYmMP3VUmz8iuq1dQv1XxA4IW1Gl8_bt2nVIzIev0qE25d_1lcyUmKbTivEsRq3LZ-Oww71ph4WzWRmYxLJH22dRneml95n6fqHRLbPPbAMCBlRaMHNs9RKsinekkCiqBxe12gfU0MkOq4DrpVNi6pBrtSb1rex6agT4TjAkeVc8NsLvIWyT4V7IZT1i5PLD67W0zwP4xMYAN6RQS1EhOMoTAjGkHg7lutUILMLDWC0erGck_Q6VvzYeJ5VjUYbY2fVA1ZJDAloWXUoLjlZ9Cp5auzlxw5KmjaNi0RjXZasC9GDFa5tmGJFE_V80ofFiyODW0V-6eloKOzz3ggDkYUeBI6FqTXX4O2xUh-gPC1N2GTM8nI4sDmTXlPSMBMgG3IEc7p1_acmlF4mRPXqh4VcGLZKU4OTvNJ5biGHWYOErzs9fowFUr_O4uilNwtbTM_WD2Akb88t6ITf_JAVOFJILXpIWFL6zeN9_PqfKApV7Iil1d_hPEnQuCoWlcB0aRuNg02vba_5AkIdRfZBz6LZdZ7YFOnFZo7NAWsjPh4zoET9u-jSz1qEyrpGqWIaku-FYcNapfpupVJGg1TYrNMKgSENzfUz2-D9T6T9aWHLgWd-saDOfIvXsfkPAn9orLvA.m3u8"
-  },
- {
-    "Nombre": "Libertad vs. Capiatá 5",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1749500/1749500.m3u8?whence=1001"
-  },
- {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8"
   },
@@ -189,7 +169,7 @@
   },
   {
     "Nombre": "Fox Sports 1",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs1"
+    "Enlace": "https://tucine.xyz:2087/252/playercine.m3u8"
   },
   {
     "Nombre": "Fox Sports 2",
@@ -237,15 +217,15 @@
   },
   {
     "Nombre": "MTV",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=mtv"
+    "Enlace": "https://tucine.xyz:2087/232/playercine.m3u8"
   },
   {
     "Nombre": "MTV Hits",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=mtvhits"
+    "Enlace": "https://tucine.xyz:2087/233/playercine.m3u8"
   },
   {
     "Nombre": "MTV Live",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=mtvlive"
+    "Enlace": "https://tucine.xyz:2087/234/playercine.m3u8"
   },
   {
     "Nombre": "Max",
@@ -261,27 +241,27 @@
   },
   {
     "Nombre": "Nat Geo",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=natgeo"
+    "Enlace": "https://tucine.xyz:2087/237/playercine.m3u8"
   },
   {
     "Nombre": "Nat Geo Kids",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=natgeokids"
+    "Enlace": "https://tucine.xyz:2087/238/playercine.m3u8"
   },
   {
     "Nombre": "Nat Geo Wild",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=natgeowild"
+    "Enlace": "https://tucine.xyz:2087/239/playercine.m3u8"
   },
   {
     "Nombre": "Nick",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nick"
+    "Enlace": "https://tucine.xyz:2087/243/playercine.m3u8"
   },
   {
     "Nombre": "Nick 2",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nick2"
+    "Enlace": "https://tucine.xyz:2087/241/playercine.m3u8"
   },
   {
     "Nombre": "Nick JR",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=nickjr"
+    "Enlace": "https://tucine.xyz:2087/242/playercine.m3u8"
   },
  {
     "Nombre": "Rai Sport",
@@ -293,11 +273,11 @@
   },
   {
     "Nombre": "Sony",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=sony"
+    "Enlace": "https://tucine.xyz:2087/249/playercine.m3u8"
   },
   {
     "Nombre": "Space",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=space"
+    "Enlace": "https://tucine.xyz:2087/249/playercine.m3u8"
   },
   {
     "Nombre": "Studio Universal",
@@ -305,7 +285,7 @@
   },
   {
     "Nombre": "TBS",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tbs"
+    "Enlace": "https://tucine.xyz:2087/228/playercine.m3u8"
   },
   {
     "Nombre": "TNT",
