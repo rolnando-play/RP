@@ -49,11 +49,11 @@
   },
   {
     "Nombre": "Animal Planet",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=animal"
+    "Enlace": "https://tucine.xyz:2087/355/playercine.m3u8"
   },
   {
     "Nombre": "Boomerang",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=boomerang"
+    "Enlace": "https://tucine.xyz:2087/368/playercine.m3u8"
   },
   {
     "Nombre": "Cartoon Network",
@@ -257,7 +257,7 @@
   },
   {
     "Nombre": "Max Up",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=maxup"
+    "Enlace": "https://tucine.xyz:2087/356/playercine.m3u8"
   },
   {
     "Nombre": "Nat Geo",
