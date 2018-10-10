@@ -75,6 +75,14 @@
     "Nombre": "DirecTV Sports",
     "Enlace": " https://tucine.xyz:2087/403/playercine.m3u8"
   },
+ {
+    "Nombre": "DirecTV Sports 2",
+    "Enlace": " https://tucine.xyz:2087/404/playercine.m3u8"
+  },
+ {
+    "Nombre": "DirecTV Sports +",
+    "Enlace": " https://tucine.xyz:2087/405/playercine.m3u8"
+  },
   {
     "Nombre": "Discovery Channel",
     "Enlace": "https://tucine.xyz:2087/285/playercine.m3u8"
