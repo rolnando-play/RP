@@ -137,11 +137,11 @@
   },
   {
     "Nombre": "FX",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fx"
+    "Enlace": "https://tucine.xyz:2087/260/playercine.m3u8"
   },
   {
     "Nombre": "FXM",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fxm"
+    "Enlace": "https://tucine.xyz:2087/258/playercine.m3u8"
   },
   {
     "Nombre": "Fox",
@@ -205,11 +205,11 @@
   },
  {
     "Nombre": "History",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=history"
+    "Enlace": "https://tucine.xyz:2087/274/playercine.m3u8"
   },
   {
     "Nombre": "H2",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=h2"
+    "Enlace": "https://tucine.xyz:2087/268/playercine.m3u8"
   },
   {
     "Nombre": "HBO",
@@ -309,7 +309,7 @@
   },
   {
     "Nombre": "Studio Universal",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=studio"
+    "Enlace": "https://tucine.xyz:2087/230/playercine.m3u8"
   },
   {
     "Nombre": "TBS",
