@@ -157,7 +157,7 @@
   },
   {
     "Nombre": "Fox Life",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=foxlife"
+    "Enlace": "https://tucine.xyz:2087/257/playercine.m3u8"
   },
   {
     "Nombre": "Fox Movies",
@@ -173,11 +173,19 @@
   },
   {
     "Nombre": "Fox Sports 2",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs2"
+    "Enlace": "https://tucine.xyz:2087/254/playercine.m3u8"
   },
   {
     "Nombre": "Fox Sports 3",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=fs2"
+    "Enlace": "https://tucine.xyz:2087/255/playercine.m3u8"
+  },
+ {
+    "Nombre": "Golden Plus",
+    "Enlace": "https://tucine.xyz:2087/264/playercine.m3u8"
+  },
+ {
+    "Nombre": "Golden Premier",
+    "Enlace": " https://tucine.xyz:2087/265/playercine.m3u8"
   },
  {
     "Nombre": "History",
@@ -277,7 +285,7 @@
   },
   {
     "Nombre": "Space",
-    "Enlace": "https://tucine.xyz:2087/249/playercine.m3u8"
+    "Enlace": "https://tucine.xyz:2087/250/playercine.m3u8"
   },
   {
     "Nombre": "Studio Universal",
