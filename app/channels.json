@@ -39,9 +39,13 @@
     "Nombre": "Venus Media",
     "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8"
   },
+  {
+    "Nombre": "A&E",
+    "Enlace": "https://tucine.xyz:2087/284/playercine.m3u8"
+  },
  {
     "Nombre": "AMC",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=amc"
+    "Enlace": "https://tucine.xyz:2087/283/playercine.m3u8"
   },
   {
     "Nombre": "AXN",
@@ -101,7 +105,7 @@
   },
   {
     "Nombre": "Discovery Turbo",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=turbo"
+    "Enlace": "https://tucine.xyz:2087/293/playercine.m3u8"
   },
   {
     "Nombre": "Discovery World",
@@ -133,7 +137,7 @@
   },
   {
     "Nombre": "El Gourmet",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=gourmet"
+    "Enlace": " https://tucine.xyz:2087/303/playercine.m3u8"
   },
   {
     "Nombre": "FX",
