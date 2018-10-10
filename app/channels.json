@@ -317,30 +317,34 @@
   },
   {
     "Nombre": "TNT Series",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tntseries"
+    "Enlace": "https://tucine.xyz:2087/330/playercine.m3u8"
   },
   {
     "Nombre": "Tooncast",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=tooncast"
+    "Enlace": "https://tucine.xyz:2087/332/playercine.m3u8"
   },
   {
     "Nombre": "Tru TV",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=trutv"
+    "Enlace": "https://tucine.xyz:2087/333/playercine.m3u8"
+  },
+ {
+    "Nombre": "TyC Sports",
+    "Enlace": "https://tucine.xyz:2087/334/playercine.m3u8"
   },
   {
     "Nombre": "Universal Channel",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=universal"
+    "Enlace": "https://tucine.xyz:2087/338/playercine.m3u8"
   },
   {
     "Nombre": "VH1",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=vh1hd"
+    "Enlace": "https://tucine.xyz:2087/340/playercine.m3u8"
   },
   {
     "Nombre": "VH1 Classic",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=vh1classic"
+    "Enlace": "https://tucine.xyz:2087/341/playercine.m3u8"
   },
   {
     "Nombre": "Warner",
-    "Enlace": "http://stream.gleeze.com/kr/4MApbcllXT.m3u8?qt=3&ch=warner"
+    "Enlace": "https://tucine.xyz:2087/342/playercine.m3u8"
   }
 ]
