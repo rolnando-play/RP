@@ -73,15 +73,15 @@
   },
  {
     "Nombre": "DirecTV Sports",
-    "Enlace": " https://tucine.xyz:25461/403/playercine.m3u8"
+    "Enlace": "https://tucine.xyz:25461/403/playercine.m3u8"
   },
  {
     "Nombre": "DirecTV Sports 2",
-    "Enlace": " https://tucine.xyz:25461/404/playercine.m3u8"
+    "Enlace": "https://tucine.xyz:25461/404/playercine.m3u8"
   },
  {
     "Nombre": "DirecTV Sports +",
-    "Enlace": " https://tucine.xyz:25461/405/playercine.m3u8"
+    "Enlace": "https://tucine.xyz:25461/405/playercine.m3u8"
   },
   {
     "Nombre": "Discovery Channel",
@@ -145,7 +145,7 @@
   },
   {
     "Nombre": "El Gourmet",
-    "Enlace": " https://tucine.xyz:25461/303/playercine.m3u8"
+    "Enlace": "https://tucine.xyz:25461/303/playercine.m3u8"
   },
   {
     "Nombre": "FX",
@@ -309,7 +309,7 @@
   },
  {
     "Nombre": "Rai Sport +",
-    "Enlace": " https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.m3u8"
+    "Enlace": "https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.m3u8"
   },
   {
     "Nombre": "Sony",
