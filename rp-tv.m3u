@@ -42,301 +42,211 @@ http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
 #EXTINF:0 ,beIn Sports Ñ
-https://m3uplayer.net/301/waoplay.m3u8
+https://tucine.xyz:25461/472/playercine.m3u8
 #EXTINF:0 ,Claro Sports
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/395/playercine.m3u8
 #EXTINF:0 ,DeporTV
-https://m3uplayer.net/292/waoplay.m3u8
+https://tucine.xyz:25461/401/playercine.m3u8
 #EXTINF:0 ,DirecTV Sports
-https://m3uplayer.net/291/waoplay.m3u8
+https://tucine.xyz:25461/403/playercine.m3u8
 #EXTINF:0 ,DirecTV Sports 2
-https://m3uplayer.net/290/waoplay.m3u8
+https://tucine.xyz:25461/404/playercine.m3u8
 #EXTINF:0 ,DirecTV Sports +
-https://m3uplayer.net/289/waoplay.m3u8
+https://tucine.xyz:25461/405/playercine.m3u8
 #EXTINF:0 ,ESPN
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/307/playercine.m3u8
 #EXTINF:0 ,ESPN 2
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_2_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/309/playercine.m3u8
 #EXTINF:0 ,ESPN 3
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_3_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/311/playercine.m3u8
 #EXTINF:0 ,ESPN +
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESPN_PLUS_HD)/Stream(02)/index.m3u8
-#EXTINF:0 ,Fighting (UFC)
-http://198.255.22.106:25461/281/zapintv.m3u8
+https://tucine.xyz:25461/313/playercine.m3u8
 #EXTINF:0 ,Fox Sports
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/252/playercine.m3u8
 #EXTINF:0 ,Fox Sports 2
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS2_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/254/playercine.m3u8
 #EXTINF:0 ,Fox Sports 3
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX_SPORTS3_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/256/playercine.m3u8
 #EXTINF:0 ,Fox Sports Premium
-http://sv1.futbollibre.net/superliga.m3u8
+https://tucine.xyz:25461/450/playercine.m3u8
 #EXTINF:0, Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/chunklist_w1268811759_b946000_sleng.m3u8
-#EXTINF:0,Gol TV
-https://m3uplayer.net/257/waoplay.m3u8
-#EXTINF:0 ,La Liga TV
-https://m3uplayer.net/300/waoplay.m3u8
-#EXTINF:0 ,Movistar Deportes
-https://waoplay.xyz/146/waoplay.m3u8
-#EXTINF:0 ,Movistar Deportes 1
-https://waoplay.xyz/145/waoplay.m3u8
-#EXTINF:0 ,Movistar Golf
-https://m3uplayer.net/263/waoplay.m3u8
-#EXTINF:0 ,Movistar MotoGP
-https://m3uplayer.net/262/waoplay.m3u8
-#EXTINF:0 ,Movistar Formula 1
-https://m3uplayer.net/265/waoplay.m3u8
-#EXTINF:0 ,Movistar Futbol
-https://waoplay.xyz/162/waoplay.m3u8
-#EXTINF:0 ,Mundo Auto TV
-http://tv.portalfoxmix.club:1935/8702/8702/chunklist_w1056629940.m3u8
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w318582488_sleng.m3u8
 #EXTINF:0 ,NBA
-https://m3uplayer.net/261/waoplay.m3u8
-#EXTINF:0 ,NFL Sports
-https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
-#EXTINF:0 ,RAI
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(RAI)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/240/playercine.m3u8
 #EXTINF:0 ,RAI Sport
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 #EXTINF:0 ,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 ,SporTV
-http://apk.goo.ac:8081/live/20/playlist.m3u8
-#EXTINF:0 ,SporTV 2
-http://apk.goo.ac:8081/live/15/playlist.m3u8
-#EXTINF:0 ,SporTV 3
-http://apk.goo.ac:8081/live/7/playlist.m3u8
 #EXTINF:0 ,TNT Sports
-https://m3uplayer.net/155/waoplay.m3u8
-#EXTINF:0 ,Univision TDN
-https://m3uplayer.net/255/waoplay.m3u8
+https://tucine.xyz:25461/331/playercine.m3u8
 #EXTINF:0, TyC Sports
-https://m3uplayer.net/256/waoplay.m3u8
-#EXTINF:0, Univisión TDN
-https://m3uplayer.net/255/waoplay.m3u8
+https://tucine.xyz:25461/334/playercine.m3u8
 #EXTINF:0 ,VTV (Uruguay)
-https://m3uplayer.net/254/waoplay.m3u8
+https://tucine.xyz:25461/474/playercine.m3u8
 #EXTINF:0 ,Win Sports
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WINSPORTS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/225/playercine.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ANIMAL_PLANET_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/355/playercine.m3u8
 #EXTINF:0 ,Discovery Channel
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/285/playercine.m3u8
 #EXTINF:0 ,Discovery Civilization
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/286/playercine.m3u8
 #EXTINF:0 ,Discovery H&H
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/287/playercine.m3u8
 #EXTINF:0 ,Discovery Science
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_SCIENCE)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/289/playercine.m3u8
 #EXTINF:0 ,Discovery Theater
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_THEATER_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/290/playercine.m3u8
 #EXTINF:0 ,Discovery TLC
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLC_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/403/playercine.m3u8
 #EXTINF:0 ,Discovery Turbo
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_TURBO)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/293/playercine.m3u8
 #EXTINF:0 ,Discovery World
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_WORLD_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/294/playercine.m3u8
 #EXTINF:0 ,History
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/274/playercine.m3u8
 #EXTINF:0 ,History 2
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/268/playercine.m3u8
 #EXTINF:0 ,Investigation Discovery
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ID_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/278/playercine.m3u8
 #EXTINF:0 ,Nat Geo
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/237/playercine.m3u8
 #EXTINF:0 ,Nat Geo Wild
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_WILD_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/239/playercine.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AE_MUNDO_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/284/playercine.m3u8
 #EXTINF:0 ,AMC
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(AMC_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/283/playercine.m3u8
 #EXTINF:0 ,AXN
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(AXN_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/282/playercine.m3u8
 #EXTINF:0 ,Las Estrellas
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(ESTRELLAS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/301/playercine.m3u8
 #EXTINF:0 ,Cinecanal
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINECANAL_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/393/playercine.m3u8
 #EXTINF:0 ,Cinelatino
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(CINELATINO)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/392/playercine.m3u8
 #EXTINF:0 ,Cinemax
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CINEMAX)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/394/playercine.m3u8
 #EXTINF:0 ,El Gourmet
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOURMET_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/303/playercine.m3u8
 #EXTINF:0 ,Fox
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/373/playercine.m3u8
 #EXTINF:0 ,FX
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/257/playercine.m3u8
 #EXTINF:0 ,FXM
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/258/playercine.m3u8
 #EXTINF:0 ,Fox Life
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_LIFE_HD)/Stream(02)/index.m3u8
-#EXTINF:0 ,Golden
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/257/playercine.m3u8
 #EXTINF:0 ,Golden Plus
-https://m3uplayer.net/198/waoplay.m3u8
+https://tucine.xyz:25461/264/playercine.m3u8
 #EXTINF:0 ,Golden Premier
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(GOLDEN_PREMIER_HD)/Stream(02)/index.m3u8
-#EXTINF:0 ,iSat
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(ISAT)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/265/playercine.m3u8
+#EXTINF:0 ,Las Estrellas
+https://tucine.xyz:25461/301/playercine.m3u8
 #EXTINF:0 ,Paramount
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(PARAMOUNT_HD)/Stream(02)/index.m3u8
-#EXTINF:0 ,RAI Italia
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(RAI)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/245/playercine.m3u8
 #EXTINF:0 ,Space
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SPACE_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/250/playercine.m3u8
 #EXTINF:0 ,Studio Universal
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(STUDIO_UNIVERSAL)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/230/playercine.m3u8
 #EXTINF:0 ,Sony
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(SONY_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/249/playercine.m3u8
 #EXTINF:0 ,Syfy
-https://m3uplayer.net/314/waoplay.m3u8
+https://tucine.xyz:25461/229/playercine.m3u8
 #EXTINF:0 ,TBS
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(TBS)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/228/playercine.m3u8
 #EXTINF:0 ,Telemundo
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TELEMUNDO)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/325/playercine.m3u8
 #EXTINF:0 ,tlnovelas
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TLNOVELAS)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/328/playercine.m3u8
 #EXTINF:0 ,TNT
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/329/playercine.m3u8
 #EXTINF:0 ,TNT Series
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TNT_SERIES_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/330/playercine.m3u8
 #EXTINF:0 ,Tru TV
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TRU_TV_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/333/playercine.m3u8
 #EXTINF:0 ,Universal Channel
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/338/playercine.m3u8
 #EXTINF:0 ,Univisión
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(WARNER_HD)/Stream(02)/index.m3u8 
+https://tucine.xyz:25461/342/playercine.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(BOOMERANG)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/368/playercine.m3u8
 #EXTINF:0 ,Cartoon Network
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CARTOON_NETWORK_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/387/playercine.m3u8
 #EXTINF:0 ,Discovery Kids
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/288/playercine.m3u8
 #EXTINF:0 ,Disney Channel
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/295/playercine.m3u8
 #EXTINF:0 ,Disney Junior
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(DISNEY_JR)/Stream(02)/index.m3u8 
+https://tucine.xyz:25461/296/playercine.m3u8
 #EXTINF:0 ,Disney XD
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/297/playercine.m3u8
 #EXTINF:0 ,Nat Geo Kids
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NATGEO_KIDS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/238/playercine.m3u8
 #EXTINF:0 ,Nickelodeon
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICKELODEON_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/243/playercine.m3u8
 #EXTINF:0 ,Nick 2
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_2_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/241/playercine.m3u8
 #EXTINF:0 ,Nicktoons
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(DISCOVERY_CIVILIZATION)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/244/playercine.m3u8
 #EXTINF:0 ,Nick JR
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(NICK_JR_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/242/playercine.m3u8
 #EXTINF:0 ,Tooncast
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/332/playercine.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/269/playercine.m3u8
 #EXTINF:0 ,HBO 2
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(HBO_2_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/270/playercine.m3u8
 #EXTINF:0 ,HBO Family
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/271/playercine.m3u8
 #EXTINF:0 ,HBO Plus
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/272/playercine.m3u8
 #EXTINF:0 ,HBO Signature
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/Stream(02)/index.m3u8
-#EXTINF:0 ,Max Prime
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX_PRIME_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/273/playercine.m3u8
 #EXTINF:0 ,Max
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MAX)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/460/playercine.m3u8
+#EXTINF:0 ,Max Prime
+https://tucine.xyz:25461/281/playercine.m3u8
 #EXTINF:0 ,Max Up
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MAX_UP_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/356/playercine.m3u8
 #EXTINF:0 ,Fox Action
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/318/playercine.m3u8
 #EXTINF:0 ,Fox Cinema
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/319/playercine.m3u8
 #EXTINF:0 ,Fox Classics
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/320/playercine.m3u8
 #EXTINF:0 ,Fox Comedy
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_COMEDY_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/321/playercine.m3u8
 #EXTINF:0 ,Fox Family
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXFAMILY_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/322/playercine.m3u8
 #EXTINF:0 ,Fox Movies
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/323/playercine.m3u8
 #EXTINF:0 ,Fox Series
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(FOX1_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/324/playercine.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0, Concert Channel
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(CONCERT_CHANNEL_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/399/playercine.m3u8
 #EXTINF:0 ,MTV
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(MTV_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/232/playercine.m3u8
 #EXTINF:0 ,MTV Hits
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MTV_HITS)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/233/playercine.m3u8
 #EXTINF:0 ,MTV Live
-http://live.lcdn.claro.net.co/Content/hls_fk/Live/Channel(MTV_LIVE_HD)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/234/playercine.m3u8
 #EXTINF:0 ,VH1
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1)/Stream(02)/index.m3u8
+https://tucine.xyz:25461/340/playercine.m3u8
 #EXTINF:0 ,VH1 Classics
-http://live.lcdn.claro.net.co/Content/hls/Live/Channel(VH1_CLASSIC)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2000px-Argentina_flag_tv.svg.png" group-title="ARGENTINA", ********** ARGENTINA **********
-http://127.0.0.1
-#EXTINF:0 ,América TV
-https://waoplay.xyz/360/waoplay.m3u8
-#EXTINF:0 ,El Trece
-https://58ee6ee476b11.streamlock.net/transcode/ngrp:canal10_all/chunklist_w1452220873.m3u8
-#EXTINF:0 ,TV Pública
-http://132.255.200.250/hls/master-TVP.m3u8
-#EXTINF:0 ,Canal 26
-http://132.255.200.250:80/hls/master-C26.m3u8
-#EXTINF:0 ,Canal 9
-https://m3uplayer.net/157/waoplay.m3u8
-#EXTINF:0 ,Telefé
-http://132.255.200.250:80/hls/master-Telefe.m3u8
-#EXTINF:0 ,C5N
-http://132.255.200.250/hls/master-C5N.m3u8
-#EXTINF:0 ,Crónica TV
-http://132.255.200.250:80/hls/master-CronicaTV.m3u8
-#EXTINF:0 ,CineAR
-http://132.255.200.250:80/hls/master-CineAR.m3u8
-#EXTINF:0 ,CN23
-http://132.255.200.250/hls/master-CN23.m3u8
-#EXTINF:0 ,América 24
-http://132.255.200.250/hls/master-A24.m3u8
-#EXTINF:0 ,LN+
-http://132.255.200.250:80/hls/master-LN.m3u8
-#EXTINF:0 ,PakaPaka
-http://132.255.200.250/hls/master-PakaPaka.m3u8
-#EXTINF:0 ,Telemax
-http://132.255.200.250:80/hls/master-Telemax.m3u8
-#EXTINF:0 ,Tec TV
-http://132.255.200.250:80/hls/master-TECTV.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/chile9_ico.png" group-title="CHILE", ********** CHILE **********
-http://127.0.0.1
-#EXTINF:0 ,Canal 13
-http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8
-#EXTINF:0 ,Chilevisión
-http://live.hls.http.chv.ztreaming.com/desktop/chvmid.m3u8
-#EXTINF:0 ,UCV
-http://unlimited1-us.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream2/chunks.m3u8
-#EXTINF:0 ,La Red
-https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
-#EXTINF:0 ,CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
-#EXTINF:0 ,T13
-http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
-#EXTINF:0 ,CDO
-http://edge1.cl.grupoz.cl/cdofree/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/co.png" group-title="COLOMBIA", ********** COLOMBIA **********
-http://127.0.0.1
-#EXTINF:0 ,RCN
-https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+https://tucine.xyz:25461/341/playercine.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/holy-bible.png" group-title="RELIGIÓN", ********** RELIGIÓN **********
 http://127.0.0.1
 #EXTINF:0 ,ESNE
