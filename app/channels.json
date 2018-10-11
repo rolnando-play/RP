@@ -339,6 +339,10 @@
     "Nombre": "TNT Series",
     "Enlace": "https://tucine.xyz:25461/330/playercine.m3u8"
   },
+ {
+    "Nombre": "TNT Sports",
+    "Enlace": "https://tucine.xyz:25461/331/playercine.m3u8"
+  },
   {
     "Nombre": "Tooncast",
     "Enlace": "https://tucine.xyz:25461/332/playercine.m3u8"
