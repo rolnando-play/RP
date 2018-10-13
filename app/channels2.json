@@ -11,7 +11,7 @@
   },
  {
     "Nombre": "ABC TV",
-    "Enlace": "http://www.ustream.tv/embed/21235831?html5ui",
+    "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
   "EsWeb": "si"
   },
  {
@@ -26,7 +26,7 @@
   },
  {
     "Nombre": "Red Guaraní",
-    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui",
+    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui&autoplay=true",
   "EsWeb": "si"
   },
  {
