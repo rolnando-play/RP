@@ -11,12 +11,12 @@
   },
     {
     "Nombre": "Capiatá vs. Sol 3",
-    "Enlace": "https://videocdn.mixer.com/hls/16492937-b0ef4b9476b5aecad991fe5e1394b4491843603a_source/index.m3u8",
-    "EsWeb": "no"
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188",
+    "EsWeb": "si"
   },
     {
     "Nombre": "Capiatá vs. Sol 4",
-    "Enlace": "https://videocdn.mixer.com/hls/16492937-b0ef4b9476b5aecad991fe5e1394b4491843603a_source/index.m3u8",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1764725/1764725.m3u8?whence=1001",
     "EsWeb": "no"
   },
 {
