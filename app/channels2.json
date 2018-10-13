@@ -10,6 +10,26 @@
   "EsWeb": "si"
   },
  {
+    "Nombre": "ABC TV",
+    "Enlace": "http://www.ustream.tv/embed/21235831",
+  "EsWeb": "si"
+  },
+ {
+    "Nombre": "Más TV Encarnación",
+    "Enlace": "http://www.ustream.tv/embed/12462352",
+  "EsWeb": "si"
+  },
+ {
+    "Nombre": "Noticias Paraguay",
+    "Enlace": "http://paraguay.com/vivo",
+  "EsWeb": "si"
+  },
+ {
+    "Nombre": "Red Guaraní",
+    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui",
+  "EsWeb": "si"
+  },
+ {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
   "EsWeb": "no"
