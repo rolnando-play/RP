@@ -1,83 +1,83 @@
 [
- {
-    "Nombre": "Telefuturo",
-    "Enlace": "https://telefuturo.com.py/envivo",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "Latele",
-    "Enlace": "https://www.latele.com.py/envivo",
-  "EsWeb": "si"
-  },
- {
+{
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
-  "EsWeb": "si"
+    "EsWeb": "si"
   },
- {
-    "Nombre": "Más TV Encarnación",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "Noticias Paraguay",
-    "Enlace": "http://paraguay.com/vivo",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "Red Guaraní",
-    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui&autoplay=true",
-  "EsWeb": "si"
-  },
- {
+  {
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
-  "EsWeb": "no"
+    "EsWeb": "no"
   },
   {
     "Nombre": "Farra Play",
     "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
   },
   {
     "Nombre": "Fernando de la Mora TV",
     "Enlace": "http://181.40.66.93:1935/fernandotv/fernandotv/playlist.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
   },
   {
     "Nombre": "GEN",
     "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
   },
   {
     "Nombre": "Hei",
     "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Latele",
+    "Enlace": "https://www.latele.com.py/envivo",
+    "EsWeb": "si"
   },
   {
     "Nombre": "Lobo Station",
     "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Más TV Encarnación",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Noticias Paraguay",
+    "Enlace": "http://paraguay.com/vivo",
+    "EsWeb": "si"
   },
   {
     "Nombre": "RPC",
     "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Red Guaraní",
+    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui&autoplay=true",
+    "EsWeb": "si"
   },
   {
     "Nombre": "TVS Encarnación",
     "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Telefuturo",
+    "Enlace": "https://telefuturo.com.py/envivo",
+    "EsWeb": "si"
   },
   {
     "Nombre": "Unicanal",
     "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
   },
   {
     "Nombre": "Venus Media",
     "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
-   "EsWeb": "no"
+    "EsWeb": "no"
   },
   {
     "Nombre": "A&E",
