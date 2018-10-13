@@ -59,6 +59,11 @@
     "Enlace": "http://www.ustream.tv/embed/19109913?html5ui&autoplay=true",
     "EsWeb": "si"
   },
+    {
+    "Nombre": "SNT",
+    "Enlace": "http://d185co8b31o2ws.cloudfront.net/player_snt.html",
+    "EsWeb": "si"
+  },
   {
     "Nombre": "TVS Encarnación",
     "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
