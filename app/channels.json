@@ -79,6 +79,11 @@
     "Enlace": "http://paraguay.com/vivo",
     "EsWeb": "si"
   },
+    {
+    "Nombre": "RCC - TV Chaqueña",
+    "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
+    "EsWeb": "no"
+  },
   {
     "Nombre": "RPC",
     "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
