@@ -9,6 +9,11 @@
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
     "EsWeb": "no"
   },
+    {
+    "Nombre": "C9N",
+    "Enlace": "http://dfhivodhhejud.cloudfront.net/player_py_p9.html",
+    "EsWeb": "no"
+  },
   {
     "Nombre": "Farra Play",
     "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
