@@ -34,6 +34,11 @@
     "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
     "EsWeb": "no"
   },
+    {
+    "Nombre": "Intercable",
+    "Enlace": "http://201.217.3.212/TV/intercable/chunklist_w1906207489.m3u8",
+    "EsWeb": "no"
+  },
   {
     "Nombre": "Latele",
     "Enlace": "https://www.latele.com.py/envivo",
