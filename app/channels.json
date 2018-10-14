@@ -1,7 +1,7 @@
 [
     {
     "Nombre": "Tigo Sports",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188&controls=false",
     "EsWeb": "si"
   },
 {
@@ -56,7 +56,7 @@
   },
   {
     "Nombre": "Más TV Encarnación",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline&controls=false",
     "EsWeb": "si"
   },
   {
@@ -96,7 +96,7 @@
   },
     {
     "Nombre": "Telefuturo opción 2",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tf002",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tf002&controls=false",
     "EsWeb": "si"
   },
   {
