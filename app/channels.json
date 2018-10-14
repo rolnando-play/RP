@@ -20,6 +20,16 @@
     "EsWeb": "no"
   },
     {
+    "Nombre": "General Díaz vs.Nacional 5",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "General Díaz vs.Nacional 6",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia",
+    "EsWeb": "si"
+  },
+    {
     "Nombre": "Tigo Sports",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188&controls=false",
     "EsWeb": "si"
