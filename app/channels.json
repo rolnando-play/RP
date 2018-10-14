@@ -1,5 +1,10 @@
 [
     {
+    "Nombre": "General Díaz vs.Nacional 1",
+    "Enlace": "https://videocdn.mixer.com/hls/47861949-1b587b47304234188deb6add9e9e339d0a8b75b1_source/index.m3u8",
+    "EsWeb": "no"
+  },
+    {
     "Nombre": "Tigo Sports",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188&controls=false",
     "EsWeb": "si"
