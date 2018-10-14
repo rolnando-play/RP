@@ -84,6 +84,11 @@
     "Enlace": "https://telefuturo.com.py/envivo",
     "EsWeb": "si"
   },
+    {
+    "Nombre": "Telefuturo opción 2",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tf002",
+    "EsWeb": "si"
+  },
   {
     "Nombre": "Unicanal",
     "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
