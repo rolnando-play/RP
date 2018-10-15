@@ -24,6 +24,16 @@
     "Enlace": "https://mixer.com/embed/player/RolnandoPlay3?disableLowLatency=1",
     "EsWeb": "si"
   },
+    {
+    "Nombre": "Santaní vs. Olimpia 6",
+    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cp8Eebv-r5JvSknIy5QSC5Ucm6_LL2TXGJS71DkVp0__v66kBajpMrKcGAvU53_aQDNhgUjby0MoZm5P3Dq6ZnQpo6Iu_ItL9XD6lu2m1W1gics8ompDymM3sPMpqcbtZFMXwQEnDr4iIAiN0l6krs2AKSMtm05cSbndhebzm7xOvEDajsytiQ3lABn08fkysVKV8k3RNAhn6KIxZs5aCSSY_5wVGRvtRF6iH2gP2PRYQiCjVOBZ8cu3qlqjHk5qi6ZMggtkHM5kFQV9PobkxacIYLYYjL1ux6RLyPu7VzJzIUgmCARXnVgSNwKKHkvKQOb_n84O4jsIeZnX1VOFHcBJ5f_HiOnw6JGbSxkWjPakMQJWdcw3faQ5gWxwq0_VHbcwcKHvyRLEogVuR8xTDnXZQxC7vGBzDIYSlL7BEmW5VU9wgON74vTYb8mlnTGOiWa80M4m8q7za-RJ9jnpstu7ChDF4fQssIhHiWYyzW7qn0EYNPw1eUaw72q5TeD8Xl7_INrPHznEQ7TsDZt4QXsC1Dc6Yg4aXaQArta0n3hlXJZygqrgIo4u6vYZfElwGvF76uRWacOhpQynauGQEHwAhWwTgcbAGaV2-qBHp0RNryKIxhqEx-aS-kvrVLVzdTAWEj5S8kEOpuSiWMDfz_9RpD1yKoBk4PbGF4KSLz-nBYj-jLLfaZQrP1CjpnsLhlB5zFNEKuTUdT5RD5m-Y02NEhBC-gVMz355W-ezxb4A4S3BGgxTzfnkPhF47alRmq8.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Santaní vs. Olimpia 7",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia",
+    "EsWeb": "si"
+  },
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
