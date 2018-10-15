@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, SAN-OLI 1
-https://neuclnlds52dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd.m3u8
+https://videocdn.mixer.com/hls/52226484-d6071a4e6f824e21fe4537e771fa308b46e71979_source/index.m3u8
 #EXTINF:0, SAN-OLI 2
 https://videocdn.mixer.com/hls/47861949-1b587b47304234188deb6add9e9e339d0a8b75b1_source/index.m3u8
 #EXTINF:0, SAN-OLI 3
