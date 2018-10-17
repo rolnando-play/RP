@@ -1,20 +1,4 @@
 [
-    {
-    "Nombre": "Cerro Porteño vs. Libertad 1",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=15720188&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Cerro Porteño vs. Libertad 2",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Cerro Porteño vs. Libertad 3",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=enkunku&controls=false",
-    "EsWeb": "si"
-  },
-
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
