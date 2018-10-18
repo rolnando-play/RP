@@ -1,7 +1,7 @@
 [
     {
     "Nombre": "PRUEBA",
-    "Enlace": "http://tucine.xyz:8088/live/micine/micine/252.ts",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/252.ts|user-agent=MiCinePlayer",
     "EsWeb": "no"
   },
 {
