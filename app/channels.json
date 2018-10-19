@@ -411,7 +411,7 @@
   },
   {
     "Nombre": "Nat Geo Wild",
-    "Enlace": "https://tucine.xyz/239/playergatotv.m3u8",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/239.m3u8",
    "EsWeb": "no"
   },
   {
