@@ -1,0 +1,517 @@
+[
+{
+    "Nombre": "ABC TV",
+    "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Amor TV",
+    "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "C9N",
+    "Enlace": "http://dfhivodhhejud.cloudfront.net/player_py_p9.html",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Farra Play",
+    "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fernando de la Mora TV",
+    "Enlace": "http://181.40.66.93:1935/fernandotv/fernandotv/playlist.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "GEN",
+    "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Hei",
+    "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Intercable",
+    "Enlace": "http://201.217.3.212/TV/intercable/chunklist_w1906207489.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Latele",
+    "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Lobo Station",
+    "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Más TV Encarnación",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Noticias Paraguay",
+    "Enlace": "http://paraguay.com/vivo",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "RCC - TV Chaqueña",
+    "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "RPC",
+    "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Red Guaraní",
+    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui&autoplay=true",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "SNT",
+    "Enlace": "http://d185co8b31o2ws.cloudfront.net/player_snt.html",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "TVS Encarnación",
+    "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Telefuturo",
+    "Enlace": "https://telefuturo.com.py/envivo",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Telefuturo opción 2",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tf002",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Unicanal",
+    "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "Venus Media",
+    "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
+    "EsWeb": "no"
+  },
+  {
+    "Nombre": "A&E",
+    "Enlace": "https://tucine.xyz/284/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "AMC",
+    "Enlace": "https://tucine.xyz/283/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "AXN",
+    "Enlace": "https://tucine.xyz/282/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Animal Planet",
+    "Enlace": "https://tucine.xyz/355/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Boomerang",
+    "Enlace": "https://tucine.xyz/368/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Cartoon Network",
+    "Enlace": "https://tucine.xyz/387/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Cinecanal",
+    "Enlace": "https://tucine.xyz/393/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Cinemax",
+    "Enlace": "https://tucine.xyz/394/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "DirecTV Sports",
+    "Enlace": "https://tucine.xyz/403/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "DirecTV Sports 2",
+    "Enlace": "https://tucine.xyz/404/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "DirecTV Sports +",
+    "Enlace": "https://tucine.xyz/405/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery Channel",
+    "Enlace": "https://tucine.xyz/285/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "Discovery Civilization",
+    "Enlace": "https://tucine.xyz/286/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery H&H",
+    "Enlace": "https://tucine.xyz/287/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery Kids",
+    "Enlace": "https://tucine.xyz/288/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery Science",
+    "Enlace": "https://tucine.xyz/289/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery TLC",
+    "Enlace": "https://tucine.xyz/403/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery Theater",
+    "Enlace": "https://tucine.xyz/290/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery Turbo",
+    "Enlace": "https://tucine.xyz/293/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Discovery World",
+    "Enlace": "https://tucine.xyz/294/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "Disney Channel",
+    "Enlace": "https://tucine.xyz/295/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "Disney Junior",
+    "Enlace": "https://tucine.xyz/296/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "ESPN",
+    "Enlace": "https://tucine.xyz/307/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "ESPN 2",
+    "Enlace": "https://tucine.xyz/309/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "ESPN 3",
+    "Enlace": "https://tucine.xyz/311/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "ESPN +",
+    "Enlace": "https://tucine.xyz/313/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "El Gourmet",
+    "Enlace": "https://tucine.xyz/303/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "FX",
+    "Enlace": "https://tucine.xyz/257/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "FXM",
+    "Enlace": "https://tucine.xyz/258/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox",
+    "Enlace": "https://tucine.xyz/373/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Action",
+    "Enlace": "https://tucine.xyz/318/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Cinema",
+    "Enlace": "https://tucine.xyz/319/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Classics",
+    "Enlace": "https://tucine.xyz/320/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Comedy",
+    "Enlace": "https://tucine.xyz/321/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Family",
+    "Enlace": "https://tucine.xyz/322/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Life",
+    "Enlace": "https://tucine.xyz/257/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Movies",
+    "Enlace": "https://tucine.xyz/323/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Series",
+    "Enlace": "https://tucine.xyz/324/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Sports 1",
+    "Enlace": "https://tucine.xyz/252/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Sports 2",
+    "Enlace": "https://tucine.xyz/254/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Fox Sports 3",
+    "Enlace": "https://tucine.xyz/256/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "Fox Sports Premium",
+    "Enlace": "https://tucine.xyz/450/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "Golden Plus",
+    "Enlace": "https://tucine.xyz/264/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "Golden Premier",
+    "Enlace": " https://tucine.xyz/265/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "History",
+    "Enlace": "https://tucine.xyz/274/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "H2",
+    "Enlace": "https://tucine.xyz/268/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "HBO",
+    "Enlace": "https://tucine.xyz/269/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "HBO 2",
+    "Enlace": "https://tucine.xyz/270/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "HBO Family",
+    "Enlace": "https://tucine.xyz/271/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "HBO Plus",
+    "Enlace": "https://tucine.xyz/272/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "HBO Signature",
+    "Enlace": "https://tucine.xyz/273/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "ID",
+    "Enlace": "https://tucine.xyz/278/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "Las Estrellas",
+    "Enlace": "https://tucine.xyz/301/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "MTV",
+    "Enlace": "https://tucine.xyz/232/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "MTV Hits",
+    "Enlace": "https://tucine.xyz/233/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "MTV Live",
+    "Enlace": "https://tucine.xyz/234/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Max",
+    "Enlace": "https://tucine.xyz/460/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Max Prime",
+    "Enlace": "https://tucine.xyz/281/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Max Up",
+    "Enlace": "https://tucine.xyz/356/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Nat Geo",
+    "Enlace": "https://tucine.xyz/237/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Nat Geo Kids",
+    "Enlace": "https://tucine.xyz/238/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Nat Geo Wild",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/239.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Nick",
+    "Enlace": "https://tucine.xyz/243/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Nick 2",
+    "Enlace": "https://tucine.xyz/241/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Nick JR",
+    "Enlace": "https://tucine.xyz/242/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "Rai Sport",
+    "Enlace": "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8",
+  "EsWeb": "no"
+  },
+ {
+    "Nombre": "Rai Sport +",
+    "Enlace": "https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "Sony",
+    "Enlace": "https://tucine.xyz/249/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Space",
+    "Enlace": "https://tucine.xyz/250/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Studio Universal",
+    "Enlace": "https://tucine.xyz/230/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "TBS",
+    "Enlace": "https://tucine.xyz/228/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "Telemundo",
+    "Enlace": "https://tucine.xyz/325/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "TNT",
+    "Enlace": "https://tucine.xyz/329/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "TNT Series",
+    "Enlace": "https://tucine.xyz/330/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "TNT Sports",
+    "Enlace": "https://tucine.xyz/331/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "Tooncast",
+    "Enlace": "https://tucine.xyz/332/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Tru TV",
+    "Enlace": "https://tucine.xyz/333/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+ {
+    "Nombre": "TyC Sports",
+    "Enlace": "https://tucine.xyz/334/playergatotv.m3u8",
+  "EsWeb": "no"
+  },
+  {
+    "Nombre": "Universal Channel",
+    "Enlace": "https://tucine.xyz/338/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "VH1",
+    "Enlace": "https://tucine.xyz/340/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "VH1 Classic",
+    "Enlace": "https://tucine.xyz/341/playergatotv.m3u8",
+   "EsWeb": "no"
+  },
+  {
+    "Nombre": "Warner",
+    "Enlace": "https://tucine.xyz/342/playergatotv.m3u8",
+   "EsWeb": "no"
+}
+]
