@@ -414,6 +414,11 @@
     "Enlace": "http://tucine.xyz:8088/live/micine/micine/238.m3u8",
    "EsWeb": "si"
   },
+    {
+    "Nombre": "Nat Geo Mundo",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/236.m3u8",
+   "EsWeb": "si"
+  },
   {
     "Nombre": "Nat Geo Wild",
     "Enlace": "http://tucine.xyz:8088/live/micine/micine/239.m3u8",
