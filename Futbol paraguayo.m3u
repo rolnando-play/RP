@@ -2,7 +2,6 @@
 #EXTINF:0, 3DF-CAP 1
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMElKYfGETpsyGNG-mdgigoNB1ISh6-nqKM_k7E_tNCFf2n50UzuUhhCvTR0vjorJFF5UmP4bquC15dCwykNH4_vQNLRrvUTdvPFtwYNj6WTOGDP7PpEfYICul9UoUVMr9Xg1BTmnFB4yV-aSuXJP1v6zW_3e7YUQRcpcTbzDAESEqreVZ9aU109FEPg19SPwOQKnRZiEsiTnw5yaSQtkMjiJJBEu4h9OxzVb-oVPxwObSpN_et1iXGvYx6-S_wQIv6ibkgEXy-39Ln0DdlXW1pDIEmmtcdwodifdCdKFHnfG8gd2ADtX7Zkn6EuLWsTJnXGn5SEsCgG4syNhzzRnH-UNwcHABAbCcIoIEGXFql31CQ-Hd336AtLb2n5kj5M61HynOcPT0TQm-bp2b5OAzQMc7OBkt65Y_VI4yOUWytgY12BmuQz_nhzcfIkU6ob508E4J8iICOwfQ9iCC6vCAqODOctg2jlZw97UBT9YzSxDhR843eIaYbxY8yBvve_magdgkSsydvZxcfkmACVspIhCaTFxNRasIZHSiax2UYCeoan4lHORUODLA6vxhd0qK1X0U8L1Z0IWCnf3X0y1V-ENGljo1BSwsoPiC9eTOrbwy-XYL4Y4LvdaA-6AxLqkGhqO-QKXBiff5X-cifqAExgtqTvDHbQ4ZmDJo_bc2Exkk900IGy3-bfi7KBAbWUuvcvQXPEhBAooa1c6QjJJaHVMknLQGsGgxiGHPSHxHETifEoUs.m3u8
 #EXTINF:0, 3DF-CAP 2
-http://93.189.63.194/hls-live/xmlive/_definst_/1770451/1770451.m3u8?whence=1001
-
-
 https://videocdn.mixer.com/hls/53291589-5b58a44e39370a3bfe9d57bf0f4599ca_source/index.m3u8 
+#EXTINF:0, 3DF-CAP 3
+http://93.189.63.194/hls-live/xmlive/_definst_/1770451/1770451.m3u8?whence=1001
