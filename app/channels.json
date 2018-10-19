@@ -70,6 +70,12 @@
     "EsWeb": "si"
   },
     {
+    "Nombre": "Red Guaraní",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/584.m3u8",
+    "EsWeb": "si"
+  },
+             
+    {
     "Nombre": "RCC - TV Chaqueña",
     "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
     "EsWeb": "no"
@@ -78,11 +84,6 @@
     "Nombre": "RPC",
     "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
     "EsWeb": "no"
-  },
-  {
-    "Nombre": "Red Guaraní",
-    "Enlace": "http://www.ustream.tv/embed/19109913?html5ui&autoplay=true",
-    "EsWeb": "si"
   },
     {
     "Nombre": "SNT",
