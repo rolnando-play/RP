@@ -124,6 +124,11 @@
     "Enlace": "http://tucine.xyz:8088/live/micine/micine/355.m3u8",
    "EsWeb": "si"
   },
+    {
+    "Nombre": "beIn Sports Ñ",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/472.m3u8",
+   "EsWeb": "si"
+  },
   {
     "Nombre": "Boomerang",
     "Enlace": "http://tucine.xyz:8088/live/micine/micine/368.m3u8",
