@@ -39,8 +39,13 @@
     "Enlace": "http://201.217.3.212/TV/intercable/chunklist_w1906207489.m3u8",
     "EsWeb": "no"
   },
-  {
+    {
     "Nombre": "Latele",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/581.m3u8",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Latele opción 2",
     "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
     "EsWeb": "si"
   },
