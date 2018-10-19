@@ -60,6 +60,11 @@
     "EsWeb": "si"
   },
     {
+    "Nombre": "Paravisión",
+    "Enlace": "http://tucine.xyz:8088/live/micine/micine/580.m3u8",
+    "EsWeb": "si"
+  },
+    {
     "Nombre": "RCC - TV Chaqueña",
     "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
     "EsWeb": "no"
