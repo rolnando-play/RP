@@ -1,28 +1,8 @@
 [
-{
-    "Nombre": "3 de Febrero vs. Capiatá 1",
-    "Enlace": "https://videocdn.mixer.com/hls/47861949-d85d0460bd5e87b937ed2c582fd4e7654548366c_source/index.m3u8",
-    "EsWeb": "no"
-  },
     {
-    "Nombre": "3 de Febrero vs. Capiatá 2",
+    "Nombre": "Tigo Sports",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
     "EsWeb": "si"
-  },
-    {
-    "Nombre": "3 de Febrero vs. Capiatá 3",
-    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpMEgHt9DgJ9VtCDf3DZKdTOgTO70N_CYhBOWhoGzXQwIq1eYE_kLkXn1iGvbrcTc4B0RVmfPbtN-WW_acESQpYFrL7_e8Dgg40f96c9oZhTNONAfdf1a5Mpcj4C4xz7i4Zz2r15hqfHDTIGXlwS0vViv4u4nYUua-bL7KvtZzC9w2jKzibltUh8gcb0PSR3IxMnQhr150I0u1xan6b0PmzC0WNEc0t70f59wMkVWi63MxS3SsUG3IQBKKiQuRZGNVmanL4ZjD7ypTyHij0CTEoe_AcTQiCDWkP0EyG3IDNwpBUqrz1uEuucxYKJ1XfJJJQZyYdPCiTXvQdIkH443nzIN5pP9YarBaFrJKvM6xRKn6agvUfX6a1Z3NVFJgi7MYcWNj4jRHy_pcGymgQV7pGk20jf4zNDPY4qpfa1C1VuVw4lxyKV65I3UBLPs6ljA8kkPHfde6Ai4IOFBt1LunUyUvImQCvCIGWYH_JqYivjQlKo3iJ4LGK5QH3fmWtVnkEZ0LeUGS1VFYftmH4WI4I05rF8h5azcxNe5SVsPS_M0f7qIasDGmiK6s-55Ll0VI4GdqiQOi-ZEx6EHUA-baMEbugjFf65N7-SG0dVXVazAw6o29iIhzWNCOyWXeRyP8R4QbNUwFwmQGhHUTFC0tXG_mOa4R4Tk6JGLRH8QiANG69DrA-bp4DsFO_m1zwMxyRzb1RoEhBsdRPFTOso-GmInW-42u65GgyyGkOfg7napiyvqCM.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "3 de Febrero vs. Capiatá 4",
-    "Enlace": "https://mixer.com/embed/player/47861949?disableLowLatency=1&hideChannel=true&disableLinks=true",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "3 de Febrero vs. Capiatá 5",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1781561/1781561.m3u8?whence=1001",
-    "EsWeb": "no"
   },
 {
     "Nombre": "ABC TV",
