@@ -81,7 +81,7 @@
   },
   {
     "Nombre": "Más TV Encarnación",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline&controls=false",
     "EsWeb": "si"
   },
   {
