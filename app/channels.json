@@ -1,16 +1,34 @@
 [
     {
-    "Nombre": "Nacional vs. Guaraní 1",
+    "Nombre": "Sol vs. Cerro Porteño 1",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Nacional vs. Guaraní 2",
+    "Nombre": "Sol vs. Cerro Porteño 2",
     "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpME56vLE4Yk7zRVL42_4pXuaJCeYRx7jbKvg4vIp_jRe6mfwxkWLfwGduTV1sYQds1U4sFXIBYTIPZFos0MJJ95xWM-T7krZc-eDXnM2N9EL181E3Yff3xmNLYuZPXLJDa9NZwxjGiirt_iZYeC-4yOMUtx0asQNHbRj_Mii-nI9SBf2Erj290D4xrQWjIiEjXMUniCNiz606atV4y36tUYNPk04ueLvCrNJYph7ZMb23-C5VmYsONTk7-cb72EtC4IRLaCWwrryajgBKpD_coknY7bSz51vserBWFiVmD8-mbON4OLhDKW8fu-Grzu0AOJwyC10J4V_Dgs5sk-Ytk0jEjw0GcU_ELfO7TWBlMKOPK0jVPKK8fnQ4_J_OUDD8Z_hrjfQZmdHQSqzzIYurdeRbl9NbqN6M1aVPu5rK2fW5FVxubBFNzBb2FgW3NOIoS1rjhWd7wYCJuGoEdVZIRI7F-wUYZaqt4M0vbqOI000pBF6lSZH22T2KNhe9SGq70YdHMZR4rwyKxUJRT9zJ5vjV-QvTYlWZ1vEYV3NfNkfVcb3wA7uxb2fQ1BdRvdz5ZEshN2m2i9uxVqiD135e9A6TIDtpllafuiJbZz18ybWKls23qGsYsQljkmj8ZJeETql2puW1gtuWJPrINuUtrkISULWmizYdR1gUfQ_Rt9dBKo5X-bfPjScvzhBGToXeoOVKToEhC35pYJqZdZDLpa-GkOG6LIGgy3t_SgPLpAFIXHpoA.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Nacional vs. Guaraní 3",
+    "Nombre": "Sol vs. Cerro Porteño 3",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1785245/1785245.m3u8?whence=1001",
+    "EsWeb": "no"
+  },
+    },
+    {
+    "Nombre": "Sol vs. Cerro Porteño 4",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1785245/1785245.m3u8?whence=1001",
+    "EsWeb": "no"
+  },
+    },
+    {
+    "Nombre": "Sol vs. Cerro Porteño 5",
+    "Enlace": "https://mixer.com/embed/player/RolnandoPlay3?disableLowLatency=1&hideChannel=true&disableLinks=true",
+    "EsWeb": "si"
+  },
+    },
+    {
+    "Nombre": "Sol vs. Cerro Porteño 6",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1785245/1785245.m3u8?whence=1001",
     "EsWeb": "no"
   },
