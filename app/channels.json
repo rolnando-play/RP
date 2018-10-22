@@ -16,13 +16,13 @@
   },
     {
     "Nombre": "Libertad vs. Independiente 4",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1788741/1788741.m3u8?whence=1001",
-    "EsWeb": "no"
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
+    "EsWeb": "si"
   },
     {
     "Nombre": "Libertad vs. Independiente 5",
-    "Enlace": "https://mixer.com/embed/player/RolnandoPlay3?disableLowLatency=1&hideChannel=true&disableLinks=true",
-    "EsWeb": "si"
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1788741/1788741.m3u8?whence=1001",
+    "EsWeb": "no"
   },
 {
     "Nombre": "ABC TV",
