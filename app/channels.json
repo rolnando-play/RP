@@ -1,8 +1,8 @@
 [
     {
     "Nombre": "TEST",
-    "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/video.m3u8",
-    "EsWeb": "si"
+    "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/video.m3u",
+    "EsWeb": "no"
   },
 {
     "Nombre": "ABC TV",
