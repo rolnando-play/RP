@@ -1,9 +1,4 @@
 [
-    {
-    "Nombre": "TEST",
-    "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/video.m3u8",
-    "EsWeb": "no"
-  },
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
@@ -122,7 +117,7 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/284.ts?rp.m3u8",
+    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/284.ts",
    "EsWeb": "no"
   },
  {
