@@ -9,6 +9,11 @@
     "Enlace": "https://videocdn.mixer.com/hls/47861949-d353929aa35e66bdb1391a4d8b472644c6476671_source/index.m3u8",
     "EsWeb": "no"
         },
+    {
+    "Nombre": "General Díaz vs. Olimpia 3",
+    "Enlace": "https://mixer.com/embed/player/master10javi?disableLowLatency=1&hideChannel=true&disableLinks=true",
+    "EsWeb": "si"
+        },
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
