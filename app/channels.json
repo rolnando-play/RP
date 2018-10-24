@@ -117,8 +117,8 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/284.m3u8",
-   "EsWeb": "si"
+    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/284.ts",
+   "EsWeb": "no"
   },
  {
     "Nombre": "AMC",
