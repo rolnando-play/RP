@@ -123,17 +123,17 @@
  {
     "Nombre": "AMC",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=amc",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "AXN",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=axn",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Animal Planet",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=animal",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
     {
     "Nombre": "beIn Sports Ñ",
@@ -143,22 +143,22 @@
   {
     "Nombre": "Boomerang",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=boomerang",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Cartoon Network",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cartoon",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Cinecanal",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cinecanal",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Cinemax",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cinemax",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "DirecTV Sports",
@@ -178,32 +178,32 @@
   {
     "Nombre": "Discovery Channel",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=discovery",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Discovery Civilization",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=civil",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "Discovery H&H",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hh",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Kids",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=kids",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Science",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=science",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery TLC",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tlc",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Theater",
@@ -233,17 +233,17 @@
   {
     "Nombre": "ESPN",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ESPN 2",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn2",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ESPN 3",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn3",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ESPN +",
@@ -258,72 +258,72 @@
   {
     "Nombre": "FX",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fxm",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "FXM",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fxmm",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fox",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Action",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxaction",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Cinema",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxcinema",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Classics",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxclassics",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Comedy",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxcomedy",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Family",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxfamily",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Life",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxlife",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Movies",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxmovies",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Series",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxseries",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 1",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs1m",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 2",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs2m",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 3",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs3m",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Fox Sports Premium",
@@ -333,12 +333,12 @@
  {
     "Nombre": "Golden Plus",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=goldenplus",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "Golden Premier",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=goldenpremier",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "History",
@@ -348,12 +348,12 @@
   {
     "Nombre": "H2",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=h2",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hbo",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO 2",
@@ -363,12 +363,12 @@
   {
     "Nombre": "HBO Family",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hbofamily",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Plus",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hboplus",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Signature",
@@ -378,7 +378,7 @@
   {
     "Nombre": "ID",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=id",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Las Estrellas",
@@ -388,7 +388,7 @@
   {
     "Nombre": "MTV",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=mtv",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "MTV Hits",
@@ -403,27 +403,27 @@
   {
     "Nombre": "Max",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=max",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Max Prime",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=maxprime",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Max Up",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=maxup",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nat Geo",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeo",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nat Geo Kids",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeokids",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
     {
     "Nombre": "Nat Geo Mundo",
@@ -433,22 +433,22 @@
   {
     "Nombre": "Nat Geo Wild",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeowild",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nick",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nick",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nick 2",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nick2",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nick JR",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nickjr",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Rai Sport",
@@ -463,22 +463,22 @@
   {
     "Nombre": "Sony",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=sony",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Space",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=space",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Studio Universal",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=studio",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "TBS",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tbs",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Telemundo",
@@ -488,12 +488,12 @@
   {
     "Nombre": "TNT",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tnt",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "TNT Series",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tntseries",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "TNT Sports",
@@ -503,12 +503,12 @@
   {
     "Nombre": "Tooncast",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tooncast",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Tru TV",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=trutv",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "TyC Sports",
@@ -518,7 +518,7 @@
   {
     "Nombre": "Universal Channel",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=universal",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "VH1",
@@ -533,6 +533,6 @@
   {
     "Nombre": "Warner",
     "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=warner",
-   "EsWeb": "si"
+   "EsWeb": "no"
 }
 ]
