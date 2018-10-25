@@ -132,7 +132,7 @@
   },
   {
     "Nombre": "Animal Planet",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/355.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=animal",
    "EsWeb": "si"
   },
     {
@@ -147,7 +147,7 @@
   },
   {
     "Nombre": "Cartoon Network",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/387.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cartoon",
    "EsWeb": "si"
   },
   {
@@ -192,7 +192,7 @@
   },
   {
     "Nombre": "Discovery Kids",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/288.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=kids",
    "EsWeb": "si"
   },
   {
@@ -202,7 +202,7 @@
   },
   {
     "Nombre": "Discovery TLC",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/406.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tlc",
    "EsWeb": "si"
   },
   {
@@ -257,7 +257,7 @@
   },
   {
     "Nombre": "FX",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/257.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fxm",
    "EsWeb": "si"
   },
   {
@@ -377,7 +377,7 @@
   },
   {
     "Nombre": "ID",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/278.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=id",
    "EsWeb": "si"
   },
  {
@@ -387,7 +387,7 @@
   },
   {
     "Nombre": "MTV",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/232.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=mtv",
    "EsWeb": "si"
   },
   {
@@ -467,7 +467,7 @@
   },
   {
     "Nombre": "Space",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/250.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=space",
    "EsWeb": "si"
   },
   {
@@ -502,12 +502,12 @@
   },
   {
     "Nombre": "Tooncast",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/332.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tooncast",
    "EsWeb": "si"
   },
   {
     "Nombre": "Tru TV",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/333.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=trutv",
    "EsWeb": "si"
   },
  {
@@ -532,7 +532,7 @@
   },
   {
     "Nombre": "Warner",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/342.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=warner",
    "EsWeb": "si"
 }
 ]
