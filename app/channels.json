@@ -232,17 +232,17 @@
   },
   {
     "Nombre": "ESPN",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn",
+    "Enlace": "http://filesusc.com/vps/espn/800_ESPN.m3u8",
    "EsWeb": "no"
   },
   {
     "Nombre": "ESPN 2",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn2",
+    "Enlace": "http://filesusc.com/vps/espn/800_ESPN2.m3u8",
    "EsWeb": "no"
   },
   {
     "Nombre": "ESPN 3",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn3",
+    "Enlace": "http://filesusc.com/vps/espn/800_ESPN3.m3u8",
    "EsWeb": "no"
   },
   {
