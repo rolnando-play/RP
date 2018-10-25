@@ -117,17 +117,17 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/284.ts",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=axn",
    "EsWeb": "no"
   },
  {
     "Nombre": "AMC",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/283.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=amc",
   "EsWeb": "si"
   },
   {
     "Nombre": "AXN",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/282.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=axn",
    "EsWeb": "si"
   },
   {
@@ -142,7 +142,7 @@
   },
   {
     "Nombre": "Boomerang",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/368.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=boomerang",
    "EsWeb": "si"
   },
   {
@@ -152,12 +152,12 @@
   },
   {
     "Nombre": "Cinecanal",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/393.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cinecanal",
    "EsWeb": "si"
   },
   {
     "Nombre": "Cinemax",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/394.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cinemax",
    "EsWeb": "si"
   },
  {
@@ -177,17 +177,17 @@
   },
   {
     "Nombre": "Discovery Channel",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/285.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=discovery",
    "EsWeb": "si"
   },
  {
     "Nombre": "Discovery Civilization",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/286.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=civil",
   "EsWeb": "si"
   },
   {
     "Nombre": "Discovery H&H",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/287.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hh",
    "EsWeb": "si"
   },
   {
@@ -197,7 +197,7 @@
   },
   {
     "Nombre": "Discovery Science",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/289.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=science",
    "EsWeb": "si"
   },
   {
@@ -232,17 +232,17 @@
   },
   {
     "Nombre": "ESPN",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/307.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn",
    "EsWeb": "si"
   },
   {
     "Nombre": "ESPN 2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/309.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn2",
    "EsWeb": "si"
   },
   {
     "Nombre": "ESPN 3",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/311.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=espn3",
    "EsWeb": "si"
   },
   {
@@ -262,67 +262,67 @@
   },
   {
     "Nombre": "FXM",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/258.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fxmm",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/373.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fox",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Action",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/318.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxaction",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Cinema",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/319.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxcinema",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Classics",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/320.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxclassics",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Comedy",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/321.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxcomedy",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Family",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/322.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxfamily",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Life",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/257.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxlife",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Movies",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/323.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxmovies",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Series",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/324.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxseries",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 1",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/252.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs1m",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/254.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs2m",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 3",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/256.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs3m",
    "EsWeb": "si"
   },
  {
@@ -332,12 +332,12 @@
   },
  {
     "Nombre": "Golden Plus",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/264.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=goldenplus",
   "EsWeb": "si"
   },
  {
     "Nombre": "Golden Premier",
-    "Enlace": " http://tucine.xyz:8088/live/gatotv/123456789/265.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=goldenpremier",
   "EsWeb": "si"
   },
  {
@@ -347,12 +347,12 @@
   },
   {
     "Nombre": "H2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/268.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=h2",
    "EsWeb": "si"
   },
   {
     "Nombre": "HBO",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/269.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hbo",
    "EsWeb": "si"
   },
   {
@@ -362,12 +362,12 @@
   },
   {
     "Nombre": "HBO Family",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/271.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hbofamily",
    "EsWeb": "si"
   },
   {
     "Nombre": "HBO Plus",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/272.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hboplus",
    "EsWeb": "si"
   },
   {
@@ -402,27 +402,27 @@
   },
   {
     "Nombre": "Max",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/460.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=max",
    "EsWeb": "si"
   },
   {
     "Nombre": "Max Prime",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/281.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=maxprime",
    "EsWeb": "si"
   },
   {
     "Nombre": "Max Up",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/356.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=maxup",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nat Geo",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/237.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeo",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nat Geo Kids",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/238.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeokids",
    "EsWeb": "si"
   },
     {
@@ -432,22 +432,22 @@
   },
   {
     "Nombre": "Nat Geo Wild",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/239.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeowild",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nick",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/243.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nick",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nick 2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/241.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nick2",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nick JR",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/242.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nickjr",
    "EsWeb": "si"
   },
  {
@@ -462,7 +462,7 @@
   },
   {
     "Nombre": "Sony",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/249.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=sony",
    "EsWeb": "si"
   },
   {
@@ -472,12 +472,12 @@
   },
   {
     "Nombre": "Studio Universal",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/230.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=studio",
    "EsWeb": "si"
   },
   {
     "Nombre": "TBS",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/228.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tbs",
    "EsWeb": "si"
   },
  {
@@ -487,12 +487,12 @@
   },
   {
     "Nombre": "TNT",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/329.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tnt",
    "EsWeb": "si"
   },
   {
     "Nombre": "TNT Series",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/330.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tntseries",
    "EsWeb": "si"
   },
  {
@@ -517,7 +517,7 @@
   },
   {
     "Nombre": "Universal Channel",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/338.m3u8",
+    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=universal",
    "EsWeb": "si"
   },
   {
