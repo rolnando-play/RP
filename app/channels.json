@@ -157,7 +157,7 @@
   },
     {
     "Nombre": "beIn Sports Ñ",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/472.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/bein.html",
    "EsWeb": "si"
   },
   {
@@ -287,8 +287,8 @@
   },
   {
     "Nombre": "Fox",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fox",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/fox.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Action",
@@ -507,8 +507,8 @@
   },
   {
     "Nombre": "TNT",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tnt",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/tnt.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "TNT Series",
@@ -532,7 +532,7 @@
   },
  {
     "Nombre": "TyC Sports",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/334.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/teiCeSp0rts.html",
   "EsWeb": "si"
   },
   {
