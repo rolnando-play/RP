@@ -137,8 +137,8 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=axn",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/ae.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "AMC",
@@ -152,8 +152,8 @@
   },
   {
     "Nombre": "Animal Planet",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=animal",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/animalplanet.html",
+   "EsWeb": "si"
   },
     {
     "Nombre": "beIn Sports Ñ",
@@ -162,13 +162,13 @@
   },
   {
     "Nombre": "Boomerang",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=boomerang",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/boomerang.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Cartoon Network",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cartoon",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/cartoon.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Cinecanal",
@@ -207,13 +207,13 @@
   },
   {
     "Nombre": "Discovery H&H",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hh",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/homeandhealt.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Discovery Kids",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=kids",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/discoveryk.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Discovery Science",
@@ -222,12 +222,12 @@
   },
   {
     "Nombre": "Discovery TLC",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tlc",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/TLC.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Discovery Theater",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/290.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/HD-Theater.html",
    "EsWeb": "si"
   },
   {
@@ -242,12 +242,16 @@
   },
  {
     "Nombre": "Disney Channel",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/295.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/disneych.html",
   "EsWeb": "si"
   },
  {
     "Nombre": "Disney Junior",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/296.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/disneyjr.html",
+  "EsWeb": "si"
+  },
+    "Nombre": "E!",
+    "Enlace": "http://player.latino-webtv.com/channels/e.html",
   "EsWeb": "si"
   },
   {
@@ -402,7 +406,7 @@
   },
  {
     "Nombre": "Las Estrellas",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/301.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/cdle.html",
   "EsWeb": "si"
   },
   {
@@ -442,8 +446,8 @@
   },
   {
     "Nombre": "Nat Geo Kids",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeokids",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/natgeokids.html",
+   "EsWeb": "si"
   },
     {
     "Nombre": "Nat Geo Mundo",
@@ -452,13 +456,13 @@
   },
   {
     "Nombre": "Nat Geo Wild",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeowild",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/natgeowild.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Nick",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nick",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/nick.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Nick 2",
@@ -467,8 +471,8 @@
   },
   {
     "Nombre": "Nick JR",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nickjr",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/nickjr.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "Rai Sport",
@@ -497,8 +501,8 @@
   },
   {
     "Nombre": "TBS",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tbs",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/tbs.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "Telemundo",
@@ -522,12 +526,12 @@
   },
   {
     "Nombre": "Tooncast",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tooncast",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/tooncast.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Tru TV",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=trutv",
+    "Enlace": "http://player.latino-webtv.com/channels/trutv.html",
    "EsWeb": "no"
   },
  {
