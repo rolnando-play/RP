@@ -1,24 +1,4 @@
 [
-    {
-    "Nombre": "Fox Sports 1 Test",
-    "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Fox Sports 2 Test",
-    "Enlace": "http://player.latino-webtv.com/channels/foxsports2.html",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Fox Sports 3 Test",
-    "Enlace": "http://player.latino-webtv.com/channels/Fox-Sports-3.html",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Fox Sports Premium Test",
-    "Enlace": "http://player.latino-webtv.com/channels/foxsportspremium.html",
-    "EsWeb": "si"
-  },
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
@@ -59,13 +39,8 @@
     "Enlace": "http://201.217.3.212/TV/intercable/chunklist_w1906207489.m3u8",
     "EsWeb": "no"
   },
-    {
-    "Nombre": "Latele",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/581.m3u8",
-    "EsWeb": "si"
-  },
   {
-    "Nombre": "Latele opción 2",
+    "Nombre": "Latele",
     "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
     "EsWeb": "si"
   },
@@ -83,18 +58,7 @@
     "Nombre": "Noticias Paraguay",
     "Enlace": "http://paraguay.com/vivo",
     "EsWeb": "si"
-  },
-    {
-    "Nombre": "Paravisión",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/580.m3u8",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Red Guaraní",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/584.m3u8",
-    "EsWeb": "si"
-  },
-             
+  },       
     {
     "Nombre": "RCC - TV Chaqueña",
     "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
@@ -118,11 +82,6 @@
   {
     "Nombre": "Telefuturo",
     "Enlace": "https://telefuturo.com.py/envivo",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Telefuturo opción 2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/582.m3u8",
     "EsWeb": "si"
   },
   {
@@ -337,18 +296,18 @@
   },
   {
     "Nombre": "Fox Sports 1",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs1m",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 2",
-    "Enlace": "https://player.limpi.tv/embed/U2FsdGVkX1%2FEgae8C2e5S7iHMZWfvE8%2BGPtIyJbmzu8%3D/41045",
+    "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 3",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=fs3m",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/Fox-Sports-3.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "Fox Sports Premium",
