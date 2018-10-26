@@ -1,10 +1,5 @@
 [
     {
-    "Nombre": "Test",
-    "Enlace": "http://photocall.tv/",
-    "EsWeb": "si"
-  },
-    {
     "Nombre": "Fox Sports 1 Test",
     "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
     "EsWeb": "si"
@@ -272,7 +267,7 @@
   },
   {
     "Nombre": "ESPN +",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/313.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/espn_plus.html",
    "EsWeb": "si"
   },
   {
@@ -522,7 +517,7 @@
   },
  {
     "Nombre": "TNT Sports",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/331.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/tntsports.html",
   "EsWeb": "si"
   },
   {
