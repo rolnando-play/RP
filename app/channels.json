@@ -142,13 +142,13 @@
   },
  {
     "Nombre": "AMC",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=amc",
-  "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/AMC.html",
+  "EsWeb": "si"
   },
   {
     "Nombre": "AXN",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=axn",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/axn.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Animal Planet",
@@ -177,8 +177,8 @@
   },
   {
     "Nombre": "Cinemax",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=cinemax",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/cinemax.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "DirecTV Sports",
@@ -197,8 +197,8 @@
   },
   {
     "Nombre": "Discovery Channel",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=discovery",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/discovery.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "Discovery Civilization",
@@ -217,8 +217,8 @@
   },
   {
     "Nombre": "Discovery Science",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=science",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/discoveryscience.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Discovery TLC",
@@ -232,7 +232,7 @@
   },
   {
     "Nombre": "Discovery Turbo",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/293.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/discoveryturbo.html",
    "EsWeb": "si"
   },
   {
@@ -292,13 +292,13 @@
   },
   {
     "Nombre": "Fox Action",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxaction",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxaction.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Cinema",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxcinema",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxcinema.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Classics",
@@ -307,8 +307,8 @@
   },
   {
     "Nombre": "Fox Comedy",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxcomedy",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxcomedy.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Family",
@@ -317,18 +317,18 @@
   },
   {
     "Nombre": "Fox Life",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxlife",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxlife.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Movies",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxmovies",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxmovies.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Series",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxseries",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/foxseries.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 1",
@@ -356,13 +356,13 @@
   "EsWeb": "no"
   },
  {
-    "Nombre": "Golden Premier",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=goldenpremier",
-  "EsWeb": "no"
+    "Nombre": "Golden",
+    "Enlace": "http://player.latino-webtv.com/channels/golden.html",
+  "EsWeb": "si"
   },
  {
     "Nombre": "History",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/274.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/history.html",
   "EsWeb": "si"
   },
   {
@@ -372,23 +372,23 @@
   },
   {
     "Nombre": "HBO",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hbo",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/hbo.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO 2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/270.m3u8",
+    "Enlace": "http://player.latino-webtv.com/channels/HBO-2.html",
    "EsWeb": "si"
   },
   {
     "Nombre": "HBO Family",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hbofamily",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/hbofamily.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO Plus",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=hboplus",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/HBO-PLUS.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO Signature",
@@ -397,8 +397,8 @@
   },
   {
     "Nombre": "ID",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=id",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/idiscovery.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "Las Estrellas",
@@ -437,8 +437,8 @@
   },
   {
     "Nombre": "Nat Geo",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=natgeo",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/natgeo.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Nat Geo Kids",
@@ -482,8 +482,8 @@
   },
   {
     "Nombre": "Sony",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=sony",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/sony.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Space",
@@ -492,8 +492,8 @@
   },
   {
     "Nombre": "Studio Universal",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=studio",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/Studio-Universal.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "TBS",
@@ -512,8 +512,8 @@
   },
   {
     "Nombre": "TNT Series",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=tntseries",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/tntseries.html",
+   "EsWeb": "si"
   },
  {
     "Nombre": "TNT Sports",
@@ -537,8 +537,8 @@
   },
   {
     "Nombre": "Universal Channel",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=universal",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/universalc.html",
+   "EsWeb": "si"
   },
   {
     "Nombre": "VH1",
@@ -552,7 +552,7 @@
   },
   {
     "Nombre": "Warner",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=warner",
-   "EsWeb": "no"
+    "Enlace": "http://player.latino-webtv.com/channels/warner.html",
+   "EsWeb": "si"
 }
 ]
