@@ -1,7 +1,22 @@
 [
     {
-    "Nombre": "TEST9",
+    "Nombre": "Fox Sports 1 Test",
     "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Fox Sports 2 Test",
+    "Enlace": "http://player.latino-webtv.com/channels/foxsports2.html",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Fox Sports 3 Test",
+    "Enlace": "http://player.latino-webtv.com/channels/Fox-Sports-3.html",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Fox Sports Premium Test",
+    "Enlace": "http://player.latino-webtv.com/channels/foxsportspremium.html",
     "EsWeb": "si"
   },
 {
