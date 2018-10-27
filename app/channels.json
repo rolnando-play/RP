@@ -1,9 +1,4 @@
-[
- {
-    "Nombre": "test",
-    "Enlace": "http://player.streamingtvguides.com/?src=http%3A%2F%2Fmicine.live%3A8088%2Flive%2Fmicineapp%2F123456789%2F404.ts&demoConfig=eyJlbmFibGVTdHJlYW1pbmciOnRydWUsImF1dG9SZWNvdmVyRXJyb3IiOnRydWUsImVuYWJsZVdvcmtlciI6dHJ1ZSwiZHVtcGZNUDQiOmZhbHNlLCJsZXZlbENhcHBpbmciOi0xLCJsaW1pdE1ldHJpY3MiOi0xLCJ3aWRldmluZUxpY2Vuc2VVcmwiOiIifQ==",
-    "EsWeb": "si"
-  },   
+[ 
  {
     "Nombre": "Luqueño vs. General Díaz 1",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
