@@ -6,6 +6,11 @@
   },   
  {
     "Nombre": "Luqueño vs. General Díaz 2",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
+    "EsWeb": "si"
+  }, 
+ {
+    "Nombre": "Luqueño vs. General Díaz 3",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1805994/1805994.m3u8?whence=1001",
     "EsWeb": "no"
   },  
