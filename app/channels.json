@@ -1,8 +1,8 @@
 [ 
  {
-    "Nombre": "Barcelona vs. Real Madrid",
-    "Enlace": "http://62.210.105.125/hls/dtv.m3u8",
-    "EsWeb": "no"
+    "Nombre": "Capiatá vs. Olimpia 1",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
+    "EsWeb": "si"
   },   
 {
     "Nombre": "ABC TV",
