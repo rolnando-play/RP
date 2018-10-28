@@ -1,6 +1,11 @@
 [ 
  {
     "Nombre": "Capiatá vs. Olimpia 1",
+    "Enlace": "https://videocdn.mixer.com/hls/53388978-867535fb31f2b9710bf095c7dbd88ccd8338e00b_source/index.m3u8",
+    "EsWeb": "no"
+  },
+ {
+    "Nombre": "Capiatá vs. Olimpia 2",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
     "EsWeb": "si"
   },   
