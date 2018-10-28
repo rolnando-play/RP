@@ -6,11 +6,16 @@
   },
  {
     "Nombre": "Capiatá vs. Olimpia 2",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
+    "EsWeb": "si"
+  },  
+ {
+    "Nombre": "Capiatá vs. Olimpia 3",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
     "EsWeb": "si"
   },   
  {
-    "Nombre": "Capiatá vs. Olimpia 3",
+    "Nombre": "Capiatá vs. Olimpia 4",
     "Enlace": "https://mixer.com/embed/player/pichofrank?disableLowLatency=1&hideChannel=true",
     "EsWeb": "si"
   }, 
