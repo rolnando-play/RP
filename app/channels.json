@@ -1,14 +1,4 @@
 [ 
- {
-    "Nombre": "Futboleros 1",
-    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
-    "EsWeb": "si"
-  },  
- {
-    "Nombre": "Futboleros 2",
-    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
-    "EsWeb": "si"
-  },
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
