@@ -1,5 +1,25 @@
 [ 
     {
+    "Nombre": "Santaní vs. Nacional 1",
+    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpIE3HYmoBbmF6s_im2bUTQKbltbeC5a8BQWnYhGJc6uvmSZdt5UFi203211ElZ3Q_AliMRpobTNSjqesr-40ZZikT9EkUAs985zYDnTH0daPBXg_6B1cqd4MDj4H0Zr2xE_NKfoLIiOU8vurPBGLSTj_KwoigYM7PdepwF9m1tXW7dTTzefcnGY9wIqrTw8OKC-5UGM9zS-xRJNIohQBNq9TGe0ijdFLgoi0Qftp0ypsiHoKyyGywrrhuBwU4iRgtwVOqBoZuY4ZckhgVMppI_rujjeLOFhbgKKr0akUZnqj2ufAI88zCiUAliB-DShRIryD-mglHxBSJDqk97RoqJibK0ysgn-48meeq2875DuJ72UpVyf4TjpEwlwXwPY8jlNOqTsp2dnxUp93S0s3OXawwHKoAISnA8hsmC0r6JwEZQwLQnRl9WfF7Fsimgs4NbTahNI0jNLbikKRdJ80oZPpIrHICszJJLyuuKZl0Mslysp372-TR3irMOZ1LsDVNZJs9My-cxW2UdZWMWK-C8dPJYyLTZJLDmCwDd5ys-0bp5Iz_b8unJ20XfKZ04EN3CbYm5ziVaQ1rXOL8dtuXdMFUR6Ng_sk16bKNcHKnkz7_mW61cTXn2ryB0tMOc-XgLcs-UJdvqrDgIt0sv23SnbmtvS-AovgMlvFq7wez2CPzQRRTDBY-0ZIqLn9iSLJ_cX5GUSEPicKQ-DJhg0CbabjrZr-SMaDInsyDU0aC_ZmOkVHg.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Santaní vs. Nacional 2",
+    "Enlace": "https://usher.ttvnw.net/api/channel/hls/15720189.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=5465290&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&rtqos=control&sig=fd9934af9b635d17ee4c926bb15ecfac9b9ed22d&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%2215720189%22%2C%22channel_id%22%3A238826273%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22pty5M3ADinFMCcFYQJMbq8hxgBOH8wfY%22%2C%22expires%22%3A1540848736%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.108.131.4%22%2C%22version%22%3A2%7D&cdm=wv",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Santaní vs. Nacional 3",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1811641/1811641.m3u8?whence=1001",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Santaní vs. Nacional 4",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
+    "EsWeb": "si"
+  },
+    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
