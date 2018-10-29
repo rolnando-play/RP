@@ -1,34 +1,14 @@
 [ 
  {
-    "Nombre": "CCP vs. 3 de Febrero 1",
-    "Enlace": "https://usher.ttvnw.net/api/channel/hls/javiolimpia.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=7191091&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=false&rtqos=control&sig=26a9cb6e30fe9943f5edb2bd0bac900db98fd562&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22javiolimpia%22%2C%22channel_id%22%3A251992067%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22pty5M3ADinFMCcFYQJMbq8hxgBOH8wfY%22%2C%22expires%22%3A1540767644%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.108.131.4%22%2C%22version%22%3A2%7D&cdm=wv",
-    "EsWeb": "no"
-  },
- {
-    "Nombre": "CCP vs. 3 de Febrero 2",
-    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpoEkQrNr5Y81stplzzqIFZ2ld390rYTfPjui0lR5GcCMWvWY56LSELZPWyBJl4qeecFdvZz-P1flaB_fK4u51zEOkuDwOE3lEtC4uUyDLOD7BW8ewquzMLkr5VzuCG_DDLZoWfKfMnaumODvEeZ9xhoV9GTcXFP3fV8JLPRtzoWEdqA8vu3QloR677FXbfniTZvEvJp9ZAlLRQJ7RUUHnE_BGRrFolbRnCPGX7oqR6pHBk750HpJGoqql_xyxoIChDk_UpzeQMabcuQ-qPNpFSB8I8yFi7mCHC9DbY0eDieW9tZE_NAzZ5DhoZ9kpLlmFerQzmhiY2xuXQ9Y-J0KSeoJQAunzkMN9nQZ1TaFzywWyVL0TdlWuYkj-4TPAzew9eWFUWVq4gwjssqU4f4JknirCmjtGwt-RAQJTBBqmMz1q3SA26O0IIKYIIXHlbwoekz7Bcnyny9Jy2aqWXbxs0VMnG3cmBjJWyHvmf06AVgPgUV_nOEcFbGB86EsbqbmYqEun7H7PjQuLNSzHwghYLmRbyfSxrbMK6hsE5etR9LTkEZ2rmOJQaIVCELwfSA8oALj_jlDByBGjUSnNAr8UIP2-TgKbRvUcHwm-A5t_1TVRAUuZge2R57Brifs88Yf6a5Sbk1L-vRkFY6IViojhKpAt5Q_P2ftUb3kCcvu3L18nRnlflJu95bATs6UtVuslv_GYWdPH4FKf6Z7RIQedeufoKnRp6tRJAf8BhIwRoM9uddbKx-1Td_Uykd.m3u8",
-    "EsWeb": "no"
-  },
- {
-    "Nombre": "CCP vs. 3 de Febrero 3",
-    "Enlace": "https://usher.ttvnw.net/api/channel/hls/15720189.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=2762087&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=false&rtqos=control&sig=947efd51ae06704fd5a0b45e64b4f1d2b42deb7c&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%2215720189%22%2C%22channel_id%22%3A238826273%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22pty5M3ADinFMCcFYQJMbq8hxgBOH8wfY%22%2C%22expires%22%3A1540768407%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.108.131.4%22%2C%22version%22%3A2%7D&cdm=wv",
-    "EsWeb": "no"
-  },
- {
-    "Nombre": "CCP vs. 3 de Febrero 4",
+    "Nombre": "Futboleros 1",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
     "EsWeb": "si"
   },  
  {
-    "Nombre": "CCP vs. 3 de Febrero 5",
+    "Nombre": "Futboleros 2",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
     "EsWeb": "si"
-  },  
- {
-    "Nombre": "CCP vs. 3 de Febrero 6",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1809261/1809261.m3u8?whence=1001",
-    "EsWeb": "no"
-  }, 
+  },
 {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
