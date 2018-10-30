@@ -4,18 +4,24 @@
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
     "EsWeb": "si"
   },
+    
     {
-    "Nombre": "Guaraní vs. Libertad 2",
-    "Enlace": "https://usher.ttvnw.net/api/channel/hls/javiolimpia.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=6842843&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&rtqos=control&sig=715f2aec598f089bb0c285216caf184dd9de7f89&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22javiolimpia%22%2C%22channel_id%22%3A251992067%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22pty5M3ADinFMCcFYQJMbq8hxgBOH8wfY%22%2C%22expires%22%3A1540855790%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.108.131.11%22%2C%22version%22%3A2%7D&cdm=wv",
+    "Nombre": "Guaraní vs. Nacional 2",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
     "EsWeb": "no"
   },
     {
     "Nombre": "Guaraní vs. Libertad 3",
-    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpwEY0V-WkvEKwXoy0pj9qA35ZIVmO1I4yhDklxo-Rp_mrb_YzTmSO2IVGOh64kuzNWYxV1ev1eltxcEjYlSHsbOlkcwHOKc0ZOL4V92hkMU1ghIMt9BxMvbjh0wGIQ0fYMsiPrC_aRNNUc-pJNTmGMrOmiHls_y8DA0Lnxo6biADJKLfLVs0V-ys3H5VMV_kzC_1SfWC2O_5_O87Z63NjHwdWaQ39zUqyhHaa0S3Bd5NSdlduwPPOLkmLtW5rR8Yot8sT552-FcUMgDbIB3EaXcVBN8iVprzKkcVtjmoXDNU1aKRGUSnIy0KeqsGad6eztjhUNZKgdeXbaX19iuauQcHQupyN_hPIbBFEDrJjxbHh7fRvqF5wtDYlSSjaqDgOw6gQPYRf2t6OOIK97XAhmWs-DPcwjw7vNTz_17HJ2pvVzedpE2YAzA5pZjdxbQ72lMwGK3suswo3y5dHygqOcmgRYDkELuz9aTuoW4U5MsTbLYLw2qbXexHcaCBvfuP3t2MjtFwcU_qLPktkgiEBlZoumDCbg0gdOD9acim_2LtYOgTqLWczzo1_-2ZuQNvrT7EZCkxNPwmFTq4qRyQMpx30PE_tFPSoJzyfFUKcBhAv1F9DHnVwnI1v3vWgw3gAFfeIR5UUUQw_vk__UeL26F55o9meH-EH9hg9uogzpVNv_HPlJnetrqr_KpVhEuYjC8aGSyVsjgABFTboW3EhCMdQTEnaHEg2jWmozqMZ0ZGgxrS37PtCNkSZ4F744.m3u8",
+    "Enlace": "https://usher.ttvnw.net/api/channel/hls/javiolimpia.m3u8?allow_source=true&baking_bread=false&baking_brownies=false&baking_brownies_timeout=1050&fast_bread=true&p=2240166&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&rtqos=control&sig=881f6073ae241c189c104cf6b5dcb3057a7d5759&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22javiolimpia%22%2C%22channel_id%22%3A251992067%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22pty5M3ADinFMCcFYQJMbq8hxgBOH8wfY%22%2C%22expires%22%3A1540860155%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22popout%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22server_ads%22%3Afalse%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.108.131.11%22%2C%22version%22%3A2%7D&cdm=wv",
     "EsWeb": "no"
   },
     {
     "Nombre": "Guaraní vs. Libertad 4",
+    "Enlace": "https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CpwE3PaMiB5X0-_i95ReUXj1hPYJQ7l2AnEcqp42qNfH2hF3PqCWKMhWxXaC72PG1gkHqmgwsQ3J2qXW--nPlaQiK2yaOV3A0p47ti_of-WSOItYtEcIVO5XUyuc3pNXpGs5lwsvoNwX8TNDrIYpL9V3Qy7oawEsvmcZY_7HcDLTKNMkDviKdRktzuOHuHwAYYe7XXz1yfXDGbwF35Delfv6hs-FzFYIh_P6SaomIshVG0jIZnO0VYv0QXE-u3qB_ec5mJ_on3SvDicXfEyle28QQtrp4imeqRSomFcSsevVz4pZhbKvk7Ne6nyEREedzWrTpwDdwCJ2sye1R-v-rVBujs2i9YHvji_s6zHZosSkYwCTG07yvbMS1m0_hvsgPzbY1IqXol_cvdWFUV_kyBiVlYmVCZGustDVhPPEJivbTh-ZIwa2xhqxdGIwtN1yGG6BY10jn3SnbzGwbTyEvmdaK4za4ujcvTgV7XGNHKXETV8VrOaR00CpL6yPDXUCHQkxYd7Uf-a6Bfs-bEGTUxCKN4uw24FAc_ezVBSdLJSdQWm10rPyKme6XRUzoHHpifSY-e00CKUyTgXvUgL6GvFDPmy4A7XrFnuM-2rjnVrZerTDyG8TvQbfq06Xw_fRMUfxPlhy_oJ858zvf2c5TGGUYN-vJI761PGBFqMPYCJdUZp1RqtcdyJENN9z-cVAsCVhdztkruLAuh63DRJiEhCn71EffbjDG2W0MWSNknMNGgzNH086Lwc7QJWOWAY.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Guaraní vs. Libertad 5",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1811711/1811711.m3u8?whence=1001",
     "EsWeb": "no"
   },
