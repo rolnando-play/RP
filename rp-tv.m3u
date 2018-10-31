@@ -62,7 +62,8 @@ https://tucine.xyz:25461/311/playercine.m3u8
 #EXTINF:0 ,ESPN +
 https://tucine.xyz:25461/313/playercine.m3u8
 #EXTINF:0 ,Fox Sports
-https://tucine.xyz:25461/252/playercine.m3u8
+#EXTVLCOPT:http-user-agent=MiCinePlayer
+http://micine.live:8088/live/micineapp/123456789/252.ts
 #EXTINF:0 ,Fox Sports 2
 https://tucine.xyz:25461/254/playercine.m3u8
 #EXTINF:0 ,Fox Sports 3
