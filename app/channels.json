@@ -112,7 +112,7 @@
   },
  {
     "Nombre": "AMC",
-    "Enlace": "http://player.latino-webtv.com/channels/AMC.html",
+    "Enlace": "http://158.69.199.208/LIVE/H02/AMC/playlist.m3u8",
   "EsWeb": "si"
   },
   {
@@ -347,18 +347,18 @@
   },
   {
     "Nombre": "HBO",
-    "Enlace": "http://player.latino-webtv.com/channels/hbo.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.208/LIVE/H02/HBO/playlist.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO 2",
-    "Enlace": "http://player.latino-webtv.com/channels/HBO-2.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.208/LIVE/H02/HBO2/playlist.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Family",
-    "Enlace": "http://player.latino-webtv.com/channels/hbofamily.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.208/LIVE/H02/HBOFAMILY/playlist.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Plus",
@@ -482,13 +482,13 @@
   },
   {
     "Nombre": "TNT",
-    "Enlace": "http://player.latino-webtv.com/channels/tnt.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.207/LIVE/H02/TNT/playlist.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "TNT Series",
-    "Enlace": "http://player.latino-webtv.com/channels/tntseries.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.207/LIVE/H02/TNTSERIES/playlist.m3u8",
+   "EsWeb": "no"
   },
  {
     "Nombre": "TNT Sports",
@@ -527,7 +527,7 @@
   },
   {
     "Nombre": "Warner",
-    "Enlace": "http://player.latino-webtv.com/channels/warner.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.207/LIVE/H02/WARNER/playlist.m3u8",
+   "EsWeb": "no"
 }
 ]
