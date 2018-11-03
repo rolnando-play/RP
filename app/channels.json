@@ -1,14 +1,8 @@
 [ 
     {
-    "Nombre": "General Díaz vs. Capiatá 1",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1823151/1823151.m3u8?whence=1001",
+    "Nombre": "3 de Febrero vs. Independiente",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1826529/1826529.m3u8?whence=1001",
     "EsWeb": "no"
-  },
-    
-    {
-    "Nombre": "General Díaz vs. Capiatá 2",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia",
-    "EsWeb": "si"
   },
     {
     "Nombre": "ABC TV",
