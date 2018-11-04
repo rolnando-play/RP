@@ -1,8 +1,13 @@
 [ 
     {
-    "Nombre": "Previa clásico",
+    "Nombre": "Previa clásico 1",
     "Enlace": "https://videocdn.mixer.com/hls/46214310-c7786510d5c2450ff0db9d17a86af09f_source/index.m3u8",
     "EsWeb": "no"
+  },
+    {
+    "Nombre": "Previa clásico 2",
+    "Enlace": "https://mixer.com/embed/player/PlumSugar255265?disableLowLatency=1&hideChannel=true",
+    "EsWeb": "si"
   },
     {
     "Nombre": "ABC TV",
