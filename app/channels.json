@@ -1,8 +1,8 @@
 [ 
     {
-    "Nombre": "Previa clásico 1",
-    "Enlace": "https://videocdn.mixer.com/hls/46214310-c7786510d5c2450ff0db9d17a86af09f_source/index.m3u8",
-    "EsWeb": "no"
+    "Nombre": "Olimpia vs. CCP 1",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720182&controls=false",
+    "EsWeb": "si"
   },
     {
     "Nombre": "Previa clásico 2",
