@@ -1,17 +1,12 @@
 [ 
     {
-    "Nombre": "Nacional vs. Libertad 1",
+    "Nombre": "Sol vs. Guaraní 1",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720182&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Nacional vs. Libertad 2",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Santaní vs. Luqueño 1",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1832324/1832324.m3u8?whence=1001",
+    "Nombre": "Sol vs. Guaraní 2",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1832432/1832432.m3u8?whence=1001",
     "EsWeb": "no"
   },
     {
