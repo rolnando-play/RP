@@ -1,5 +1,10 @@
 [ 
     {
+    "Nombre": "Resistencia vs. Sol",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720182&controls=false",
+    "EsWeb": "si"
+  },
+    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
