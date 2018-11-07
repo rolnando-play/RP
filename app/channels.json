@@ -1,6 +1,11 @@
 [ 
     {
-    "Nombre": "Resistencia vs. Sol",
+    "Nombre": "Olimpia vs. Libertad 1",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=javiolimpia&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Olimpia vs. Libertad 2",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720182&controls=false",
     "EsWeb": "si"
   },
