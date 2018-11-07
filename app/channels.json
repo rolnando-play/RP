@@ -1,15 +1,5 @@
 [ 
     {
-    "Nombre": "Sol vs. Guaraní 1",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720182&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Sol vs. Guaraní 2",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1832432/1832432.m3u8?whence=1001",
-    "EsWeb": "no"
-  },
-    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
@@ -306,8 +296,8 @@
   },
   {
     "Nombre": "Fox Sports 1",
-    "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=3&canal=728273&f=.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 2",
