@@ -216,7 +216,7 @@
   },
   {
     "Nombre": "ESPN",
-    "Enlace": "http://filesusc.com/vps/espn/800_ESPN.m3u8",
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=758479&f=.m3u8",
    "EsWeb": "no"
   },
   {
@@ -301,13 +301,13 @@
   },
   {
     "Nombre": "Fox Sports 2",
-    "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=739485&f=.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 3",
-    "Enlace": "http://player.latino-webtv.com/channels/Fox-Sports-3.html",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=739486&f=.m3u8",
+   "EsWeb": "no"
   },
  {
     "Nombre": "Fox Sports Premium",
@@ -371,18 +371,18 @@
   },
   {
     "Nombre": "MTV",
-    "Enlace": "http://158.69.199.149/LIVE/H02/MTV-B/playlist.m3u8",
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762284&f=.m3u8",
    "EsWeb": "no"
   },
   {
     "Nombre": "MTV Hits",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/233.m3u8",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762289&f=.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "MTV Live",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/234.m3u8",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762196&f=.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "Max",
@@ -506,13 +506,13 @@
   },
   {
     "Nombre": "VH1",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/340.m3u8",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762239&f=.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "VH1 Classic",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/341.m3u8",
-   "EsWeb": "si"
+    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762206&f=.m3u8",
+   "EsWeb": "no"
   },
   {
     "Nombre": "Warner",
