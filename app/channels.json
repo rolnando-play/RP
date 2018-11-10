@@ -171,12 +171,12 @@
   },
  {
     "Nombre": "DirecTV Sports 2",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/404.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/404.m3u8",
   "EsWeb": "si"
   },
  {
     "Nombre": "DirecTV Sports +",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/405.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/405.m3u8",
   "EsWeb": "si"
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "Nombre": "Discovery World",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/294.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/294.m3u8",
    "EsWeb": "si"
   },
  {
@@ -261,7 +261,7 @@
   },
   {
     "Nombre": "El Gourmet",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/303.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/303.m3u8",
    "EsWeb": "si"
   },
   {
@@ -336,7 +336,7 @@
   },
  {
     "Nombre": "Fox Sports Premium",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/450.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/450.m3u8",
   "EsWeb": "si"
   },
  {
@@ -381,7 +381,7 @@
   },
   {
     "Nombre": "HBO Signature",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/273.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/273.m3u8",
    "EsWeb": "si"
   },
   {
@@ -436,7 +436,7 @@
   },
     {
     "Nombre": "Nat Geo Mundo",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/236.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/236.m3u8",
    "EsWeb": "si"
   },
   {
@@ -491,7 +491,7 @@
   },
  {
     "Nombre": "Telemundo",
-    "Enlace": "http://tucine.xyz:8088/live/gatotv/123456789/325.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/325.m3u8",
   "EsWeb": "si"
   },
   {
