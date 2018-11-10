@@ -317,7 +317,7 @@
   {
     "Nombre": "Fox Sports 1",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/252.m3u8",
-   "EsWeb": "no"
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 2",
