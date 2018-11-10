@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, IND-OLI 1
-https://videocdn.mixer.com/hls/54325593-21ea80f4c944b92e5d7f27197e5a66bbc1d0ff02_source/index.m3u8
-#EXTINF:0, IND-OLI 2
+#EXTINF:0, LIB-SOL 1
+https://videocdn.mixer.com/hls/54325593-d912243c7ea04e91fd112a69b901bccd849ac7db_source/index.m3u8
+#EXTINF:0, LIB-SOL 2
 http://93.189.63.194/hls-live/xmlive/_definst_/1846048/1846048.m3u8?whence=1001
