@@ -4,9 +4,7 @@ https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
 http://127.0.0.1
 #EXTINF:0 ,Telefuturo
-http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:0 ,Noticias Paraguay
-http://xnoticiasparaguayx.api.channel.livestream.com/3.0/playlist.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/582.m3u8
 #EXTINF:0 ,RPC
 http://174.138.118.252/live/canal13stream.m3u8
 #EXTINF:0 ,SNT
@@ -16,9 +14,9 @@ http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8
 #EXTINF:0 ,Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:0 ,Paravision
-http://boxplayiptv.com:65461/live/JimmyBasurtoSolis1/B71tbeZf5B/373.ts
+http://micine.club:8080/live/rpsports1/rpsports1/580.m3u8
 #EXTINF:0 ,Latele
-http://xlatelepyx.api.channel.livestream.com/3.0/playlist.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/581.m3u8
 #EXTINF:0 ,Paraguay TV
 http://api.new.livestream.com/accounts/25680986/events/7856569/live.m3u8
 #EXTINF:0 ,Gen
@@ -42,215 +40,215 @@ http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
 #EXTINF:0 ,beIn Sports Ñ
-https://tucine.xyz:25461/472/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/472.m3u8
 #EXTINF:0 ,Claro Sports
-https://tucine.xyz:25461/395/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/395.m3u8
 #EXTINF:0 ,DeporTV
-https://tucine.xyz:25461/401/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/401.m3u8
 #EXTINF:0 ,DirecTV Sports
-https://tucine.xyz:25461/403/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/403.m3u8
 #EXTINF:0 ,DirecTV Sports 2
-https://tucine.xyz:25461/404/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/404.m3u8
 #EXTINF:0 ,DirecTV Sports +
-https://tucine.xyz:25461/405/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/405.m3u8
 #EXTINF:0 ,ESPN
-https://tucine.xyz:25461/307/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/307.m3u8
 #EXTINF:0 ,ESPN 2
-https://tucine.xyz:25461/309/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/309.m3u8
 #EXTINF:0 ,ESPN 3
-https://tucine.xyz:25461/311/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/311.m3u8
 #EXTINF:0 ,ESPN +
-https://tucine.xyz:25461/313/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/313.m3u8
 #EXTINF:0 ,Fox Sports
-#EXTVLCOPT:http-user-agent=MiCinePlayer
-http://micine.live:8088/live/micineapp/123456789/252.ts
+http://micine.club:8080/live/rpsports1/rpsports1/252.m3u8
 #EXTINF:0 ,Fox Sports 2
-https://tucine.xyz:25461/254/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/254.m3u8
 #EXTINF:0 ,Fox Sports 3
-https://tucine.xyz:25461/256/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/256.m3u8
 #EXTINF:0 ,Fox Sports Premium
-https://tucine.xyz:25461/450/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/450.m3u8
 #EXTINF:0, Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w318582488_sleng.m3u8
 #EXTINF:0 ,NBA
-https://tucine.xyz:25461/240/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/240.m3u8
 #EXTINF:0 ,RAI Sport
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 #EXTINF:0 ,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 ,TNT Sports
-https://tucine.xyz:25461/331/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/331.m3u8
 #EXTINF:0, TyC Sports
-https://tucine.xyz:25461/334/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/334.m3u8
 #EXTINF:0 ,VTV (Uruguay)
-https://tucine.xyz:25461/474/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/474.m3u8
 #EXTINF:0 ,Win Sports
-https://tucine.xyz:25461/225/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/225.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-https://tucine.xyz:25461/355/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/355.m3u8
 #EXTINF:0 ,Discovery Channel
-https://tucine.xyz:25461/285/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/285.m3u8
 #EXTINF:0 ,Discovery Civilization
-https://tucine.xyz:25461/286/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/286.m3u8
 #EXTINF:0 ,Discovery H&H
-https://tucine.xyz:25461/287/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/287.m3u8
 #EXTINF:0 ,Discovery Science
-https://tucine.xyz:25461/289/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/289.m3u8
 #EXTINF:0 ,Discovery Theater
-https://tucine.xyz:25461/290/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/290.m3u8
 #EXTINF:0 ,Discovery TLC
-https://tucine.xyz:25461/403/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/403.m3u8
 #EXTINF:0 ,Discovery Turbo
-https://tucine.xyz:25461/293/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/293.m3u8
 #EXTINF:0 ,Discovery World
-https://tucine.xyz:25461/294/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/294.m3u8
 #EXTINF:0 ,History
-https://tucine.xyz:25461/274/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/274.m3u8
 #EXTINF:0 ,History 2
-https://tucine.xyz:25461/268/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/268.m3u8
 #EXTINF:0 ,Investigation Discovery
-https://tucine.xyz:25461/278/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/278.m3u8
 #EXTINF:0 ,Nat Geo
-https://tucine.xyz:25461/237/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/237.m3u8
 #EXTINF:0 ,Nat Geo Wild
-https://tucine.xyz:25461/239/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/239.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-https://tucine.xyz:25461/284/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/284.m3u8
 #EXTINF:0 ,AMC
-https://tucine.xyz:25461/283/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/283.m3u8
 #EXTINF:0 ,AXN
-https://tucine.xyz:25461/282/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/282.m3u8
 #EXTINF:0 ,Las Estrellas
-https://tucine.xyz:25461/301/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/301.m3u8
 #EXTINF:0 ,Cinecanal
-https://tucine.xyz:25461/393/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/393.m3u8
 #EXTINF:0 ,Cinelatino
-https://tucine.xyz:25461/392/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/392.m3u8
 #EXTINF:0 ,Cinemax
-https://tucine.xyz:25461/394/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/394.m3u8
 #EXTINF:0 ,El Gourmet
-https://tucine.xyz:25461/303/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/303.m3u8
 #EXTINF:0 ,Fox
-https://tucine.xyz:25461/373/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/373.m3u8
 #EXTINF:0 ,FX
-https://tucine.xyz:25461/257/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8
 #EXTINF:0 ,FXM
-https://tucine.xyz:25461/258/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/258.m3u8
 #EXTINF:0 ,Fox Life
-https://tucine.xyz:25461/257/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8
 #EXTINF:0 ,Golden Plus
-https://tucine.xyz:25461/264/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/264.m3u8
 #EXTINF:0 ,Golden Premier
-https://tucine.xyz:25461/265/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/265.m3u8
 #EXTINF:0 ,Las Estrellas
-https://tucine.xyz:25461/301/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/301.m3u8
 #EXTINF:0 ,Paramount
-https://tucine.xyz:25461/245/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/245.m3u8
 #EXTINF:0 ,Space
-https://tucine.xyz:25461/250/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/250.m3u8
 #EXTINF:0 ,Studio Universal
-https://tucine.xyz:25461/230/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/230.m3u8
 #EXTINF:0 ,Sony
-https://tucine.xyz:25461/249/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/249.m3u8
 #EXTINF:0 ,Syfy
-https://tucine.xyz:25461/229/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/229.m3u8
 #EXTINF:0 ,TBS
-https://tucine.xyz:25461/228/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/228.m3u8
 #EXTINF:0 ,Telemundo
-https://tucine.xyz:25461/325/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/325.m3u8
 #EXTINF:0 ,tlnovelas
-https://tucine.xyz:25461/328/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/328.m3u8
 #EXTINF:0 ,TNT
-https://tucine.xyz:25461/329/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/329.m3u8
 #EXTINF:0 ,TNT Series
-https://tucine.xyz:25461/330/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/330.m3u8
 #EXTINF:0 ,Tru TV
-https://tucine.xyz:25461/333/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/333.m3u8
 #EXTINF:0 ,Universal Channel
-https://tucine.xyz:25461/338/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/338.m3u8
 #EXTINF:0 ,Univisión
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
-https://tucine.xyz:25461/342/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/342.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
-https://tucine.xyz:25461/368/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/368.m3u8
 #EXTINF:0 ,Cartoon Network
-https://tucine.xyz:25461/387/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/387.m3u8
 #EXTINF:0 ,Discovery Kids
-https://tucine.xyz:25461/288/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/288.m3u8
 #EXTINF:0 ,Disney Channel
-https://tucine.xyz:25461/295/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/295.m3u8
 #EXTINF:0 ,Disney Junior
-https://tucine.xyz:25461/296/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/296.m3u8
 #EXTINF:0 ,Disney XD
-https://tucine.xyz:25461/297/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/297.m3u8
 #EXTINF:0 ,Nat Geo Kids
-https://tucine.xyz:25461/238/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/238.m3u8
 #EXTINF:0 ,Nickelodeon
-https://tucine.xyz:25461/243/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/243.m3u8
 #EXTINF:0 ,Nick 2
-https://tucine.xyz:25461/241/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/241.m3u8
 #EXTINF:0 ,Nicktoons
-https://tucine.xyz:25461/244/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/244.m3u8
 #EXTINF:0 ,Nick JR
-https://tucine.xyz:25461/242/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/242.m3u8
 #EXTINF:0 ,Tooncast
-https://tucine.xyz:25461/332/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/332.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
-https://tucine.xyz:25461/269/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/269.m3u8
 #EXTINF:0 ,HBO 2
-https://tucine.xyz:25461/270/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/270.m3u8
 #EXTINF:0 ,HBO Family
-https://tucine.xyz:25461/271/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/271.m3u8
 #EXTINF:0 ,HBO Plus
-https://tucine.xyz:25461/272/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/272.m3u8
 #EXTINF:0 ,HBO Signature
-https://tucine.xyz:25461/273/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/273.m3u8
 #EXTINF:0 ,Max
-https://tucine.xyz:25461/460/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/460.m3u8
 #EXTINF:0 ,Max Prime
-https://tucine.xyz:25461/281/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/281.m3u8
 #EXTINF:0 ,Max Up
-https://tucine.xyz:25461/356/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/356.m3u8
 #EXTINF:0 ,Fox Action
-https://tucine.xyz:25461/318/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/318.m3u8
 #EXTINF:0 ,Fox Cinema
-https://tucine.xyz:25461/319/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/319.m3u8
 #EXTINF:0 ,Fox Classics
-https://tucine.xyz:25461/320/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/320.m3u8
 #EXTINF:0 ,Fox Comedy
-https://tucine.xyz:25461/321/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/321.m3u8
 #EXTINF:0 ,Fox Family
-https://tucine.xyz:25461/322/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/322.m3u8
 #EXTINF:0 ,Fox Movies
-https://tucine.xyz:25461/323/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/323.m3u8
 #EXTINF:0 ,Fox Series
-https://tucine.xyz:25461/324/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/324.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0, Concert Channel
-https://tucine.xyz:25461/399/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/399.m3u8
 #EXTINF:0 ,MTV
-https://tucine.xyz:25461/232/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/232.m3u8
 #EXTINF:0 ,MTV Hits
-https://tucine.xyz:25461/233/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/233.m3u8
 #EXTINF:0 ,MTV Live
-https://tucine.xyz:25461/234/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/234.m3u8
 #EXTINF:0 ,VH1
-https://tucine.xyz:25461/340/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/340.m3u8
 #EXTINF:0 ,VH1 Classics
-https://tucine.xyz:25461/341/playercine.m3u8
+http://micine.club:8080/live/rpsports1/rpsports1/341.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/holy-bible.png" group-title="RELIGIÓN", ********** RELIGIÓN **********
 http://127.0.0.1
 #EXTINF:0 ,ESNE
 http://live.tv.esnetv.org:1935/esne-live/esnetv.smil/playlist.m3u8
 #EXTINF:0 ,EWTN
 http://streamcdnc2.mainstreaming.tv/cdn/live/101129/playlist.m3u8
+
