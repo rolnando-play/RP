@@ -1,26 +1,21 @@
 [ 
     {
     "Nombre": "Libertad vs. Sol 1",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=rp_sports&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Libertad vs. Sol 2",
-    "Enlace": "https://videocdn.mixer.com/hls/54325593-21ea80f4c944b92e5d7f27197e5a66bbc1d0ff02_source/index.m3u8",
+    "Enlace": "https://videocdn.mixer.com/hls/54325593-d912243c7ea04e91fd112a69b901bccd849ac7db_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Libertad vs. Sol 3",
+    "Nombre": "Libertad vs. Sol 2",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Libertad vs. Sol 4",
+    "Nombre": "Libertad vs. Sol 3",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=147201816&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Libertad vs. Sol 5",
+    "Nombre": "Libertad vs. Sol 4",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1846048/1846048.m3u8?whence=1001",
     "EsWeb": "no"
   },
