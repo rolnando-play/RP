@@ -44,6 +44,11 @@
     "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
     "EsWeb": "si"
   },
+    {
+    "Nombre": "Latele 2",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/581.m3u8",
+    "EsWeb": "si"
+  },
   {
     "Nombre": "Lobo Station",
     "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
@@ -58,7 +63,12 @@
     "Nombre": "Noticias Paraguay",
     "Enlace": "http://paraguay.com/vivo",
     "EsWeb": "si"
-  },       
+  },   
+    {
+    "Nombre": "Paravision",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/580.m3u8",
+    "EsWeb": "si"
+  },
     {
     "Nombre": "RCC - TV Chaqueña",
     "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
@@ -79,8 +89,13 @@
     "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
     "EsWeb": "no"
   },
-  {
+    {
     "Nombre": "Telefuturo",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/582.m3u8",
+    "EsWeb": "si"
+  },
+  {
+    "Nombre": "Telefuturo 2",
     "Enlace": "https://telefuturo.com.py/envivo",
     "EsWeb": "si"
   },
@@ -211,7 +226,7 @@
   },
     {
     "Nombre": "E!",
-    "Enlace": "http://player.latino-webtv.com/channels/e.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/300.m3u8",
   "EsWeb": "si"
   },
   {
@@ -506,13 +521,13 @@
   },
   {
     "Nombre": "VH1",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762239&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/340.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "VH1 Classic",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762206&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/341.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Warner",
