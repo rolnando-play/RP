@@ -1,25 +1,5 @@
 [ 
     {
-    "Nombre": "Libertad vs. Sol 1",
-    "Enlace": "https://videocdn.mixer.com/hls/54325593-d912243c7ea04e91fd112a69b901bccd849ac7db_source/index.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Libertad vs. Sol 2",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=javiolimpia&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Libertad vs. Sol 3",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=147201816&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Libertad vs. Sol 4",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1846213/1846213.m3u8?whence=1001",
-    "EsWeb": "no"
-  },
-    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
@@ -141,22 +121,22 @@
   },
   {
     "Nombre": "Boomerang",
-    "Enlace": "http://player.latino-webtv.com/channels/boomerang.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/368.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Cartoon Network",
-    "Enlace": "http://player.latino-webtv.com/channels/cartoon.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/387.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Cinecanal",
-    "Enlace": "http://54.39.146.230/LIVE/H02/CINECANALHD/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/393.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Cinemax",
-    "Enlace": "http://player.latino-webtv.com/channels/cinemax.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/394.m3u8",
    "EsWeb": "si"
   },
  {
@@ -191,8 +171,8 @@
   },
   {
     "Nombre": "Discovery Kids",
-    "Enlace": "http://158.69.199.207/LIVE/H02/DISCOVERYKIDSHD/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/288.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Discovery Science",
@@ -221,12 +201,12 @@
   },
  {
     "Nombre": "Disney Channel",
-    "Enlace": "http://player.latino-webtv.com/channels/disneych.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/295.m3u8",
   "EsWeb": "si"
   },
  {
     "Nombre": "Disney Junior",
-    "Enlace": "http://player.latino-webtv.com/channels/disneyjr.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/296.m3u8",
   "EsWeb": "si"
   },
     {
@@ -261,57 +241,57 @@
   },
   {
     "Nombre": "FX",
-    "Enlace": "http://158.69.199.149/LIVE/H02/FX/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "FXM",
-    "Enlace": "http://158.69.199.149/LIVE/H02/FXMMX/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/258.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox",
-    "Enlace": "http://player.latino-webtv.com/channels/fox.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/373.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Action",
-    "Enlace": "http://player.latino-webtv.com/channels/foxaction.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/318.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Cinema",
-    "Enlace": "http://player.latino-webtv.com/channels/foxcinema.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/319.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Classics",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=foxclassics",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/320.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Comedy",
-    "Enlace": "http://player.latino-webtv.com/channels/foxcomedy.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/321.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Family",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=746478&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/322.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Life",
-    "Enlace": "http://player.latino-webtv.com/channels/foxlife.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Movies",
-    "Enlace": "http://player.latino-webtv.com/channels/foxmovies.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/323.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Fox Series",
-    "Enlace": "http://player.latino-webtv.com/channels/foxseries.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/324.m3u8",
    "EsWeb": "si"
   },
   {
@@ -336,12 +316,12 @@
   },
  {
     "Nombre": "Golden Plus",
-    "Enlace": "http://158.69.199.149/LIVE/H02/GOLDEN-B/playlist.m3u8",
-  "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/264.m3u8",
+  "EsWeb": "si"
   },
  {
-    "Nombre": "Golden",
-    "Enlace": "http://player.latino-webtv.com/channels/golden.html",
+    "Nombre": "Golden Premier",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/265.m3u8",
   "EsWeb": "si"
   },
  {
@@ -356,22 +336,22 @@
   },
   {
     "Nombre": "HBO",
-    "Enlace": "http://158.69.199.208/LIVE/H02/HBO/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/269.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO 2",
-    "Enlace": "http://158.69.199.208/LIVE/H02/HBO2/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/270.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO Family",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762235&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/271.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO Plus",
-    "Enlace": "http://player.latino-webtv.com/channels/HBO-PLUS.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/272.m3u8",
    "EsWeb": "si"
   },
   {
@@ -406,18 +386,18 @@
   },
   {
     "Nombre": "Max",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=max",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/460.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Max Prime",
-    "Enlace": "http://158.69.199.149/LIVE/H02/MAXPRIME/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/281.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Max Up",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=maxup",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/356.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Nat Geo",
@@ -441,17 +421,17 @@
   },
   {
     "Nombre": "Nick",
-    "Enlace": "http://player.latino-webtv.com/channels/nick.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/243.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nick 2",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=nick2",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/241.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Nick JR",
-    "Enlace": "http://player.latino-webtv.com/channels/nickjr.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/242.m3u8",
    "EsWeb": "si"
   },
  {
@@ -466,13 +446,13 @@
   },
   {
     "Nombre": "Sony",
-    "Enlace": "http://player.latino-webtv.com/channels/sony.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/249.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Space",
-    "Enlace": "http://54.39.146.230/LIVE/H02/SPACE/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/250.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Studio Universal",
@@ -481,7 +461,7 @@
   },
   {
     "Nombre": "TBS",
-    "Enlace": "http://player.latino-webtv.com/channels/tbs.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/228.m3u8",
    "EsWeb": "si"
   },
  {
@@ -491,13 +471,13 @@
   },
   {
     "Nombre": "TNT",
-    "Enlace": "http://158.69.199.207/LIVE/H02/TNT/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/329.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "TNT Series",
-    "Enlace": "http://158.69.199.207/LIVE/H02/TNTSERIES/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/330.m3u8",
+   "EsWeb": "si"
   },
  {
     "Nombre": "TNT Sports",
@@ -506,13 +486,13 @@
   },
   {
     "Nombre": "Tooncast",
-    "Enlace": "http://player.latino-webtv.com/channels/tooncast.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/332.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Tru TV",
-    "Enlace": "http://player.latino-webtv.com/channels/trutv.html",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/333.m3u8",
+   "EsWeb": "si"
   },
  {
     "Nombre": "TyC Sports",
@@ -521,8 +501,8 @@
   },
   {
     "Nombre": "Universal Channel",
-    "Enlace": "http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/338.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "VH1",
@@ -536,7 +516,7 @@
   },
   {
     "Nombre": "Warner",
-    "Enlace": "http://158.69.199.207/LIVE/H02/WARNER/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/342.m3u8",
+   "EsWeb": "si"
 }
 ]
