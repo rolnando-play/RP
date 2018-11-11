@@ -116,27 +116,27 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://player.latino-webtv.com/channels/ae.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/284.m3u8",
    "EsWeb": "si"
   },
  {
     "Nombre": "AMC",
-    "Enlace": "http://158.69.199.208/LIVE/H02/AMC/playlist.m3u8",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/283.m3u8",
   "EsWeb": "si"
   },
   {
     "Nombre": "AXN",
-    "Enlace": "http://player.latino-webtv.com/channels/axn.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/282.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Animal Planet",
-    "Enlace": "http://player.latino-webtv.com/channels/animalplanet.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/355.m3u8",
    "EsWeb": "si"
   },
     {
     "Nombre": "beIn Sports Ñ",
-    "Enlace": "http://player.latino-webtv.com/channels/bein.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/472.m3u8",
    "EsWeb": "si"
   },
   {
@@ -161,7 +161,7 @@
   },
  {
     "Nombre": "DirecTV Sports",
-    "Enlace": "http://player.latino-webtv.com/channels/d1r3ktv.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/403.m3u8",
   "EsWeb": "si"
   },
  {
@@ -176,17 +176,17 @@
   },
   {
     "Nombre": "Discovery Channel",
-    "Enlace": "http://player.latino-webtv.com/channels/discovery.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/285.m3u8",
    "EsWeb": "si"
   },
  {
     "Nombre": "Discovery Civilization",
-    "Enlace": "http://stream.gleeze.com/cl/fCBFrnLSrF.m3u8?qt=3&ch=civil",
-  "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/286.m3u8",
+  "EsWeb": "si"
   },
   {
     "Nombre": "Discovery H&H",
-    "Enlace": "http://player.latino-webtv.com/channels/homeandhealt.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/287.m3u8",
    "EsWeb": "si"
   },
   {
@@ -196,22 +196,22 @@
   },
   {
     "Nombre": "Discovery Science",
-    "Enlace": "http://player.latino-webtv.com/channels/discoveryscience.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/289.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Discovery TLC",
-    "Enlace": "http://player.latino-webtv.com/channels/TLC.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/403.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Discovery Theater",
-    "Enlace": "http://player.latino-webtv.com/channels/HD-Theater.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/290.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Discovery Turbo",
-    "Enlace": "http://player.latino-webtv.com/channels/discoveryturbo.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/293.m3u8",
    "EsWeb": "si"
   },
   {
@@ -236,22 +236,22 @@
   },
   {
     "Nombre": "ESPN",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=758479&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/307.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "ESPN 2",
-    "Enlace": "http://filesusc.com/vps/espn/800_ESPN2.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/309.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "ESPN 3",
-    "Enlace": "http://filesusc.com/vps/espn/800_ESPN3.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/311.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "ESPN +",
-    "Enlace": "http://player.latino-webtv.com/channels/espn_plus.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/313.m3u8",
    "EsWeb": "si"
   },
   {
@@ -321,13 +321,13 @@
   },
   {
     "Nombre": "Fox Sports 2",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=739485&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/254.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Fox Sports 3",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=739486&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/256.m3u8",
+   "EsWeb": "si"
   },
  {
     "Nombre": "Fox Sports Premium",
@@ -346,13 +346,13 @@
   },
  {
     "Nombre": "History",
-    "Enlace": "http://158.69.199.208/LIVE/H02/HISTORY/playlist.m3u8",
-  "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/274.m3u8",
+  "EsWeb": "si"
   },
   {
     "Nombre": "H2",
-    "Enlace": "http://54.39.146.230/LIVE/H02/H2/playlist.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/268.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "HBO",
@@ -381,28 +381,28 @@
   },
   {
     "Nombre": "ID",
-    "Enlace": "http://player.latino-webtv.com/channels/idiscovery.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/278.m3u8",
    "EsWeb": "si"
   },
  {
     "Nombre": "Las Estrellas",
-    "Enlace": "http://player.latino-webtv.com/channels/cdle.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/301.m3u8",
   "EsWeb": "si"
   },
   {
     "Nombre": "MTV",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762284&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/229.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "MTV Hits",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762289&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/233.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "MTV Live",
-    "Enlace": "http://158.69.199.21/clarotvv/claro.php?calidad=4&canal=762196&f=.m3u8",
-   "EsWeb": "no"
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/234.m3u8",
+   "EsWeb": "si"
   },
   {
     "Nombre": "Max",
@@ -421,12 +421,12 @@
   },
   {
     "Nombre": "Nat Geo",
-    "Enlace": "http://player.latino-webtv.com/channels/natgeo.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/237.m3u8",
    "EsWeb": "si"
   },
   {
     "Nombre": "Nat Geo Kids",
-    "Enlace": "http://player.latino-webtv.com/channels/natgeokids.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/238.m3u8",
    "EsWeb": "si"
   },
     {
@@ -436,7 +436,7 @@
   },
   {
     "Nombre": "Nat Geo Wild",
-    "Enlace": "http://player.latino-webtv.com/channels/natgeowild.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/239.m3u8",
    "EsWeb": "si"
   },
   {
@@ -501,7 +501,7 @@
   },
  {
     "Nombre": "TNT Sports",
-    "Enlace": "http://player.latino-webtv.com/channels/tntsports.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/331.m3u8",
   "EsWeb": "si"
   },
   {
@@ -516,7 +516,7 @@
   },
  {
     "Nombre": "TyC Sports",
-    "Enlace": "http://player.latino-webtv.com/channels/teiCeSp0rts.html",
+    "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/334.m3u8",
   "EsWeb": "si"
   },
   {
