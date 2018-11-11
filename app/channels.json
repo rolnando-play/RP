@@ -1,8 +1,13 @@
 [ 
     {
     "Nombre": "Boca vs. River 1",
+    "Enlace": "http://sv1.futbollibre.net/libertadores.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Boca vs. River 2",
     "Enlace": "https://videocdn.mixer.com/hls/54325593-e7b462fdb0e82af0eab9310738609ff014db3d73_source/index.m3u8",
-    "EsWeb": "si"
+    "EsWeb": "no"
   },
     {
     "Nombre": "ABC TV",
