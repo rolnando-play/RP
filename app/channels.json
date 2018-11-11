@@ -1,27 +1,22 @@
 [ 
     {
-    "Nombre": "CCP vs. General Díaz 1",
-    "Enlace": "https://videocdn.mixer.com/hls/54325593-953c40253b07746795c4bdc6c0aed62a7ef29843_source/index.m3u8",
+    "Nombre": "Guaraní vs. 3 de Febrero 1",
+    "Enlace": "https://videocdn.mixer.com/hls/54325593-9a4ed0b3d696231b37ac27e14aff025e68887859_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "CCP vs. General Díaz 2",
+    "Nombre": "Guaraní vs. 3 de Febrero 2",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "CCP vs. General Díaz 3",
-    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=rp_sports&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "CCP vs. General Díaz 4",
+    "Nombre": "Guaraní vs. 3 de Febrero 3",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=15720189&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "CCP vs. General Díaz 5",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1849818/1849818.m3u8?whence=1001",
+    "Nombre": "Guaraní vs. 3 de Febrero 4",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1849970/1849970.m3u8?whence=1001",
     "EsWeb": "no"
   },
     {
