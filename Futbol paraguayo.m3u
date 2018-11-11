@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0, BOC-RIV 1
 https://videocdn.mixer.com/hls/54325593-e7b462fdb0e82af0eab9310738609ff014db3d73_source/index.m3u8
+#EXTINF:0, BOC-RIV 2
+http://sv1.futbollibre.net/libertadores.m3u8
 #EXTINF:0, LIB-SOL 2
 http://93.189.63.194/hls-live/xmlive/_definst_/1846213/1846213.m3u8?whence=1001
