@@ -67,7 +67,7 @@
     {
     "Nombre": "Paravision",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/580.m3u8",
-    "EsWeb": "si"
+    "EsWeb": "no"
   },
     {
     "Nombre": "RCC - TV Chaqueña",
@@ -92,7 +92,7 @@
     {
     "Nombre": "Telefuturo",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/582.m3u8",
-    "EsWeb": "si"
+    "EsWeb": "no"
   },
   {
     "Nombre": "Telefuturo 2",
@@ -112,342 +112,342 @@
   {
     "Nombre": "A&E",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/284.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "AMC",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/283.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "AXN",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/282.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Animal Planet",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/355.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
     {
     "Nombre": "beIn Sports Ñ",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/472.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Boomerang",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/368.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Cartoon Network",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/387.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Cinecanal",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/393.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Cinemax",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/394.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "DirecTV Sports",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/403.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "DirecTV Sports 2",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/404.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "DirecTV Sports +",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/405.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Channel",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/285.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Discovery Civilization",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/286.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "Discovery H&H",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/287.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Kids",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/288.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Science",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/289.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery TLC",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/406.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Theater",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/290.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery Turbo",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/293.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Discovery World",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/294.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Disney Channel",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/295.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "Disney Junior",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/296.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
     {
     "Nombre": "E!",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/300.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "ESPN",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/307.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ESPN 2",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/309.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ESPN 3",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/311.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ESPN +",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/313.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "El Gourmet",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/303.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "FX",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "FXM",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/258.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/373.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Action",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/318.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Cinema",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/319.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Classics",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/320.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Comedy",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/321.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Family",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/322.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Life",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Movies",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/323.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Series",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/324.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 1",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/252.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 2",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/254.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Fox Sports 3",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/256.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Fox Sports Premium",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/450.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "Golden Plus",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/264.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "Golden Premier",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/265.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
  {
     "Nombre": "History",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/274.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "H2",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/268.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/269.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO 2",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/270.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Family",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/271.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Plus",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/272.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "HBO Signature",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/273.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "ID",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/278.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Las Estrellas",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/301.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "MTV",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/229.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "MTV Hits",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/233.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "MTV Live",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/234.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Max",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/460.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Max Prime",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/281.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Max Up",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/356.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nat Geo",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/237.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nat Geo Kids",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/238.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
     {
     "Nombre": "Nat Geo Mundo",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/236.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nat Geo Wild",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/239.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nick",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/243.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nick 2",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/241.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Nick JR",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/242.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Rai Sport",
@@ -462,76 +462,76 @@
   {
     "Nombre": "Sony",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/249.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Space",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/250.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Studio Universal",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/230.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "TBS",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/228.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "Telemundo",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/325.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "TNT",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/329.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "TNT Series",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/330.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "TNT Sports",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/331.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "Tooncast",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/332.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Tru TV",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/333.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
  {
     "Nombre": "TyC Sports",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/334.m3u8",
-  "EsWeb": "si"
+  "EsWeb": "no"
   },
   {
     "Nombre": "Universal Channel",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/338.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "VH1",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/340.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "VH1 Classic",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/341.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
   },
   {
     "Nombre": "Warner",
     "Enlace": "http://micine.club:8080/live/rpsports1/rpsports1/342.m3u8",
-   "EsWeb": "si"
+   "EsWeb": "no"
 }
 ]
