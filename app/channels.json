@@ -1,22 +1,17 @@
 [ 
     {
-    "Nombre": "Guaraní vs. 3 de Febrero 1",
+    "Nombre": "Capiatá vs. Santaní 1",
     "Enlace": "https://videocdn.mixer.com/hls/54325593-9a4ed0b3d696231b37ac27e14aff025e68887859_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Guaraní vs. 3 de Febrero 2",
-    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=javiolimpia&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Guaraní vs. 3 de Febrero 3",
+    "Nombre": "Capiatá vs. Santaní 2",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=110720185&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Guaraní vs. 3 de Febrero 4",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1849970/1849970.m3u8?whence=1001",
+    "Nombre": "Capiatá vs. Santaní 3",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1852404/1852404.m3u8?whence=1001",
     "EsWeb": "no"
   },
     {
