@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0, GUA-3DF 1
 https://videocdn.mixer.com/hls/54325593-9a4ed0b3d696231b37ac27e14aff025e68887859_source/index.m3u8
-#EXTINF:0, GUA-3DF 2
-http://93.189.63.194/hls-live/xmlive/_definst_/1849970/1849970.m3u8?whence=1001
+#EXTINF:0, CAP-SAN 1
+http://93.189.63.194/hls-live/xmlive/_definst_/1852404/1852404.m3u8?whence=1001
