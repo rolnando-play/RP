@@ -1,4 +1,5 @@
 [ 
+    http://micine.club:8080/get.php?username=rpsports&password=rpsports&type=m3u_plus&output=ts
     {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
