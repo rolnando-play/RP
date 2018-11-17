@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, LUQ-NAC 1
-https://videocdn.mixer.com/hls/54325593-3c1a90f4bea8cc069fd14d1f34aa9fc15dadf713_source/index.m3u8
+#EXTINF:0, 3DF-LIB 1
+https://videocdn.mixer.com/hls/54325593-b52bf7882fa81f268599ae569bfb6e9e70569d85_source/index.m3u8
 #EXTINF:0, LUQ-NAC 2
 http://93.189.63.194/hls-live/xmlive/_definst_/1852525/1852525.m3u8?whence=1001
