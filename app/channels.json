@@ -20,6 +20,26 @@
     "EsWeb": "no"
   },
     {
+    "Nombre": "Luqueño vs. Capiatá 1",
+    "Enlace": "https://videocdn.mixer.com/hls/54325593-b52bf7882fa81f268599ae569bfb6e9e70569d85_source/index.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Luqueño vs. Capiatá 2",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=110720185&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Luqueño vs. Capiatá 3",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=enkunku&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Luqueño vs. Capiatá 4",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1867827/1867827.m3u8?whence=1001",
+    "EsWeb": "no"
+  },
+    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
