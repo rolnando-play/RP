@@ -4,7 +4,7 @@ https://github.com/rolnando-play/RP/raw/master/LEGEND_20180526_244647.mp4
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/255px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY", *********** PARAGUAY **********
 http://127.0.0.1
 #EXTINF:0 ,Telefuturo
-http://micine.club:8080/live/rpsports1/rpsports1/582.m3u8
+http://micine.club:8080/live/rpsports/rpsports/582.m3u8
 #EXTINF:0 ,RPC
 http://174.138.118.252/live/canal13stream.m3u8
 #EXTINF:0 ,SNT
@@ -14,11 +14,13 @@ http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8
 #EXTINF:0 ,Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:0 ,Paravision
-http://micine.club:8080/live/rpsports1/rpsports1/580.m3u8
+http://micine.club:8080/live/rpsports/rpsports/580.m3u8
 #EXTINF:0 ,Latele
-http://micine.club:8080/live/rpsports1/rpsports1/581.m3u8
+http://micine.club:8080/live/rpsports/rpsports/581.m3u8
 #EXTINF:0 ,Paraguay TV
 http://api.new.livestream.com/accounts/25680986/events/7856569/live.m3u8
+#EXTINF:0 ,Paravisión
+http://micine.club:8080/live/rpsports/rpsports/580.m3u8
 #EXTINF:0 ,Gen
 http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8
 #EXTINF:0 ,Hei
@@ -40,215 +42,214 @@ http://127.0.0.1
 #EXTINF:0 ,Automoto TV (Italia)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/chunklist_w1955136680.m3u8
 #EXTINF:0 ,beIn Sports Ñ
-http://micine.club:8080/live/rpsports1/rpsports1/472.m3u8
+http://micine.club:8080/live/rpsports/rpsports/472.m3u8
 #EXTINF:0 ,Claro Sports
-http://micine.club:8080/live/rpsports1/rpsports1/395.m3u8
+http://micine.club:8080/live/rpsports/rpsports/395.m3u8
 #EXTINF:0 ,DeporTV
-http://micine.club:8080/live/rpsports1/rpsports1/401.m3u8
+http://micine.club:8080/live/rpsports/rpsports/401.m3u8
 #EXTINF:0 ,DirecTV Sports
-http://micine.club:8080/live/rpsports1/rpsports1/403.m3u8
+http://micine.club:8080/live/rpsports/rpsports/403.m3u8
 #EXTINF:0 ,DirecTV Sports 2
-http://micine.club:8080/live/rpsports1/rpsports1/404.m3u8
+http://micine.club:8080/live/rpsports/rpsports/404.m3u8
 #EXTINF:0 ,DirecTV Sports +
-http://micine.club:8080/live/rpsports1/rpsports1/405.m3u8
+http://micine.club:8080/live/rpsports/rpsports/405.m3u8
 #EXTINF:0 ,ESPN
-http://micine.club:8080/live/rpsports1/rpsports1/307.m3u8
+http://micine.club:8080/live/rpsports/rpsports/307.m3u8
 #EXTINF:0 ,ESPN 2
-http://micine.club:8080/live/rpsports1/rpsports1/309.m3u8
+http://micine.club:8080/live/rpsports/rpsports/309.m3u8
 #EXTINF:0 ,ESPN 3
-http://micine.club:8080/live/rpsports1/rpsports1/311.m3u8
+http://micine.club:8080/live/rpsports/rpsports/311.m3u8
 #EXTINF:0 ,ESPN +
-http://micine.club:8080/live/rpsports1/rpsports1/313.m3u8
+http://micine.club:8080/live/rpsports/rpsports/313.m3u8
 #EXTINF:0 ,Fox Sports
-http://micine.club:8080/live/rpsports1/rpsports1/252.m3u8
+http://micine.club:8080/live/rpsports/rpsports/252.m3u8
 #EXTINF:0 ,Fox Sports 2
-http://micine.club:8080/live/rpsports1/rpsports1/254.m3u8
+http://micine.club:8080/live/rpsports/rpsports/254.m3u8
 #EXTINF:0 ,Fox Sports 3
-http://micine.club:8080/live/rpsports1/rpsports1/256.m3u8
+http://micine.club:8080/live/rpsports/rpsports/256.m3u8
 #EXTINF:0 ,Fox Sports Premium
-http://micine.club:8080/live/rpsports1/rpsports1/450.m3u8
+http://micine.club:8080/live/rpsports/rpsports/450.m3u8
 #EXTINF:0, Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w318582488_sleng.m3u8
 #EXTINF:0 ,NBA
-http://micine.club:8080/live/rpsports1/rpsports1/240.m3u8
+http://micine.club:8080/live/rpsports/rpsports/240.m3u8
 #EXTINF:0 ,RAI Sport
 https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8
 #EXTINF:0 ,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 ,TNT Sports
-http://micine.club:8080/live/rpsports1/rpsports1/331.m3u8
+http://micine.club:8080/live/rpsports/rpsports/331.m3u8
 #EXTINF:0, TyC Sports
-http://micine.club:8080/live/rpsports1/rpsports1/334.m3u8
+http://micine.club:8080/live/rpsports/rpsports/334.m3u8
 #EXTINF:0 ,VTV (Uruguay)
-http://micine.club:8080/live/rpsports1/rpsports1/474.m3u8
+http://micine.club:8080/live/rpsports/rpsports/474.m3u8
 #EXTINF:0 ,Win Sports
-http://micine.club:8080/live/rpsports1/rpsports1/225.m3u8
+http://micine.club:8080/live/rpsports/rpsports/225.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-http://micine.club:8080/live/rpsports1/rpsports1/355.m3u8
+http://micine.club:8080/live/rpsports/rpsports/355.m3u8
 #EXTINF:0 ,Discovery Channel
-http://micine.club:8080/live/rpsports1/rpsports1/285.m3u8
+http://micine.club:8080/live/rpsports/rpsports/285.m3u8
 #EXTINF:0 ,Discovery Civilization
-http://micine.club:8080/live/rpsports1/rpsports1/286.m3u8
+http://micine.club:8080/live/rpsports/rpsports/286.m3u8
 #EXTINF:0 ,Discovery H&H
-http://micine.club:8080/live/rpsports1/rpsports1/287.m3u8
+http://micine.club:8080/live/rpsports/rpsports/287.m3u8
 #EXTINF:0 ,Discovery Science
-http://micine.club:8080/live/rpsports1/rpsports1/289.m3u8
+http://micine.club:8080/live/rpsports/rpsports/289.m3u8
 #EXTINF:0 ,Discovery Theater
-http://micine.club:8080/live/rpsports1/rpsports1/290.m3u8
+http://micine.club:8080/live/rpsports/rpsports/290.m3u8
 #EXTINF:0 ,Discovery TLC
-http://micine.club:8080/live/rpsports1/rpsports1/406.m3u8
+http://micine.club:8080/live/rpsports/rpsports/406.m3u8
 #EXTINF:0 ,Discovery Turbo
-http://micine.club:8080/live/rpsports1/rpsports1/293.m3u8
+http://micine.club:8080/live/rpsports/rpsports/293.m3u8
 #EXTINF:0 ,Discovery World
-http://micine.club:8080/live/rpsports1/rpsports1/294.m3u8
+http://micine.club:8080/live/rpsports/rpsports/294.m3u8
 #EXTINF:0 ,History
-http://micine.club:8080/live/rpsports1/rpsports1/274.m3u8
+http://micine.club:8080/live/rpsports/rpsports/274.m3u8
 #EXTINF:0 ,History 2
-http://micine.club:8080/live/rpsports1/rpsports1/268.m3u8
+http://micine.club:8080/live/rpsports/rpsports/268.m3u8
 #EXTINF:0 ,Investigation Discovery
-http://micine.club:8080/live/rpsports1/rpsports1/278.m3u8
+http://micine.club:8080/live/rpsports/rpsports/278.m3u8
 #EXTINF:0 ,Nat Geo
-http://micine.club:8080/live/rpsports1/rpsports1/237.m3u8
+http://micine.club:8080/live/rpsports/rpsports/237.m3u8
 #EXTINF:0 ,Nat Geo Wild
-http://micine.club:8080/live/rpsports1/rpsports1/239.m3u8
+http://micine.club:8080/live/rpsports/rpsports/239.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-http://micine.club:8080/live/rpsports1/rpsports1/284.m3u8
+http://micine.club:8080/live/rpsports/rpsports/284.m3u8
 #EXTINF:0 ,AMC
-http://micine.club:8080/live/rpsports1/rpsports1/283.m3u8
+http://micine.club:8080/live/rpsports/rpsports/283.m3u8
 #EXTINF:0 ,AXN
-http://micine.club:8080/live/rpsports1/rpsports1/282.m3u8
+http://micine.club:8080/live/rpsports/rpsports/282.m3u8
 #EXTINF:0 ,Las Estrellas
-http://micine.club:8080/live/rpsports1/rpsports1/301.m3u8
+http://micine.club:8080/live/rpsports/rpsports/301.m3u8
 #EXTINF:0 ,Cinecanal
-http://micine.club:8080/live/rpsports1/rpsports1/393.m3u8
+http://micine.club:8080/live/rpsports/rpsports/393.m3u8
 #EXTINF:0 ,Cinelatino
-http://micine.club:8080/live/rpsports1/rpsports1/392.m3u8
+http://micine.club:8080/live/rpsports/rpsports/392.m3u8
 #EXTINF:0 ,Cinemax
-http://micine.club:8080/live/rpsports1/rpsports1/394.m3u8
+http://micine.club:8080/live/rpsports/rpsports/394.m3u8
 #EXTINF:0 ,El Gourmet
-http://micine.club:8080/live/rpsports1/rpsports1/303.m3u8
+http://micine.club:8080/live/rpsports/rpsports/303.m3u8
 #EXTINF:0 ,Fox
-http://micine.club:8080/live/rpsports1/rpsports1/373.m3u8
+http://micine.club:8080/live/rpsports/rpsports/373.m3u8
 #EXTINF:0 ,FX
-http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8
+http://micine.club:8080/live/rpsports/rpsports/257.m3u8
 #EXTINF:0 ,FXM
-http://micine.club:8080/live/rpsports1/rpsports1/258.m3u8
+http://micine.club:8080/live/rpsports/rpsports/258.m3u8
 #EXTINF:0 ,Fox Life
-http://micine.club:8080/live/rpsports1/rpsports1/257.m3u8
+http://micine.club:8080/live/rpsports/rpsports/257.m3u8
 #EXTINF:0 ,Golden Plus
-http://micine.club:8080/live/rpsports1/rpsports1/264.m3u8
+http://micine.club:8080/live/rpsports/rpsports/264.m3u8
 #EXTINF:0 ,Golden Premier
-http://micine.club:8080/live/rpsports1/rpsports1/265.m3u8
+http://micine.club:8080/live/rpsports/rpsports/265.m3u8
 #EXTINF:0 ,Las Estrellas
-http://micine.club:8080/live/rpsports1/rpsports1/301.m3u8
+http://micine.club:8080/live/rpsports/rpsports/301.m3u8
 #EXTINF:0 ,Paramount
-http://micine.club:8080/live/rpsports1/rpsports1/245.m3u8
+http://micine.club:8080/live/rpsports/rpsports/245.m3u8
 #EXTINF:0 ,Space
-http://micine.club:8080/live/rpsports1/rpsports1/250.m3u8
+http://micine.club:8080/live/rpsports/rpsports/250.m3u8
 #EXTINF:0 ,Studio Universal
-http://micine.club:8080/live/rpsports1/rpsports1/230.m3u8
+http://micine.club:8080/live/rpsports/rpsports/230.m3u8
 #EXTINF:0 ,Sony
-http://micine.club:8080/live/rpsports1/rpsports1/249.m3u8
+http://micine.club:8080/live/rpsports/rpsports/249.m3u8
 #EXTINF:0 ,Syfy
-http://micine.club:8080/live/rpsports1/rpsports1/229.m3u8
+http://micine.club:8080/live/rpsports/rpsports/229.m3u8
 #EXTINF:0 ,TBS
-http://micine.club:8080/live/rpsports1/rpsports1/228.m3u8
+http://micine.club:8080/live/rpsports/rpsports/228.m3u8
 #EXTINF:0 ,Telemundo
-http://micine.club:8080/live/rpsports1/rpsports1/325.m3u8
+http://micine.club:8080/live/rpsports/rpsports/325.m3u8
 #EXTINF:0 ,tlnovelas
-http://micine.club:8080/live/rpsports1/rpsports1/328.m3u8
+http://micine.club:8080/live/rpsports/rpsports/328.m3u8
 #EXTINF:0 ,TNT
-http://micine.club:8080/live/rpsports1/rpsports1/329.m3u8
+http://micine.club:8080/live/rpsports/rpsports/329.m3u8
 #EXTINF:0 ,TNT Series
-http://micine.club:8080/live/rpsports1/rpsports1/330.m3u8
+http://micine.club:8080/live/rpsports/rpsports/330.m3u8
 #EXTINF:0 ,Tru TV
-http://micine.club:8080/live/rpsports1/rpsports1/333.m3u8
+http://micine.club:8080/live/rpsports/rpsports/333.m3u8
 #EXTINF:0 ,Universal Channel
-http://micine.club:8080/live/rpsports1/rpsports1/338.m3u8
+http://micine.club:8080/live/rpsports/rpsports/338.m3u8
 #EXTINF:0 ,Univisión
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
-http://micine.club:8080/live/rpsports1/rpsports1/342.m3u8
+http://micine.club:8080/live/rpsports/rpsports/342.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
-http://micine.club:8080/live/rpsports1/rpsports1/368.m3u8
+http://micine.club:8080/live/rpsports/rpsports/368.m3u8
 #EXTINF:0 ,Cartoon Network
-http://micine.club:8080/live/rpsports1/rpsports1/387.m3u8
+http://micine.club:8080/live/rpsports/rpsports/387.m3u8
 #EXTINF:0 ,Discovery Kids
-http://micine.club:8080/live/rpsports1/rpsports1/288.m3u8
+http://micine.club:8080/live/rpsports/rpsports/288.m3u8
 #EXTINF:0 ,Disney Channel
-http://micine.club:8080/live/rpsports1/rpsports1/295.m3u8
+http://micine.club:8080/live/rpsports/rpsports/295.m3u8
 #EXTINF:0 ,Disney Junior
-http://micine.club:8080/live/rpsports1/rpsports1/296.m3u8
+http://micine.club:8080/live/rpsports/rpsports/296.m3u8
 #EXTINF:0 ,Disney XD
-http://micine.club:8080/live/rpsports1/rpsports1/297.m3u8
+http://micine.club:8080/live/rpsports/rpsports/297.m3u8
 #EXTINF:0 ,Nat Geo Kids
-http://micine.club:8080/live/rpsports1/rpsports1/238.m3u8
+http://micine.club:8080/live/rpsports/rpsports/238.m3u8
 #EXTINF:0 ,Nickelodeon
-http://micine.club:8080/live/rpsports1/rpsports1/243.m3u8
+http://micine.club:8080/live/rpsports/rpsports/243.m3u8
 #EXTINF:0 ,Nick 2
-http://micine.club:8080/live/rpsports1/rpsports1/241.m3u8
+http://micine.club:8080/live/rpsports/rpsports/241.m3u8
 #EXTINF:0 ,Nicktoons
-http://micine.club:8080/live/rpsports1/rpsports1/244.m3u8
+http://micine.club:8080/live/rpsports/rpsports/244.m3u8
 #EXTINF:0 ,Nick JR
-http://micine.club:8080/live/rpsports1/rpsports1/242.m3u8
+http://micine.club:8080/live/rpsports/rpsports/242.m3u8
 #EXTINF:0 ,Tooncast
-http://micine.club:8080/live/rpsports1/rpsports1/332.m3u8
+http://micine.club:8080/live/rpsports/rpsports/332.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
-http://micine.club:8080/live/rpsports1/rpsports1/269.m3u8
+http://micine.club:8080/live/rpsports/rpsports/269.m3u8
 #EXTINF:0 ,HBO 2
-http://micine.club:8080/live/rpsports1/rpsports1/270.m3u8
+http://micine.club:8080/live/rpsports/rpsports/270.m3u8
 #EXTINF:0 ,HBO Family
-http://micine.club:8080/live/rpsports1/rpsports1/271.m3u8
+http://micine.club:8080/live/rpsports/rpsports/271.m3u8
 #EXTINF:0 ,HBO Plus
-http://micine.club:8080/live/rpsports1/rpsports1/272.m3u8
+http://micine.club:8080/live/rpsports/rpsports/272.m3u8
 #EXTINF:0 ,HBO Signature
-http://micine.club:8080/live/rpsports1/rpsports1/273.m3u8
+http://micine.club:8080/live/rpsports/rpsports/273.m3u8
 #EXTINF:0 ,Max
-http://micine.club:8080/live/rpsports1/rpsports1/460.m3u8
+http://micine.club:8080/live/rpsports/rpsports/460.m3u8
 #EXTINF:0 ,Max Prime
-http://micine.club:8080/live/rpsports1/rpsports1/281.m3u8
+http://micine.club:8080/live/rpsports/rpsports/281.m3u8
 #EXTINF:0 ,Max Up
-http://micine.club:8080/live/rpsports1/rpsports1/356.m3u8
+http://micine.club:8080/live/rpsports/rpsports/356.m3u8
 #EXTINF:0 ,Fox Action
-http://micine.club:8080/live/rpsports1/rpsports1/318.m3u8
+http://micine.club:8080/live/rpsports/rpsports/318.m3u8
 #EXTINF:0 ,Fox Cinema
-http://micine.club:8080/live/rpsports1/rpsports1/319.m3u8
+http://micine.club:8080/live/rpsports/rpsports/319.m3u8
 #EXTINF:0 ,Fox Classics
-http://micine.club:8080/live/rpsports1/rpsports1/320.m3u8
+http://micine.club:8080/live/rpsports/rpsports/320.m3u8
 #EXTINF:0 ,Fox Comedy
-http://micine.club:8080/live/rpsports1/rpsports1/321.m3u8
+http://micine.club:8080/live/rpsports/rpsports/321.m3u8
 #EXTINF:0 ,Fox Family
-http://micine.club:8080/live/rpsports1/rpsports1/322.m3u8
+http://micine.club:8080/live/rpsports/rpsports/322.m3u8
 #EXTINF:0 ,Fox Movies
-http://micine.club:8080/live/rpsports1/rpsports1/323.m3u8
+http://micine.club:8080/live/rpsports/rpsports/323.m3u8
 #EXTINF:0 ,Fox Series
-http://micine.club:8080/live/rpsports1/rpsports1/324.m3u8
+http://micine.club:8080/live/rpsports/rpsports/324.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148312_ico.png" group-title="MUSICA", ********** MUSICA **********
 http://127.0.0.1
 #EXTINF:0, Concert Channel
-http://micine.club:8080/live/rpsports1/rpsports1/399.m3u8
+http://micine.club:8080/live/rpsports/rpsports/399.m3u8
 #EXTINF:0 ,MTV
-http://micine.club:8080/live/rpsports1/rpsports1/232.m3u8
+http://micine.club:8080/live/rpsports/rpsports/232.m3u8
 #EXTINF:0 ,MTV Hits
-http://micine.club:8080/live/rpsports1/rpsports1/233.m3u8
+http://micine.club:8080/live/rpsports/rpsports/233.m3u8
 #EXTINF:0 ,MTV Live
-http://micine.club:8080/live/rpsports1/rpsports1/234.m3u8
+http://micine.club:8080/live/rpsports/rpsports/234.m3u8
 #EXTINF:0 ,VH1
-http://micine.club:8080/live/rpsports1/rpsports1/340.m3u8
+http://micine.club:8080/live/rpsports/rpsports/340.m3u8
 #EXTINF:0 ,VH1 Classics
-http://micine.club:8080/live/rpsports1/rpsports1/341.m3u8
+http://micine.club:8080/live/rpsports/rpsports/341.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/holy-bible.png" group-title="RELIGIÓN", ********** RELIGIÓN **********
 http://127.0.0.1
 #EXTINF:0 ,ESNE
 http://live.tv.esnetv.org:1935/esne-live/esnetv.smil/playlist.m3u8
 #EXTINF:0 ,EWTN
 http://streamcdnc2.mainstreaming.tv/cdn/live/101129/playlist.m3u8
-
