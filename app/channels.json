@@ -1,21 +1,21 @@
 [ 
     {
-    "Nombre": "Gral. Díaz vs. Independiente 1",
+    "Nombre": "Nacional vs. Sol 1",
     "Enlace": "https://videocdn.mixer.com/hls/54325593-240f5f51c856262a756d70482287533ddf170fa4_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "General D. vs. Independiente 2",
+    "Nombre": "Nacional vs. Sol 2",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=110720185&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "General D. vs. Independiente 3",
+    "Nombre": "Nacional vs. Sol 3",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=enkunku&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "General D. vs. Independiente 4",
+    "Nombre": "Nacional vs. Sol 4",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1871372/1871372.m3u8?whence=1001",
     "EsWeb": "no"
   },
