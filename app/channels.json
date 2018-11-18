@@ -86,8 +86,8 @@
   },   
     {
     "Nombre": "Paravision",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
-    "EsWeb": "si"
+    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.ts",
+    "EsWeb": "no"
   },
     {
     "Nombre": "RCC - TV Chaqueña",
