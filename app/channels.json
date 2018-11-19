@@ -1,23 +1,8 @@
 [ 
     {
-    "Nombre": "Nacional vs. Sol 1",
-    "Enlace": "https://videocdn.mixer.com/hls/54325593-df06e5d72907ef5f05a0bf12c591d089e7146f34_source/index.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Nacional vs. Sol 2",
+    "Nombre": "Tigo Sports",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=110720185&controls=false",
     "EsWeb": "si"
-  },
-    {
-    "Nombre": "Nacional vs. Sol 3",
-    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=enkunku&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Nacional vs. Sol 4",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1871372/1871372.m3u8?whence=1001",
-    "EsWeb": "no"
   },
     {
     "Nombre": "ABC TV",
