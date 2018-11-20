@@ -1,7 +1,12 @@
 [ 
     {
-    "Nombre": "Tigo Sports",
+    "Nombre": "Sudáfrica vs. Paraguay 1",
     "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=110720185&controls=false",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Sudáfrica vs. Paraguay 2",
+    "Enlace": "https://player.twitch.tv/?volume=1.0&!muted&channel=rp_sports&controls=false",
     "EsWeb": "no"
   },
     {
