@@ -1,6 +1,11 @@
 [ 
     {
     "Nombre": "Sol vs. 3 de Febrero 1",
+    "Enlace": "https://player.twitch.tv/?volume=1&channel=110720185&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Sol vs. 3 de Febrero 2",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1885271/1885271.m3u8?whence=1001",
     "EsWeb": "no"
   },
