@@ -121,7 +121,7 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/284.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8",
    "EsWeb": "no"
   },
  {
@@ -131,7 +131,7 @@
   },
   {
     "Nombre": "AXN",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/282.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8",
    "EsWeb": "no"
   },
   {
@@ -236,7 +236,7 @@
   },
     {
     "Nombre": "E!",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/300.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8",
   "EsWeb": "no"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "Nombre": "FX",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/257.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8",
    "EsWeb": "no"
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "Nombre": "Fox",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/373.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8",
    "EsWeb": "no"
   },
   {
@@ -341,7 +341,7 @@
   },
     {
     "Nombre": "Fox Sports 3 MX",
-    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL174/PROFILE03.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8",
    "EsWeb": "no"
   },
  {
@@ -481,7 +481,7 @@
   },
   {
     "Nombre": "Sony",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/249.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8",
    "EsWeb": "no"
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "Nombre": "Tru TV",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/333.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8",
    "EsWeb": "no"
   },
  {
@@ -536,7 +536,7 @@
   },
   {
     "Nombre": "Universal Channel",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/338.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8",
    "EsWeb": "no"
   },
   {
@@ -551,7 +551,7 @@
   },
   {
     "Nombre": "Warner",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/342.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8",
    "EsWeb": "no"
 }
 ]
