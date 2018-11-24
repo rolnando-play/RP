@@ -114,7 +114,7 @@ http://micine.club:8080/live/rpsports/rpsports/274.m3u8
 #EXTINF:0 ,History 2
 http://micine.club:8080/live/rpsports/rpsports/268.m3u8
 #EXTINF:0 ,Investigation Discovery
-http://micine.club:8080/live/rpsports/rpsports/278.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
 #EXTINF:0 ,Nat Geo
 http://micine.club:8080/live/rpsports/rpsports/237.m3u8
 #EXTINF:0 ,Nat Geo Wild
@@ -136,7 +136,7 @@ http://micine.club:8080/live/rpsports/rpsports/392.m3u8
 #EXTINF:0 ,Cinemax
 http://micine.club:8080/live/rpsports/rpsports/394.m3u8
 #EXTINF:0 ,El Gourmet
-http://micine.club:8080/live/rpsports/rpsports/303.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
 #EXTINF:0 ,Fox
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 ,FX
@@ -144,7 +144,7 @@ https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 #EXTINF:0 ,FXM
 http://micine.club:8080/live/rpsports/rpsports/258.m3u8
 #EXTINF:0 ,Fox Life
-http://micine.club:8080/live/rpsports/rpsports/257.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
 #EXTINF:0 ,Golden 
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8
 #EXTINF:0 ,Golden Premier
@@ -160,17 +160,17 @@ http://micine.club:8080/live/rpsports/rpsports/230.m3u8
 #EXTINF:0 ,Sony
 http://micine.club:8080/live/rpsports/rpsports/249.m3u8
 #EXTINF:0 ,Syfy
-http://micine.club:8080/live/rpsports/rpsports/229.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
 #EXTINF:0 ,TBS
-http://micine.club:8080/live/rpsports/rpsports/228.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
 #EXTINF:0 ,Telemundo
 http://micine.club:8080/live/rpsports/rpsports/325.m3u8
 #EXTINF:0 ,tlnovelas
-http://micine.club:8080/live/rpsports/rpsports/328.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
 #EXTINF:0 ,TNT
 http://micine.club:8080/live/rpsports/rpsports/329.m3u8
 #EXTINF:0 ,TNT Series
-http://micine.club:8080/live/rpsports/rpsports/330.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
 #EXTINF:0 ,Tru TV
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 #EXTINF:0 ,Universal Channel
@@ -186,11 +186,11 @@ http://micine.club:8080/live/rpsports/rpsports/368.m3u8
 #EXTINF:0 ,Cartoon Network
 http://micine.club:8080/live/rpsports/rpsports/387.m3u8
 #EXTINF:0 ,Discovery Kids
-http://micine.club:8080/live/rpsports/rpsports/288.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 #EXTINF:0 ,Disney Channel
-http://micine.club:8080/live/rpsports/rpsports/295.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 #EXTINF:0 ,Disney Junior
-http://micine.club:8080/live/rpsports/rpsports/296.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
 #EXTINF:0 ,Disney XD
 http://micine.club:8080/live/rpsports/rpsports/297.m3u8
 #EXTINF:0 ,Nat Geo Kids
@@ -202,7 +202,7 @@ http://micine.club:8080/live/rpsports/rpsports/241.m3u8
 #EXTINF:0 ,Nicktoons
 http://micine.club:8080/live/rpsports/rpsports/244.m3u8
 #EXTINF:0 ,Nick JR
-http://micine.club:8080/live/rpsports/rpsports/242.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
 #EXTINF:0 ,Tooncast
 http://micine.club:8080/live/rpsports/rpsports/332.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
