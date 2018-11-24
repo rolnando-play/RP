@@ -92,9 +92,9 @@ http://micine.club:8080/live/rpsports/rpsports/225.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148292_ico.png" group-title="CULTURALES", ********** CULTURALES **********
 http://127.0.0.1
 #EXTINF:0 ,Animal Planet
-http://micine.club:8080/live/rpsports/rpsports/355.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
 #EXTINF:0 ,Discovery Channel
-http://micine.club:8080/live/rpsports/rpsports/285.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:0 ,Discovery Civilization
 http://micine.club:8080/live/rpsports/rpsports/286.m3u8
 #EXTINF:0 ,Discovery H&H
@@ -102,15 +102,15 @@ http://micine.club:8080/live/rpsports/rpsports/287.m3u8
 #EXTINF:0 ,Discovery Science
 http://micine.club:8080/live/rpsports/rpsports/289.m3u8
 #EXTINF:0 ,Discovery Theater
-http://micine.club:8080/live/rpsports/rpsports/290.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:0 ,Discovery TLC
 http://micine.club:8080/live/rpsports/rpsports/406.m3u8
 #EXTINF:0 ,Discovery Turbo
 http://micine.club:8080/live/rpsports/rpsports/293.m3u8
 #EXTINF:0 ,Discovery World
-http://micine.club:8080/live/rpsports/rpsports/294.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
 #EXTINF:0 ,History
-http://micine.club:8080/live/rpsports/rpsports/274.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 #EXTINF:0 ,History 2
 http://micine.club:8080/live/rpsports/rpsports/268.m3u8
 #EXTINF:0 ,Investigation Discovery
@@ -118,7 +118,7 @@ https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
 #EXTINF:0 ,Nat Geo
 http://micine.club:8080/live/rpsports/rpsports/237.m3u8
 #EXTINF:0 ,Nat Geo Wild
-http://micine.club:8080/live/rpsports/rpsports/239.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
@@ -142,7 +142,7 @@ https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 ,FX
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 #EXTINF:0 ,FXM
-http://micine.club:8080/live/rpsports/rpsports/258.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE03.m3u8
 #EXTINF:0 ,Fox Life
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
 #EXTINF:0 ,Golden 
@@ -182,9 +182,9 @@ https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
-http://micine.club:8080/live/rpsports/rpsports/368.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8
 #EXTINF:0 ,Cartoon Network
-http://micine.club:8080/live/rpsports/rpsports/387.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8
 #EXTINF:0 ,Discovery Kids
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8
 #EXTINF:0 ,Disney Channel
@@ -192,19 +192,19 @@ https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8
 #EXTINF:0 ,Disney Junior
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8
 #EXTINF:0 ,Disney XD
-http://micine.club:8080/live/rpsports/rpsports/297.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL322/PROFILE03.m3u8
 #EXTINF:0 ,Nat Geo Kids
 http://micine.club:8080/live/rpsports/rpsports/238.m3u8
 #EXTINF:0 ,Nickelodeon
-http://micine.club:8080/live/rpsports/rpsports/243.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8
 #EXTINF:0 ,Nick 2
 http://micine.club:8080/live/rpsports/rpsports/241.m3u8
 #EXTINF:0 ,Nicktoons
-http://micine.club:8080/live/rpsports/rpsports/244.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE03.m3u8
 #EXTINF:0 ,Nick JR
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8
 #EXTINF:0 ,Tooncast
-http://micine.club:8080/live/rpsports/rpsports/332.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2232729_ico.png" group-title="PELICULAS", ********** PELICULAS **********
 http://127.0.0.1
 #EXTINF:0 ,HBO
