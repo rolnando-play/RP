@@ -1,16 +1,6 @@
 [ 
     {
-    "Nombre": "River vs. Boca 1",
-    "Enlace": "http://sv1.futbollibre.net/libertadores.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "River vs. Boca 2",
-    "Enlace": "http://player.latino-webtv.com/channels/foxsports.html",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "River vs. Boca 3",
+    "Nombre": "Libertad vs. Olimpia 1",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=157201812&controls=false",
     "EsWeb": "si"
   },
