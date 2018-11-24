@@ -69,6 +69,8 @@ http://micine.club:8080/live/rpsports/rpsports/254.m3u8
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8
 #EXTINF:0 ,Fox Sports 3
 http://micine.club:8080/live/rpsports/rpsports/256.m3u8
+#EXTINF:0 ,Fox Sports 3 mx
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
 #EXTINF:0 ,Fox Sports Premium
 http://micine.club:8080/live/rpsports/rpsports/450.m3u8
 #EXTINF:0, Garage TV
@@ -120,11 +122,11 @@ http://micine.club:8080/live/rpsports/rpsports/239.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148304_ico.png" group-title="ENTRETENIMIENTO", ********** ENTRETENIMIENTO **********
 http://127.0.0.1
 #EXTINF:0 ,A&E
-http://micine.club:8080/live/rpsports/rpsports/284.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 #EXTINF:0 ,AMC
 http://micine.club:8080/live/rpsports/rpsports/283.m3u8
 #EXTINF:0 ,AXN
-http://micine.club:8080/live/rpsports/rpsports/282.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
 #EXTINF:0 ,Las Estrellas
 https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8
 #EXTINF:0 ,Cinecanal
@@ -136,9 +138,9 @@ http://micine.club:8080/live/rpsports/rpsports/394.m3u8
 #EXTINF:0 ,El Gourmet
 http://micine.club:8080/live/rpsports/rpsports/303.m3u8
 #EXTINF:0 ,Fox
-http://micine.club:8080/live/rpsports/rpsports/373.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
 #EXTINF:0 ,FX
-http://micine.club:8080/live/rpsports/rpsports/257.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
 #EXTINF:0 ,FXM
 http://micine.club:8080/live/rpsports/rpsports/258.m3u8
 #EXTINF:0 ,Fox Life
@@ -170,13 +172,13 @@ http://micine.club:8080/live/rpsports/rpsports/329.m3u8
 #EXTINF:0 ,TNT Series
 http://micine.club:8080/live/rpsports/rpsports/330.m3u8
 #EXTINF:0 ,Tru TV
-http://micine.club:8080/live/rpsports/rpsports/333.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
 #EXTINF:0 ,Universal Channel
-http://micine.club:8080/live/rpsports/rpsports/338.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
 #EXTINF:0 ,Univisión
 https://nlunioo.akamaized.net/nlds/univision/as/live/unioo_hd_3000.m3u8
 #EXTINF:0 ,Warner
-http://micine.club:8080/live/rpsports/rpsports/342.m3u8
+https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://github.com/rolnando-play/RP/raw/master/2148277_ico.png" group-title="INFANTIL", ********** INFANTIL **********
 http://127.0.0.1
 #EXTINF:0 , Boomerang
