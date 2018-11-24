@@ -329,6 +329,11 @@
     "Enlace": "http://micine.club:8080/live/rpsports/rpsports/254.m3u8",
    "EsWeb": "no"
   },
+    {
+    "Nombre": "Fox Sports 2 MX",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8",
+   "EsWeb": "no"
+  },
   {
     "Nombre": "Fox Sports 3",
     "Enlace": "http://micine.club:8080/live/rpsports/rpsports/256.m3u8",
@@ -340,8 +345,8 @@
   "EsWeb": "no"
   },
  {
-    "Nombre": "Golden Plus",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/264.m3u8",
+    "Nombre": "Golden",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8",
   "EsWeb": "no"
   },
  {
@@ -391,7 +396,7 @@
   },
  {
     "Nombre": "Las Estrellas",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/301.m3u8",
+    "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8",
   "EsWeb": "no"
   },
   {
