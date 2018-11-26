@@ -1,30 +1,5 @@
 [ 
     {
-    "Nombre": "Libertad vs. Olimpia 1",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=157201812&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Libertad vs. Olimpia 2",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=nadaquever2&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Libertad vs. Olimpia 3",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1888412/1888412.m3u8?whence=1001",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Cerro Porteño vs. Luque 1",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-4e8f3b8dc7d2b7a3de81a0d768dcffd83f51dfb4_source/index.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Cerro Porteño vs. Luque 2",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1888413/1888413.m3u8?whence=1001",
-    "EsWeb": "no"
-  },
-    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
