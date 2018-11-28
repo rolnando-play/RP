@@ -1,7 +1,13 @@
 [ 
+    
     {
     "Nombre": "Guaraní vs. Olimpia 1",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=nadaquever2&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Guaraní vs. Olimpia 2",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero&controls=false",
     "EsWeb": "no"
   },
     {
