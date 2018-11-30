@@ -22,9 +22,9 @@ http://api.new.livestream.com/accounts/25680986/events/7856569/live.m3u8
 #EXTINF:0 ,Paravisión
 http://micine.club:8080/live/rpsports/rpsports/580.m3u8
 #EXTINF:0 ,Gen
-http://54.94.130.159:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8
+http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8
 #EXTINF:0 ,Hei
-http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8
+http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8
 #EXTINF:0 ,Lobo Station
 http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8
 #EXTINF:0 ,TVS Encarnación
