@@ -10,7 +10,17 @@
     "EsWeb": "si"
   },
     {
-    "Nombre": "Santaní vs. Guaraní",
+    "Nombre": "Santaní vs. Guaraní 1",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=110720185&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Santaní vs. Guaraní 2",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720185&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Santaní vs. Guaraní 3",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1909193/1909193.m3u8?whence=1001",
     "EsWeb": "no"
   },
