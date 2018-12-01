@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0, GRD-LIB 1
 http://swf.x10.bz/swe/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, GRD-LIB2
+#EXTINF:0, GRD-LIB 2
 http://93.189.63.194/hls-live/xmlive/_definst_/1899136/1899136.m3u8?whence=1001
