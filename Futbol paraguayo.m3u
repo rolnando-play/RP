@@ -2,4 +2,6 @@
 #EXTINF:0, GRD-LIB 1
 http://swf.x10.bz/swe/twich.php?canal=nadaquever2&f=.m3u8
 #EXTINF:0, SAN-GUA 1
+http://swf.x10.bz/swe/twich.php?canal=110720185&f=.m3u8
+#EXTINF:0, SAN-GUA 2
 http://93.189.63.194/hls-live/xmlive/_definst_/1909193/1909193.m3u8?whence=1001
