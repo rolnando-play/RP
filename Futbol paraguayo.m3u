@@ -2,10 +2,6 @@
 #EXTINF:0, OLI-SOL 1
 http://swf.x10.bz/swe/twich.php?canal=110720185&f=.m3u8
 #EXTINF:0, OLI-SOL 2
-http://swf.x10.bz/swe/twich.php?canal=elmandiokero&f=.m3u8
+http://swf.x10.bz/swe/twich.php?canal=rp_sports&f=.m3u8
 #EXTINF:0, OLI-SOL 3
 http://93.189.63.194/hls-live/xmlive/_definst_/1913031/1913031.m3u8?whence=1001
-#EXTINF:0, CAP-CCP 1
-http://swf.x10.bz/swe/twich.php?canal=rp_sports&f=.m3u8
-#EXTINF:0, CAP-CCP 2
-http://93.189.63.194/hls-live/xmlive/_definst_/1913032/1913032.m3u8?whence=1001
