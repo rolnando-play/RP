@@ -1,31 +1,36 @@
 [ 
     {
-    "Nombre": "General Díaz vs. Libertad 1",
-    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=nadaquever2&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "General Díaz vs. Libertad 2",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=nadaquever2&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Luqueño vs. Independiente 1",
+    "Nombre": "Olimpia vs. Sol 1",
     "Enlace": "http://swf.x10.bz/swe/twich.php?canal=110720185&f=.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Luqueño vs. Independiente 2",
+    "Nombre": "Olimpia vs. Sol 2",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=110720185&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Luqueño vs. Independiente 3",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1909202/1909202.m3u8?whence=1001",
+    "Nombre": "Olimpia vs. Sol 3",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=110720185&f=.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Santaní vs. Guaraní 1",
+    "Nombre": "Olimpia vs. Sol 4",
+    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1909193/1909193.m3u8?whence=1001",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Capiatá vs. Cerro Porteño 1",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=rp_sports&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Capiatá vs. Cerro Porteño 2",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=rp_sports&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Capiatá vs. Cerro Porteño 3",
     "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1909193/1909193.m3u8?whence=1001",
     "EsWeb": "no"
   },
