@@ -6,7 +6,7 @@
   },
     {
     "Nombre": "Olimpia vs. Sol 2",
-    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=elmandiokero&f=.m3u8",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=rp_sports&f=.m3u8",
     "EsWeb": "no"
   },
     {
@@ -16,27 +16,7 @@
   },
     {
     "Nombre": "Olimpia vs. Sol 4",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Olimpia vs. Sol 5",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1913031/1913031.m3u8?whence=1001",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Capiatá vs. Cerro Porteño 1",
-    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=rp_sports&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Capiatá vs. Cerro Porteño 2",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=rp_sports&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Capiatá vs. Cerro Porteño 3",
-    "Enlace": "http://93.189.63.194/hls-live/xmlive/_definst_/1913032/1913032.m3u8?whence=1001",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=110720185&f=.m3u8",
     "EsWeb": "no"
   },
     {
