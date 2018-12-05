@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:0, OLI-GUA 1
 http://swf.x10.bz/swe/twich.php?canal=rp_sports&f=.m3u8
+#EXTINF:0, OLI-GUA 2
+http://swf.x10.bz/swe/twich.php?canal=0707201810&f=.m3u8
 #EXTINF:0, OLI-SOL 3
 http://93.189.63.194/hls-live/xmlive/_definst_/1913031/1913031.m3u8?whence=1001
