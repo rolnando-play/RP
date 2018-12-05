@@ -11,12 +11,22 @@
   },
     {
     "Nombre": "Olimpia vs. Guaraní 3",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=elmandiokero&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Olimpia vs. Guaraní 4",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Olimpia vs. Guaraní 4",
+    "Nombre": "Olimpia vs. Guaraní 5",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=rp_sports&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Olimpia vs. Guaraní 6",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero&controls=false",
     "EsWeb": "si"
   },
     {
