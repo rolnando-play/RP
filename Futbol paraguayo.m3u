@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, Futbol pyo 1
-http://swf.x10.bz/swe/twich.php?canal=266201810&f=.m3u8
-#EXTINF:0, OLI-GUA 2
-http://swf.x10.bz/swe/twich.php?canal=0707201810&f=.m3u8
-#EXTINF:0, OLI-SOL 3
-http://swf.x10.bz/swe/twich.php?canal=elmandiokero&f=.m3u8
+#EXTINF:0, GUA-LUQ 1
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_pc.m3u8
+#EXTINF:0, IND-CAP 1
+https://neuclnlds15dal.akamaized.net/nlds/tigopy/independientecg/as/live/nlncp/independientecg_hd_pc.m3u8
+#EXTINF:0, SOL-GRD 1
+https://neuclnlds51dal.akamaized.net/nlds/tigopy/soldeam/as/live/nlncp/soldeam_hd_pc.m3u8
