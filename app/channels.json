@@ -1,14 +1,19 @@
 [ 
     {
     "Nombre": "Guaraní vs. Luqueño 1",
-    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=266201810&f=.m3u8",
+    "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_pc.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Independiente vs. Capiatá 1",
+    "Enlace": "https://neuclnlds15dal.akamaized.net/nlds/tigopy/independientecg/as/live/nlncp/independientecg_hd_pc.m3u8",
     "EsWeb": "no"
   },
     
     {
-    "Nombre": "Guaraní vs. Luqueño 2",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=266201810&controls=false",
-    "EsWeb": "si"
+    "Nombre": "Sol vs. General Díaz 1",
+    "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/soldeam/as/live/nlncp/soldeam_hd_pc.m3u8",
+    "EsWeb": "no"
   },
     {
     "Nombre": "ABC TV",
