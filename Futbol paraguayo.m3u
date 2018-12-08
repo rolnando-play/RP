@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:0, GUA-LUQ 1
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_pc.m3u8
-#EXTINF:0, IND-CAP 1
-https://neuclnlds15dal.akamaized.net/nlds/tigopy/independientecg/as/live/nlncp/independientecg_hd_pc.m3u8
-#EXTINF:0, SOL-GRD 1
-https://neuclnlds51dal.akamaized.net/nlds/tigopy/soldeam/as/live/nlncp/soldeam_hd_pc.m3u8
 #EXTINF:0, 3DF-OLI 1
 https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_pc.m3u8
+#EXTINF:0, 3DF-OLI 2
+https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_1600_pc.m3u8
+#EXTINF:0, 3DF-OLI HD
+https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_3000_pc.m3u8
