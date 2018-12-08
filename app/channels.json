@@ -1,12 +1,12 @@
 [ 
     {
-    "Nombre": "Tigo Sports 1",
+    "Nombre": "Guaraní vs. Luqueño 1",
     "Enlace": "http://swf.x10.bz/swe/twich.php?canal=266201810&f=.m3u8",
     "EsWeb": "no"
   },
     
     {
-    "Nombre": "Tigo Sports 2",
+    "Nombre": "Guaraní vs. Luqueño 2",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=266201810&controls=false",
     "EsWeb": "si"
   },
