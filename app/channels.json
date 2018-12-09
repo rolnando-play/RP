@@ -1,32 +1,27 @@
 [ 
     {
     "Nombre": "River vs. Boca 1",
-    "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_pc.m3u8",
+    "Enlace": "http://sv1.futbollibre.net/libertadores.m3u8",
     "EsWeb": "no"
   },
     {
     "Nombre": "River vs. Boca 2"
-    "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_1600_pc.m3u8",
-    "EsWeb": "no"
+    "Enlace": "https://player.twitch.tv/?volume=1&&channel=157201812&controls=false",
+    "EsWeb": "si"
   },
     {
     "Nombre": "River vs. Boca 3",
-    "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_3000_pc.m3u8",
-    "EsWeb": "no"
+    "Enlace": "https://player.twitch.tv/?volume=1.0&&channel=elgamer_live&controls=false",
+    "EsWeb": "si"
   },
     {
     "Nombre": "River vs. Boca 4",
-    "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_pc.m3u8",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=elgamer_live&f=.m3u8",
     "EsWeb": "no"
   },
     {
     "Nombre": "River vs. Boca 5"
-    "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_1600_pc.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "River vs. Boca 6",
-    "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_3000_pc.m3u8",
+    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=157201812&f=.m3u8defeb_hd_1600_pc.m3u8",
     "EsWeb": "no"
   },
     {
