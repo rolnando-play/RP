@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:0, RIV-BOC 1
-https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_pc.m3u8
+http://sv1.futbollibre.net/libertadores.m3u8
 #EXTINF:0, RIV-BOC 2
-https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_1600_pc.m3u8
+http://swf.x10.bz/swe/twich.php?canal=elgamer_live&f=.m3u8
 #EXTINF:0, RIV-BOC 3
-https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_3000_pc.m3u8
-#EXTINF:0, RIV-BOC 4
+http://swf.x10.bz/swe/twich.php?canal=157201812&f=.m3u8
