@@ -5,7 +5,7 @@
     "EsWeb": "no"
   },
     {
-    "Nombre": "River vs. Boca 2"
+    "Nombre": "River vs. Boca 2",
     "Enlace": "https://player.twitch.tv/?volume=1&&channel=157201812&controls=false",
     "EsWeb": "si"
   },
@@ -20,9 +20,9 @@
     "EsWeb": "no"
   },
     {
-    "Nombre": "River vs. Boca 5"
+    "Nombre": "River vs. Boca 5",
     "Enlace": "http://swf.x10.bz/swe/twich.php?canal=157201812&f=.m3u8defeb_hd_1600_pc.m3u8",
-    "EsWeb": "no",
+    "EsWeb": "no"
   },
     {
     "Nombre": "ABC TV",
