@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:0, 3DF-OLI 1
+#EXTINF:0, RIV-BOC 1
 https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_pc.m3u8
-#EXTINF:0, 3DF-OLI 2
+#EXTINF:0, RIV-BOC 2
 https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_1600_pc.m3u8
-#EXTINF:0, 3DF-OLI HD
+#EXTINF:0, RIV-BOC 3
 https://neuclnlds19dal.akamaized.net/nlds/tigopy/3defeb/as/live/nlncp/3defeb_hd_3000_pc.m3u8
+#EXTINF:0, RIV-BOC 4
