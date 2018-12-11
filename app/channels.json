@@ -1,30 +1,5 @@
 [ 
     {
-    "Nombre": "River vs. Boca 1",
-    "Enlace": "http://sv1.futbollibre.net/libertadores.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "River vs. Boca 2",
-    "Enlace": "https://player.twitch.tv/?volume=1&&channel=157201812&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "River vs. Boca 3",
-    "Enlace": "https://player.twitch.tv/?volume=1.0&&channel=elgamer_live&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "River vs. Boca 4",
-    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=elgamer_live&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "River vs. Boca 5",
-    "Enlace": "http://swf.x10.bz/swe/twich.php?canal=157201812&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
