@@ -12,8 +12,8 @@
   },
     {
     "Nombre": "C9N",
-    "Enlace": "http://dfhivodhhejud.cloudfront.net/player_py_p9.html",
-    "EsWeb": "si"
+    "Enlace": "http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
+    "EsWeb": "no"
   },
   {
     "Nombre": "Farra Play",
@@ -82,8 +82,8 @@
   },
     {
     "Nombre": "SNT",
-    "Enlace": "http://d185co8b31o2ws.cloudfront.net/player_snt.html",
-    "EsWeb": "si"
+    "Enlace": "http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
+    "EsWeb": "no"
   },
   {
     "Nombre": "TVS Encarnación",
