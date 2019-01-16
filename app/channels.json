@@ -10,6 +10,16 @@
     "EsWeb": "no"
   },
     {
+    "Nombre": "Cerro Porteño vs. Tucuman",
+    "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_800_pc.m3u8",
+    "EsWeb": "no"
+  },
+{
+    "Nombre": "Cerro Porteño vs. Tucuman HD",
+    "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_3000_pc.m3u8",
+    "EsWeb": "no"
+  },
+    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
