@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0, RIV-BOC 1
-http://sv1.futbollibre.net/libertadores.m3u8
-#EXTINF:0, RIV-BOC 2
-http://swf.x10.bz/swe/twich.php?canal=elgamer_live&f=.m3u8
-#EXTINF:0, RIV-BOC 3
-http://swf.x10.bz/swe/twich.php?canal=157201812&f=.m3u8
+#EXTINF:0, OLI-GRD
+https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_pc.m3u8
+#EXTINF:0, OLI-GRD HD
+https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_3000_pc.m3u8
