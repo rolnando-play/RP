@@ -85,6 +85,12 @@
     "EsWeb": "si"
   },   
     {
+    "Nombre": "Paraguay TV",
+    "Enlace": "http://api.new.livestream.com/accounts/25680986/events/8424381/live.m3u8",
+    "EsWeb": "no"
+  },
+
+    {
     "Nombre": "Paravision",
     "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
     "EsWeb": "no"
