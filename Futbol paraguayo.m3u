@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:0, OLI-GRD
-https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_800_pc.m3u8
-#EXTINF:0, OLI-GRD HD
-https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_3000_pc.m3u8
-#EXTINF:0, CCP-TUC
-https://neuclnlds52dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_pc.m3u8
-#EXTINF:0, CCP-TUC HD
-https://neuclnlds52dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_3000_pc.m3u8
+#EXTINF:0, SAN-RIV
+https://neuclnlds51dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_800_android.m3u8
+#EXTINF:0, SAN-RIV HD
+https://neuclnlds51dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_3000_android.m3u8
