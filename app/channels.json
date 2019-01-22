@@ -1,22 +1,12 @@
 [ 
     {
-    "Nombre": "Olimpia vs. General Díaz",
-    "Enlace": "https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_800_pc.m3u8",
+    "Nombre": "San Lorenzo vs. River",
+    "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_800_android.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Olimpia vs. General Díaz HD",
-    "Enlace": "https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_3000_pc.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Cerro Porteño vs. Tucuman",
-    "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_800_pc.m3u8",
-    "EsWeb": "no"
-  },
-{
-    "Nombre": "Cerro Porteño vs. Tucuman HD",
-    "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/cerroporteo/as/live/nlncp/cerroporteo_hd_3000_pc.m3u8",
+    "Nombre": "San Lorenzo vs. River HD",
+    "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_3000_android.m3u8",
     "EsWeb": "no"
   },
     {
