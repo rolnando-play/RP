@@ -9,6 +9,16 @@
     "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/depsantan/as/live/nlncp/depsantan_hd_3000_android.m3u8",
     "EsWeb": "no"
   },
+{
+    "Nombre": "Guaraní vs. CCP",
+    "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_800_pc.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Guaraní vs. CCP HD",
+    "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_3000_pc.m3u8",
+    "EsWeb": "no"
+  },
     {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
