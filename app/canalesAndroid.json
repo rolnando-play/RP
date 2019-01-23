@@ -1,12 +1,6 @@
 {
   "canales": [
     {
-      "Nombre": "Olimpia vs. General Díaz",
-      "Enlace": "https://neuclnlds54dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_pc.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
-    },
-    {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
       "EsWeb": "si",
@@ -49,12 +43,6 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/latele.png"
     },
     {
-      "Nombre": "Latele 2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/581.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/latele.png"
-    },
-    {
       "Nombre": "Lobo Station",
       "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
       "EsWeb": "no",
@@ -62,69 +50,63 @@
     },
     {
       "Nombre": "Más TV Encarnación",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline&controls=false",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&channel=mastvonline",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png"
     },
     {
       "Nombre": "Noticias Paraguay",
       "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/npy.png"
     },
     {
       "Nombre": "Paravision",
       "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png"
     },
     {
       "Nombre": "RCC - TV Chaqueña",
       "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rcc.png"
     },
     {
       "Nombre": "RPC",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png"
     },
     {
       "Nombre": "SNT",
       "Enlace": "http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/snt.png"
     },
     {
       "Nombre": "TVS Encarnación",
       "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvs.png"
     },
     {
       "Nombre": "Telefuturo",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/582.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
-    },
-    {
-      "Nombre": "Telefuturo 2",
       "Enlace": "https://telefuturo.com.py/envivo",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png"
     },
     {
       "Nombre": "Unicanal",
       "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png"
     },
     {
       "Nombre": "Venus Media",
       "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/venus.png"
     },
     {
       "Nombre": "A&E",
