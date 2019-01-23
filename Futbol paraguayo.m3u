@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, SAN-RIV
-https://neuclnlds51dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_800_android.m3u8
-#EXTINF:0, SAN-RIV HD
-https://neuclnlds51dal.akamaized.net/nlds/tigopy/sanlorenzo/as/live/nlncp/sanlorenzo_hd_3000_android.m3u8
+#EXTINF:0, SOL-LIB
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/soldeam/as/live/nlncp/soldeam_hd_800_android.m3u8
+#EXTINF:0, SOL-LIB HD
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/soldeam/as/live/nlncp/soldeam_hd_3000_android.m3u8
