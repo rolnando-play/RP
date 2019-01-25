@@ -9,7 +9,7 @@
 },
     {
     "Nombre": "Goles de la fecha 1",
-    "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/stream/goles.m3u8",
+    "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/01Enero/25/Showdegoles%231%282%29.mp4",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "no"
