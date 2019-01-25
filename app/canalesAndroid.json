@@ -157,7 +157,7 @@
     },
     {
       "Nombre": "AXN",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8",
+      "Enlace": "https://158.69.199.21/clarotv/claro.php?calidad=4&canal=762275&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "no"
