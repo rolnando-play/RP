@@ -5,14 +5,14 @@
     "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_800_android.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-"MostrarAds": "si"
+"MostrarAds": "no"
 },
  {
     "Nombre": "Nacional vs. Guaraní HD",
     "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_3000_android.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-"MostrarAds": "si"
+"MostrarAds": "no"
 },
     {
     "Nombre": "Goles de la fecha 1",
