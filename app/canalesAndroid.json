@@ -1,16 +1,23 @@
 {
   "canales": [
     {
-    "Nombre": "Nacional vs. Guaraní",
-    "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_800_android.m3u8",
+    "Nombre": "Olimpia vs. San Lorenzo",
+    "Enlace": "https://videocdn.mixer.com/hls/56684811-17564366cdc39ad94e08b759fe212a93_source/index.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
 },
  {
-    "Nombre": "Nacional vs. Guaraní HD",
-    "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/nacional/as/live/nlncp/nacional_hd_3000_android.m3u8",
-    "EsWeb": "no",
+    "Nombre": "Olimpia vs. San Lorenzo 2",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810&controls=false",
+    "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+"MostrarAds": "si"
+},
+    {
+    "Nombre": "Olimpia vs. San Lorenzo 3",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=moscaonline91&controls=false",
+    "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
 },
