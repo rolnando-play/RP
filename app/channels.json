@@ -1,21 +1,21 @@
 [ 
 {
-    "Nombre": "Olimpia vs. San Lorenzo",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-17564366cdc39ad94e08b759fe212a93_source/index.m3u8",
+    "Nombre": "Libertad vs. Cerro Porteño",
+    "Enlace": "https://videocdn.mixer.com/hls/56684811-23ffaadde6cfaba059334645b3b53355_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Olimpia vs. San Lorenzo 2",
-    "Enlace": "https://videocdn.mixer.com/hls/56193960-d8dd89c8b8d7ef0cc5bd19f79224f5c5_source/index.m3u8",
+    "Nombre": "Libertad vs. Cerro Porteño 2",
+    "Enlace": "https://videocdn.mixer.com/hls/56193960-6cbee7b41ac521cd1471456761db4da2_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Olimpia vs. San Lorenzo 3",
+    "Nombre": "Libertad vs. Cerro Porteño 3",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Olimpia vs. San Lorenzo 4",
+    "Nombre": "Libertad vs. Cerro Porteño 4",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=moscaonline91&controls=false",
     "EsWeb": "si"
   },
