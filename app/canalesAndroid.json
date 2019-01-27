@@ -1,8 +1,8 @@
 {
   "canales": [
     {
-    "Nombre": "Olimpia vs. San Lorenzo",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-17564366cdc39ad94e08b759fe212a93_source/index.m3u8",
+    "Nombre": "Libertad vs. Cerro Porteño",
+    "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
