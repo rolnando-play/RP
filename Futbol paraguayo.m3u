@@ -3,3 +3,7 @@
 https://videocdn.mixer.com/hls/56684811-23ffaadde6cfaba059334645b3b53355_source/index.m3u8
 #EXTINF:0, LIB-CCP 2
 https://videocdn.mixer.com/hls/56193960-e71cc19772c9dfaba783e83fa094db82_source/index.m3u8
+#EXTINF:0, LIB-CCP 3
+http://millave.ml/twich.php?canal=moscaonline91&f=.m3u8
+#EXTINF:0, LIB-CCP 4
+http://millave.ml/twich.php?canal=0707201810&f=.m3u8
