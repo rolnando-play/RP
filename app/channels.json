@@ -1,36 +1,21 @@
 [ 
-{
-    "Nombre": "Libertad vs. Cerro Porteño",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-23ffaadde6cfaba059334645b3b53355_source/index.m3u8",
-    "EsWeb": "no"
-  },
     {
-    "Nombre": "Libertad vs. Cerro Porteño 2",
+    "Nombre": "Capiatá vs. Sol de América",
     "Enlace": "https://videocdn.mixer.com/hls/56193960-f8900e3731c4af765ac2e823985b37ea_source/index.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Libertad vs. Cerro Porteño 3",
-    "Enlace": "http://millave.ml/twich.php?canal=moscaonline91&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Libertad vs. Cerro Porteño 4",
+    "Nombre": "Capiatá vs. Sol de América 2",
     "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Libertad vs. Cerro Porteño 5",
+    "Nombre": "Capiatá vs. Sol de América 3",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Libertad vs. Cerro Porteño 6",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=moscaonline91&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Libertad vs. Cerro Porteño 7",
+    "Nombre": "Capiatá vs. Sol de América 4",
     "Enlace": "https://mixer.com/embed/player/Garratv?hideChannel=true",
     "EsWeb": "si"
   },
