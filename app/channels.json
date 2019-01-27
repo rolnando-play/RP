@@ -11,11 +11,21 @@
   },
     {
     "Nombre": "Capiatá vs. Sol de América 3",
+    "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Capiatá vs. Sol de América 4",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810&controls=false",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Capiatá vs. Sol de América 4",
+    "Nombre": "Capiatá vs. Sol de América 5",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=nadaquever2&controls=false",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "Capiatá vs. Sol de América 6",
     "Enlace": "https://mixer.com/embed/player/Garratv?hideChannel=true",
     "EsWeb": "si"
   },
