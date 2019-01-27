@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, OLI-SAN
-https://videocdn.mixer.com/hls/56684811-17564366cdc39ad94e08b759fe212a93_source/index.m3u8
+#EXTINF:0, LIB-CCP
+https://videocdn.mixer.com/hls/56684811-23ffaadde6cfaba059334645b3b53355_source/index.m3u8
 #EXTINF:0, OLI-SAN 2
 https://videocdn.mixer.com/hls/56193960-d8dd89c8b8d7ef0cc5bd19f79224f5c5_source/index.m3u8
