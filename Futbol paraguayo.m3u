@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, CAP-SOL 
-https://videocdn.mixer.com/hls/56193960-f8900e3731c4af765ac2e823985b37ea_source/index.m3u8
-#EXTINF:0, CAP-SOL 2
-http://millave.ml/twich.php?canal=0707201810&f=.m3u8
-#EXTINF:0, CAP-SOL 3
-http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
+#EXTINF:0, GRD-SAN
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_pc.m3u8
+#EXTINF:0, GRD- HD
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_pc.m3u8
+#EXTINF:0, GRD-SAN AUTO
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_pc.m3u8
