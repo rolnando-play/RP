@@ -5,3 +5,9 @@ https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz
 https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_pc.m3u8
 #EXTINF:0, GRD-SAN AUTO
 https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_pc.m3u8
+#EXTINF:0, RIV-LUQ
+https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_800_pc.m3u8
+#EXTINF:0, RIV-LUQ HD
+https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_3000_pc.m3u8
+#EXTINF:0, RIV-LUQ AUTO
+https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_pc.m3u8
