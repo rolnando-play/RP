@@ -1,26 +1,34 @@
 {
   "canales": [
     {
-    "Nombre": "Gral. Díaz vs. Santaní",
-    "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_pc.m3u8",
+    "Nombre": "Libertad vs. Cerro Porteño",
+    "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
 },
  {
-    "Nombre": "Gral. Díaz vs. Santaní HD",
-    "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_pc.m3u8",
-    "EsWeb": "si",
+    "Nombre": "Olimpia vs. San Lorenzo 2",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810&controls=false",
+    "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
 },
     {
-    "Nombre": "Gral. Díaz vs. Santaní Auto",
-    "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_pc.m3u8",
-    "EsWeb": "si",
+    "Nombre": "Olimpia vs. San Lorenzo 3",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=moscaonline91&controls=false",
+    "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
 },
+    {
+    "Nombre": "Goles de la fecha 1",
+    "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/01Enero/25/Showdegoles%231%282%29.mp4",
+    "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+"MostrarAds": "no"
+},
+    
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
