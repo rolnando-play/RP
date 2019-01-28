@@ -1,33 +1,18 @@
 [ 
     {
-    "Nombre": "Capiatá vs. Sol de América",
-    "Enlace": "https://videocdn.mixer.com/hls/56193960-f8900e3731c4af765ac2e823985b37ea_source/index.m3u8",
+    "Nombre": "Gral. Díaz vs. Santani",
+    "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_pc.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Capiatá vs. Sol de América 2",
-    "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
+    "Nombre": "Gral. Díaz vs. Santani HD",
+    "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_pc.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Capiatá vs. Sol de América 3",
-    "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
+    "Nombre": "Gral. Díaz vs. Santani Auto",
+    "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_pc.m3u8",
     "EsWeb": "no"
-  },
-    {
-    "Nombre": "Capiatá vs. Sol de América 4",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Capiatá vs. Sol de América 5",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=nadaquever2&controls=false",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Capiatá vs. Sol de América 6",
-    "Enlace": "https://mixer.com/embed/player/Garratv?hideChannel=true",
-    "EsWeb": "si"
   },
     {
     "Nombre": "ABC TV",
