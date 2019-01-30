@@ -1,18 +1,5 @@
 [ 
     {
-    "Nombre": "River vs. Luqueño",
-    "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_800_pc.m3u8",
-    "EsWeb": "no"
-},{
-    "Nombre": "River vs. Luqueño HD",
-    "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_3000_pc.m3u8",
-    "EsWeb": "no"
-},{
-    "Nombre": "River vs. Luqueño Auto",
-    "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_pc.m3u8",
-    "EsWeb": "no"
-},
-    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
@@ -350,7 +337,7 @@
   },
   {
     "Nombre": "Fox Sports 2",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/254.m3u8",
+    "Enlace": "http://62.210.220.245/hls/fox2.m3u8",
    "EsWeb": "no"
   },
     {
