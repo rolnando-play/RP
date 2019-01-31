@@ -1,22 +1,8 @@
 {
   "canales": [
 {
-    "Nombre": "River vs. Luqueño",
-    "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_800_pc.m3u8",
-    "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-"MostrarAds": "si"
-},
-    {
-    "Nombre": "River vs. Luqueño HD",
-    "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_3000_pc.m3u8",
-    "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-"MostrarAds": "si"
-},
-    {
-    "Nombre": "River vs. Luqueño Auto",
-    "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_pc.m3u8",
+    "Nombre": "Goles de la fecha 2",
+    "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/01Enero/29/Showdegoles%232%282%29.mp4",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "si"
