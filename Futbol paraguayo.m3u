@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0, GUA-LIB
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_800_pc.m3u8
+#EXTINF:0, SOL-GRD HD
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_3000_pc.m3u8
+#EXTINF:0, SOL-GRD AUTO
+https://neuclnlds50dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_pc.m3u8
 #EXTINF:0, SOL-GRD
 https://neuclnlds18dal.akamaized.net/nlds/tigopy/soldeam/as/live/nlncp/soldeam_hd_800_pc.m3u8
 #EXTINF:0, SOL-GRD HD
