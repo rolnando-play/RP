@@ -5,6 +5,11 @@
     "EsWeb": "no"
   },
     {
+    "Nombre": "Cerro Porteño vs. Capiatá 2",
+    "Enlace": "https://videocdn.mixer.com/hls/56684811-716cf30f3e561cb02bed3ecdebfd6aa5_source/index.m3u8",
+    "EsWeb": "no"
+  },
+    {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
     "EsWeb": "si"
