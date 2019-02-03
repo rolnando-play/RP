@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0, CCP-CAP
-http://millave.ml/twich.php?canal=157201812&f=.m3u8
-#EXTINF:0, CCP-CAP 2
-https://videocdn.mixer.com/hls/56684811-716cf30f3e561cb02bed3ecdebfd6aa5_source/index.m3u8
-#EXTINF:0, CCP-CAP 3
-http://millave.ml/twich.php?canal=futbolparaguayotv&f=.m3u8
+#EXTINF:0, SSL-NAC
+https://videocdn.mixer.com/hls/56193960-3db56ed4323e4d1893e92662ed72ee44_source/index.m3u8
