@@ -1,6 +1,11 @@
-[ 
-    {
+[  
+{
     "Nombre": "Luqueño vs. Olimpia",
+    "Enlace": "http://millave.ml/twich.php?canal=30620183&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Luqueño vs. Olimpia 2",
     "Enlace": "https://videocdn.mixer.com/hls/56684811-3549fa688625b59c0445ba0ed0c40325_source/index.m3u8",
     "EsWeb": "no"
   },
