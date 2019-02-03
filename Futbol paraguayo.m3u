@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:0, LUQ-OLI
+#EXTINF:0, LUQ-OLI 
+http://millave.ml/twich.php?canal=30620183&f=.m3u8
+#EXTINF:0, LUQ-OLI 2
 https://videocdn.mixer.com/hls/56684811-3549fa688625b59c0445ba0ed0c40325_source/index.m3u8
