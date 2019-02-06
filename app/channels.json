@@ -1,19 +1,5 @@
 [  
-    {
-    "Nombre": "Luqueño vs. Olimpia",
-    "Enlace": "https://videocdn.mixer.com/hls/56193960-bb7350f71fbf848e3b5789a590df1623_source/index.m3u8",
-    "EsWeb": "no"
-  },
-{
-    "Nombre": "Luqueño vs. Olimpia 2",
-    "Enlace": "http://millave.ml/twich.php?canal=30620183&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Luqueño vs. Olimpia 3",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-3549fa688625b59c0445ba0ed0c40325_source/index.m3u8",
-    "EsWeb": "no"
-  },
+   
     {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
@@ -177,7 +163,7 @@
   },
  {
     "Nombre": "DirecTV Sports",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/403.m3u8",
+    "Enlace": "https://cdn.tumarcador.xyz/live/t1/playlist.m3u8",
   "EsWeb": "no"
   },
  {
