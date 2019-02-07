@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, GRD-CCP
+#EXTINF:0, SSL-GUA
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, GRD-CCP 2
+#EXTINF:0, SSL-GUA 2
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
