@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0, LIB-GRD
 http://millave.ml/twich.php?canal=futbolparaguayotv&f=.m3u8
-#EXTINF:0, LIB-GRD 2
-http://millave.ml/twich.php?canal=147201816&f=.m3u8
+#EXTINF:0, SOL-OLI 2
+https://videocdn.mixer.com/hls/56684811-91ae1be9843456880fdeefa9d71dd175_source/index.m3u8
