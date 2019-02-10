@@ -1,15 +1,15 @@
 {
   "canales": [
 {
-    "Nombre": "Libertad vs. General Díaz",
-    "Enlace": "http://millave.ml/twich.php?canal=futbolparaguayotv&f=.m3u8",
+    "Nombre": "Santaní vs. Nacional",
+    "Enlace": "http://millave.ml/twich.php?canal=147201816&f=.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "no"
 },
     {
-    "Nombre": "Libertad vs. General Díaz 2",
-    "Enlace": "http://millave.ml/twich.php?canal=147201816&f=.m3u8",
+    "Nombre": "River vs. Racing",
+    "Enlace": "http://sv1.futbollibre.net/superliga.m3u8",
     "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
 "MostrarAds": "no"
