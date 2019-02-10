@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, CCP-RIV
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
+#EXTINF:0, CCP-RIV 2
+https://videocdn.mixer.com/hls/56684811-614191854410ead5e4468a6d52652e3d_source/index.m3u8
 #EXTINF:0, RIVER-RACING
 http://sv1.futbollibre.net/superliga.m3u8
 #EXTINF:0, RIVER-RACING 2
