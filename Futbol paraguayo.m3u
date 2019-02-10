@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0, SOL-OLI
-http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
-#EXTINF:0, SOL-OLI 2
+#EXTINF:0, SAN-NAC
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
