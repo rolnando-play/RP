@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0, LUQ-SSL
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
+#EXTINF:0, LUQ-SSL 2
+millave.ml/twich.php?canal=lucuiocolmanchupapija&f=.m3u8
