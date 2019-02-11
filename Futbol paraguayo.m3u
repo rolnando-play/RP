@@ -3,9 +3,7 @@
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
 #EXTINF:0, CCP-RIV 2
 https://videocdn.mixer.com/hls/56684811-614191854410ead5e4468a6d52652e3d_source/index.m3u8
-#EXTINF:0, RIVER-RACING
+#EXTINF:0, BELGRANO-BOCA
 http://sv1.futbollibre.net/superliga.m3u8
-#EXTINF:0, RIVER-RACING 2
-http://sv1.futbollibre.net/superliga2.m3u8
-#EXTINF:0, RIVER-RACING 3
-http://62.210.105.156/hls/tnt.m3u8
+#EXTINF:0, BELGRANO-BOCA 2
+http://sv1.futbollibre.net/superliga2.m3u8
