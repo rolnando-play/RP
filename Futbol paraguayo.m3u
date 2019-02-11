@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0, Futboleros
+#EXTINF:0, LUQ-SSL
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
-#EXTINF:0, BELGRANO-BOCA
-http://sv1.futbollibre.net/superliga.m3u8
-#EXTINF:0, BELGRANO-BOCA 2
-http://sv1.futbollibre.net/superliga2.m3u8
