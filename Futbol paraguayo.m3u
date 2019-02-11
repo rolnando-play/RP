@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, LUQ-SSL
+#EXTINF:0, GUA-CAP
 http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
-#EXTINF:0, LUQ-SSL 2
+#EXTINF:0, GUA-CAP 2
 http://millave.ml/twich.php?canal=lucuiocolmanchupapija&f=.m3u8
-#EXTINF:0, LUQ-SSL 3
+#EXTINF:0, GUA-CAP 3
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
