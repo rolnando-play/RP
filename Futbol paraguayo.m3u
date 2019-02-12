@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:0, GUA-CAP
-http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
-#EXTINF:0, GUA-CAP 2
-http://millave.ml/twich.php?canal=lucuiocolmanchupapija&f=.m3u8
-#EXTINF:0, GUA-CAP 3
-http://millave.ml/twich.php?canal=147201816&f=.m3u8
+#EXTINF:0, EVENTO 1
+http://sv1.futbollibre.net/superliga2.m3u8
+#EXTINF:0, EVENTO 2
+http://sv1.futbollibre.net/superliga.m3u8
+#EXTINF:0, EVENTO 3
+http://62.210.220.245/hls/dtv.m3u8
+#EXTINF:0, EVENTO 4
+http://51.159.4.35/hls/espn2.m3u8
+#EXTINF:0, EVENTO 5
+http://195.154.161.113/hls/espn.m3u8
+#EXTINF:0, EVENTO 6
+http://62.210.105.156/hls/tnt.m3u8
