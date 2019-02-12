@@ -13,4 +13,6 @@ http://195.154.161.113/hls/espn.m3u8
 http://62.210.105.156/hls/tnt.m3u8
 #EXTINF:0, EVENTO 7
 http://62.210.105.125/hls/fox.m3u8
+#EXTINF:0, EVENTO 8
+http://62.210.220.3/hls/fox2.m3u8
 
