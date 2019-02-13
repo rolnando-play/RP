@@ -4,7 +4,7 @@
     "Nombre": "Evento 1",
     "Enlace": "http://51.15.9.237/hls/fox.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
  },
@@ -12,7 +12,7 @@
     "Nombre": "Evento 2",
     "Enlace": "http://62.210.220.3/hls/fox2.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -20,7 +20,7 @@
     "Nombre": "Evento 3",
     "Enlace": "http://62.210.116.123/hls/fox3.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -28,7 +28,7 @@
     "Nombre": "Evento 4",
     "Enlace": "http://195.154.161.113/hls/espn.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -36,7 +36,7 @@
     "Nombre": "Evento 5",
     "Enlace": "http://51.159.4.35/hls/espn2.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -44,7 +44,7 @@
     "Nombre": "Evento 6",
     "Enlace": "http://62.210.220.245/hls/dtv.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -52,7 +52,7 @@
     "Nombre": "Evento 7",
     "Enlace": "http://62.210.105.156/hls/tnt.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -60,7 +60,7 @@
     "Nombre": "Evento 8",
     "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -68,7 +68,7 @@
     "Nombre": "Evento 9",
     "Enlace": "http://sv1.futbollibre.net/superliga.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -84,7 +84,7 @@
     "Nombre": "Amor TV",
     "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -92,7 +92,7 @@
     "Nombre": "C9N",
     "Enlace": "http://dfhivodhhejud.cloudfront.net/player_py_p9.html",
     "EsWeb": "si",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -100,15 +100,7 @@
     "Nombre": "Farra Play",
     "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
-  {
-    "Nombre": "Fernando de la Mora TV",
-    "Enlace": "http://181.40.66.93:1935/fernandotv/fernandotv/playlist.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/farra.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -116,7 +108,7 @@
     "Nombre": "GEN",
     "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gen.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -124,15 +116,7 @@
     "Nombre": "Hei",
     "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
-    {
-    "Nombre": "Intermedios",
-    "Enlace": "http://201.217.3.212/TV/intermedios/chunklist_w1644139849.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hei.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -140,7 +124,7 @@
     "Nombre": "Latele",
     "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
     "EsWeb": "si",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/latele.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -148,7 +132,7 @@
     "Nombre": "Latele 2",
     "Enlace": "http://micine.club:8080/live/rpsports/rpsports/581.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/latele.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -156,7 +140,7 @@
     "Nombre": "Lobo Station",
     "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/lobo.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -164,7 +148,7 @@
     "Nombre": "Más TV Encarnación",
     "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline&controls=false",
     "EsWeb": "si",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -172,32 +156,15 @@
     "Nombre": "Noticias Paraguay",
     "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
     "EsWeb": "si",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/npy.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },   
     {
-    "Nombre": "Paraguay TV",
-    "Enlace": "http://api.new.livestream.com/accounts/25680986/events/8424381/live.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
-
-    {
-    "Nombre": "Paravision",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
-    {
     "Nombre": "RCC - TV Chaqueña",
     "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rcc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -205,7 +172,7 @@
     "Nombre": "RPC",
     "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -213,23 +180,7 @@
     "Nombre": "SNT",
     "Enlace": "http://d185co8b31o2ws.cloudfront.net/player_snt.html",
     "EsWeb": "si",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
-  {
-    "Nombre": "TVS Encarnación",
-    "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
-    {
-    "Nombre": "Telefuturo",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/582.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/snt.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -237,7 +188,7 @@
     "Nombre": "Telefuturo 2",
     "Enlace": "https://telefuturo.com.py/envivo",
     "EsWeb": "si",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -245,7 +196,7 @@
     "Nombre": "Unicanal",
     "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
@@ -253,7 +204,7 @@
     "Nombre": "Venus Media",
     "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
     "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/venus.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
