@@ -1,876 +1,941 @@
 {
   "canales": [
-    {
-      "Nombre": "ABC TV",
-      "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+{
+    "Nombre": "Evento 1",
+    "Enlace": "http://51.15.9.237/hls/fox.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Amor TV",
-      "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+ },
+{
+    "Nombre": "Evento 2",
+    "Enlace": "http://62.210.220.3/hls/fox2.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "C9N",
-      "Enlace": "http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
+    "Nombre": "Evento 3",
+    "Enlace": "http://62.210.116.123/hls/fox3.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Farra Play",
-      "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/farra.png",
+    "Nombre": "Evento 4",
+    "Enlace": "http://195.154.161.113/hls/espn.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "GEN",
-      "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gen.png",
+    "Nombre": "Evento 5",
+    "Enlace": "http://51.159.4.35/hls/espn2.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Hei",
-      "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hei.png",
+  },
+{
+    "Nombre": "Evento 6",
+    "Enlace": "http://62.210.220.245/hls/dtv.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Latele",
-      "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/latele.png",
+  },
+{
+    "Nombre": "Evento 7",
+    "Enlace": "http://62.210.105.156/hls/tnt.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Lobo Station",
-      "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/lobo.png",
+  },
+{
+    "Nombre": "Evento 8",
+    "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Más TV Encarnación",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&channel=mastvonline",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png",
+  },
+   {
+    "Nombre": "Evento 9",
+    "Enlace": "http://sv1.futbollibre.net/superliga.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Noticias Paraguay",
-      "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/npy.png",
+    "Nombre": "ABC TV",
+    "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Paravision",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png",
+  },
+  {
+    "Nombre": "Amor TV",
+    "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "RCC - TV Chaqueña",
-      "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rcc.png",
+    "Nombre": "C9N",
+    "Enlace": "http://dfhivodhhejud.cloudfront.net/player_py_p9.html",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "RPC",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
+  },
+  {
+    "Nombre": "Farra Play",
+    "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "SNT",
-      "Enlace": "http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/snt.png",
+  },
+  {
+    "Nombre": "Fernando de la Mora TV",
+    "Enlace": "http://181.40.66.93:1935/fernandotv/fernandotv/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "TVS Encarnación",
-      "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvs.png",
+  },
+  {
+    "Nombre": "GEN",
+    "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Telefuturo",
-      "Enlace": "https://telefuturo.com.py/envivo",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
+  },
+  {
+    "Nombre": "Hei",
+    "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Unicanal",
-      "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
+    "Nombre": "Intermedios",
+    "Enlace": "http://201.217.3.212/TV/intermedios/chunklist_w1644139849.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Venus Media",
-      "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/venus.png",
+  },
+  {
+    "Nombre": "Latele",
+    "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "A&E",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Latele 2",
+    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/581.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "AMC",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Lobo Station",
+    "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "AXN",
-      "Enlace": "https://158.69.199.21/clarotv/claro.php?calidad=4&canal=762275&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Más TV Encarnación",
+    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline&controls=false",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Animal Planet",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Noticias Paraguay",
+    "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },   
     {
-      "Nombre": "beIn Sports Ñ",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/472.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Paraguay TV",
+    "Enlace": "http://api.new.livestream.com/accounts/25680986/events/8424381/live.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
+
     {
-      "Nombre": "Boomerang",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL324/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Paravision",
+    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Cartoon Network",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL320/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "RCC - TV Chaqueña",
+    "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Cinecanal",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "RPC",
+    "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Cinemax",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "SNT",
+    "Enlace": "http://d185co8b31o2ws.cloudfront.net/player_snt.html",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "DirecTV Sports",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/403.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "TVS Encarnación",
+    "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "DirecTV Sports 2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/404.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Telefuturo",
+    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/582.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "DirecTV Sports +",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/405.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Telefuturo 2",
+    "Enlace": "https://telefuturo.com.py/envivo",
+    "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery Channel",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Unicanal",
+    "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery Civilization",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Venus Media",
+    "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery H&H",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "A&E",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/1_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery Kids",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "AMC",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/3_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery Science",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "AXN",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/7_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery TLC",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Animal Planet",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/4_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery Theater",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Boomerang",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/14_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery Turbo",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/293.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Cartoon Network",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/20_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Discovery World",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Cinecanal",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/22_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Disney Channel",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Cinemax",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/25_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Disney Junior",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL308/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "DirecTV Sports",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/153_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "E!",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "DirecTV Sports 2",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/154_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ESPN",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/307.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "DirecTV Sports +",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/155_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ESPN 2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/309.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery Channel",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/39_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ESPN 3",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/311.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Discovery Civilization",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/233_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ESPN +",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery H&H",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/40_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ESPN 2 MX",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery Kids",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/41_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ESPN MX",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery Science",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/42_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "El Gourmet",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery TLC",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/133_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "FX",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery Theater",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/43_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "FXM",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL332/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery Turbo",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/44_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Discovery World",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/45_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Action",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Disney Channel",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/46_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Cinema",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Disney Junior",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/47_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Fox Classics",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "E!",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/51_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Comedy",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/321.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "ESPN",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/56_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Family",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/322.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "ESPN 2",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/53_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Life",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/257.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "ESPN 3",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/54_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Movies",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "ESPN +",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/55_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Series",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "El Gourmet",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/52_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports ",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/252.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "FX",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/81_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports MX",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "FXM",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/83_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports 2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/254.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/59_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports 2 MX",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Action",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/61_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports 3",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/256.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Cinema",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/62_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports 3 MX",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Classics",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/64_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Fox Sports Premium",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/450.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Comedy",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/65_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Golden",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Family",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/66_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Golden Plus",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Life",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/71_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Golden Edge",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Movies",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/67_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "History",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Series",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/70_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "H2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/268.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Sports ",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/75_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "HBO",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/269.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Fox Sports MX",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/74_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "HBO 2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/270.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Sports 2",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/77_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "HBO Family",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/271.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Fox Sports 2 MX",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/76_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "HBO Plus",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/272.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Fox Sports 3",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/79_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "HBO Signature",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/273.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Fox Sports 3 MX",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/78_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "ID",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Fox Sports Premium",
+    "Enlace": "http://23.237.22.230:25461/darkiptv/rZtspYXU4E/232",
+  "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
+  },
     {
-      "Nombre": "Las Estrellas",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+    "Nombre": "Golden Plus",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/86_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "MTV",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Golden Edge",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/87_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "MTV Hits",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "History",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/96_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "MTV Live",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "History 2",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/89_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Max",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/460.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "HBO",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/90_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Max Prime",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/281.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "HBO 2",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/91_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Max Up",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/356.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "HBO Family",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/92_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nat Geo",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "HBO Plus",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/93_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nat Geo Kids",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "HBO Signature",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/94_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nat Geo Mundo",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/236.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "ID",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/100_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nat Geo Wild",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Las Estrellas",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/234_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nick",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL315/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "MTV",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/107_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nick 2",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/241.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "MTV Hits",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/108_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Nick JR",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL310/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "MTV Live",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/109_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Rai Sport",
-      "Enlace": "https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisportdue1/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Max",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/104_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Rai Sport +",
-      "Enlace": "https://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisportuno1/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Max Prime",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/105_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Sony",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Max Up",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/106_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Space",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Nat Geo",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/111_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Studio Universal",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/230.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Nat Geo Kids",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/112_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "TBS",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Nat Geo Wild",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/116_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Telemundo",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/325.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Nick",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/117_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "TNT",
-      "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/159_.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Nick 2",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/118_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "TNT Series",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Nick JR",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/119_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "TNT Sports",
-      "Enlace": "http://23.237.22.230:25461/darkiptv/rZtspYXU4E/240",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Rai Sport",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/123_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Tooncast",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Sony",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/125_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Tru TV",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Space",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/126_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "TyC Sports",
-      "Enlace": "http://micine.club:8080/live/rpsports/rpsports/334.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "Studio Universal",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/127_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Universal Channel",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "TBS",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/130_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "VH1",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL735/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+ {
+    "Nombre": "Telemundo",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/132_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "VH1 Classic",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "TNT",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/159_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    },
-    {
-      "Nombre": "Warner",
-      "Enlace": "https://sl.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+  },
+  {
+    "Nombre": "TNT Series",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/134_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+ {
+    "Nombre": "TNT Sports",
+    "Enlace": "http://23.237.22.230:25461/darkiptv/rZtspYXU4E/240",
+  "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+  {
+    "Nombre": "Tooncast",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/135_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+  {
+    "Nombre": "Tru TV",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/136_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+ {
+    "Nombre": "TyC Sports",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/286_.m3u8",
+  "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+  {
+    "Nombre": "Universal Channel",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/140_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+  {
+    "Nombre": "VH1",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/141_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+  {
+    "Nombre": "VH1 Classic",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/142_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+  {
+    "Nombre": "Warner",
+    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/144_.m3u8",
+   "EsWeb": "si",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-    }
+}
   ]
 }
