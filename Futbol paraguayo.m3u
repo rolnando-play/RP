@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:0, NAC-OLI
+#EXTINF:0, NAC-OLI 1
 http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
 #EXTINF:0, NAC-OLI 2
-https://videocdn.mixer.com/hls/56684811-0b6cb9c5e21ff5e2a5f6a1dc341b4330_source/index.m3u8
-#EXTINF:0, NAC-OLI 3
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, NAC-OLI 4
+#EXTINF:0, NAC-OLI 3
 http://millave.ml/twich.php?canal=147201816&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
