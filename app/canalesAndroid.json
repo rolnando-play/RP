@@ -136,14 +136,6 @@
 "MostrarAds": "no",
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
-    {
-    "Nombre": "Latele 2",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/581.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/latele.png",
-"MostrarAds": "no",
-"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
-  },
   {
     "Nombre": "Lobo Station",
     "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
