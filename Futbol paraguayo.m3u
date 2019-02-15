@@ -25,3 +25,5 @@ http://sv1.futbollibre.net/superliga.m3u8
 http://62.210.220.245/hls/dtv.m3u8
 #EXTINF:0, EVENTO 10
 http://62.210.105.156/hls/tnt.m3u8
+#EXTINF:0, EVENTO 11
+http://62.210.69.39/hls/fb.m3u8
