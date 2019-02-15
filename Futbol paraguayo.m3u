@@ -12,18 +12,20 @@ http://62.210.220.3/hls/fox2.m3u8
 #EXTINF:0, EVENTO 3
 http://62.210.116.123/hls/fox3.m3u8
 #EXTINF:0, EVENTO 4
-http://51.159.4.35/hls/espn2.m3u8
+http://62.210.116.123/hls/foxp.m3u8
 #EXTINF:0, EVENTO 5
-http://195.154.161.113/hls/espn.m3u8
+http://51.159.4.35/hls/espn2.m3u8
 #EXTINF:0, EVENTO 6
-http://163.172.13.149/hls/espnplus.m3u8
+http://195.154.161.113/hls/espn.m3u8
 #EXTINF:0, EVENTO 7
-http://sv1.futbollibre.net/superliga2.m3u8
+http://163.172.13.149/hls/espnplus.m3u8
 #EXTINF:0, EVENTO 8
-http://sv1.futbollibre.net/superliga.m3u8
+http://sv1.futbollibre.net/superliga2.m3u8
 #EXTINF:0, EVENTO 9
-http://62.210.220.245/hls/dtv.m3u8
+http://sv1.futbollibre.net/superliga.m3u8
 #EXTINF:0, EVENTO 10
-http://62.210.105.156/hls/tnt.m3u8
+http://62.210.220.245/hls/dtv.m3u8
 #EXTINF:0, EVENTO 11
+http://62.210.105.156/hls/tnt.m3u8
+#EXTINF:0, EVENTO 12
 http://62.210.69.39/hls/fb.m3u8
