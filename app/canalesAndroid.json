@@ -34,7 +34,7 @@
   },
     {
     "Nombre": "Evento 4",
-    "Enlace": "http://195.154.161.113/hls/espn.m3u8",
+    "Enlace": "http://62.210.116.123/hls/foxp.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
@@ -42,6 +42,14 @@
   },
     {
     "Nombre": "Evento 5",
+    "Enlace": "http://195.154.161.113/hls/espn.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+  },
+    {
+    "Nombre": "Evento 6",
     "Enlace": "http://51.159.4.35/hls/espn2.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
@@ -49,7 +57,7 @@
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
  {
-    "Nombre": "Evento 6",
+    "Nombre": "Evento 7",
     "Enlace": "http://163.172.13.149/hls/espnplus.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
@@ -57,7 +65,7 @@
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
 {
-    "Nombre": "Evento 7",
+    "Nombre": "Evento 8",
     "Enlace": "http://62.210.220.245/hls/dtv.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
@@ -65,7 +73,7 @@
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
 {
-    "Nombre": "Evento 8",
+    "Nombre": "Evento 9",
     "Enlace": "http://62.210.105.156/hls/tnt.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
@@ -73,7 +81,7 @@
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
 {
-    "Nombre": "Evento 9",
+    "Nombre": "Evento 10",
     "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
@@ -81,7 +89,7 @@
 "UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
   },
    {
-    "Nombre": "Evento 10",
+    "Nombre": "Evento 11",
     "Enlace": "http://sv1.futbollibre.net/superliga.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
