@@ -1,5 +1,13 @@
 {
   "canales": [
+    {
+    "Nombre": "Goles de la fecha 2",
+    "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/01Enero/29/Showdegoles%232%282%29.mp4",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+"MostrarAds": "no",
+"UserAgent": "miranda.tv32/1.8 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+ },
 {
     "Nombre": "Evento 1",
     "Enlace": "http://51.15.9.237/hls/fox.m3u8",
