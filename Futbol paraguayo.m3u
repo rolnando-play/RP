@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, SSL-SAN
+#EXTINF:0, RIV-LIB
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, SSL-SAN 2
+#EXTINF:0, RIV-LIB 2
 http://millave.ml/twich.php?canal=0707201810&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
