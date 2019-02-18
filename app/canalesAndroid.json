@@ -1,21 +1,5 @@
 {
   "canales": [
-    {
-    "Nombre": "Luqueño vs. Guaraní",
-    "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-"MostrarAds": "si",
-"UserAgent": "DkLavf/56.36.100"
- },
-    {
-    "Nombre": "Goles de la fecha 2",
-    "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/01Enero/29/Showdegoles%232%282%29.mp4",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-"MostrarAds": "no",
-"UserAgent": "DkLavf/56.36.100"
- },
 {
     "Nombre": "Evento 1",
     "Enlace": "http://51.15.9.237/hls/fox.m3u8",
@@ -104,9 +88,17 @@
 "MostrarAds": "no",
 "UserAgent": "DkLavf/56.36.100"
   },
- {
+    {
     "Nombre": "Evento 12",
-    "Enlace": "http://163.172.13.149/hls/newmci.m3u8",
+    "Enlace": "http://62.210.69.39/hls/fb.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
+"MostrarAds": "no",
+"UserAgent": "DkLavf/56.36.100"
+  },
+ {
+    "Nombre": "Evento 13",
+    "Enlace": "http://195.154.161.113/hls/chemun.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
