@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, GRD-CAP
+#EXTINF:0, NAC-SOL
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, EGRD-CAP 2
+#EXTINF:0, NAC-SOL 2
 http://millave.ml/twich.php?canal=157201812&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
