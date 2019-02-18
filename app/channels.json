@@ -1,29 +1,4 @@
-[  
-{
-    "Nombre": "Olimpia vs. Cerro Porteño",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-0affabb7c64cf54da68fb46e3c2c3b75_source/index.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Olimpia vs. Cerro Porteño 2",
-    "Enlace": "http://millave.ml/twich.php?canal=garra_tv&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Olimpia vs. Cerro Porteño 3",
-    "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Olimpia vs. Cerro Porteño 4",
-    "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Olimpia vs. Cerro Porteño 5",
-    "Enlace": "http://millave.ml/twich.php?canal=157201812&f=.m3u8",
-    "EsWeb": "no"
-  },
+[ 
 {
     "Nombre": "Evento 1",
     "Enlace": "http://51.15.9.237/hls/fox.m3u8",
@@ -88,6 +63,11 @@
 {
     "Nombre": "Evento 13",
     "Enlace": "http://163.172.13.149/hls/newmci.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Evento 14",
+    "Enlace": "http://195.154.161.113/hls/chemun.m3u8",
     "EsWeb": "no"
   },
     {
