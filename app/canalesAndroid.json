@@ -1,5 +1,21 @@
 {
   "canales": [
+    {
+    "Nombre": "General Díaz vs. Capiatá",
+    "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+"MostrarAds": "si",
+"UserAgent": "DkLavf/56.36.100"
+  },
+    {
+    "Nombre": "General Díaz vs. Capiatá 2",
+    "Enlace": "http://millave.ml/twich.php?canal=157201812&f=.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+"MostrarAds": "si",
+"UserAgent": "DkLavf/56.36.100"
+},
 {
     "Nombre": "Evento 1",
     "Enlace": "http://51.15.9.237/hls/fox.m3u8",
