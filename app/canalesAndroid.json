@@ -42,7 +42,7 @@
   },
     {
     "Nombre": "Evento 6",
-    "Enlace": "http://51.159.4.35/hls/espn2.m3u8",
+    "Enlace": "http://163.172.13.149/hls/espn2.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
