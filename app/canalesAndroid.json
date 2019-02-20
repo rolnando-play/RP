@@ -1,6 +1,14 @@
 {
   "canales": [
     {
+    "Nombre": "test",
+    "Enlace": "http://192.240.114.58:1935/mov780/mov780.stream/playlist.m3u8",
+    "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+"MostrarAds": "no",
+"UserAgent": "DkLavf/56.36.100"
+ },
+    {
     "Nombre": "Goles de la fecha 6",
     "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/19/todos-goles-6.mp4",
     "EsWeb": "no",
