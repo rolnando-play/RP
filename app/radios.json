@@ -1,647 +1,647 @@
 {
 "canales":[
 {
-"Nombre":"1º de Marzo 780 AM",
+"NombreRadio":"1º de Marzo 780 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/780.png",
 "Hls":"http://192.240.114.58:1935/mov780/mov780.stream/playlist.m3u8"
 },
 {
-"Nombre":"1000 AM",
+"NombreRadio":"1000 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1000.png",
 "Hls":"http://192.240.114.58:1935/mov1000/mov1000.stream/playlist.m3u8"
 },
 {
-"Nombre":"ABC Cardinal 730 AM",
+"NombreRadio":"ABC Cardinal 730 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/730.png",
 "Hls":"http://192.240.114.58:1935/trans730/trans730/playlist.m3u8"
 },
 {
-"Nombre":"Chaco Boreal 1330 AM",
+"NombreRadio":"Chaco Boreal 1330 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1330.png",
 "Hls":"http://192.240.114.58:1935/mov1330/mov1330.stream/playlist.m3u8"
 },
 {
-"Nombre":"Fe y Alegría 1300 AM",
+"NombreRadio":"Fe y Alegría 1300 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/feyalegria.png",
 "Hls":"http://192.240.114.58:1935/movfeyalegria/movfeyalegria.stream/playlist.m3u8"
 },
 {
-"Nombre":"La 970 AM",
+"NombreRadio":"La 970 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/970.png",
 "Hls":"http://192.240.114.58:1935/mov970/mov970.stream/playlist.m3u8"
 },
 {
-"Nombre":"La Deportiva 1120 AM",
+"NombreRadio":"La Deportiva 1120 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1120.png",
 "Hls":"http://192.240.114.58:1935/trans1120/trans1120/playlist.m3u8"
 },
 {
-"Nombre":"La Unión 800 AM",
+"NombreRadio":"La Unión 800 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/800.png",
 "Hls":"http://192.240.114.58:1935/mov800/mov800.stream/playlist.m3u8"
 },
 {
-"Nombre":"Libre 1200 AM",
+"NombreRadio":"Libre 1200 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1200.png",
 "Hls":"http://192.240.114.58:1935/mov1200/mov1200.stream/playlist.m3u8"
 },
 {
-"Nombre":"Monumental 1080 AM",
+"NombreRadio":"Monumental 1080 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1080.png",
 "Hls":"http://192.240.114.58:1935/mov1080/mov1080.stream/playlist.m3u8"
 },
 {
-"Nombre":"Nacional del Paraguay 920 AM",
+"NombreRadio":"Nacional del Paraguay 920 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/920.png",
 "Hls":"http://192.240.114.58:1935/trans920/trans920/playlist.m3u8"
 },
 {
-"Nombre":"Ñanduti 1020 AM",
+"NombreRadio":"Ñanduti 1020 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/nanduti.png",
 "Hls":"http://192.240.114.58:1935/trans1020/trans1020/playlist.m3u8"
 },
 {
-"Nombre":"Uno 650 AM",
+"NombreRadio":"Uno 650 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/650.png",
 "Hls":"http://192.240.114.58:1935/trans650/trans650/playlist.m3u8"
 },
 {
-"Nombre":"Amor 95.9 FM",
+"NombreRadio":"Amor 95.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/amor.png",
 "Hls":"http://192.240.114.58:1935/movamor/movamor.stream/playlist.m3u8"
 },
 {
-"Nombre":"Aspen 102.7 FM",
+"NombreRadio":"Aspen 102.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/aspen.png",
 "Hls":"http://192.240.114.58:1935/movaspen/movaspen.stream/playlist.m3u8"
 },
 {
-"Nombre":"Cámara 104.1 FM",
+"NombreRadio":"Cámara 104.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/camara.png",
 "Hls":"http://192.240.114.58:1935/movcamara/movcamara.stream/playlist.m3u8"
 },
 {
-"Nombre":"Canal 100.1 FM",
+"NombreRadio":"Canal 100.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/canal100.png",
 "Hls":"http://192.240.114.58:1935/movcanal100/movcanal100.stream/playlist.m3u8"
 },
 {
-"Nombre":"CFA 99.5 FM",
+"NombreRadio":"CFA 99.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/cfa.png",
 "Hls":"http://192.240.114.58:1935/movcfa/movcfa.stream/playlist.m3u8"
 },
 {
-"Nombre":"Conquistador 89.1 FM",
+"NombreRadio":"Conquistador 89.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/conquistador.png",
 "Hls":"http://192.240.114.58:1935/movconquistador/movconquistador.stream/playlist.m3u8"
 },
 {
-"Nombre":"Corazón 99.1 FM",
+"NombreRadio":"Corazón 99.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/corazon.png",
 "Hls":"http://192.240.114.58:1935/transcorazon/transcorazon/playlist.m3u8"
 },
 {
-"Nombre":"Disney 96.5 FM",
+"NombreRadio":"Disney 96.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/radiodisney.png",
 "Hls":"http://192.240.114.58:1935/transradiodisney/transradiodisney/playlist.m3u8"
 },
 {
-"Nombre":"E40 91.1 FM",
+"NombreRadio":"E40 91.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/estacion40.png",
 "Hls":"http://192.240.114.58:1935/movestacion40/movestacion40.stream/playlist.m3u8"
 },
 {
-"Nombre":"Emisoras Paraguay 106.1 FM",
+"NombreRadio":"Emisoras Paraguay 106.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/emisoras.png",
 "Hls":"http://192.240.114.58:1935/movemisoras/movemisoras.stream/playlist.m3u8"
 },
 {
-"Nombre":"Exclusiva 103.7 FM",
+"NombreRadio":"Exclusiva 103.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/exclusiva.png",
 "Hls":"http://192.240.114.58:1935/movexclusiva/movexclusiva.stream/playlist.m3u8"
 },
 {
-"Nombre":"Farra 101.3 FM",
+"NombreRadio":"Farra 101.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/farra.png",
 "Hls":"http://192.240.114.58:1935/transfarra/transfarra/playlist.m3u8"
 },
 {
-"Nombre":"HEi 91.9 FM",
+"NombreRadio":"HEi 91.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/hei.png",
 "Hls":"http://192.240.114.58:1935/movhei/movhei.stream/playlist.m3u8"
 },
 {
-"Nombre":"La Klasikera 100.5 FM",
+"NombreRadio":"La Klasikera 100.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/klasikera.png",
 "Hls":"http://192.240.114.58:1935/movlaklasikera/movlaklasikera.stream/playlist.m3u8"
 },
 {
-"Nombre":"Latina 97.1 FM",
+"NombreRadio":"Latina 97.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/latina.png",
 "Hls":"http://192.240.114.58:1935/movlatina/movlatina.stream/playlist.m3u8"
 },
 {
-"Nombre":"Los 40 92.3 FM",
+"NombreRadio":"Los 40 92.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/los40.png",
 "Hls":"http://192.240.114.58:1935/movlos40/movlos40.stream/playlist.m3u8"
 },
 {
-"Nombre":"María FM Paraguay",
+"NombreRadio":"María FM Paraguay",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/maria.png",
 "Hls":"http://192.240.114.58:1935/movmaria/movmaria.stream/playlist.m3u8"
 },
 {
-"Nombre":"Montecarlo 100.9 FM",
+"NombreRadio":"Montecarlo 100.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/montecarlo.png",
 "Hls":"http://192.240.114.58:1935/transmontecarlo/transmontecarlo/playlist.m3u8"
 },
 {
-"Nombre":"Nacional del Paraguay 95.1 FM",
+"NombreRadio":"Nacional del Paraguay 95.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/nacional.png",
 "Hls":"http://192.240.114.58:1935/transnacional/transnacional/playlist.m3u8"
 },
 {
-"Nombre":"Ñemby 88.3 FM",
+"NombreRadio":"Ñemby 88.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/883.png",
 "Hls":"http://192.240.114.58:1935/mov883/mov883.stream/playlist.m3u8"
 },
 {
-"Nombre":"Obedira 102.1 FM",
+"NombreRadio":"Obedira 102.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/obedira.png",
 "Hls":"http://192.240.114.58:1935/transobedira/transobedira/playlist.m3u8"
 },
 {
-"Nombre":"Palma 106.5 FM",
+"NombreRadio":"Palma 106.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/palma.png",
 "Hls":"http://192.240.114.58:1935/movpalma/movpalma.stream/playlist.m3u8"
 },
 {
-"Nombre":"Popular 103.1 FM",
+"NombreRadio":"Popular 103.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/popular.png",
 "Hls":"http://192.240.114.58:1935/transpopular/transpopular/playlist.m3u8"
 },
 {
-"Nombre":"Rock & Pop 95.5 FM",
+"NombreRadio":"Rock & Pop 95.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/rockandpop.png",
 "Hls":"http://192.240.114.58:1935/transrockandpop/transrockandpop/playlist.m3u8"
 },
 {
-"Nombre":"Romance 104.5 FM",
+"NombreRadio":"Romance 104.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/romance.png",
 "Hls":"http://192.240.114.58:1935/movromance/movromance.stream/playlist.m3u8"
 },
 {
-"Nombre":"RQP 94.3 FM",
+"NombreRadio":"RQP 94.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/rqp.png",
 "Hls":"http://192.240.114.58:1935/movrqp/movrqp.stream/playlist.m3u8"
 },
 {
-"Nombre":"Top Milenium 91.5 FM",
+"NombreRadio":"Top Milenium 91.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/top.png",
 "Hls":"http://192.240.114.58:1935/movtop/movtop.stream/playlist.m3u8"
 },
 {
-"Nombre":"Urbana 106.9 FM",
+"NombreRadio":"Urbana 106.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/urbana.png",
 "Hls":"http://192.240.114.58:1935/movurbana/movurbana.stream/playlist.m3u8"
 },
 {
-"Nombre":"Venus 105.1 FM",
+"NombreRadio":"Venus 105.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/venus.png",
 "Hls":"http://192.240.114.58:1935/movvenus/movvenus.stream/playlist.m3u8"
 },
 {
-"Nombre":"Vibras 92.7 FM",
+"NombreRadio":"Vibras 92.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/vibras.png",
 "Hls":"http://192.240.114.58:1935/movvibras/movvibras.stream/playlist.m3u8"
 },
 {
-"Nombre":"Yacyreta 98.5 FM",
+"NombreRadio":"Yacyreta 98.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/yacyreta.png",
 "Hls":"http://192.240.114.58:1935/movyacyreta/movyacyreta.stream/playlist.m3u8"
 },
 {
-"Nombre":"Ysapy 90.7 FM",
+"NombreRadio":"Ysapy 90.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/ysapy.png",
 "Hls":"http://192.240.114.58:1935/movysapy/movysapy.stream/playlist.m3u8"
 },
 {
-"Nombre":"Manduvirá 88.9 FM",
+"NombreRadio":"Manduvirá 88.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/manduvira.png",
 "Hls":"http://192.240.114.58:1935/movmanduvira/movmanduvira.stream/playlist.m3u8"
 },
 {
-"Nombre":"Ayolas 98.3 FM",
+"NombreRadio":"Ayolas 98.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/ayolas.png",
 "Hls":"http://192.240.114.58:1935/movayolas/movayolas.stream/playlist.m3u8"
 },
 {
-"Nombre":"Fama 100.5 FM",
+"NombreRadio":"Fama 100.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/fama.png",
 "Hls":"http://192.240.114.58:1935/movfama/movfama.stream/playlist.m3u8"
 },
 {
-"Nombre":"Caraguatay 90.3 FM",
+"NombreRadio":"Caraguatay 90.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/caraguatay.png",
 "Hls":"http://192.240.114.58:1935/movcaraguatay/movcaraguatay.stream/playlist.m3u8"
 },
 {
-"Nombre":"Las Mercedes 104.5 FM",
+"NombreRadio":"Las Mercedes 104.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/lasmercedes.png",
 "Hls":"http://192.240.114.58:1935/movlasmercedes/movlasmercedes.stream/playlist.m3u8"
 },
 {
-"Nombre":"Oasis 103.5 FM",
+"NombreRadio":"Oasis 103.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/oasis.png",
 "Hls":"http://192.240.114.58:1935/movoasis/movoasis.stream/playlist.m3u8"
 },
 {
-"Nombre":"Parque 550 AM",
+"NombreRadio":"Parque 550 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/parque.png",
 "Hls":"http://192.240.114.58:1935/movparque/movparque.stream/playlist.m3u8"
 },
 {
-"Nombre":"Concierto 89.1 FM",
+"NombreRadio":"Concierto 89.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/concierto.png",
 "Hls":"http://192.240.114.58:1935/movconcierto/movconcierto.stream/playlist.m3u8"
 },
 {
-"Nombre":"Corpus 89.5 FM",
+"NombreRadio":"Corpus 89.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/corpusfm.png",
 "Hls":"http://192.240.114.58:1935/movcorpus/movcorpus.stream/playlist.m3u8"
 },
 {
-"Nombre":"Positiva 107.1 FM",
+"NombreRadio":"Positiva 107.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/positiva.png",
 "Hls":"http://192.240.114.58:1935/movpositiva/movpositiva.stream/playlist.m3u8"
 },
 {
-"Nombre":"Regional 660 AM",
+"NombreRadio":"Regional 660 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/660.png",
 "Hls":"http://192.240.114.58:1935/mov660/mov660.stream/playlist.m3u8"
 },
 {
-"Nombre":"Aquidabán 100.5 FM",
+"NombreRadio":"Aquidabán 100.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/aquidaban.png",
 "Hls":"http://192.240.114.58:1935/movaquidaban/movaquidaban.stream/playlist.m3u8"
 },
 {
-"Nombre":"Norte Comunicaciones 94.5 FM",
+"NombreRadio":"Norte Comunicaciones 94.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/nortecomunicaciones.png",
 "Hls":"http://192.240.114.58:1935/movnortecomunicaciones/movnortecomunicaciones.stream/playlist.m3u8"
 },
 {
-"Nombre":"Megaestación95 95.9 FM",
+"NombreRadio":"Megaestación95 95.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/megaestacion95.png",
 "Hls":"http://192.240.114.58:1935/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8"
 },
 {
-"Nombre":"Ypane 104.3 FM",
+"NombreRadio":"Ypane 104.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/ypane.png",
 "Hls":"http://192.240.114.58:1935/movypane/movypane.stream/playlist.m3u8"
 },
 {
-"Nombre":"Liberación 101.5 FM",
+"NombreRadio":"Liberación 101.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/liberacion.png",
 "Hls":"http://192.240.114.58:1935/movliberacion/movliberacion.stream/playlist.m3u8"
 },
 {
-"Nombre":"Kaaguazú 640 AM",
+"NombreRadio":"Kaaguazú 640 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/kaaguazu.png",
 "Hls":"http://192.240.114.58:1935/movkaaguazu/movkaaguazu.stream/playlist.m3u8"
 },
 {
-"Nombre":"Capital 101.7 FM",
+"NombreRadio":"Capital 101.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/capital.png",
 "Hls":"http://192.240.114.58:1935/movcapital/movcapital.stream/playlist.m3u8"
 },
 {
-"Nombre":"Fiesta 102.9 FM",
+"NombreRadio":"Fiesta 102.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/fiesta.png",
 "Hls":"http://192.240.114.58:1935/movfiesta/movfiesta.stream/playlist.m3u8"
 },
 {
-"Nombre":"Más 102.3 FM",
+"NombreRadio":"Más 102.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/radiomas.png",
 "Hls":"http://192.240.114.58:1935/movradiomas/movradiomas.stream/playlist.m3u8"
 },
 {
-"Nombre":"Curuguaty 98.7 FM",
+"NombreRadio":"Curuguaty 98.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/curuguaty.png",
 "Hls":"http://192.240.114.58:1935/movcuruguaty/movcuruguaty.stream/playlist.m3u8"
 },
 {
-"Nombre":"Paraná 89.7 FM",
+"NombreRadio":"Paraná 89.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/parana.png",
 "Hls":"http://192.240.114.58:1935/movparana/movparana.stream/playlist.m3u8"
 },
 {
-"Nombre":"Pop 93.3 FM",
+"NombreRadio":"Pop 93.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/pop.png",
 "Hls":"http://192.240.114.58:1935/movpop/movpop.stream/playlist.m3u8"
 },
 {
-"Nombre":"Santa Helena 103.9 FM",
+"NombreRadio":"Santa Helena 103.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/santahelena.png",
 "Hls":"http://192.240.114.58:1935/movsantahelena/movsantahelena.stream/playlist.m3u8"
 },
 {
-"Nombre":"Studio 92.1 FM",
+"NombreRadio":"Studio 92.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/studio.png",
 "Hls":"http://192.240.114.58:1935/movstudio/movstudio.stream/playlist.m3u8"
 },
 {
-"Nombre":"Evolución 89.3 FM",
+"NombreRadio":"Evolución 89.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/evolucion.png",
 "Hls":"http://192.240.114.58:1935/movevolucion/movevolucion.stream/playlist.m3u8"
 },
 {
-"Nombre":"MDQ 101.1 FM",
+"NombreRadio":"MDQ 101.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/mdq.png",
 "Hls":"http://192.240.114.58:1935/movmdq/movmdq.stream/playlist.m3u8"
 },
 {
-"Nombre":"Guyrá Campana 1420 AM",
+"NombreRadio":"Guyrá Campana 1420 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1420.png",
 "Hls":"http://192.240.114.58:1935/mov1420/mov1420.stream/playlist.m3u8"
 },
 {
-"Nombre":"Continental 95.3 FM",
+"NombreRadio":"Continental 95.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/continental.png",
 "Hls":"http://192.240.114.58:1935/movcontinental/movcontinental.stream/playlist.m3u8"
 },
 {
-"Nombre":"Los Angeles 89.9 FM",
+"NombreRadio":"Los Angeles 89.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/losangeles.png",
 "Hls":"http://192.240.114.58:1935/movlosangeles/movlosangeles.stream/playlist.m3u8"
 },
 {
-"Nombre":"Inter Radio 101.7 FM",
+"NombreRadio":"Inter Radio 101.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/interradio.png",
 "Hls":"http://192.240.114.58:1935/movinterradio/movinterradio.stream/playlist.m3u8"
 },
 {
-"Nombre":"Sin Fronteras 98.5 FM",
+"NombreRadio":"Sin Fronteras 98.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/sinfronteras.png",
 "Hls":"http://192.240.114.58:1935/movsinfronteras/movsinfronteras.stream/playlist.m3u8"
 },
 {
-"Nombre":"Carlos A. López 700 AM",
+"NombreRadio":"Carlos A. López 700 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/700.png",
 "Hls":"http://192.240.114.58:1935/trans700/trans700/playlist.m3u8"
 },
 {
-"Nombre":"106.9 FM",
+"NombreRadio":"106.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1069.png",
 "Hls":"http://192.240.114.58:1935/mov1069/mov1069.stream/playlist.m3u8"
 },
 {
-"Nombre":"Plus 91.9 FM",
+"NombreRadio":"Plus 91.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/plus.png",
 "Hls":"http://192.240.114.58:1935/movplus/movplus.stream/playlist.m3u8"
 },
 {
-"Nombre":"Primereña 106.5 FM",
+"NombreRadio":"Primereña 106.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/1065.png",
 "Hls":"http://192.240.114.58:1935/mov1065/mov1065.stream/playlist.m3u8"
 },
 {
-"Nombre":"Arandú 98.3 FM",
+"NombreRadio":"Arandú 98.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/arandu.png",
 "Hls":"http://192.240.114.58:1935/movarandu/movarandu.stream/playlist.m3u8"
 },
 {
-"Nombre":"Tricolor 96.7 FM",
+"NombreRadio":"Tricolor 96.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/tricolor.png",
 "Hls":"http://192.240.114.58:1935/movtricolor/movtricolor.stream/playlist.m3u8"
 },
 {
-"Nombre":"Ciudad 92.9 FM",
+"NombreRadio":"Ciudad 92.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/ciudad.png",
 "Hls":"http://192.240.114.58:1935/movciudad/movciudad.stream/playlist.m3u8"
 },
 {
-"Nombre":"Tapiracuai 88.7 FM",
+"NombreRadio":"Tapiracuai 88.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/tapiracuai.png",
 "Hls":"http://192.240.114.58:1935/movtapiracuai/movtapiracuai.stream/playlist.m3u8"
 },
 {
-"Nombre":"Vy'a Rendá 107.5 FM",
+"NombreRadio":"Vy'a Rendá 107.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/vyarenda.png",
 "Hls":"http://192.240.114.58:1935/movvyarenda/movvyarenda.stream/playlist.m3u8"
 },
 {
-"Nombre":"Libertad 96.3 FM",
+"NombreRadio":"Libertad 96.3 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/libertadfm.png",
 "Hls":"http://192.240.114.58:1935/movlibertadfm/movlibertadfm.stream/playlist.m3u8"
 },
 {
-"Nombre":"Unasur 93.7 FM",
+"NombreRadio":"Unasur 93.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/unasur.png",
 "Hls":"http://192.240.114.58:1935/movunasur/movunasur.stream/playlist.m3u8"
 },
 {
-"Nombre":"Clásica 97.5 FM",
+"NombreRadio":"Clásica 97.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/clasica.png",
 "Hls":"http://192.240.114.58:1935/movclasica/movclasica.stream/playlist.m3u8"
 },
 {
-"Nombre":"Suceso 99.7 FM",
+"NombreRadio":"Suceso 99.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/sucesonepomuceno.png",
 "Hls":"http://192.240.114.58:1935/movsucesonepomuceno/movsucesonepomuceno.stream/playlist.m3u8"
 },
 {
-"Nombre":"Ycuamandyyú 590 AM",
+"NombreRadio":"Ycuamandyyú 590 AM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/ycuamandyyu.png",
 "Hls":"http://192.240.114.58:1935/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8"
 },
 {
-"Nombre":"Nacional San Pedro 105.9 FM",
+"NombreRadio":"Nacional San Pedro 105.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/nacionalsanpedro.png",
 "Hls":"http://192.240.114.58:1935/transsanpedro/transsanpedro/playlist.m3u8"
 },
 {
-"Nombre":"Norte 91.7 FM",
+"NombreRadio":"Norte 91.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/norte.png",
 "Hls":"http://192.240.114.58:1935/movnorte/movnorte.stream/playlist.m3u8"
 },
 {
-"Nombre":"San Pedro 93.7 FM",
+"NombreRadio":"San Pedro 93.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/sanpedro.png",
 "Hls":"http://192.240.114.58:1935/movsanpedro/movsanpedro.stream/playlist.m3u8"
 },
 {
-"Nombre":"Suceso 97.1 FM",
+"NombreRadio":"Suceso 97.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/suceso.png",
 "Hls":"http://192.240.114.58:1935/movsuceso/movsuceso.stream/playlist.m3u8"
 },
 {
-"Nombre":"Metro 106.1 FM",
+"NombreRadio":"Metro 106.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/metro.png",
 "Hls":"http://192.240.114.58:1935/movmetro/movmetro.stream/playlist.m3u8"
 },
 {
-"Nombre":"Sanguri 90.7 FM",
+"NombreRadio":"Sanguri 90.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/sanguri.png",
 "Hls":"http://192.240.114.58:1935/movsanguri/movsanguri.stream/playlist.m3u8"
 },
 {
-"Nombre":"Centro 87.9 FM",
+"NombreRadio":"Centro 87.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/centro.png",
 "Hls":"http://192.240.114.58:1935/movcentro/movcentro.stream/playlist.m3u8"
 },
 {
-"Nombre":"Villa Oliva 88.7 FM",
+"NombreRadio":"Villa Oliva 88.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/villaoliva.png",
 "Hls":"http://192.240.114.58:1935/movvillaoliva/movvillaoliva.stream/playlist.m3u8"
 },
 {
-"Nombre":"Transamerica 94.7 FM",
+"NombreRadio":"Transamerica 94.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/transamerica.png",
 "Hls":"http://192.240.114.58:1935/movtransamerica/movtransamerica.stream/playlist.m3u8"
 },
 {
-"Nombre":"Villeta 87.9 FM",
+"NombreRadio":"Villeta 87.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/villeta.png",
 "Hls":"http://192.240.114.58:1935/movvilleta/movvilleta.stream/playlist.m3u8"
 },
 {
-"Nombre":"Aparato",
+"NombreRadio":"Aparato",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/aparato.png",
 "Hls":"http://192.240.114.58:1935/movaparato/movaparato.stream/playlist.m3u8"
 },
 {
-"Nombre":"Cabalgata Campesina",
+"NombreRadio":"Cabalgata Campesina",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/cabalgata.png",
 "Hls":"http://192.240.114.58:1935/movcabalgata/movcabalgata.stream/playlist.m3u8"
 },
 {
-"Nombre":"Concert",
+"NombreRadio":"Concert",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/concert.png",
 "Hls":"http://192.240.114.58:1935/transconcert/transconcert/playlist.m3u8"
 },
 {
-"Nombre":"DJTeo Online",
+"NombreRadio":"DJTeo Online",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/djteo.png",
 "Hls":"http://192.240.114.58:1935/movdjteo/movdjteo.stream/playlist.m3u8"
 },
 {
-"Nombre":"Ganso Mix San Juan Btta. Mnes.",
+"NombreRadio":"Ganso Mix San Juan Btta. Mnes.",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/gansomix.png",
 "Hls":"http://192.240.114.58:1935/movgansomix/movgansomix.stream/playlist.m3u8"
 },
 {
-"Nombre":"Mono Global Pilar",
+"NombreRadio":"Mono Global Pilar",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/monoglobal.png",
 "Hls":"http://192.240.114.58:1935/movmonoglobal/movmonoglobal.stream/playlist.m3u8"
 },
 {
-"Nombre":"Obeanglo",
+"NombreRadio":"Obeanglo",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/obeanglo.png",
 "Hls":"http://192.240.114.58:1935/transobeanglo/transobeanglo/playlist.m3u8"
 },
 {
-"Nombre":"Obeclasico",
+"NombreRadio":"Obeclasico",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/obeclasico.png",
 "Hls":"http://192.240.114.58:1935/transobeclasico/transobeclasico/playlist.m3u8"
 },
 {
-"Nombre":"Obeurbano",
+"NombreRadio":"Obeurbano",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/obeurbano.png",
 "Hls":"http://192.240.114.58:1935/transobeurbano/transobeurbano/playlist.m3u8"
 },
 {
-"Nombre":"Obeworship",
+"NombreRadio":"Obeworship",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/obeworship.png",
 "Hls":"http://192.240.114.58:1935/transobeworship/transobeworship/playlist.m3u8"
 },
 {
-"Nombre":"Olimpia Media Oficial",
+"NombreRadio":"Olimpia Media Oficial",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/olimpiamedia.png",
 "Hls":"http://192.240.114.58:1935/movolimpiamedia/movolimpiamedia.stream/playlist.m3u8"
 },
 {
-"Nombre":"Pueblo Online",
+"NombreRadio":"Pueblo Online",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/pueblo.png",
 "Hls":"http://192.240.114.58:1935/movpueblo/movpueblo.stream/playlist.m3u8"
 },
 {
-"Nombre":"Retro Paraguay",
+"NombreRadio":"Retro Paraguay",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/retroparaguay.png",
 "Hls":"http://192.240.114.58:1935/movretroparaguay/movretroparaguay.stream/playlist.m3u8"
 },
 {
-"Nombre":"Rockero Py",
+"NombreRadio":"Rockero Py",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/rockeropy.png",
 "Hls":"http://192.240.114.58:1935/transrockero/transrockero/playlist.m3u8"
 },
 {
-"Nombre":"Radioson",
+"NombreRadio":"Radioson",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/radioson.png",
 "Hls":"http://192.240.114.58:1935/transradioson/transradioson/playlist.m3u8"
 },
 {
-"Nombre":"RTM Paraguay",
+"NombreRadio":"RTM Paraguay",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/transmundial.png",
 "Hls":"http://192.240.114.58:1935/movtransmundial/movtransmundial.stream/playlist.m3u8"
 },
 {
-"Nombre":"Coop. Universitaria",
+"NombreRadio":"Coop. Universitaria",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/universitaria.png",
 "Hls":"http://192.240.114.58:1935/transuniversitaria/transuniversitaria/playlist.m3u8"
 },
 {
-"Nombre":"Zlatan",
+"NombreRadio":"Zlatan",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/zlatan.png",
 "Hls":"http://192.240.114.58:1935/movzlatan/movzlatan.stream/playlist.m3u8"
 },
 {
-"Nombre":"El Mirador",
+"NombreRadio":"El Mirador",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/elmirador.png",
 "Hls":"http://192.240.114.58:1935/movelmirador/movelmirador.stream/playlist.m3u8"
 },
 {
-"Nombre":"Master",
+"NombreRadio":"Master",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/master.png",
 "Hls":"http://192.240.114.58:1935/movmaster/movmaster.stream/playlist.m3u8"
 },
 {
-"Nombre":"Amor TV 95.9 FM",
+"NombreRadio":"Amor TV 95.9 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/amortv.png",
 "Hls":"http://192.240.114.58:1935/amortv/amortv/playlist.m3u8"
 },
 {
-"Nombre":"Concierto TV 89.1 FM",
+"NombreRadio":"Concierto TV 89.1 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/concierto.png",
 "Hls":"http://192.240.114.58:1935/conciertotv/concierto/playlist.m3u8"
 },
 {
-"Nombre":"Fernando de la Mora TV 92.7 FM",
+"NombreRadio":"Fernando de la Mora TV 92.7 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/fernandotv.png",
 "Hls":"http://192.240.114.58:1935/fernandotv/fernandotv/playlist.m3u8"
 },
 {
-"Nombre":"InterMedios",
+"NombreRadio":"InterMedios",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/intermedios.png",
 "Hls":"http://192.240.114.58:1935/TV/intermedios/playlist.m3u8"
 },
 {
-"Nombre":"Norte Comunicaciones TV 94.5 FM",
+"NombreRadio":"Norte Comunicaciones TV 94.5 FM",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/nortecomunicaciones.png",
 "Hls":"http://192.240.114.58:1935/nortecomunicacionestv/nortecomunicacionestv/playlist.m3u8"
 },
 {
-"Nombre":"Suceso TV 97.1 FM Naranjal",
+"NombreRadio":"Suceso TV 97.1 FM Naranjal",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/suceso.png",
 "Hls":"http://192.240.114.58:1935/sucesotv/sucesotv/playlist.m3u8"
 },
 {
-"Nombre":"TVS Encarnación",
+"NombreRadio":"TVS Encarnación",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/tvs.png",
 "Hls":"http://192.240.114.58:1935/tvs/tvs/playlist.m3u8"
 },
 {
-"Nombre":"Unicanal",
+"NombreRadio":"Unicanal",
 "Logo":"http://www.haciaparaguay.com/desdepy/images/Logos/radios/90x90px/unicanal.png",
 "Hls":"http://45.55.127.106/live/unicanal_mid.m3u8"
 }
