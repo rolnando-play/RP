@@ -250,7 +250,7 @@
   },
   {
     "Nombre": "AXN",
-    "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/7",
+    "Enlace": ["http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/7"],
    "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/AXN.png",
 "MostrarAds": "no",
