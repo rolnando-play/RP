@@ -242,11 +242,11 @@
   },
   {
     "Nombre": "A&E",
-    "Enlace": "http://23.237.22.230:8000/darkiptv34/put0W4ch0tv3sprr4/136",
+    "Enlace": "http://23.237.22.230:8000/partido/barcelona/136",
    "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ae.png",
 "MostrarAds": "no",
-"UserAgent": "DkLavf/56.36.100"
+"UserAgent": "Lavf/56.15.102"
   },
  {
     "Nombre": "AMC",
