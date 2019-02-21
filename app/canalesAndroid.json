@@ -130,7 +130,7 @@
   },
     {
     "Nombre": "C9N",
-    "Enlace": "http://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
+    "Enlace": "https://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
 "MostrarAds": "no",
@@ -210,7 +210,7 @@
   },
     {
     "Nombre": "SNT",
-    "Enlace": "http://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
+    "Enlace": "https://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/snt.png",
 "MostrarAds": "no",
