@@ -169,14 +169,6 @@
 "UserAgent": "DkLavf/56.36.100"
   },
   {
-    "Nombre": "Lobo Station",
-    "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/lobo.png",
-"MostrarAds": "no",
-"UserAgent": "DkLavf/56.36.100"
-  },
-  {
     "Nombre": "Más TV Encarnación",
     "Enlace": "http://millave.ml/twich.php?canal=mastvonline&f=.m3u8",
     "EsWeb": "no",
