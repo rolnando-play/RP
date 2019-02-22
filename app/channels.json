@@ -72,12 +72,7 @@
   },
 {
     "Nombre": "Evento 13",
-    "Enlace": "http://163.172.13.149/hls/newmci.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Evento 14",
-    "Enlace": "http://195.154.161.113/hls/chemun.m3u8",
+    "Enlace": "http://163.172.13.149/hls/dtv3.m3u8",
     "EsWeb": "no"
   },
     {
