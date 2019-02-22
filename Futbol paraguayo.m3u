@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0, SOL-SSL
+#EXTINF:0, CCP-NAC
 http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
-#EXTINF:0, SOL-SSL 2
+#EXTINF:0, CCP-NAC 2
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, SOL-SSL 3
+#EXTINF:0, CCP-NAC 3
 http://millave.ml/twich.php?canal=157201812&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
