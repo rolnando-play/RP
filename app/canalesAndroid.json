@@ -115,22 +115,12 @@
   },
  {
     "Nombre": "Evento 14",
-    "Enlace": "http://195.154.161.113/hls/chemun.m3u8",
-    "EsWeb": "no",
-"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
-"MostrarAds": "no",
-"UserAgent": "DkLavf/56.36.100"
-  },
- {
-    "Nombre": "Evento 15",
     "Enlace": "http://163.172.13.149/hls/dtv3.m3u8",
     "EsWeb": "no",
 "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/evento.png",
 "MostrarAds": "no",
 "UserAgent": "DkLavf/56.36.100"
   },
-
-
     {
     "Nombre": "ABC TV",
     "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
