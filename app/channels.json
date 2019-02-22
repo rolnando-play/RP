@@ -1,11 +1,16 @@
 [ 
     {
     "Nombre": "Sol vs. San Lorenzo",
-    "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
+    "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
     "EsWeb": "no"
   },
     {
     "Nombre": "Sol vs. San Lorenzo 2",
+    "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Sol vs. San Lorenzo 3",
     "Enlace": "http://millave.ml/twich.php?canal=157201812&f=.m3u8",
     "EsWeb": "no"
   },
