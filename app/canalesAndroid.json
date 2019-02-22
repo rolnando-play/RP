@@ -329,6 +329,14 @@
 "MostrarAds": "no",
 "UserAgent": "DkLavf/56.36.100"
   },
+    {
+    "Nombre": "Comedy Central",
+    "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/5",
+   "EsWeb": "no",
+"ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/comedy.png",
+"MostrarAds": "no",
+"UserAgent": "DkLavf/56.36.100"
+  },
  {
     "Nombre": "DirecTV Sports",
     "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/228",
