@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, NAC-SOL
+#EXTINF:0, SOL-SSL
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
-#EXTINF:0, NAC-SOL 2
+#EXTINF:0, SOL-SSL 2
 http://millave.ml/twich.php?canal=157201812&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
@@ -28,4 +28,4 @@ http://62.210.105.156/hls/tnt.m3u8
 #EXTINF:0, EVENTO 12
 http://62.210.69.39/hls/fb.m3u8
 #EXTINF:0, EVENTO 13
-http://163.172.13.149/hls/dtv3.m3u8
+http://163.172.13.149/hls/dtv3.m3u8
