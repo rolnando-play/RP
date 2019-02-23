@@ -1,7 +1,12 @@
 [ 
     {
-    "Nombre": "Capiatá vs. River Plate",
+    "Nombre": "Guaraní vs. General Díaz",
     "Enlace": "http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8",
+    "EsWeb": "no"
+  },
+    {
+    "Nombre": "Guaraní vs. General Díaz",
+    "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
     "EsWeb": "no"
   },
 {
