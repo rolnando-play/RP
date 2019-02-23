@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0, CAP-RIV
+#EXTINF:0, GUA-GRD
+http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
+#EXTINF:0, GUA-GRD 2
 http://millave.ml/twich.php?canal=nadaquever2&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
