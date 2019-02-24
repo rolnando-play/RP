@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:0, LIB-OLI 2
-http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
 #EXTINF:0, SAN-LUQ
 http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8
-#EXTINF:0, LIB-OLI 4
+#EXTINF:0, SAN-LUQ 2
 http://millave.ml/twich.php?canal=157201812&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
