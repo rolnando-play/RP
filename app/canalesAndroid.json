@@ -132,6 +132,14 @@
     },
       {
       "Nombre": "Libertad vs. Olimpia 3",
+      "Enlace": "http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+      {
+      "Nombre": "Libertad vs. Olimpia 4",
       "Enlace": "http://millave.ml/twich.php?canal=157201812&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
