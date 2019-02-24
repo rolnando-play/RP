@@ -259,6 +259,14 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+      {
+      "Nombre": "América",
+      "Enlace": "https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/america.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "AMC",
       "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/136",
@@ -296,6 +304,22 @@
       "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/17",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/boomerang.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+      {
+      "Nombre": "Canal 9 AR",
+      "Enlace": "http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/canal9.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+      {
+      "Nombre": "Canal 26 AR",
+      "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cana26.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
@@ -440,6 +464,14 @@
       "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/36",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/junior.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+      {
+      "Nombre": "El Trece AR",
+      "Enlace": "http://millave.ml/twich.php?canal=juanlineatv_2&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
@@ -907,6 +939,15 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+      {
+      "Nombre": "Telefé",
+      "Enlace": "http://televisionlibre.net/canal/telefe-en-vivo/embed2.html?update",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+      
     {
       "Nombre": "Telemundo",
       "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/485",
@@ -963,6 +1004,15 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+      {
+      "Nombre": "TVP Argentina",
+      "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvp.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+      
     {
       "Nombre": "Universal Channel",
       "Enlace": "http://23.237.22.230:8000/darkiptv2.0/asdasdwachotvm3l4p3l4/124",
