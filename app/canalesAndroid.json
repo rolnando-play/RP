@@ -115,8 +115,8 @@
   ],
   "canales": [
     {
-      "Nombre": "Guaraní vs. Gral. Díaz - Resumen",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/23/gua-gral.mp4",
+      "Nombre": "Libertad vs. Olimpia",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-2b95c45607fd1cf85098af6e4f93b986_source/index.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
