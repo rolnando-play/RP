@@ -1,16 +1,11 @@
 [ 
     {
-    "Nombre": "Libertad vs. Olimpia",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-2b95c45607fd1cf85098af6e4f93b986_source/index.m3u8",
-    "EsWeb": "no"
-  },
-    {
     "Nombre": "Libertad vs. Olimpia 2",
     "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
     "EsWeb": "no"
   },
     {
-    "Nombre": "Libertad vs. Olimpia 3",
+    "Nombre": "Santaní vs. Luqueño",
     "Enlace": "http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
     "EsWeb": "no"
   },
