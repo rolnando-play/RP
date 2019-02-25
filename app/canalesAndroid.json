@@ -115,6 +115,14 @@
   ],
   "canales": [
        {
+      "Nombre": "Goles de la fecha 23",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/25/Showdegoles%237%282%29.mp4",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/goles.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+       {
       "Nombre": "Libertad vs. Olimpia - Resumen",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/24/libolicompacto.mp4",
       "EsWeb": "no",
