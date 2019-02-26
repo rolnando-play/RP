@@ -126,7 +126,7 @@
       "Nombre": "San Lorenzo vs. Cerro Porteño",
       "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/Tigo.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100"
     },
@@ -139,8 +139,8 @@
       "UserAgent": "DkLavf/56.36.100"
     },
       {
-      "Nombre": "Santaní vs. Luqueño - Resumen",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/24/compactoluquesantani.mp4",
+      "Nombre": "San Lorenzo vs. Cerro Porteño 3",
+      "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
