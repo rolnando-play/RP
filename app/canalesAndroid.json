@@ -123,8 +123,8 @@
   ],
   "canales": [
        {
-      "Nombre": "Goles de la fecha 23",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/25/Showdegoles%237%282%29.mp4",
+      "Nombre": "San Lorenzo vs. Cerro Porteño",
+      "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
       "MostrarAds": "si",
