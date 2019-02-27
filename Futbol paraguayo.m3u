@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:0, OLI-CAP
 https://videocdn.mixer.com/hls/56684811-5901b31086c99811e97168b6a2d22ec6_source/index.m3u8
-#EXTINF:0, LUQ-SOL
+#EXTINF:0, OLI-CAP 2
 http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8
-#EXTINF:0, LUQ-SOL 2
+#EXTINF:0, OLI-CAP 3
 http://millave.ml/twich.php?canal=0707201810&f=.m3u8
+#EXTINF:0, OLI-CAP 4
+http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
