@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:0, SSL-CCP
+#EXTINF:0, LUQ-SOL
 http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8
-#EXTINF:0, SSL-CCP 2
+#EXTINF:0, LUQ-SOL 2
 http://millave.ml/twich.php?canal=0707201810&f=.m3u8
-#EXTINF:0, SSL-CCP 3
-http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
