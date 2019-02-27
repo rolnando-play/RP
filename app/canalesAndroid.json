@@ -123,20 +123,20 @@
   ],
   "canales": [
        {
-      "Nombre": "San Lorenzo vs. Cerro Porteño - Resumen",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/26/compactosanloccp.mp4",
+      "Nombre": "Luqueño vs. Sol de América",
+      "Enlace": "millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
        {
-      "Nombre": "River vs. Gral. Díaz - Resumen",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/26/riv-gd.mp4",
+      "Nombre": "Luqueño vs. Sol de América 2",
+      "Enlace": "http://millave.ml/twich.php?canal=157201812&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Linux; Android 8.1.0; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.105 Mobile Safari/537.36"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
     {
       "Nombre": "ABC TV",
