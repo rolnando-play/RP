@@ -124,7 +124,7 @@
   "canales": [
       {
       "Nombre": "Santani vs. Guaraní",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/27/compactoolimpiacapiata.mp4",
+      "Enlace": "http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
@@ -132,7 +132,7 @@
     },
        {
       "Nombre": "Santani vs. Guaraní 2",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/27/luq-sol.mp4",
+      "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
@@ -140,7 +140,7 @@
     },
 {
       "Nombre": "Santani vs. Guaraní 3",
-      "Enlace": "millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
+      "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
