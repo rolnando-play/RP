@@ -123,22 +123,21 @@
   ],
   "canales": [
       {
-      "Nombre": "Olimpia vs. Capiatá",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-5901b31086c99811e97168b6a2d22ec6_source/index.m3u8",
+      "Nombre": "Olimpia vs. Capiatá - Resumen",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/27/compactoolimpiacapiata.mp4",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
        {
-      "Nombre": "Luqueño vs. Sol - resumen",
+      "Nombre": "Luqueño vs. Sol - Resumen",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/27/luq-sol.mp4",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
-     
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
