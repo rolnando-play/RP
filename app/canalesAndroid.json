@@ -130,25 +130,9 @@
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
-      {
-      "Nombre": "Olimpia vs. Capiatá 2",
-      "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
        {
-      "Nombre": "Olimpia vs. Capiatá 3",
-      "Enlace": "http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-       {
-      "Nombre": "Olimpia vs. Capiatá 4",
-      "Enlace": "http://millave.ml/twich.php?canal=157201812&f=.m3u8",
+      "Nombre": "Luqueño vs. Sol - resumen",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/27/luq-sol.mp4",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
