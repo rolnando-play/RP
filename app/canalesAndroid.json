@@ -122,25 +122,9 @@
     }
   ],
   "canales": [
-      {
-      "Nombre": "Santani vs. Guaraní",
-      "Enlace": "http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-       {
-      "Nombre": "Santani vs. Guaraní 2",
-      "Enlace": "http://millave.ml/twich.php?canal=elmandiokero&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
 {
-      "Nombre": "Santani vs. Guaraní 3",
-      "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
+      "Nombre": "Santani vs. Guaraní - Resumen",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/28/san-gua.mp4",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
