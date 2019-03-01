@@ -468,8 +468,8 @@
     },
       {
       "Nombre": "El Trece AR",
-      "Enlace": "http://millave.ml/twich.php?canal=juanlineatv_2&f=.m3u8",
-      "EsWeb": "no",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&muted&channel=juanlineatv_2",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
