@@ -4,8 +4,13 @@
     "Enlace": "https://videocdn.mixer.com/hls/56684811-5f587309bb7ba21b9195ee7627b90bbf_source/index.m3u8",
     "EsWeb": "no"
   },
-    {
+  {
     "Nombre": "General Díaz vs. Olimpia 2",
+    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero",
+    "EsWeb": "si"
+  },
+    {
+    "Nombre": "General Díaz vs. Olimpia 3",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
     "EsWeb": "si"
   },
