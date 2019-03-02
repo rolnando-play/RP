@@ -1,62 +1,62 @@
 [
 {
-      "Nombrew": "Fox Sports 1",
-      "Enlacew": "http://51.15.9.237/hls/fox.m3u8"
+      "NombreWW": "Fox Sports 1",
+      "EnlaceWw": "http://51.15.9.237/hls/fox.m3u8"
     },
     {
-      "Nombre": "Fox Sports 2",
-      "Enlace": "http://62.210.220.3/hls/fox2.m3u8"
+      "NombreW": "Fox Sports 2",
+      "EnlaceW": "http://62.210.220.3/hls/fox2.m3u8"
     },
     {
-      "Nombre": "Fox Sports 3",
-      "Enlace": "http://62.210.116.123/hls/fox3.m3u8"
+      "NombreW": "Fox Sports 3",
+      "EnlaceW": "http://62.210.116.123/hls/fox3.m3u8"
     },
     {
-      "Nombre": "Fox Sports Premium",
-      "Enlace": "http://62.210.116.123/hls/foxp.m3u8"
+      "NombreW": "Fox Sports Premium",
+      "EnlaceW": "http://62.210.116.123/hls/foxp.m3u8"
     },
     {
-      "Nombre": "ESPN 1",
-      "Enlace": "http://195.154.161.113/hls/espn.m3u8"
+      "NombreW": "ESPN 1",
+      "EnlaceW": "http://195.154.161.113/hls/espn.m3u8"
     },
     {
-      "Nombre": "ESPN 2",
-      "Enlace": "http://163.172.13.149/hls/espn2.m3u8"
+      "NombreW": "ESPN 2",
+      "EnlaceW": "http://163.172.13.149/hls/espn2.m3u8"
     },
     {
-      "Nombre": "ESPN 3",
-      "Enlace": "http://62.210.116.123/hls/espn3.m3u8"
+      "NombreW": "ESPN 3",
+      "EnlaceW": "http://62.210.116.123/hls/espn3.m3u8"
     },
     {
-      "Nombre": "ESPN+",
-      "Enlace": "http://163.172.13.149/hls/espnplus.m3u8"
+      "NombreW": "ESPN+",
+      "EnlaceW": "http://163.172.13.149/hls/espnplus.m3u8"
     },
     {
-      "Nombre": "DirecTv Sports",
-      "Enlace": "http://62.210.220.245/hls/dtv.m3u8"
+      "NombreW": "DirecTv Sports",
+      "EnlaceW": "http://62.210.220.245/hls/dtv.m3u8"
     },
     {
-      "Nombre": "DirecTv Sports 2",
-      "Enlace": "https://sv12.apgstream.xyz/hls/dtv2.m3u8"
+      "NombreW": "DirecTv Sports 2",
+      "EnlaceW": "https://sv12.apgstream.xyz/hls/dtv2.m3u8"
     },
     {
-      "Nombre": "DirecTv Sports +",
-      "Enlace": "http://163.172.13.149/hls/dtv3.m3u8"
+      "NombreW": "DirecTv Sports +",
+      "EnlaceW": "http://163.172.13.149/hls/dtv3.m3u8"
     },
     {
-      "Nombre": "TNT Sports",
-      "Enlace": "http://62.210.105.156/hls/tnt.m3u8"
+      "NombreW": "TNT Sports",
+      "EnlaceW": "http://62.210.105.156/hls/tnt.m3u8"
     },
     {
-      "Nombre": "Superliga 1",
-      "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8"
+      "NombreW": "Superliga 1",
+      "EnlaceW": "http://sv1.futbollibre.net/superliga2.m3u8"
     },
     {
-      "Nombre": "Superliga 2",
-      "Enlace": "http://sv1.futbollibre.net/superliga.m3u8"
+      "NombreW": "Superliga 2",
+      "EnlaceW": "http://sv1.futbollibre.net/superliga.m3u8"
     },
     {
-      "Nombre": "Facebook",
-      "Enlace": "http://62.210.69.39/hls/fb.m3u8"
+      "NombreW": "Facebook",
+      "EnlaceW": "http://62.210.69.39/hls/fb.m3u8"
 }
 ]
