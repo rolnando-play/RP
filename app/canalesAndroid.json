@@ -123,9 +123,9 @@
   ],
   "canales": [
 {
-      "Nombre": "Santani vs. Guaraní - Resumen",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/02Febrero/28/san-gua.mp4",
-      "EsWeb": "no",
+      "Nombre": "General Díaz vs. Olimpia",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
