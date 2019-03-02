@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=GatoTVPlayer
 http://tucine.xyz:8088/live/gatotv/123456789/355.ts
+
+http://cdn1.anonymousvn.xyz/live/nbcsn/chunks.m3u8
