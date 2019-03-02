@@ -87,544 +87,574 @@
     "EsWeb": "no"
   },
     {
-    "Nombre": "ABC TV",
-    "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
-    "EsWeb": "si"
-  },
-  {
-    "Nombre": "Amor TV",
-    "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
-    "EsWeb": "no"
-  },
+      "Nombre": "ABC TV",
+      "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
+      "EsWeb": "si"
+    },
     {
-    "Nombre": "C9N",
-    "Enlace": "http://dfhivodhhejud.cloudfront.net/player_py_p9.html",
-    "EsWeb": "si"
-  },
-  {
-    "Nombre": "Farra Play",
-    "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Fernando de la Mora TV",
-    "Enlace": "http://181.40.66.93:1935/fernandotv/fernandotv/playlist.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "GEN",
-    "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Hei",
-    "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
-    "EsWeb": "no"
-  },
+      "Nombre": "Amor TV",
+      "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "Intermedios",
-    "Enlace": "http://201.217.3.212/TV/intermedios/chunklist_w1644139849.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Latele",
-    "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
-    "EsWeb": "si"
-  },
+      "Nombre": "C9N",
+      "Enlace": "https://dfhivodhhejud.cloudfront.net/player_py_p9.html",
+      "EsWeb": "si"
+    },
     {
-    "Nombre": "Latele 2",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/581.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Lobo Station",
-    "Enlace": "http://api.new.livestream.com/accounts/14558256/events/7412168/live.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Más TV Encarnación",
-    "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline&controls=false",
-    "EsWeb": "si"
-  },
-  {
-    "Nombre": "Noticias Paraguay",
-    "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
-    "EsWeb": "si"
-  },   
+      "Nombre": "Farra Play",
+      "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "Paraguay TV",
-    "Enlace": "http://api.new.livestream.com/accounts/25680986/events/8424381/live.m3u8",
-    "EsWeb": "no"
-  },
-
+      "Nombre": "GEN",
+      "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "Paravision",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/580.m3u8",
-    "EsWeb": "no"
-  },
+      "Nombre": "Hei",
+      "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "RCC - TV Chaqueña",
-    "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "RPC",
-    "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
-    "EsWeb": "no"
-  },
+      "Nombre": "Latele",
+      "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
+      "EsWeb": "si"
+    },
     {
-    "Nombre": "SNT",
-    "Enlace": "http://d185co8b31o2ws.cloudfront.net/player_snt.html",
-    "EsWeb": "si"
-  },
-  {
-    "Nombre": "TVS Encarnación",
-    "Enlace": "http://rds3.desdeparaguay.net:1935/tvs/tvs/playlist.m3u8",
-    "EsWeb": "no"
-  },
+      "Nombre": "Más TV Encarnación",
+      "Enlace": "http://millave.ml/twich.php?canal=mastvonline&f=.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "Telefuturo",
-    "Enlace": "http://micine.club:8080/live/rpsports/rpsports/582.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Telefuturo 2",
-    "Enlace": "https://telefuturo.com.py/envivo",
-    "EsWeb": "si"
-  },
-  {
-    "Nombre": "Unicanal",
-    "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Venus Media",
-    "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "A&E",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/1_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "AMC",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/3_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "AXN",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/7_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Animal Planet",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/4_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Boomerang",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/14_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Cartoon Network",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/20_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Cinecanal",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/22_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Cinemax",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/25_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "DirecTV Sports",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/153_.m3u8",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "DirecTV Sports 2",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/154_.m3u8",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "DirecTV Sports +",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/155_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery Channel",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/39_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "Discovery Civilization",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/233_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery H&H",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/40_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery Kids",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/41_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery Science",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/42_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery TLC",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/133_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery Theater",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/43_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery Turbo",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/44_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Discovery World",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/45_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "Disney Channel",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/46_.m3u8",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "Disney Junior",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/47_.m3u8",
-  "EsWeb": "si"
-  },
+      "Nombre": "Noticias Paraguay",
+      "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
+      "EsWeb": "si"
+    },
     {
-    "Nombre": "E!",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/51_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "ESPN",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/56_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "ESPN 2",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/53_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "ESPN 3",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/54_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "ESPN +",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/55_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "El Gourmet",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/52_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "FX",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/81_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "FXM",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/83_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/59_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Action",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/61_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Cinema",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/62_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Classics",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/64_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Comedy",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/65_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Family",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/66_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Life",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/71_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Movies",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/67_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Series",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/70_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Sports ",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/75_.m3u8",
-   "EsWeb": "si"
-  },
+      "Nombre": "RCC - TV Chaqueña",
+      "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "Fox Sports MX",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/74_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Sports 2",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/77_.m3u8",
-   "EsWeb": "si"
-  },
+      "Nombre": "RPC",
+      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+      "EsWeb": "no"
+    },
     {
-    "Nombre": "Fox Sports 2 MX",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/76_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Fox Sports 3",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/79_.m3u8",
-   "EsWeb": "si"
-  },
+      "Nombre": "SNT",
+      "Enlace": "https://d185co8b31o2ws.cloudfront.net/player_snt.html",
+      "EsWeb": "si"
+    },
     {
-    "Nombre": "Fox Sports 3 MX",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/78_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "Fox Sports Premium",
-    "Enlace": "http://23.237.22.230:25461/darkiptv/rZtspYXU4E/232",
-  "EsWeb": "no"
-  },
+      "Nombre": "Telefuturo",
+      "Enlace": "https://telefuturo.com.py/envivo",
+      "EsWeb": "si"
+    },
     {
-    "Nombre": "Golden Plus",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/86_.m3u8",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "Golden Edge",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/87_.m3u8",
-  "EsWeb": "si"
-  },
- {
-    "Nombre": "History",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/96_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "History 2",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/89_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "HBO",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/90_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "HBO 2",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/91_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "HBO Family",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/92_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "HBO Plus",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/93_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "HBO Signature",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/94_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "ID",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/100_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "Las Estrellas",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/234_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "MTV",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/107_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "MTV Hits",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/108_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "MTV Live",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/109_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Max",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/104_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Max Prime",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/105_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Max Up",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/106_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Nat Geo",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/111_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Nat Geo Kids",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/112_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Nat Geo Wild",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/116_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Nick",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/117_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Nick 2",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/118_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Nick JR",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/119_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "Rai Sport",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/123_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "Sony",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/125_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Space",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/126_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Studio Universal",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/127_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "TBS",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/130_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "Telemundo",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/132_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "TNT",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/159_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "TNT Series",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/134_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "TNT Sports",
-    "Enlace": "http://23.237.22.230:25461/darkiptv/rZtspYXU4E/240",
-  "EsWeb": "no"
-  },
-  {
-    "Nombre": "Tooncast",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/135_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Tru TV",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/136_.m3u8",
-   "EsWeb": "si"
-  },
- {
-    "Nombre": "TyC Sports",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/286_.m3u8",
-  "EsWeb": "si"
-  },
-  {
-    "Nombre": "Universal Channel",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/140_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "VH1",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/141_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "VH1 Classic",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/142_.m3u8",
-   "EsWeb": "si"
-  },
-  {
-    "Nombre": "Warner",
-    "Enlace": "https://b6mtvjlp1.tk/1YAOKQOPCRIT09X4BMYY/DDWEA0PQ6LM3FQHUXKM/streams/144_.m3u8",
-   "EsWeb": "si"
-}
+      "Nombre": "Unicanal",
+      "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Venus Media",
+      "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "A&E",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/2",
+      "EsWeb": "si"
+    },
+      {
+      "Nombre": "América",
+      "Enlace": "https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "AMC",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/136",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "AXN",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/7",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Animal Planet",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/5",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "beIn Sports Ñ",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/220",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Boomerang",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/17",
+      "EsWeb": "si"
+    },
+      {
+      "Nombre": "Canal 9 AR",
+      "Enlace": "http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8",
+      "EsWeb": "no"
+    },
+      {
+      "Nombre": "Canal 26 AR",
+      "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Cartoon Network",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/20",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Cinecanal",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/21",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Cinemax",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/135",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Comedy Central",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/25",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "DirecTV Sports",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/228",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "DirecTV Sports 2",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/230",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "DirecTV Sports +",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/229",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery Channel",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/590",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery Civilization",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/28",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery H&H",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/29",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery Kids",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/31",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery Science",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/32",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery TLC",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/111",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery Theater",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/33",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery Turbo",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/34",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Discovery World",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/35",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Disney Channel",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/580",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Disney Junior",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/36",
+      "EsWeb": "si"
+    },
+      {
+      "Nombre": "El Trece AR",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&muted&channel=juanlineatv_2",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "E!",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/40",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "ESPN",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/41",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "ESPN 2",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/42",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "ESPN 3",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/43",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "ESPN +",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/45",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "El Gourmet",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/133",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "FX",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/61",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "FXM",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/62",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/50",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Action",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/51",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Cinema",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/53",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Classics",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/54",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Comedy",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/562",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Family",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/561",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Life",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/55",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Movies",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/56",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Series",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/58",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports ",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/558",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports MX",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/193",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports 2",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/557",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports 2 MX",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/194",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports 3",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/556",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports 3 MX",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/195",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Fox Sports Premium",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/232",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Golden",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/63",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Golden Edge",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/64",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Golden Plus",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/65",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Golden Premier",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/543",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "History",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/67",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "History 2",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/540",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "HBO",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/652",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "HBO 2",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/539",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "HBO Family",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/538",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "HBO Plus",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/535",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "HBO Signature",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/534",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "ID",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/30",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Isat",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/71",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Las Estrellas",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/76",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "MTV",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/1",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "MTV Hits",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/94",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "MTV Live",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/79",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Max",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/521",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Max Prime",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/519",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Max Up",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/651",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nat Geo",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/82",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nat Geo Kids",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/83",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nat Geo Wild",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/85",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nick",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/84",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nick 2",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/86",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nick JR",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/87",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Nicktoons",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/88",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Paramount",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/90",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Rai",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/502",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Sony",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/97",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Space",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/98",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Studio Universal",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/100",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Syfy",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/102",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "TBS",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/103",
+      "EsWeb": "si"
+    },
+      {
+      "Nombre": "Telefé",
+      "Enlace": "http://televisionlibre.net/canal/telefe-en-vivo/embed2.html?update",
+      "EsWeb": "si"
+    }, 
+    {
+      "Nombre": "Telemundo",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/485",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "TNT",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/113",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "TNT Series",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/114",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "TNT Sports",
+      "Enlace": "http://23.237.22.230:25461/darkiptv89/Hdgsdark.dsafm/240",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Tooncast",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/115",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Tru TV",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/117",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "TyC Sports",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/602",
+      "EsWeb": "si"
+    },
+      {
+      "Nombre": "TVP Argentina",
+      "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
+      "EsWeb": "no"
+    },
+      
+    {
+      "Nombre": "Universal Channel",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/124",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "VH1",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/125",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "VH1 Classic",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/70",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Warner",
+      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/127",
+      "EsWeb": "si"
+    }
 ]
