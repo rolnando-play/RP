@@ -124,7 +124,7 @@
   "canales": [
       {
       "Nombre": "General Díaz vs. Olimpia",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-5f587309bb7ba21b9195ee7627b90bbf_source/index.m3u8",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-039af7a2022c792563766eb29233bf6e_source/index.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
