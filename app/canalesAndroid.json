@@ -132,6 +132,14 @@
     },
       {
       "Nombre": "General Díaz vs. Olimpia 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+      {
+      "Nombre": "General Díaz vs. Olimpia 3",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
@@ -139,7 +147,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
 {
-      "Nombre": "General Díaz vs. Olimpia 3",
+      "Nombre": "General Díaz vs. Olimpia 4",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
