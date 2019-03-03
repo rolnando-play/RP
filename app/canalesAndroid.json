@@ -123,8 +123,8 @@
   ],
   "canales": [
       {
-      "Nombre": "Cerro Porteño vs. Luqueño - Resumen",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/03Marzo/02/resumen-cerro-porte%C3%B1o-2-0-sportivo-luque%C3%B1o-fecha-9-torneo-apertura-2019-nueva-olla-gol-nelson-haedo-valdez-marcos-caceres.mp4",
+      "Nombre": "Libertad vs. San Lorenzo",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
