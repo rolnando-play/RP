@@ -123,33 +123,9 @@
   ],
   "canales": [
       {
-      "Nombre": "Cerro Porteño vs. Luqueño",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-039af7a2022c792563766eb29233bf6e_source/index.m3u8",
+      "Nombre": "Cerro Porteño vs. Luqueño - Resumen",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/03Marzo/02/resumen-cerro-porte%C3%B1o-2-0-sportivo-luque%C3%B1o-fecha-9-torneo-apertura-2019-nueva-olla-gol-nelson-haedo-valdez-marcos-caceres.mp4",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-      {
-      "Nombre": "Cerro Porteño vs. Luqueño 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-      {
-      "Nombre": "Cerro Porteño vs. Luqueño 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-{
-      "Nombre": "Cerro Porteño vs. Luqueño 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
-      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
