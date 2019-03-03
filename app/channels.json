@@ -1,22 +1,17 @@
-[ 
+[
   {
-    "Nombre": "Cerro Porteño vs. Luqueño",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-039af7a2022c792563766eb29233bf6e_source/index.m3u8",
-    "EsWeb": "no"
-  },
-  {
-    "Nombre": "Cerro Porteño vs. Luqueño 2",
+    "Nombre": "Libertad vs. San Lorenzo",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
     "EsWeb": "si"
   },
 
   {
-    "Nombre": "Cerro Porteño vs. Luqueño 3",
+    "Nombre": "Libertad vs. San Lorenzo 2",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=elmandiokero",
     "EsWeb": "si"
   },
     {
-    "Nombre": "Cerro Porteño vs. Luqueño 4",
+    "Nombre": "Libertad vs. San Lorenzo 3",
     "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
     "EsWeb": "si"
   },
