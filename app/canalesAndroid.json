@@ -123,9 +123,17 @@
   ],
   "canales": [
       {
-      "Nombre": "Futboleros",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
-      "EsWeb": "si",
+      "Nombre": "Capiatá vs. Nacional - Resumen",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/03Marzo/03/resumen-capiata-nacional-compacto-fecha-9-torneo-apertura-erico-galeano.mp4",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+ {
+      "Nombre": "Libertad vs. San Lorenzo - Resumen",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/03Marzo/03/lib-ssl.mp4",
+      "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
