@@ -122,6 +122,15 @@
     }
   ],
   "canales": [
+      {
+      "Nombre": "test
+      "Enlace": "https://neunlds51dal.akamaized.net/nlds/tigopy/drm/guaran/as/live/nlncp/guaran_hd_pc.mpd?h=ff2083a41e98aaf215eeadfddc3ded1e.1551733991328&hdnea=exp=1551734051~acl=/*~hmac=1046F788ADF56C5F3F5C0656F2627D07C390AA6876BAF4DC5381E8BD681BB2C8&nltid=tigopy&nltdt=0&uid=315%3Amvpd%3Atigoh-5ba26209-1fcf-11e8-a536-123fcd3853d8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/adIcon.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+      
  {
       "Nombre": "Apoya al creador acá",
       "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/stream/videoAd.mp4",
