@@ -122,6 +122,14 @@
     }
   ],
   "canales": [
+ {
+      "Nombre": "Apoya al creador acá",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/stream/videoAd.mp4",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/adIcon.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
       {
       "Nombre": "Capiatá vs. Nacional - Resumen",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/03Marzo/03/resumen-capiata-nacional-compacto-fecha-9-torneo-apertura-erico-galeano.mp4",
