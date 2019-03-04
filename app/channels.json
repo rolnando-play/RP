@@ -1,19 +1,4 @@
 [
-    {
-    "Nombre": "Futboleros",
-    "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
-    "EsWeb": "si"
-  },
-    {
-    "Nombre": "Olimpia vs. Capiatá 3",
-    "Enlace": "http://millave.ml/twich.php?canal=0707201810&f=.m3u8",
-    "EsWeb": "no"
-  },
-    {
-    "Nombre": "Olimpia vs. Capiatá 4",
-    "Enlace": "http://millave.ml/twich.php?canal=nadaquever3&f=.m3u8",
-    "EsWeb": "no"
-  },
 {
     "Nombre": "Evento 1",
     "Enlace": "http://51.15.9.237/hls/fox.m3u8",
