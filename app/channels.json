@@ -1,6 +1,11 @@
 [
        {
       "Nombre": "Guaraní vs. River Plate",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=147201816",
+      "EsWeb": "si"
+    },
+       {
+      "Nombre": "Guaraní vs. River Plate 2",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
