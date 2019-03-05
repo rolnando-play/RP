@@ -1,13 +1,8 @@
 [
        {
-      "Nombre": "Sol vs. Santaní",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=147201816",
-      "EsWeb": "si"
-    },
-       {
-      "Nombre": "Sol vs. Santaní 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
-      "EsWeb": "si"
+      "Nombre": "Godoy Cruz vs. Olimpia",
+      "Enlace": "http://62.210.220.3/hls/fox2.m3u8",
+      "EsWeb": "no"
     },
 {
     "Nombre": "Evento 1",
