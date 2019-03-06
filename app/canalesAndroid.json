@@ -2,7 +2,7 @@
 "eventos": [
     {
       "Nombre": "Fox Sports 1",
-      "Enlace": "http://51.15.9.237/hls/fox.m3u8",
+      "Enlace": "https://sv8.apgstream.xyz/hls/fox.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
       "MostrarAds": "si",
@@ -10,7 +10,7 @@
     },
     {
       "Nombre": "Fox Sports 2",
-      "Enlace": "http://62.210.220.3/hls/fox2.m3u8",
+      "Enlace": "https://sv15.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
       "MostrarAds": "si",
@@ -18,7 +18,7 @@
     },
     {
       "Nombre": "Fox Sports 3",
-      "Enlace": "http://62.210.116.123/hls/fox3.m3u8",
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox3.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
       "MostrarAds": "no",
