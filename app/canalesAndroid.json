@@ -5,7 +5,7 @@
       "Enlace": "https://sv8.apgstream.xyz/hls/fox.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
-      "MostrarAds": "si",
+      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
     {
@@ -13,7 +13,7 @@
       "Enlace": "https://sv15.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
-      "MostrarAds": "si",
+      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
     {
