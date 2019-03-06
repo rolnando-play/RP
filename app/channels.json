@@ -1,22 +1,22 @@
 [
        {
       "Nombre": "Libertad vs. U Católica",
-      "Enlace": "http://62.210.220.3/hls/fox2.m3u8",
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no"
     },
 {
     "Nombre": "Evento 1",
-    "Enlace": "http://51.15.9.237/hls/fox.m3u8",
+    "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
     "EsWeb": "no"
   },
 {
     "Nombre": "Evento 2",
-    "Enlace": "http://62.210.220.3/hls/fox2.m3u8",
+    "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
     "EsWeb": "no"
   },
     {
     "Nombre": "Evento 3",
-    "Enlace": "http://62.210.116.123/hls/fox3.m3u8",
+    "Enlace": "https://sv4.apgstream.xyz/hls/fox3.m3u8",
     "EsWeb": "no"
   },
     
