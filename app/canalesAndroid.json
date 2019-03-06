@@ -138,6 +138,15 @@
       "MostrarAds": "si",
       "UserAgent": "web0s"
     },
+      {
+      "Nombre": "Mineiro vs. Cerro Porteño 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "web0s"
+    },
+      
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
