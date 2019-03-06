@@ -6,7 +6,7 @@
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
     {
       "Nombre": "Fox Sports 2",
@@ -14,15 +14,15 @@
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
     {
       "Nombre": "Fox Sports 3",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox3.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/foxx.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
     {
       "Nombre": "Fox Sports Premium",
