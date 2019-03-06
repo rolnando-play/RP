@@ -4,7 +4,7 @@
       "Nombre": "Fox Sports 1",
       "Enlace": "https://sv8.apgstream.xyz/hls/fox.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
@@ -134,6 +134,14 @@
       "Nombre": "Mineiro vs. Cerro Porteño",
       "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/556",
       "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+       {
+      "Nombre": "Mineiro vs. Cerro Porteño 2",
+      "Enlace": "http://www.liketvw.com/embed/foxsports3",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100"
