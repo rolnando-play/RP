@@ -234,6 +234,14 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+        {
+      "Nombre": "Telefuturo 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=tf002",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "Unicanal",
       "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
