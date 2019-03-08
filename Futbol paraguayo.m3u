@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, MIN-CCP
-http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/556
+#EXTINF:0, SSL-CAP
+https://videocdn.mixer.com/hls/56684811-03b179d29705359e741fbe30c292f9fe_source/index.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
