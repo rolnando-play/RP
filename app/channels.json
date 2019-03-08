@@ -1,18 +1,8 @@
 [
         {
-      "Nombre": "Mineiro vs. Cerro Porteño",
-      "Enlace": "http://23.237.22.230:8000/darkiptv89/Hdgsdark.dsafm/556",
+      "Nombre": "San Lorenzo vs. Capiatá",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-03b179d29705359e741fbe30c292f9fe_source/index.m3u8",
       "EsWeb": "no"
-    },
-        {
-      "Nombre": "Mineiro vs. Cerro Porteño 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
-      "EsWeb": "si"
-    },
-        {
-      "Nombre": "Mineiro vs. Cerro Porteño 3",
-      "Enlace": "http://www.deportestv.online/Television/foxSports3.html",
-      "EsWeb": "si"
     },
 {
     "Nombre": "Evento 1",
