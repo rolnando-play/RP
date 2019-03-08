@@ -188,8 +188,8 @@
     },
     {
       "Nombre": "Más TV Encarnación",
-      "Enlace": "http://millave.ml/twich.php?canal=mastvonline&f=.m3u8",
-      "EsWeb": "no",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=mastvonline",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
