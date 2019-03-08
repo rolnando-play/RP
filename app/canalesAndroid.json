@@ -979,6 +979,14 @@
       "MostrarAds": "no",
       "UserAgent": "web0s"
     },
+        {
+      "Nombre": "TDN",
+      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR32r/245",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tdn.png",
+      "MostrarAds": "no",
+      "UserAgent": "web0s"
+    },
       {
       "Nombre": "Telefé",
       "Enlace": "http://televisionlibre.net/canal/telefe-en-vivo/embed2.html?update",
