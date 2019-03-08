@@ -130,6 +130,15 @@
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
+{
+      "Nombre": "Prueba activador de canales",
+      "Enlace": "http://darkiptv.com/apoyo/activar.html",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/adIcon.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+
         {
       "Nombre": "San Lorenzo vs. Capiatá",
       "Enlace": "https://videocdn.mixer.com/hls/56684811-03b179d29705359e741fbe30c292f9fe_source/index.m3u8",
