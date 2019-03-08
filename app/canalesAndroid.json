@@ -1061,6 +1061,14 @@
       "MostrarAds": "no",
       "UserAgent": "web0s"
     },
+        {
+      "Nombre": "Univisión Deportes",
+      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR32r/241",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/udeportes.png",
+      "MostrarAds": "no",
+      "UserAgent": "web0s"
+    },
     {
       "Nombre": "VH1",
       "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR32r/125",
