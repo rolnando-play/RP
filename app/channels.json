@@ -5,8 +5,13 @@
       "EsWeb": "no"
     },
         {
-      "Nombre": "San Lorenzo vs. Capiatá",
+      "Nombre": "San Lorenzo vs. Capiatá 2",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=157201812",
+      "EsWeb": "si"
+    },
+         {
+      "Nombre": "San Lorenzo vs. Capiatá 3" ,
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
         
