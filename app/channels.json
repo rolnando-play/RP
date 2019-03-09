@@ -1,20 +1,10 @@
 [
-        {
-      "Nombre": "San Lorenzo vs. Capiatá",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-03b179d29705359e741fbe30c292f9fe_source/index.m3u8",
-      "EsWeb": "no"
-    },
-        {
-      "Nombre": "San Lorenzo vs. Capiatá 2",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=157201812",
-      "EsWeb": "si"
-    },
-         {
-      "Nombre": "San Lorenzo vs. Capiatá 3" ,
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=futbolparaguayotv",
-      "EsWeb": "si"
-    },
         
+   {
+    "Nombre": "Activar canales",
+    "Enlace": "http://darkiptv.com/apoyo/activar.html",
+    "EsWeb": "si"
+  },     
 {
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
