@@ -172,7 +172,7 @@
     },
 {
       "Nombre": "Olimpia vs. River Plate 4",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=147201816&f=.m3u8",
+      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=0707201810&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
@@ -188,7 +188,7 @@
     },
          {
       "Nombre": "Olimpia vs. River Plate 6",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=147201816",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
