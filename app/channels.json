@@ -1,24 +1,39 @@
 [
         {
-    "Nombre": "Olimpia vs. River Plate",
-    "Enlace": "https://videocdn.mixer.com/hls/56684811-0c00c19c3a548de416431043747f2feb_source/index.m3u8",
-    "EsWeb": "no"
-  },  
+      "Nombre": "Olimpia vs. River Plate",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-0c00c19c3a548de416431043747f2feb_source/index.m3u8",
+      "EsWeb": "no"
+    },
         {
       "Nombre": "Olimpia vs. River Plate 2",
       "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=tvpy91&f=.m3u8",
       "EsWeb": "no"
     },
-        {
+{
       "Nombre": "Olimpia vs. River Plate 3",
+      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=elmandiokero&f=.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "Olimpia vs. River Plate 4",
+      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=147201816&f=.m3u8",
+      "EsWeb": "no"
+    },
+        {
+      "Nombre": "Olimpia vs. River Plate 5",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tvpy91",
       "EsWeb": "si"
     },
          {
-      "Nombre": "Olimpia vs. River Plate 4",
+      "Nombre": "Olimpia vs. River Plate 6",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=147201816",
       "EsWeb": "si"
-},
+    },
+         {
+      "Nombre": "Olimpia vs. River Plate 7",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=elmandiokero",
+      "EsWeb": "si"
+    },
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
