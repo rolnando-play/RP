@@ -11,27 +11,17 @@
     },
 {
       "Nombre": "Luqueño vs. Libertad 3",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=elmandiokero&f=.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "Luqueño vs. Libertad 4",
       "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=0707201810&f=.m3u8",
       "EsWeb": "no"
     },
         {
-      "Nombre": "Luqueño vs. Libertad 5",
+      "Nombre": "Luqueño vs. Libertad 4",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tvpy91",
       "EsWeb": "si"
     },
          {
-      "Nombre": "Luqueño vs. Libertad 6",
+      "Nombre": "Luqueño vs. Libertad 5",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810",
-      "EsWeb": "si"
-    },
-         {
-      "Nombre": "Luqueño vs. Libertad 7",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=elmandiokero",
       "EsWeb": "si"
     },
    {
