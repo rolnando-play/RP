@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, OLI-RIV
 https://videocdn.mixer.com/hls/56684811-0c00c19c3a548de416431043747f2feb_source/index.m3u8
+#EXTINF:0, OLI-RIV 2
+http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=tvpy91&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
