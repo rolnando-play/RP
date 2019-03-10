@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, LUQ-LIB
-https://videocdn.mixer.com/hls/56684811-0c00c19c3a548de416431043747f2feb_source/index.m3u8
+#EXTINF:0, SAN-CCP
+https://videocdn.mixer.com/hls/56684811-aae294893184943075de76e7daf31308_source/index.m3u8
 #EXTINF:0, LUQ-LIB 2
 http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=tvpy91&f=.m3u8
 #EXTINF:0, LUQ-LIB 4  
