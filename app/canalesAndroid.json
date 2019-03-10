@@ -146,6 +146,14 @@
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
+        {
+      "Nombre": "test",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/57.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/activar.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
          {
       "Nombre": "Santaní vs. Cerro Porteño",
       "Enlace": "https://videocdn.mixer.com/hls/56684811-aae294893184943075de76e7daf31308_source/index.m3u8",
