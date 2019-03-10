@@ -208,7 +208,7 @@
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png",
       "MostrarAds": "no",
-      "UserAgent": "web0s"
+      "UserAgent": "Lavf/56.40.101"
     },
     {
       "Nombre": "Noticias Paraguay",
@@ -256,7 +256,7 @@
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
       "MostrarAds": "no",
-      "UserAgent": "web0s"
+      "UserAgent": "Lavf/56.40.101"
     },
     {
       "Nombre": "Unicanal",
@@ -496,7 +496,7 @@
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
-      "UserAgent": "web0s"
+      "UserAgent": "Lavf/56.40.101"
     },
     {
       "Nombre": "E!",
