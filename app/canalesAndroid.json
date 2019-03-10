@@ -154,16 +154,8 @@
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
-        {
-      "Nombre": "Santaní vs. Cerro Porteño 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=elmandiokero&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
 {
-      "Nombre": "Santaní vs. Cerro Porteño 3",
+      "Nombre": "Santaní vs. Cerro Porteño 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
@@ -171,7 +163,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
         {
-      "Nombre": "Santaní vs. Cerro Porteño 4",
+      "Nombre": "Santaní vs. Cerro Porteño 3",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tvpy91&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
@@ -179,7 +171,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
          {
-      "Nombre": "Santaní vs. Cerro Porteño 5",
+      "Nombre": "Santaní vs. Cerro Porteño 4",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tvpy91",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
@@ -187,15 +179,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
           {
-      "Nombre": "Santaní vs. Cerro Porteño 6",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=elmandiokero",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-          {
-      "Nombre": "Santaní vs. Cerro Porteño 7",
+      "Nombre": "Santaní vs. Cerro Porteño 5",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
