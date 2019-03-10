@@ -252,8 +252,8 @@
     },
         {
       "Nombre": "Telefuturo 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=tf002",
-      "EsWeb": "si",
+      "Enlace": "http://rpsports.ezyro.com/rpsports/twitch.php?channel=tf002&f=.m3u8 ",
+      "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
       "MostrarAds": "no",
       "UserAgent": "web0s"
