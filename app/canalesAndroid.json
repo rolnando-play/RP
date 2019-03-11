@@ -276,7 +276,7 @@
     },
     {
       "Nombre": "A&E",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/2",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/66.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ae.png",
       "MostrarAds": "no",
@@ -300,7 +300,7 @@
     },
     {
       "Nombre": "AXN",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/7",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/81.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/AXN.png",
       "MostrarAds": "no",
@@ -324,7 +324,7 @@
     },
     {
       "Nombre": "Boomerang",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/17",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/25.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/boomerang.png",
       "MostrarAds": "no",
@@ -348,7 +348,7 @@
     },
     {
       "Nombre": "Cartoon Network",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/20",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/20.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cartoon.png",
       "MostrarAds": "no",
@@ -356,7 +356,7 @@
     },
     {
       "Nombre": "Cinecanal",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/21",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/76.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cinecanal.png",
       "MostrarAds": "no",
@@ -364,7 +364,7 @@
     },
     {
       "Nombre": "Cinemax",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/135",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/82.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/Cinemax.png",
       "MostrarAds": "no",
@@ -375,6 +375,14 @@
       "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/25",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/comedy.png",
+      "MostrarAds": "no",
+      "UserAgent": "web0s"
+    },
+	{
+      "Nombre": "DHE",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/68.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dhe.png",
       "MostrarAds": "no",
       "UserAgent": "web0s"
     },
@@ -404,7 +412,7 @@
     },
     {
       "Nombre": "Discovery Channel",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/590",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/33.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/discovery.png",
       "MostrarAds": "no",
@@ -412,7 +420,7 @@
     },
     {
       "Nombre": "Discovery Civilization",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/28",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/36.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/civilization.png",
       "MostrarAds": "no",
@@ -420,7 +428,7 @@
     },
     {
       "Nombre": "Discovery H&H",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/29",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/34.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hh.png",
       "MostrarAds": "no",
@@ -428,7 +436,7 @@
     },
     {
       "Nombre": "Discovery Kids",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/31",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/16.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dkids.png",
       "MostrarAds": "no",
@@ -436,7 +444,7 @@
     },
     {
       "Nombre": "Discovery Science",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/32",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/26.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/science.png",
       "MostrarAds": "no",
@@ -444,7 +452,7 @@
     },
     {
       "Nombre": "Discovery TLC",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/111",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/36.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tlc.png",
       "MostrarAds": "no",
@@ -452,7 +460,7 @@
     },
     {
       "Nombre": "Discovery Theater",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/33",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/29.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/theater.png",
       "MostrarAds": "no",
@@ -460,7 +468,7 @@
     },
     {
       "Nombre": "Discovery Turbo",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/34",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/27.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/turbo.png",
       "MostrarAds": "no",
@@ -468,7 +476,7 @@
     },
     {
       "Nombre": "Discovery World",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/35",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/30.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/world.png",
       "MostrarAds": "no",
@@ -476,7 +484,7 @@
     },
     {
       "Nombre": "Disney Channel",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/580",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/15.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/disney.png",
       "MostrarAds": "no",
@@ -484,7 +492,7 @@
     },
     {
       "Nombre": "Disney Junior",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/36",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/14.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/junior.png",
       "MostrarAds": "no",
@@ -500,7 +508,7 @@
     },
     {
       "Nombre": "E!",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/40",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/102.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/e.png",
       "MostrarAds": "no",
@@ -508,7 +516,7 @@
     },
     {
       "Nombre": "ESPN",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/41",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/57.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn.png",
       "MostrarAds": "no",
@@ -516,7 +524,7 @@
     },
     {
       "Nombre": "ESPN 2",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/42",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/58.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
       "MostrarAds": "no",
@@ -540,7 +548,7 @@
     },
     {
       "Nombre": "El Gourmet",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/133",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/100.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gourmet.png",
       "MostrarAds": "no",
@@ -548,7 +556,7 @@
     },
     {
       "Nombre": "FX",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/61",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/71.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fx.png",
       "MostrarAds": "no",
@@ -564,7 +572,7 @@
     },
     {
       "Nombre": "Fox",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/50",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/12.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fox.png",
       "MostrarAds": "no",
@@ -572,7 +580,7 @@
     },
     {
       "Nombre": "Fox Action",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/51",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/7.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/action.png",
       "MostrarAds": "no",
@@ -580,7 +588,7 @@
     },
     {
       "Nombre": "Fox Cinema",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/53",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/9.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cinema.png",
       "MostrarAds": "no",
@@ -588,7 +596,7 @@
     },
     {
       "Nombre": "Fox Classics",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/54",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/8.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/classics.png",
       "MostrarAds": "no",
@@ -596,7 +604,7 @@
     },
     {
       "Nombre": "Fox Comedy",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/562",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/10.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fcomedy.png",
       "MostrarAds": "no",
@@ -604,7 +612,7 @@
     },
     {
       "Nombre": "Fox Family",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/561",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/13.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/family.png",
       "MostrarAds": "no",
@@ -612,7 +620,7 @@
     },
     {
       "Nombre": "Fox Life",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/55",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/112.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/life.png",
       "MostrarAds": "no",
@@ -620,7 +628,7 @@
     },
     {
       "Nombre": "Fox Movies",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/56",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/11.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/movies.png",
       "MostrarAds": "no",
@@ -636,7 +644,7 @@
     },
     {
       "Nombre": "Fox Sports ",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/558",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/59.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
       "MostrarAds": "no",
@@ -644,7 +652,7 @@
     },
     {
       "Nombre": "Fox Sports MX",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/193",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/60.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
       "MostrarAds": "no",
@@ -652,7 +660,7 @@
     },
     {
       "Nombre": "Fox Sports 2",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/557",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/60.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
       "MostrarAds": "no",
@@ -660,7 +668,7 @@
     },
     {
       "Nombre": "Fox Sports 2 MX",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/194",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/63.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
       "MostrarAds": "no",
@@ -668,7 +676,7 @@
     },
     {
       "Nombre": "Fox Sports 3",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/556",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/61.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
       "MostrarAds": "no",
@@ -676,7 +684,7 @@
     },
     {
       "Nombre": "Fox Sports 3 MX",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/195",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/62.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
       "MostrarAds": "no",
@@ -708,7 +716,7 @@
     },
     {
       "Nombre": "Golden Plus",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/65",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/69.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/goldenp.png",
       "MostrarAds": "no",
@@ -716,7 +724,7 @@
     },
     {
       "Nombre": "Golden Premier",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/543",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/70.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/goldenpremier.png",
       "MostrarAds": "no",
@@ -724,7 +732,7 @@
     },
     {
       "Nombre": "History",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/67",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/31.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/history.png",
       "MostrarAds": "no",
@@ -740,7 +748,7 @@
     },
     {
       "Nombre": "HBO",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/652",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/5.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hbo.png",
       "MostrarAds": "no",
@@ -748,7 +756,7 @@
     },
     {
       "Nombre": "HBO 2",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/539",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/3.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hbo2.png",
       "MostrarAds": "no",
@@ -756,7 +764,7 @@
     },
     {
       "Nombre": "HBO Family",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/538",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/1.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hbof.png",
       "MostrarAds": "no",
@@ -764,7 +772,7 @@
     },
     {
       "Nombre": "HBO Plus",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/535",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/2.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hbop.png",
       "MostrarAds": "no",
@@ -772,7 +780,7 @@
     },
     {
       "Nombre": "HBO Signature",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/534",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/4.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hbos.png",
       "MostrarAds": "no",
@@ -780,7 +788,7 @@
     },
     {
       "Nombre": "ID",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/30",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/35.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/id.png",
       "MostrarAds": "no",
@@ -796,7 +804,7 @@
     },
     {
       "Nombre": "Las Estrellas",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/76",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/105.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/estrellas.png",
       "MostrarAds": "no",
@@ -804,7 +812,7 @@
     },
     {
       "Nombre": "MTV",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/1",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/95.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mtv.png",
       "MostrarAds": "no",
@@ -812,7 +820,7 @@
     },
     {
       "Nombre": "MTV Hits",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/94",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/96.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mtvh.png",
       "MostrarAds": "no",
@@ -820,7 +828,7 @@
     },
     {
       "Nombre": "MTV Live",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/79",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/91.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mtvl.png",
       "MostrarAds": "no",
@@ -836,7 +844,7 @@
     },
     {
       "Nombre": "Max Prime",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/519",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/86.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/maxp.png",
       "MostrarAds": "no",
@@ -844,7 +852,7 @@
     },
     {
       "Nombre": "Max Up",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/651",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/79.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/maxup.png",
       "MostrarAds": "no",
@@ -860,7 +868,7 @@
     },
     {
       "Nombre": "Nat Geo Kids",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/83",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/17.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/natgeok.png",
       "MostrarAds": "no",
@@ -868,7 +876,7 @@
     },
     {
       "Nombre": "Nat Geo Wild",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/85",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/28.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/natgeow.png",
       "MostrarAds": "no",
@@ -876,7 +884,7 @@
     },
     {
       "Nombre": "Nick",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/84",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/18.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nick.png",
       "MostrarAds": "no",
@@ -884,7 +892,7 @@
     },
     {
       "Nombre": "Nick 2",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/86",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/23.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nick2.png",
       "MostrarAds": "no",
@@ -892,7 +900,7 @@
     },
     {
       "Nombre": "Nick JR",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/87",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/21.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nickjr.png",
       "MostrarAds": "no",
@@ -908,7 +916,7 @@
     },
     {
       "Nombre": "Paramount",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/90",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/88.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paramount.png",
       "MostrarAds": "no",
@@ -924,7 +932,7 @@
     },
     {
       "Nombre": "Sony",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/97",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/84.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sony.png",
       "MostrarAds": "no",
@@ -932,7 +940,7 @@
     },
     {
       "Nombre": "Space",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/98",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/67.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/space.png",
       "MostrarAds": "no",
@@ -940,7 +948,7 @@
     },
     {
       "Nombre": "Studio Universal",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/100",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/87.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/studio.png",
       "MostrarAds": "no",
@@ -981,7 +989,7 @@
       
     {
       "Nombre": "Telemundo",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/485",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/97.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telemundo.png",
       "MostrarAds": "no",
@@ -989,7 +997,7 @@
     },
     {
       "Nombre": "TNT",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/113",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/72.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tnt.png",
       "MostrarAds": "no",
@@ -997,7 +1005,7 @@
     },
     {
       "Nombre": "TNT Series",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/114",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/73.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tnts.png",
       "MostrarAds": "no",
@@ -1013,7 +1021,7 @@
     },
     {
       "Nombre": "Tooncast",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/115",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/22.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tooncast.png",
       "MostrarAds": "no",
@@ -1021,7 +1029,7 @@
     },
     {
       "Nombre": "Tru TV",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/117",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/109.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tru.png",
       "MostrarAds": "no",
@@ -1046,7 +1054,7 @@
       
     {
       "Nombre": "Universal Channel",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/124",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/83.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/universal.png",
       "MostrarAds": "no",
@@ -1062,7 +1070,7 @@
     },
     {
       "Nombre": "VH1",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/125",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/93.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vh1.png",
       "MostrarAds": "no",
@@ -1070,7 +1078,7 @@
     },
     {
       "Nombre": "VH1 Classic",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/70",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/92.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vh1c.png",
       "MostrarAds": "no",
@@ -1078,7 +1086,7 @@
     },
     {
       "Nombre": "Warner",
-      "Enlace": "http://23.237.22.230:8000/megacreator2/34tdFSR34Z/127",
+      "Enlace": "http://74.91.20.42:8888/live/mdiaz831/1234/75.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/warner.png",
       "MostrarAds": "no",
