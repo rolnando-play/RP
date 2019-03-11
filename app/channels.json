@@ -1,24 +1,4 @@
 [
-{
-      "Nombre": "Sol vs. Guaraní",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
-      "EsWeb": "no"
-    },
-        {
-      "Nombre": "Sol vs. Guaraní 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tvpy91&f=.m3u8",
-      "EsWeb": "no"
-    },
-        {
-      "Nombre": "Sol vs. Guaraní 3",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=tvpy91",
-      "EsWeb": "si"
-    },
-         {
-      "Nombre": "Sol vs. Guaraní 4",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=0707201810",
-      "EsWeb": "si"
-    },
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
