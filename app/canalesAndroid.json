@@ -237,7 +237,7 @@
     },
     {
       "Nombre": "Más TV Encarnación",
-      "Enlace": "http://rpsports.fhio.xyz/twitch.php?channel=mastvonline&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=mastvonline&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png",
       "MostrarAds": "no",
@@ -285,7 +285,7 @@
     },
         {
       "Nombre": "Telefuturo 2",
-      "Enlace": "http://rpsports.ezyro.com/rp/rp.php?channel=tf002&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tf002&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
       "MostrarAds": "no",
@@ -525,7 +525,7 @@
     },
       {
       "Nombre": "El Trece AR",
-      "Enlace": "https://rolnando-play.000webhostapp.com/twitch.php?channel=julianlineatv_2&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=julianlineatv_2&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
