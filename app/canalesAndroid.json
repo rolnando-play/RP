@@ -146,6 +146,38 @@
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
+	   {
+      "Nombre": "Nacional vs. General Díaz",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tvpy91&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "web0s"
+    },
+	   {
+      "Nombre": "Nacional vs. General Díaz 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "web0s"
+    },
+	 {
+      "Nombre": "Nacional vs. General Díaz 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=tvpy91",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "web0s"
+    },
+	   {
+      "Nombre": "Nacional vs. General Díaz 4",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
+      "UserAgent": "web0s"
+    },
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
