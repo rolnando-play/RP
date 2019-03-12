@@ -89,7 +89,15 @@
       "UserAgent": "web0s"
     },
       {
-      "Nombre": "Movistar La Liga",
+      "Nombre": "Movistar 1",
+      "Enlace": "https://storage.tumarcador.xyz/t3/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/movistar.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },  
+{
+      "Nombre": "Movistar 2",
       "Enlace": "https://storage.tumarcador.xyz/t1/live.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/movistar.png",
