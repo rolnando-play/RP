@@ -1,14 +1,5 @@
 [
-    {
-"Nombre": "Champions 1",
-"Enlace": "https://storage.tumarcador.xyz/t3/live.m3u8",
-"EsWeb": "no"
-}, 
-{
-"Nombre": "Champions 2",
-"Enlace": "https://storage.tumarcador.xyz/t1/live.m3u8",
-"EsWeb": "no"
-}, 
+   
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
@@ -26,7 +17,7 @@
   },
     {
     "Nombre": "Evento 3",
-    "Enlace": "https://sv4.apgstream.xyz/hls/fox3.m3u8",
+    "Enlace": "http://sv1.futbollibre.net/m3u8/bein.m3u8",
     "EsWeb": "no"
   },
     
