@@ -186,8 +186,16 @@
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100"
     }, 
- {
+        {
       "Nombre": "Cerro Porteño vs. Zamora 3",
+      "Enlace": "https://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100"
+    }, 
+ {
+      "Nombre": "Cerro Porteño vs. Zamora 4",
       "Enlace": "https://www.apurogol.net/es/2019/03/cerro-porteno-vs-zamora-en-vivo-online-copa-libertadores-2019-en-directo-grupo-e.html",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
