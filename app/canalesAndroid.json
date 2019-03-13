@@ -178,14 +178,6 @@
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100"
     },
-        {
-      "Nombre": "Cerro Porteño vs. Zamora 2",
-      "Enlace": "http://www.peruanazotv.com/tv/foxsports2.html",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100"
-    }, 
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
