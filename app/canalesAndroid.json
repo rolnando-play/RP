@@ -188,7 +188,7 @@
     }, 
         {
       "Nombre": "Cerro Porteño vs. Zamora 3",
-      "Enlace": "https://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
       "MostrarAds": "si",
