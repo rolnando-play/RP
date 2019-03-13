@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0, ATLETICO-LIBERTAD
-http://sv1.futbollibre.net/m3u8/bein.m3u8
+#EXTINF:0, CHAMPIONS
+https://storage.tumarcador.xyz/t3/live.m3u8
+#EXTINF:0, CHAMPIONS 2
+https://storage.tumarcador.xyz/t5/live.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
