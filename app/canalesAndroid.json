@@ -173,7 +173,15 @@
  {
       "Nombre": "Cerro Porteño vs. Zamora",
       "Enlace": "http://23.237.22.230:8000/darkiptvnew/M3l4p3lanput0s/557",
-      "EsWeb": "no",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100"
+    },
+ {
+      "Nombre": "Cerro Porteño vs. Zamora 2",
+      "Enlace": "https://www.apurogol.net/es/2019/03/cerro-porteno-vs-zamora-en-vivo-online-copa-libertadores-2019-en-directo-grupo-e.html",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100"
