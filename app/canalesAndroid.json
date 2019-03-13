@@ -170,15 +170,6 @@
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
-{
-      "Nombre": "test",
-      "Enlace": "http://ul.cdn574.net:8080/hls/d3n732c.m3u8?s=ujeD9f7xzYTFRYw_eA3bhg&e=1552534098",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/activar.png",
-      "MostrarAds": "no",
-      "UserAgent": "Dalvik/2.1.0 (Linux; U; Android 8.1.0; Redmi Note 5 MIUI/V10.2.1.0.OEIMIXM)"
-    },
-
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
