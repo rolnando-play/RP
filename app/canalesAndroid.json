@@ -170,38 +170,6 @@
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
- {
-      "Nombre": "Cerro Porteño vs. Zamora",
-      "Enlace": "http://23.237.22.230:8000/darkiptvnew/M3l4p3lanput0s/557",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100"
-    },
-         {
-      "Nombre": "Cerro Porteño vs. Zamora 2",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-0c3a50c9e7284af6c513b0c0e6731285_source/index.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100"
-    }, 
-        {
-      "Nombre": "Cerro Porteño vs. Zamora 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100"
-    }, 
- {
-      "Nombre": "Cerro Porteño vs. Zamora 4",
-      "Enlace": "https://www.apurogol.net/es/2019/03/cerro-porteno-vs-zamora-en-vivo-online-copa-libertadores-2019-en-directo-grupo-e.html",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100"
-    },
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
