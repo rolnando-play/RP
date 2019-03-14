@@ -18,7 +18,7 @@
     },
     {
       "Nombre": "Fox Sports 2",
-      "Enlace": "https://sv15.apgstream.xyz/hls/fox2.m3u8",
+      "Enlace": "https://sv18.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
       "MostrarAds": "no",
@@ -26,7 +26,7 @@
     },
     {
       "Nombre": "Fox Sports 3",
-      "Enlace": "http://sv1.futbollibre.net/m3u8/bein.m3u8",
+      "Enlace": "https://sv18.apgstream.xyz/hls/fox3.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
       "MostrarAds": "no",
