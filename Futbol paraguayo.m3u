@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0, CCP-ZAM
-https://videocdn.mixer.com/hls/56684811-0c3a50c9e7284af6c513b0c0e6731285_source/index.m3u8
-#EXTINF:0, CCP-ZAM 2
-http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
