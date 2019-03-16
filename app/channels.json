@@ -1,19 +1,15 @@
 [
+{
+      "Nombre": "Capiatá vs. Luqueño",
+      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/rolnandolucioputos.php?index.m3u8",
+      "EsWeb": "no"
+    },
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
     "EsWeb": "si"
   },   
-   {
-    "Nombre": "River vs. Palestino",
-    "Enlace": "http://sv1.futbollibre.net/m3u8/bein.m3u8",
-    "EsWeb": "no"
-  },
-   {
-    "Nombre": "River vs. Palestino 2",
-    "Enlace": "http://62.210.105.125/hls/fox.m3u8",
-    "EsWeb": "no"
-  },
+   
 {
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
