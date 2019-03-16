@@ -143,7 +143,15 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/superliga.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
-    },
+    }
+  {
+      "Nombre": "TSN",
+      "Enlace": "https://storage.tumarcador.xyz/t4/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tsn.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    }
     {
       "Nombre": "Facebook",
       "Enlace": "http://62.210.69.39/hls/fb.m3u8",
