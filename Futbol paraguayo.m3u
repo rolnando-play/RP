@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0, RIV-PAL
-http://sv1.futbollibre.net/m3u8/bein.m3u8
-#EXTINF:0, RIV-PAL 2
-http://62.210.105.125/hls/fox.m3u8
+#EXTINF:0, CAP-LUQ
+http://freddytv.000webhostapp.com/futbolparaguayotv/rolnandolucioputos.php?index.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
