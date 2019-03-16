@@ -172,7 +172,7 @@
     },
 {
       "Nombre": "Capiatá vs. Luqueño",
-      "Enlace": "https://videocdn.mixer.com/hls/46594080-0d3fa41b0fa10c2e1e17ba3a0bd3b3bb_source/index.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
@@ -180,7 +180,7 @@
     },
 {
       "Nombre": "Capiatá vs. Luqueño 2",
-      "Enlace": "https://mixer.com/embed/player/livepy?disableLowLatency=1&hideChannel=true",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
       "MostrarAds": "si",
