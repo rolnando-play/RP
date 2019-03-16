@@ -27,3 +27,5 @@ http://62.210.105.156/hls/tnt.m3u8
 http://62.210.69.39/hls/fb.m3u8
 #EXTINF:0, EVENTO 13
 http://163.172.13.149/hls/dtv3.m3u8
+#EXTINF:0, EVENTO 14
+http://sv1.futbollibre.net/m3u8/bein.m3u8
