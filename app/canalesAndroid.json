@@ -128,6 +128,14 @@
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100"
     },
+{
+      "Nombre": "TSN",
+      "Enlace": "https://storage.tumarcador.xyz/t4/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tsn.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "Superliga 1",
       "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8",
@@ -143,15 +151,7 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/superliga.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
-    }
-  {
-      "Nombre": "TSN",
-      "Enlace": "https://storage.tumarcador.xyz/t4/live.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tsn.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100"
-    }
+    },
     {
       "Nombre": "Facebook",
       "Enlace": "http://62.210.69.39/hls/fb.m3u8",
@@ -177,22 +177,6 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/activar.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-{
-      "Nombre": "Capiatá vs. Luqueño",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "stagefright/1.2 (Linux;Android 8.1.0)"
-    },
-{
-      "Nombre": "Capiatá vs. Luqueño 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "FMLE/3.0"
     },
     {
       "Nombre": "ABC TV",
