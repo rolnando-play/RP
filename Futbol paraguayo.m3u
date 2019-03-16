@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0, CAP-LUQ
-http://freddytv.000webhostapp.com/futbolparaguayotv/rolnandolucioputos.php?index.m3u8
-#EXTINF:0, CAP-LUQ 2
-https://videocdn.mixer.com/hls/46594080-0d3fa41b0fa10c2e1e17ba3a0bd3b3bb_source/index.m3u8
+http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
