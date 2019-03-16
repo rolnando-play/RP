@@ -9,6 +9,11 @@
       "Enlace": "https://videocdn.mixer.com/hls/46594080-0d3fa41b0fa10c2e1e17ba3a0bd3b3bb_source/index.m3u8",
       "EsWeb": "no"
     },
+{
+      "Nombre": "Capiatá vs. Luqueño 3",
+      "Enlace": "https://mixer.com/embed/player/livepy?disableLowLatency=1&hideChannel=true",
+      "EsWeb": "si"
+    },
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
