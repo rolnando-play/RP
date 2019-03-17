@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, LIB-SAN
-https://neuclnlds53dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_android.m3u8
+#EXTINF:0, GUA-OLI
+https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_android.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
