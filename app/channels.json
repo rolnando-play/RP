@@ -1,10 +1,24 @@
 [
    {
+      "Nombre": "Guaraní vs. Olimpia auto",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_android.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Guaraní vs. Olimpia HD",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_3000_android.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Guaraní vs. Olimpia SD",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_800_android.m3u8",
+      "EsWeb": "no"
+    },
+   {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
     "EsWeb": "si"
-  },   
-   
+  },  
 {
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
