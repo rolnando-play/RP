@@ -1,17 +1,17 @@
 [
-   {
-      "Nombre": "Guaraní vs. Olimpia auto",
-      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_android.m3u8",
+  {
+      "Nombre": "General Díaz vs. San Lorenzo",
+      "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8",
       "EsWeb": "no"
     },
-    {
-      "Nombre": "Guaraní vs. Olimpia HD",
-      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_3000_android.m3u8",
+{
+      "Nombre": "General Díaz vs. San Lorenzo HD",
+      "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_android.m3u8",
       "EsWeb": "no"
     },
-    {
-      "Nombre": "Guaraní vs. Olimpia SD",
-      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/guaran/as/live/nlncp/guaran_hd_800_android.m3u8",
+{
+      "Nombre": "General Díaz vs. San Lorenzo SD",
+      "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_android.m3u8",
       "EsWeb": "no"
     },
    {
