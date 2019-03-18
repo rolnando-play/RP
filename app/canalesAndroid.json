@@ -179,14 +179,6 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
 {
-      "Nombre": "General Díaz vs. San Lorenzo",
-      "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },
-{
       "Nombre": "Cerro Porteño vs. Sol",
       "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_android.m3u8",
       "EsWeb": "no",
