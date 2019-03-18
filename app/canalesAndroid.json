@@ -970,6 +970,14 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+ {
+      "Nombre": "SBT",
+      "Enlace": "http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sbt.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "Sony",
       "Enlace": "http://23.237.22.230:8000/darkiptv2.0./Merobastebaneo542./97",
