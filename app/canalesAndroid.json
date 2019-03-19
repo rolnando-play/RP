@@ -250,6 +250,14 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+  {
+      "Nombre": "Paraguay TV",
+      "Enlace": "https://player-api.new.livestream.com/accounts/25680986/events/8424381/broadcasts/188857757.secure.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/pytv.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "RCC - TV Chaqueña",
       "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
