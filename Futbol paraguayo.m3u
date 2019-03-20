@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0, CAP-LIB auto
-https://neuclnlds13dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_android.m3u8
-#EXTINF:0, CAP-LIB HD
-https://neuclnlds13dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_3000_android.m3u8
-#EXTINF:0, CAP-LIB SD
-https://neuclnlds13dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_800_android.m3u8
 #EXTINF:0, OLI-SAN auto
 https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_android.m3u8
 #EXTINF:0, OLI-SAN HD
