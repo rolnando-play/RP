@@ -179,11 +179,11 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
 {
-      "Nombre": "Goles de la fecha 11",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/03Marzo/19/AShowdegoles%2311%282%29.mp4",
+      "Nombre": "Capiatá vs. Libertad",
+      "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_android.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
-      "MostrarAds": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
     {
