@@ -1,20 +1,5 @@
 [
 {
-      "Nombre": "Olimpia vs. Santaní AUTO",
-      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_android.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "Olimpia vs. Santaní HD",
-      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_3000_android.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "Olimpia vs. Santaní SD",
-      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_800_android.m3u8",
-      "EsWeb": "no"
-    },
-{
       "Nombre": "Independiente CG vs. La Equidad,
       "Enlace": "http://178.128.224.108/hls/veopartidos.m3u8",
       "EsWeb": "no"
