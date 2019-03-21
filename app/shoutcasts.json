@@ -1,0 +1,522 @@
+[
+  {
+    "name":"1º de Marzo 780 AM",
+    "stream":"http://192.240.114.58:1935/mov780/mov780.stream/playlist.m3u8"
+  },
+  {
+    "name":"1000 AM",
+    "stream":"http://192.240.114.58:1935/mov1000/mov1000.stream/playlist.m3u8"
+  },
+  {
+    "name":"ABC Cardinal 730 AM",
+    "stream":"http://192.240.114.58:1935/trans730/trans730/playlist.m3u8"
+  },
+  {
+    "name":"Chaco Boreal 1330 AM",
+    "stream":"http://192.240.114.58:1935/mov1330/mov1330.stream/playlist.m3u8"
+  },
+  {
+    "name":"Fe y Alegría 1300 AM",
+    "stream":"http://192.240.114.58:1935/movfeyalegria/movfeyalegria.stream/playlist.m3u8"
+  },
+  {
+    "name":"La 970 AM",
+    "stream":"http://192.240.114.58:1935/mov970/mov970.stream/playlist.m3u8"
+  },
+  {
+    "name":"La Deportiva 1120 AM",
+    "stream":"http://192.240.114.58:1935/trans1120/trans1120/playlist.m3u8"
+  },
+  {
+    "name":"La Unión 800 AM",
+    "stream":"http://192.240.114.58:1935/mov800/mov800.stream/playlist.m3u8"
+  },
+  {
+    "name":"Libre 1200 AM",
+    "stream":"http://192.240.114.58:1935/mov1200/mov1200.stream/playlist.m3u8"
+  },
+  {
+    "name":"Monumental 1080 AM",
+    "stream":"http://192.240.114.58:1935/mov1080/mov1080.stream/playlist.m3u8"
+  },
+  {
+    "name":"Nacional del Paraguay 920 AM",
+    "stream":"http://192.240.114.58:1935/trans920/trans920/playlist.m3u8"
+  },
+  {
+    "name":"Ñanduti 1020 AM",
+    "stream":"http://192.240.114.58:1935/trans1020/trans1020/playlist.m3u8"
+  },
+  {
+    "name":"Uno 650 AM",
+    "stream":"http://192.240.114.58:1935/trans650/trans650/playlist.m3u8"
+  },
+  {
+    "name":"Amor 95.9 FM",
+    "stream":"http://192.240.114.58:1935/movamor/movamor.stream/playlist.m3u8"
+  },
+  {
+    "name":"Aspen 102.7 FM",
+    "stream":"http://192.240.114.58:1935/movaspen/movaspen.stream/playlist.m3u8"
+  },
+  {
+    "name":"Cámara 104.1 FM",
+    "stream":"http://192.240.114.58:1935/movcamara/movcamara.stream/playlist.m3u8"
+  },
+  {
+    "name":"Canal 100.1 FM",
+    "stream":"http://192.240.114.58:1935/movcanal100/movcanal100.stream/playlist.m3u8"
+  },
+  {
+    "name":"CFA 99.5 FM",
+    "stream":"http://192.240.114.58:1935/movcfa/movcfa.stream/playlist.m3u8"
+  },
+  {
+    "name":"Conquistador 89.1 FM",
+    "stream":"http://192.240.114.58:1935/movconquistador/movconquistador.stream/playlist.m3u8"
+  },
+  {
+    "name":"Corazón 99.1 FM",
+    "stream":"http://192.240.114.58:1935/transcorazon/transcorazon/playlist.m3u8"
+  },
+  {
+    "name":"Disney 96.5 FM",
+    "stream":"http://192.240.114.58:1935/transradiodisney/transradiodisney/playlist.m3u8"
+  },
+  {
+    "name":"E40 91.1 FM",
+    "stream":"http://192.240.114.58:1935/movestacion40/movestacion40.stream/playlist.m3u8"
+  },
+  {
+    "name":"Emisoras Paraguay 106.1 FM",
+    "stream":"http://192.240.114.58:1935/movemisoras/movemisoras.stream/playlist.m3u8"
+  },
+  {
+    "name":"Exclusiva 103.7 FM",
+    "stream":"http://192.240.114.58:1935/movexclusiva/movexclusiva.stream/playlist.m3u8"
+  },
+  {
+    "name":"Farra 101.3 FM",
+    "stream":"http://192.240.114.58:1935/transfarra/transfarra/playlist.m3u8"
+  },
+  {
+    "name":"HEi 91.9 FM",
+    "stream":"http://192.240.114.58:1935/movhei/movhei.stream/playlist.m3u8"
+  },
+  {
+    "name":"La Klasikera 100.5 FM",
+    "stream":"http://192.240.114.58:1935/movlaklasikera/movlaklasikera.stream/playlist.m3u8"
+  },
+  {
+    "name":"Latina 97.1 FM",
+    "stream":"http://192.240.114.58:1935/movlatina/movlatina.stream/playlist.m3u8"
+  },
+  {
+    "name":"Los 40 92.3 FM",
+    "stream":"http://192.240.114.58:1935/movlos40/movlos40.stream/playlist.m3u8"
+  },
+  {
+    "name":"María FM Paraguay",
+    "stream":"http://192.240.114.58:1935/movmaria/movmaria.stream/playlist.m3u8"
+  },
+  {
+    "name":"Montecarlo 100.9 FM",
+    "stream":"http://192.240.114.58:1935/transmontecarlo/transmontecarlo/playlist.m3u8"
+  },
+  {
+    "name":"Nacional del Paraguay 95.1 FM",
+    "stream":"http://192.240.114.58:1935/transnacional/transnacional/playlist.m3u8"
+  },
+  {
+    "name":"Ñemby 88.3 FM",
+    "stream":"http://192.240.114.58:1935/mov883/mov883.stream/playlist.m3u8"
+  },
+  {
+    "name":"Obedira 102.1 FM",
+    "stream":"http://192.240.114.58:1935/transobedira/transobedira/playlist.m3u8"
+  },
+  {
+    "name":"Palma 106.5 FM",
+    "stream":"http://192.240.114.58:1935/movpalma/movpalma.stream/playlist.m3u8"
+  },
+  {
+    "name":"Popular 103.1 FM",
+    "stream":"http://192.240.114.58:1935/transpopular/transpopular/playlist.m3u8"
+  },
+  {
+    "name":"Rock & Pop 95.5 FM",
+    "stream":"http://192.240.114.58:1935/transrockandpop/transrockandpop/playlist.m3u8"
+  },
+  {
+    "name":"Romance 104.5 FM",
+    "stream":"http://192.240.114.58:1935/movromance/movromance.stream/playlist.m3u8"
+  },
+  {
+    "name":"RQP 94.3 FM",
+    "stream":"http://192.240.114.58:1935/movrqp/movrqp.stream/playlist.m3u8"
+  },
+  {
+    "name":"Top Milenium 91.5 FM",
+    "stream":"http://192.240.114.58:1935/movtop/movtop.stream/playlist.m3u8"
+  },
+  {
+    "name":"Urbana 106.9 FM",
+    "stream":"http://192.240.114.58:1935/movurbana/movurbana.stream/playlist.m3u8"
+  },
+  {
+    "name":"Venus 105.1 FM",
+    "stream":"http://192.240.114.58:1935/movvenus/movvenus.stream/playlist.m3u8"
+  },
+  {
+    "name":"Vibras 92.7 FM",
+    "stream":"http://192.240.114.58:1935/movvibras/movvibras.stream/playlist.m3u8"
+  },
+  {
+    "name":"ABC 98.5 FM",
+    "stream":"http://192.240.114.58:1935/movabcfm/movabcfm.stream/playlist.m3u8"
+  },
+  {
+    "name":"Ysapy 90.7 FM",
+    "stream":"http://192.240.114.58:1935/movysapy/movysapy.stream/playlist.m3u8"
+  },
+  {
+    "name":"Manduvirá 88.9 FM",
+    "stream":"http://192.240.114.58:1935/movmanduvira/movmanduvira.stream/playlist.m3u8"
+  },
+  {
+    "name":"Ayolas 98.3 FM",
+    "stream":"http://192.240.114.58:1935/movayolas/movayolas.stream/playlist.m3u8"
+  },
+  {
+    "name":"Fama 100.5 FM",
+    "stream":"http://192.240.114.58:1935/movfama/movfama.stream/playlist.m3u8"
+  },
+  {
+    "name":"Caraguatay 90.3 FM",
+    "stream":"http://192.240.114.58:1935/movcaraguatay/movcaraguatay.stream/playlist.m3u8"
+  },
+  {
+    "name":"Las Mercedes 104.5 FM",
+    "stream":"http://192.240.114.58:1935/movlasmercedes/movlasmercedes.stream/playlist.m3u8"
+  },
+  {
+    "name":"Oasis 103.5 FM",
+    "stream":"http://192.240.114.58:1935/movoasis/movoasis.stream/playlist.m3u8"
+  },
+  {
+    "name":"Parque 550 AM",
+    "stream":"http://192.240.114.58:1935/movparque/movparque.stream/playlist.m3u8"
+  },
+  {
+    "name":"Concierto 89.1 FM",
+    "stream":"http://192.240.114.58:1935/movconcierto/movconcierto.stream/playlist.m3u8"
+  },
+  {
+    "name":"Corpus 89.5 FM",
+    "stream":"http://192.240.114.58:1935/movcorpus/movcorpus.stream/playlist.m3u8"
+  },
+  {
+    "name":"Positiva 107.1 FM",
+    "stream":"http://192.240.114.58:1935/movpositiva/movpositiva.stream/playlist.m3u8"
+  },
+  {
+    "name":"Regional 660 AM",
+    "stream":"http://192.240.114.58:1935/mov660/mov660.stream/playlist.m3u8"
+  },
+  {
+    "name":"Aquidabán 100.5 FM",
+    "stream":"http://192.240.114.58:1935/movaquidaban/movaquidaban.stream/playlist.m3u8"
+  },
+  {
+    "name":"Norte Comunicaciones 94.5 FM",
+    "stream":"http://192.240.114.58:1935/movnortecomunicaciones/movnortecomunicaciones.stream/playlist.m3u8"
+  },
+  {
+    "name":"Megaestación95 95.9 FM",
+    "stream":"http://192.240.114.58:1935/movmegaestacion95/movmegaestacion95.stream/playlist.m3u8"
+  },
+  {
+    "name":"Transcontinental 98.1 FM",
+    "stream":"http://209.133.216.3:7208/live?1551976955579"
+  },
+ {
+    "name":"Ypane 104.3 FM",
+    "stream":"http://192.240.114.58:1935/movypane/movypane.stream/playlist.m3u8"
+  },
+  {
+    "name":"Liberación 101.5 FM",
+    "stream":"http://192.240.114.58:1935/movliberacion/movliberacion.stream/playlist.m3u8"
+  },
+  {
+    "name":"Kaaguazú 640 AM",
+    "stream":"http://192.240.114.58:1935/movkaaguazu/movkaaguazu.stream/playlist.m3u8"
+  },
+  {
+    "name":"Capital 101.7 FM",
+    "stream":"http://192.240.114.58:1935/movcapital/movcapital.stream/playlist.m3u8"
+  },
+  {
+    "name":"Fiesta 102.9 FM",
+    "stream":"http://192.240.114.58:1935/movfiesta/movfiesta.stream/playlist.m3u8"
+  },
+  {
+    "name":"Más 102.3 FM",
+    "stream":"http://192.240.114.58:1935/movradiomas/movradiomas.stream/playlist.m3u8"
+  },
+  {
+    "name":"Curuguaty 98.7 FM",
+    "stream":"http://192.240.114.58:1935/movcuruguaty/movcuruguaty.stream/playlist.m3u8"
+  },
+  {
+    "name":"Paraná 89.7 FM",
+    "stream":"http://192.240.114.58:1935/movparana/movparana.stream/playlist.m3u8"
+  },
+  {
+    "name":"Pop 93.3 FM",
+    "stream":"http://192.240.114.58:1935/movpop/movpop.stream/playlist.m3u8"
+  },
+  {
+    "name":"Santa Helena 103.9 FM",
+    "stream":"http://192.240.114.58:1935/movsantahelena/movsantahelena.stream/playlist.m3u8"
+  },
+  {
+    "name":"Studio 92.1 FM",
+    "stream":"http://192.240.114.58:1935/movstudio/movstudio.stream/playlist.m3u8"
+  },
+  {
+    "name":"Evolución 89.3 FM",
+    "stream":"http://192.240.114.58:1935/movevolucion/movevolucion.stream/playlist.m3u8"
+  },
+  {
+    "name":"MDQ 101.1 FM",
+    "stream":"http://192.240.114.58:1935/movmdq/movmdq.stream/playlist.m3u8"
+  },
+  {
+    "name":"Guyrá Campana 1420 AM",
+    "stream":"http://192.240.114.58:1935/mov1420/mov1420.stream/playlist.m3u8"
+  },
+  {
+    "name":"Continental 95.3 FM",
+    "stream":"http://192.240.114.58:1935/movcontinental/movcontinental.stream/playlist.m3u8"
+  },
+  {
+    "name":"Los Angeles 89.9 FM",
+    "stream":"http://192.240.114.58:1935/movlosangeles/movlosangeles.stream/playlist.m3u8"
+  },
+  {
+    "name":"Inter Radio 101.7 FM",
+    "stream":"http://192.240.114.58:1935/movinterradio/movinterradio.stream/playlist.m3u8"
+  },
+  {
+    "name":"Sin Fronteras 98.5 FM",
+    "stream":"http://192.240.114.58:1935/movsinfronteras/movsinfronteras.stream/playlist.m3u8"
+  },
+  {
+    "name":"Carlos A. López 700 AM",
+    "stream":"http://192.240.114.58:1935/trans700/trans700/playlist.m3u8"
+  },
+  {
+    "name":"106.9 FM",
+    "stream":"http://192.240.114.58:1935/mov1069/mov1069.stream/playlist.m3u8"
+  },
+  {
+    "name":"Plus 91.9 FM",
+    "stream":"http://192.240.114.58:1935/movplus/movplus.stream/playlist.m3u8"
+  },
+  {
+    "name":"Primereña 106.5 FM",
+    "stream":"http://192.240.114.58:1935/mov1065/mov1065.stream/playlist.m3u8"
+  },
+  {
+    "name":"Arandú 98.3 FM",
+    "stream":"http://192.240.114.58:1935/movarandu/movarandu.stream/playlist.m3u8"
+  },
+  {
+    "name":"Tricolor 96.7 FM",
+    "stream":"http://192.240.114.58:1935/movtricolor/movtricolor.stream/playlist.m3u8"
+  },
+  {
+    "name":"Ciudad 92.9 FM",
+    "stream":"http://192.240.114.58:1935/movciudad/movciudad.stream/playlist.m3u8"
+  },
+  {
+    "name":"Tapiracuai 88.7 FM",
+    "stream":"http://192.240.114.58:1935/movtapiracuai/movtapiracuai.stream/playlist.m3u8"
+  },
+  {
+    "name":"Vy'a Rendá 107.5 FM",
+    "stream":"http://192.240.114.58:1935/movvyarenda/movvyarenda.stream/playlist.m3u8"
+  },
+  {
+    "name":"Libertad 96.3 FM",
+    "stream":"http://192.240.114.58:1935/movlibertadfm/movlibertadfm.stream/playlist.m3u8"
+  },
+  {
+    "name":"Unasur 93.7 FM",
+    "stream":"http://192.240.114.58:1935/movunasur/movunasur.stream/playlist.m3u8"
+  },
+  {
+    "name":"Clásica 97.5 FM",
+    "stream":"http://192.240.114.58:1935/movclasica/movclasica.stream/playlist.m3u8"
+  },
+  {
+    "name":"Suceso 99.7 FM",
+    "stream":"http://192.240.114.58:1935/movsucesonepomuceno/movsucesonepomuceno.stream/playlist.m3u8"
+  },
+  {
+    "name":"Ycuamandyyú 590 AM",
+    "stream":"http://192.240.114.58:1935/movycuamandyyu/movycuamandyyu.stream/playlist.m3u8"
+  },
+  {
+    "name":"Nacional San Pedro 105.9 FM",
+    "stream":"http://192.240.114.58:1935/transsanpedro/transsanpedro/playlist.m3u8"
+  },
+  {
+    "name":"Norte 91.7 FM",
+    "stream":"http://192.240.114.58:1935/movnorte/movnorte.stream/playlist.m3u8"
+  },
+  {
+    "name":"San Pedro 93.7 FM",
+    "stream":"http://192.240.114.58:1935/movsanpedro/movsanpedro.stream/playlist.m3u8"
+  },
+  {
+    "name":"Suceso 97.1 FM",
+    "stream":"http://192.240.114.58:1935/movsuceso/movsuceso.stream/playlist.m3u8"
+  },
+  {
+    "name":"Metro 106.1 FM",
+    "stream":"http://192.240.114.58:1935/movmetro/movmetro.stream/playlist.m3u8"
+  },
+  {
+    "name":"Sanguri 90.7 FM",
+    "stream":"http://192.240.114.58:1935/movsanguri/movsanguri.stream/playlist.m3u8"
+  },
+  {
+    "name":"Centro 87.9 FM",
+    "stream":"http://192.240.114.58:1935/movcentro/movcentro.stream/playlist.m3u8"
+  },
+  {
+    "name":"Villa Oliva 88.7 FM",
+    "stream":"http://192.240.114.58:1935/movvillaoliva/movvillaoliva.stream/playlist.m3u8"
+  },
+  {
+    "name":"Transamerica 94.7 FM",
+    "stream":"http://192.240.114.58:1935/movtransamerica/movtransamerica.stream/playlist.m3u8"
+  },
+  {
+    "name":"Villeta 87.9 FM",
+    "stream":"http://192.240.114.58:1935/movvilleta/movvilleta.stream/playlist.m3u8"
+  },
+  {
+    "name":"Aparato",
+    "stream":"http://192.240.114.58:1935/movaparato/movaparato.stream/playlist.m3u8"
+  },
+  {
+    "name":"Cabalgata Campesina",
+    "stream":"http://192.240.114.58:1935/movcabalgata/movcabalgata.stream/playlist.m3u8"
+  },
+  {
+    "name":"Concert",
+    "stream":"http://192.240.114.58:1935/transconcert/transconcert/playlist.m3u8"
+  },
+  {
+    "name":"DJTeo Online",
+    "stream":"http://192.240.114.58:1935/movdjteo/movdjteo.stream/playlist.m3u8"
+  },
+  {
+    "name":"Ganso Mix San Juan Btta. Mnes.",
+    "stream":"http://192.240.114.58:1935/movgansomix/movgansomix.stream/playlist.m3u8"
+  },
+  {
+    "name":"Mono Global Pilar",
+    "stream":"http://192.240.114.58:1935/movmonoglobal/movmonoglobal.stream/playlist.m3u8"
+  },
+  {
+    "name":"Obeanglo",
+    "stream":"http://192.240.114.58:1935/transobeanglo/transobeanglo/playlist.m3u8"
+  },
+  {
+    "name":"Obeclasico",
+    "stream":"http://192.240.114.58:1935/transobeclasico/transobeclasico/playlist.m3u8"
+  },
+  {
+    "name":"Obeurbano",
+    "stream":"http://192.240.114.58:1935/transobeurbano/transobeurbano/playlist.m3u8"
+  },
+  {
+    "name":"Obeworship",
+    "stream":"http://192.240.114.58:1935/transobeworship/transobeworship/playlist.m3u8"
+  },
+  {
+    "name":"Olimpia Media Oficial",
+    "stream":"http://192.240.114.58:1935/movolimpiamedia/movolimpiamedia.stream/playlist.m3u8"
+  },
+  {
+    "name":"Pueblo Online",
+    "stream":"http://192.240.114.58:1935/movpueblo/movpueblo.stream/playlist.m3u8"
+  },
+  {
+    "name":"Retro Paraguay",
+    "stream":"http://192.240.114.58:1935/movretroparaguay/movretroparaguay.stream/playlist.m3u8"
+  },
+  {
+    "name":"Rockero Py",
+    "stream":"http://192.240.114.58:1935/transrockero/transrockero/playlist.m3u8"
+  },
+  {
+    "name":"Radioson",
+    "stream":"http://192.240.114.58:1935/transradioson/transradioson/playlist.m3u8"
+  },
+  {
+    "name":"RTM Paraguay",
+    "stream":"http://192.240.114.58:1935/movtransmundial/movtransmundial.stream/playlist.m3u8"
+  },
+  {
+    "name":"Coop. Universitaria",
+    "stream":"http://192.240.114.58:1935/transuniversitaria/transuniversitaria/playlist.m3u8"
+  },
+  {
+    "name":"Zlatan",
+    "stream":"http://192.240.114.58:1935/movzlatan/movzlatan.stream/playlist.m3u8"
+  },
+  {
+    "name":"El Mirador",
+    "stream":"http://192.240.114.58:1935/movelmirador/movelmirador.stream/playlist.m3u8"
+  },
+  {
+    "name":"Master",
+    "stream":"http://192.240.114.58:1935/movmaster/movmaster.stream/playlist.m3u8"
+  },
+  {
+    "name":"Amor TV 95.9 FM",
+    "stream":"http://192.240.114.58:1935/amortv/amortv/playlist.m3u8"
+  },
+  {
+    "name":"Concierto TV 89.1 FM",
+    "stream":"http://192.240.114.58:1935/conciertotv/concierto/playlist.m3u8"
+  },
+  {
+    "name":"Fernando de la Mora TV 92.7 FM",
+    "stream":"http://192.240.114.58:1935/fernandotv/fernandotv/playlist.m3u8"
+  },
+  {
+    "name":"InterMedios",
+    "stream":"http://192.240.114.58:1935/TV/intermedios/playlist.m3u8"
+  },
+  {
+    "name":"Norte Comunicaciones TV 94.5 FM",
+    "stream":"http://192.240.114.58:1935/nortecomunicacionestv/nortecomunicacionestv/playlist.m3u8"
+  },
+  {
+    "name":"Suceso TV 97.1 FM Naranjal",
+    "stream":"http://192.240.114.58:1935/sucesotv/sucesotv/playlist.m3u8"
+  },
+  {
+    "name":"TVS Encarnación",
+    "stream":"http://192.240.114.58:1935/tvs/tvs/playlist.m3u8"
+  },
+  {
+    "name":"Unicanal",
+    "stream":"http://45.55.127.106/live/unicanal_mid.m3u8"
+  }
+]
