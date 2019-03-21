@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0, OLI-SAN auto
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_android.m3u8
-#EXTINF:0, OLI-SAN HD
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_3000_android.m3u8
-#EXTINF:0, OLI-SAN SD
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_800_android.m3u8
 #EXTINF:0, Independiente CG
 http://178.128.224.108/hls/veopartidos.m3u8
 #EXTINF:0, EVENTO 1
