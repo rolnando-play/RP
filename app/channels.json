@@ -1,7 +1,17 @@
 [
 {
-      "Nombre": "Argentina vs. Venezuela",
-      "Enlace": "http://134.209.216.209/hls/veopartidos.m3u8",
+      "Nombre": "General Díaz vs. Luqueño AUTO",
+      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "General Díaz vs. Luqueño HD",
+      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_android.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "General Díaz vs. Luqueño SD",
+      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_android.m3u8",
       "EsWeb": "no"
     },
    {
