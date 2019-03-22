@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:0, ARG-VZL
-http://134.209.216.209/hls/veopartidos.m3u8
+#EXTINF:0, GRD-LUQ AUTO
+https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8
+#EXTINF:0, GRD-LUQ HD
+https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_android.m3u8
+#EXTINF:0, GRD-LUQ SD
+https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_android.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
