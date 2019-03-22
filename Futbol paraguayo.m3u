@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, ARG-VZL
-http://sv1.futbollibre.net/m3u8/tyc.m3u8
+http://134.209.216.209/hls/veopartidos.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
