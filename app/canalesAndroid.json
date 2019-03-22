@@ -8,6 +8,14 @@
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
+{
+      "Nombre": "CDF",
+      "Enlace": "http://134.209.216.209/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cdf.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },   
   {
       "Nombre": "Fox Sports",
       "Enlace": "http://62.210.105.125/hls/fox.m3u8",
