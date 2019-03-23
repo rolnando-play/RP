@@ -1,5 +1,20 @@
 [
    {
+    "Nombre": "Cerro Porteño vs. Guaraní AUTO",
+    "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_android.m3u8",
+    "EsWeb": "no"
+  },
+   {
+    "Nombre": "Cerro Porteño vs. Guaraní HD",
+    "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_3000_android.m3u8",
+    "EsWeb": "no"
+  },
+   {
+    "Nombre": "Cerro Porteño vs. Guaraní SD",
+    "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_800_android.m3u8",
+    "EsWeb": "no"
+  },
+   {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
     "EsWeb": "si"
