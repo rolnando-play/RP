@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0, GRD-LUQ AUTO
-https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8
-#EXTINF:0, GRD-LUQ HD
-https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_android.m3u8
-#EXTINF:0, GRD-LUQ SD
-https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_android.m3u8
 #EXTINF:0, PAR-PER auto
 https://neuclnlds50dal.akamaized.net/nlds/tigopy/per/as/live/nlncp/per_hd_android.m3u8
 #EXTINF:0, PAR-PER HD
