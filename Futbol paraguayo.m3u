@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0, CCP-GUA auto
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_android.m3u8
-#EXTINF:0, CCP-GUA HD
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_3000_android.m3u8
-#EXTINF:0, CCP-GUA SD
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_800_android.m3u8
 #EXTINF:0, RIV-SSL auto
 https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_android.m3u8
 #EXTINF:0, RIV-SSL HD
