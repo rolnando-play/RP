@@ -90,7 +90,7 @@
     },
     {
       "Nombre": "DirecTv Sports",
-      "Enlace": "http://62.210.220.245/hls/dtv.m3u8",
+      "Enlace": "http://178.128.239.20/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
       "MostrarAds": "no",
@@ -106,7 +106,7 @@
     },
     {
       "Nombre": "DirecTv Sports +",
-      "Enlace": "http://163.172.13.149/hls/dtv3.m3u8",
+      "Enlace": "http://178.128.232.20/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv+.png",
       "MostrarAds": "no",
