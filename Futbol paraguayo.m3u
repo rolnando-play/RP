@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0, PAR-PER auto
-https://neuclnlds50dal.akamaized.net/nlds/tigopy/per/as/live/nlncp/per_hd_android.m3u8
-#EXTINF:0, PAR-PER HD
-https://neuclnlds50dal.akamaized.net/nlds/tigopy/per/as/live/nlncp/per_hd_3000_android.m3u8
-#EXTINF:0, PAR-PER SD
-https://neuclnlds50dal.akamaized.net/nlds/tigopy/per/as/live/nlncp/per_hd_800_android.m3u8
+#EXTINF:0, CCP-GUA auto
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_android.m3u8
+#EXTINF:0, CCP-GUA HD
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_3000_android.m3u8
+#EXTINF:0, CCP-GUA SD
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_800_android.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
