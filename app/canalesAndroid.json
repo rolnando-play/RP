@@ -152,6 +152,14 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+{
+      "Nombre": "SporTV",
+      "Enlace": "http://157.230.1.152/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sportv.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "Superliga 1",
       "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8",
