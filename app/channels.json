@@ -1,10 +1,5 @@
 [
 {
-      "Nombre": "General Díaz vs. Luqueño AUTO",
-      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_android.m3u8",
-      "EsWeb": "no"
-    },
-{
       "Nombre": "Paraguay vs. Perú AUTO",
       "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/per/as/live/nlncp/per_hd_android.m3u8",
       "EsWeb": "no"
@@ -17,16 +12,6 @@
 {
       "Nombre": "Paraguay vs. Perú SD",
       "Enlace": "https://neuclnlds50dal.akamaized.net/nlds/tigopy/per/as/live/nlncp/per_hd_800_android.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "General Díaz vs. Luqueño HD",
-      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_3000_android.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "General Díaz vs. Luqueño SD",
-      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/graldiaz/as/live/nlncp/graldiaz_hd_800_android.m3u8",
       "EsWeb": "no"
     },
    {
