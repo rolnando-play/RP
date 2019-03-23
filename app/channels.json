@@ -14,6 +14,21 @@
     "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_800_android.m3u8",
     "EsWeb": "no"
   },
+{
+      "Nombre": "River vs. San Lorenzo Auto",
+      "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_android.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "River vs. San Lorenzo HD",
+      "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_3000_android.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "River vs. San Lorenzo SD",
+      "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_800_android.m3u8",
+      "EsWeb": "no"
+    },
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
