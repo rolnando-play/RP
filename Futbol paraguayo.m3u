@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0, RIV-SSL auto
-https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_android.m3u8
-#EXTINF:0, RIV-SSL HD
-https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_3000_android.m3u8
-#EXTINF:0, RIV-SSL SD
-https://neuclnlds51dal.akamaized.net/nlds/tigopy/riverplate/as/live/nlncp/riverplate_hd_800_android.m3u8
+#EXTINF:0, LIB-SOL auto
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_pc.m3u8
+#EXTINF:0, LIB-SOL HD
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_3000_pc.m3u8
+#EXTINF:0, LIB-SOL SD
+https://neuclnlds18dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_800_pc.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
