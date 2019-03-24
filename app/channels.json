@@ -1,4 +1,19 @@
 [
+   {
+      "Nombre": "Olimpia vs. Nacional AUTO",
+      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_pc.m3u8",
+      "EsWeb": "no"
+},
+   {
+      "Nombre": "Olimpia vs. Nacional HD",
+      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_3000_pc.m3u8",
+      "EsWeb": "no"
+},
+   {
+      "Nombre": "Olimpia vs. Nacional SD",
+      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigopy/olimpia/as/live/nlncp/olimpia_hd_80_pc.m3u8",
+      "EsWeb": "no"
+},
  {
       "Nombre": "Libertad vs. Sol de América auto",
       "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_pc.m3u8",
