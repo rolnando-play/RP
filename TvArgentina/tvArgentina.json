@@ -1,20 +1,44 @@
 {
 "canales": [
 {
-      "Nombre": "Bein Sports",
-      "Enlace": "http://sv1.futbollibre.net/m3u8/bein.m3u8",
+      "Nombre": "América",
+      "Enlace": "https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/32545370-c196-405b-86f0-a36df160314e:CHS/master.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinñ.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/america.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
 {
-      "Nombre": "CDF",
-      "Enlace": "http://134.209.216.209/hls/veopartidos.m3u8",
+      "Nombre": "Canal 26",
+      "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cdf.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/canal26.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+      {
+      "Nombre": "Canal 9",
+      "Enlace": "http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/canal9.png",
+      "MostrarAds": "no",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+    },
+      {
+      "Nombre": "TV Pública",
+      "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvp.png",
+      "MostrarAds": "no",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+    },
+       {
+      "Nombre": "Telefé",
+      "Enlace": "https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-p.m3u8?sd=10&rebase=on",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
+      "MostrarAds": "no",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
     }
 ]
 }
