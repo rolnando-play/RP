@@ -202,6 +202,46 @@
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },
+{
+      "Nombre": "General Díaz vs. Luqueño",
+      "Enlace": "https://neuclnlds14dal.akamaized.net/nlds_vod/tigopy/vod/2019/03/22/31760/3af6249e-428a-4482-bc2f-f22ebd16f4ba/v2/stream/2_31760_spluqueo_graldiaz_2019_b_whole_2_android.mp4.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/copa/activar.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+{
+      "Nombre": "Cerro Porteño vs. Guaraní",
+      "Enlace": "https://neuclnlds14dal.akamaized.net/nlds_vod/tigopy/vod/2019/03/23/31757/6c70e589-1007-4c27-a83a-d7ff77089bf5/v1/stream/2_31757_guaran_cporteo_2019_b_whole_1_android.mp4.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/copa/activar.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+{
+      "Nombre": "River vs. San Lorenzo",
+      "Enlace": "https://neuclnlds14dal.akamaized.net/nlds_vod/tigopy/vod/2019/03/23/31761/386367ac-0ca4-4e3b-9ae9-ccaa150d141e/v1/stream/2_31761_sanlorenzo_riverp_2019_b_whole_1_android.mp4.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/copa/activar.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+{
+      "Nombre": "Libertad vs. Sol de América",
+      "Enlace": "https://neuclnlds14dal.akamaized.net/nlds_vod/tigopy/vod/2019/03/24/31758/b7acb9ae-5e15-4f75-b9f6-2b43c1d2033c/v1/stream/2_31758_soldeam_libertad_2019_b_whole_1_android.mp4.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/copa/activar.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+{
+      "Nombre": "Olimpia vs. Nacional",
+      "Enlace": "https://neuclnlds14dal.akamaized.net/nlds_vod/tigopy/vod/2019/03/24/31762/c20f6c66-df5c-41da-9d58-4a1cc0fa1e88/v1/stream/2_31762_nacional_olimpia_2019_b_whole_1_android.mp4.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/copa/activar.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
     {
       "Nombre": "ABC TV",
       "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
