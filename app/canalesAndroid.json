@@ -10,7 +10,7 @@
     },   
 {
       "Nombre": "CDF",
-      "Enlace": "http://134.209.216.209/hls/veopartidos.m3u8",
+      "Enlace": "http://142.93.70.216/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cdf.png",
       "MostrarAds": "no",
