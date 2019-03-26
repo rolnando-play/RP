@@ -5,126 +5,144 @@
       "Enlace": "https://prepublish.f.qaotic.net/a07/americahls-100056/Playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/america.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },   
       {
       "Nombre": "Ciudad Magazine",
       "Enlace": "https://g4.proy-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_540p.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/america.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },  
 {
       "Nombre": "Canal 26",
       "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/canal26.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Canal 9",
       "Enlace": "http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/canal9.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "TV Pública",
       "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvp.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
        {
       "Nombre": "Telefé",
       "Enlace": "http://televisionlibre.net/canal/telefe-en-vivo/embed2.html?update",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
        {
       "Nombre": "CN23",
       "Enlace": "https://www.youtube.com/embed/live_stream?channel=UCC05qIa00qEB06CtCi01NbQ",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
        {
       "Nombre": "A24",
       "Enlace": "https://g2.mc-slo.transport.edge-access.net/b10/ngrp:a24-100056_all/Playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "13 Max",
       "Enlace": "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Canal 4",
       "Enlace": "http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Canal 7",
       "Enlace": "https://www.youtube.com/embed/aEqJeb6JFrg",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
        {
       "Nombre": "Telejunin",
       "Enlace": "http://videostream.shockmedia.com.ar:1935/telejunin/telejunin/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Telemax",
       "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
 {
       "Nombre": "Mitre",
       "Enlace": "https://g4.proy-slo.transport.edge-access.net/a13/ngrp:MITREHD-10002_all/MITREHD-10002_720p.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Musictop",
       "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Aire de Santa Fe",
       "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 ",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Canal 10",
       "Enlace": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
       {
       "Nombre": "Canal 12",
       "Enlace": "https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4"
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     }
 ]
 }
