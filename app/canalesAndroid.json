@@ -10,7 +10,7 @@
     },   
 {
       "Nombre": "CDF",
-      "Enlace": "http://134.209.220.20/hls/veopartidos.m3u8",
+      "Enlace": "http://134.209.216.209/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cdf.png",
       "MostrarAds": "no",
@@ -90,7 +90,7 @@
     },
     {
       "Nombre": "DirecTv Sports",
-      "Enlace": "http://104.248.1.138/hls/veopartidos.m3u8",
+      "Enlace": "http://178.128.224.59/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
       "MostrarAds": "no",
@@ -186,6 +186,14 @@
     }
   ],
   "canales": [
+ {
+      "Nombre": "Apoya al creador acá",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/stream/videoAd.mp4",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/adIcon.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
 {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
