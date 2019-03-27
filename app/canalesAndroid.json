@@ -266,14 +266,6 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
-  {
-      "Nombre": "Paraguay TV",
-      "Enlace": "https://player-api.new.livestream.com/accounts/25680986/events/8424381/broadcasts/189028486.secure.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/pytv.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100"
-    },
     {
       "Nombre": "RCC - TV Chaqueña",
       "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
@@ -305,14 +297,6 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
-    },
-        {
-      "Nombre": "Telefuturo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tf002&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
-      "MostrarAds": "no",
-      "UserAgent": "Lavf/56.40.101"
     },
  {
       "Nombre": "TVS Encarnación",
