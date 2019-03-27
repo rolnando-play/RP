@@ -1,19 +1,14 @@
 [
-  {
-      "Nombre": "México vs. Paraguay",
-      "Enlace": "http://157.230.60.46/hls/veopartidos.m3u8",
-      "EsWeb": "no"
-    },
  {
-      "Nombre": "México vs. Paraguay 2",
+      "Nombre": "Nacional vs. Libertad",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
       "EsWeb": "no"
-    },
- {
-      "Nombre": "México vs. Paraguay 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no"
-    },
+    },   
+        {
+      "Nombre": "Nacional vs. Libertad 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=nadaquever2",
+      "EsWeb": "si"
+    },   
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
