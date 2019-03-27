@@ -10,7 +10,7 @@
     },   
       {
       "Nombre": "Ciudad Magazine",
-      "Enlace": "https://g4.proy-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_540p.m3u8",
+      "Enlace": "https://g4.proy-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ciudad.png",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
