@@ -1,126 +1,6 @@
 {
   "canales": [
     {
-      "Nombre": "4 Jujui",
-      "Enlace": "http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/4jujui.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "4 Misiones",
-      "Enlace": "https://cdn2.zencast.tv:30443/misiones4/live/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/4misiones.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "4 Posadas",
-      "Enlace": "http://184.154.28.210:1935/canal4/canal4/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/4posadas.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "5RTV",
-      "Enlace": "http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/5rtv.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "5TV",
-      "Enlace": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/5tv.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "7 Chubut",
-      "Enlace": "http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/7chubut.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "9 Comodoro",
-      "Enlace": "http://live.canalnueve.tv:8082/hls/canal.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9comodoro.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "9 Link",
-      "Enlace": "http://coninfo.net:1935/9linklive/live/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9link.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "9 Paraná",
-      "Enlace": "https://5975e06a1f292.streamlock.net:4443/c9web/ngrp:c9web_all/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9parana.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "9 Santa Cruz",
-      "Enlace": "http://video1.veemesoft.com.ar:1935/8682/8682/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9santacruz.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "10 Córdoba",
-      "Enlace": "https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/10cordoba.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "10 Mar del Plata",
-      "Enlace": "https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/10mar.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "11 Ushuaia",
-      "Enlace": "https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/11ushuaia.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "12 Trenque Lauquen",
-      "Enlace": "https://chunks01.tvpublica.com.ar/video/HJW78BKMG_720/index.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/12trenque.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
-      "Nombre": "13 Max",
-      "Enlace": "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/13max.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-    {
       "Nombre": "A24",
       "Enlace": "https://g2.mc-slo.transport.edge-access.net/b10/ngrp:a24-100056_all/Playlist.m3u8",
       "EsWeb": "no",
@@ -169,10 +49,58 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
     {
+      "Nombre": "Canal 4 Jujui",
+      "Enlace": "http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/4jujui.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 4 Misiones",
+      "Enlace": "https://cdn2.zencast.tv:30443/misiones4/live/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/4misiones.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 4 Posadas",
+      "Enlace": "http://184.154.28.210:1935/canal4/canal4/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/4posadas.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 5RTV",
+      "Enlace": "http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/5rtv.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 5TV",
+      "Enlace": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/5tv.png",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
       "Nombre": "Canal 7",
       "Enlace": "https://www.youtube.com/embed/aEqJeb6JFrg",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/canal7.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 7 Chubut",
+      "Enlace": "http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/7chubut.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
@@ -185,6 +113,38 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
     {
+      "Nombre": "Canal 9 Comodoro",
+      "Enlace": "http://live.canalnueve.tv:8082/hls/canal.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9comodoro.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 9 Link",
+      "Enlace": "http://coninfo.net:1935/9linklive/live/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9link.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 9 Paraná",
+      "Enlace": "https://5975e06a1f292.streamlock.net:4443/c9web/ngrp:c9web_all/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9parana.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 9 Santa Cruz",
+      "Enlace": "http://video1.veemesoft.com.ar:1935/8682/8682/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/9santacruz.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
       "Nombre": "Canal 10",
       "Enlace": "http://panel.dattalive.com:1935/8204/8204/playlist.m3u8",
       "EsWeb": "no",
@@ -193,10 +153,50 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
     {
+      "Nombre": "Canal 10 Córdoba",
+      "Enlace": "https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/10cordoba.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 10 Mar del Plata",
+      "Enlace": "https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/10mar.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 11 Ushuaia",
+      "Enlace": "https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/11ushuaia.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
       "Nombre": "Canal 12",
       "Enlace": "https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/canal12.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 12 Trenque Lauquen",
+      "Enlace": "https://chunks01.tvpublica.com.ar/video/HJW78BKMG_720/index.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/12trenque.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 13 Max",
+      "Enlace": "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/13max.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
