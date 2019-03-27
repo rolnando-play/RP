@@ -8,14 +8,6 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },   
-	{
-      "Nombre": "10 TV",
-      "Enlace": "http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/10tv.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },   
 {
       "Nombre": "5TV",
       "Enlace": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
@@ -93,14 +85,6 @@
       "Enlace": "http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/13max.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-      {
-      "Nombre": "Canal 4",
-      "Enlace": "http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/canal4.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
@@ -204,7 +188,7 @@
       "Nombre": "TN",
       "Enlace": "https://www.youtube.com/embed/-1xif50QMr4",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/tv.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/tn.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
