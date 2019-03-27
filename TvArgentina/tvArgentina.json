@@ -153,14 +153,6 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
 	{
-      "Nombre": "10 TV",
-      "Enlace": "http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/10tv.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-	{
       "Nombre": "10 Córdoba",
       "Enlace": "https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8",
       "EsWeb": "no",
