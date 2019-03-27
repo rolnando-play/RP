@@ -282,7 +282,7 @@
     },
 	{
       "Nombre": "El Doce",
-      "Enlace": "https://g3.proy-slo.transport.edge-access.net/b12/ngrp:el12_live01-100083_all/Playlist.m3u8?sense=true",
+      "Enlace": "https://g3.mc-slo.transport.edge-access.net/b08/ngrp:el12_live01-100083_all/Playlist.m3u8?sense=true",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eldoce.png",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
