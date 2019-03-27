@@ -10,7 +10,7 @@
     },   
       {
       "Nombre": "Ciudad Magazine",
-      "Enlace": "https://g4.proy-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true",
+      "Enlace": "https://g4.proy-slo.transport.edge-access.net/a09/ngrp:magazine_live01-100083_all/magazine_live01-100083_540p.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ciudad.png",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
@@ -274,7 +274,7 @@
     },
 	{
       "Nombre": "Vorterix",
-      "Enlace": "https://prepublish.f.qaotic.net/epa/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true",
+      "Enlace": "https://prepublish.f.qaotic.net:443/epa2/ngrp:vorterix_video1-20057_all/chunklist_b1491000.m3u8?sense=true",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vorterix.png",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
@@ -282,7 +282,7 @@
     },
 	{
       "Nombre": "El Doce",
-      "Enlace": "https://g1.mc-hor.transport.edge-access.net/b12/ngrp:el12_live01-100083_all/Playlist.m3u8?sense=true",
+      "Enlace": "https://g3.proy-slo.transport.edge-access.net/b12/ngrp:el12_live01-100083_all/el12_live01-100083_540p.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eldoce.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
