@@ -274,11 +274,11 @@
     },
 	{
       "Nombre": "Vorterix",
-      "Enlace": "https://prepublish.f.qaotic.net/epa/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true",
+      "Enlace": "https://g3.mc-slo.transport.edge-access.net/b08/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vorterix.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=vorterix_video1-20057&autoplay=true"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
+      "Referer": "https://vmf.edge-apps.net/embed/universal_v2?asset=vorterix_video1-20057&type=live&autoplay=true&pdk=2.0.0&playerMode=jwp6"
     },
 	{
       "Nombre": "El Doce",
@@ -286,7 +286,7 @@
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eldoce.png",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36",
-      "Referer": "https://vmf.edge-apps.net/embed/universal_v2?asset=vorterix_video1-20057&type=live&autoplay=true&pdk=2.0.0&playerMode=jwp6"
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=el12_live01-100083&autoplay=true"
     },
 	{
       "Nombre": "Veo",
