@@ -273,14 +273,6 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
 	{
-      "Nombre": "Vorterix",
-      "Enlace": "https://prepublish.f.qaotic.net/epa/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vorterix.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-      "Referer": "https://vmf.edge-apps.net/embed/universal_v2?asset=vorterix_video1-20057&type=live&autoplay=true"
-    },
-	{
       "Nombre": "El Doce",
       "Enlace": "https://g3.proy-slo.transport.edge-access.net/b12/ngrp:el12_live01-100083_all/el12_live01-100083_540p.m3u8",
       "EsWeb": "no",
