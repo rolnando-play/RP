@@ -274,11 +274,11 @@
     },
 	{
       "Nombre": "Vorterix",
-      "Enlace": "https://prepublish.f.qaotic.net:443/epa2/ngrp:vorterix_video1-20057_all/chunklist_b1491000.m3u8?sense=true",
+      "Enlace": "https://prepublish.f.qaotic.net:443/epa2/ngrp:vorterix_video1-20057_all/chunklist_b1491000.m3u8?sense=true ",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vorterix.png",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-      "Referer": "https://vmf.edge-apps.net/embed/universal_v2?asset=vorterix_video1-20057&type=live&autoplay=true&pdk=2.0.0&playerMode=jwp6"
+      "Referer": "https://vmf.edge-apps.net/embed/universal_v2?asset=vorterix_video1-20057&type=live&autoplay=true"
     },
 	{
       "Nombre": "El Doce",
