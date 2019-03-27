@@ -305,7 +305,7 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=el12_live01-100083&autoplay=true"
     },
 	{
-      "Nombre": "Veo",
+      "Nombre": "Veo Santa Fe",
       "Enlace": "http://200.123.46.139/hls/stream.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/veo.png",
@@ -313,10 +313,10 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
 	{
-      "Nombre": "Somos Jujui",
+      "Nombre": "Somos Jujuy",
       "Enlace": "https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/somosjujuis.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/somosjujuy.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
