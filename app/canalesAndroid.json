@@ -186,10 +186,9 @@
     }
   ],
   "canales": [
-
  {
       "Nombre": "México vs. Paraguay",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "Enlace": "http://157.230.60.46/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apf.png",
       "MostrarAds": "si",
@@ -197,6 +196,14 @@
     },
  {
       "Nombre": "México vs. Paraguay 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apf.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },
+ {
+      "Nombre": "México vs. Paraguay 3",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apf.png",
