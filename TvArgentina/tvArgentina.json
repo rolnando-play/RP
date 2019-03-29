@@ -256,6 +256,14 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=el12_live01-100083&autoplay=true"
     },
+{
+      "Nombre": "El Trece",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=13arg&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/eltrece.png",
+      "UserAgent": "Lavf/56.40.101",
+   "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=el12_live01-100083&autoplay=true"
+    },
     {
       "Nombre": "El once",
       "Enlace": "https://elonce.zapto.org/hls/live.m3u8",
