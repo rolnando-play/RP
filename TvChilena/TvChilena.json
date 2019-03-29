@@ -1,0 +1,20 @@
+{
+  "canales": [
+    {
+      "Nombre": "A24",
+      "Enlace": "https://g2.mc-slo.transport.edge-access.net/b10/ngrp:a24-100056_all/Playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/a24.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Acequia",
+      "Enlace": "http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/acequia.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    }
+  ]
+}
