@@ -1,14 +1,24 @@
 [
  {
-      "Nombre": "Nacional vs. Libertad",
+      "Nombre": "Sol de América vs. Capiatá",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
       "EsWeb": "no"
-    },   
+    },  
         {
-      "Nombre": "Nacional vs. Libertad 2",
+      "Nombre": "Sol de América vs. Capiatá 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
+      "EsWeb": "no"
+    },  
+        {
+      "Nombre": "Sol de América vs. Capiatá 3",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
       "EsWeb": "si"
-    },   
+    },  
+         {
+      "Nombre": "Sol de América vs. Capiatá 4",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
+      "EsWeb": "si"
+    },    
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
