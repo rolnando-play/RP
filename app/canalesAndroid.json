@@ -190,7 +190,7 @@
       "Nombre": "Sol de América vs. Capiatá",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/copa.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },  
@@ -198,13 +198,13 @@
       "Nombre": "Sol de América vs. Capiatá 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/copa.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },  
         {
       "Nombre": "Sol de América vs. Capiatá 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/copa.png",
       "MostrarAds": "si",
@@ -214,7 +214,7 @@
       "Nombre": "Sol de América vs. Capiatá 4",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/copa.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },  
