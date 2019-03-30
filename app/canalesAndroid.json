@@ -9,6 +9,14 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
 {
+      "Nombre": "Bein Sports LaLiga",
+      "Enlace": "https://storage.tumarcador.xyz/288/live.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinliga.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },   
+{
       "Nombre": "CDF",
       "Enlace": "http://142.93.70.216/hls/veopartidos.m3u8",
       "EsWeb": "no",
