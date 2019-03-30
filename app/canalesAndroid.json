@@ -203,15 +203,15 @@
   ],
   "canales": [
          {
-      "Nombre": "Cerro Porteño vs. Libertad",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-ea538b84514f6b3c55fcc7f81ec9281f_source/index.m3u8",
+      "Nombre": "San Lorenzo vs. Olimpia",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-1fb388ca7ebdddad3d5768d7a4827ceb_source/index.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
         {
-      "Nombre": "Cerro Porteño vs. Libertad 2",
+      "Nombre": "San Lorenzo vs. Olimpia 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -219,7 +219,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
         {
-      "Nombre": "Cerro Porteño vs. Libertad 3",
+      "Nombre": "San Lorenzo vs. Olimpia 3",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -227,7 +227,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
         {
-      "Nombre": "Cerro Porteño vs. Libertad 4",
+      "Nombre": "San Lorenzo vs. Olimpia 4",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -235,7 +235,7 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
 }, 
         {
-      "Nombre": "Cerro Porteño vs. Libertad 5",
+      "Nombre": "San Lorenzo vs. Olimpia 5",
       "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
