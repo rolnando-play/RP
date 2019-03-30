@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, CCP-LIB
 https://videocdn.mixer.com/hls/56684811-ea538b84514f6b3c55fcc7f81ec9281f_source/index.m3u8
-#EXTINF:0, SAN-GRD 2
-http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
+#EXTINF:0, CCP-LIB 2
+http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
