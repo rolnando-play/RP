@@ -210,6 +210,22 @@
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
+        {
+      "Nombre": "Cerro Porteño vs. Libertad 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/tvargentina.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+    },   
+        {
+      "Nombre": "Cerro Porteño vs. Libertad 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=0707201810",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/tvargentina.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
+}, 
      {
       "Nombre": "App de TV Argentina",
       "Enlace": "https://play.google.com/store/apps/details?id=com.rp.tvargentina",
