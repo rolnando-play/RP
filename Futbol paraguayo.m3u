@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0, SSL-OLI
 https://videocdn.mixer.com/hls/56684811-1fb388ca7ebdddad3d5768d7a4827ceb_source/index.m3u8
-#EXTINF:0, CCP-LIB 2
+#EXTINF:0, SSL-OLI 2
 http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8
-#EXTINF:0, CCP-LIB 3
+#EXTINF:0, SSL-OLI 3
 http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
