@@ -202,6 +202,14 @@
     }
   ],
   "canales": [
+{
+      "Nombre": "test",
+      "Enlace": "http://23.237.22.230:8000/darkiptv20/Y4t3t3ng0Prr0,xd/29",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/tvargentina.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },   
      {
       "Nombre": "App de TV Argentina",
       "Enlace": "https://play.google.com/store/apps/details?id=com.rp.tvargentina",
