@@ -215,7 +215,7 @@
       "Nombre": "Guaraní vs. Nacional 2",
       "Enlace": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/img/copa.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png ",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
@@ -223,7 +223,7 @@
       "Nombre": "App de TV Argentina",
       "Enlace": "https://play.google.com/store/apps/details?id=com.rp.tvargentina",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/img/tvargentina.png ",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
