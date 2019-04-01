@@ -1,8 +1,7 @@
-#EXTM3U
-#EXTINF:0, LUQ-RIV
-http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8
-#EXTINF:0, LUQ-RIV 2
-http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
+#EXTM3U
+
+#EXTINF:0, NEWCASTLE
+https://storage.tumarcador.xyz/t1/live4.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
