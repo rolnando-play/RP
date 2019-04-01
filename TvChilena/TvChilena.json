@@ -194,7 +194,7 @@
     },
     {
       "Nombre": "TV Chile",
-      "Enlace": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?&dnt=true",
+      "Enlace": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/tvchile.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
