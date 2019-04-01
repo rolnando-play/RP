@@ -15,7 +15,14 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/cdo.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=75&player=57f4e28f9c53768535d65782&custom.preroll=&custom.overlay="
+    },
+    {
+      "Nombre": "Antofagasta TV",
+      "Enlace": "https://unlimited1-us.dps.live/atv/atv.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/antofagasta.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://rudo.video/live/atv"
     }
-    
   ]
 }
