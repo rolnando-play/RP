@@ -90,14 +90,6 @@
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
 	{
-      "Nombre": "DJ Loncho TV",
-      "Enlace": "http://serv1.videovox.pw/alonso9812/alonso9812/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/loncho.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-	{
       "Nombre": "Fortaleza TV",
       "Enlace": "http://media.az-mediaserver.com:1935/7004/7004/playlist.m3u8",
       "EsWeb": "no",
@@ -173,7 +165,7 @@
       "Nombre": "Sextavisión",
       "Enlace": "https://590c5dc5c3271.streamlock.net/carlos451/carlos451/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/sexta.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/sextavision.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
@@ -181,7 +173,7 @@
       "Nombre": "Teletrack Deportes",
       "Enlace": "http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/teletrack.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/teletrak.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
