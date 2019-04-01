@@ -1,63 +1,14 @@
 {
   "canales": [
     {
-      "Nombre": "CDO",
-      "Enlace": "http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/cdo.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },
-	{
       "Nombre": "24Horas",
       "Enlace": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=75&player=57f4e28f9c53768535d65782&custom.preroll=&custom.overlay=",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/24horas.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },{
-      "Nombre": "Bio Bio Canal 9",
-      "Enlace": "http://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/biobio.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },{
-      "Nombre": "Atacama TV",
-      "Enlace": "https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/atacama.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },{
-      "Nombre": "Canal 11 Aysen",
-      "Enlace": "http://v3.tustreaming.cl/canal11aysen/live1/tracks-v1a1/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal11.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },{
-      "Nombre": "Canal 2 San Antonio",
-      "Enlace": "http://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal2.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },{
-      "Nombre": "Canal 21 Chillán",
-      "Enlace": "http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/cdo.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
-    },{
-      "Nombre": "Canal 33 Temuco",
-      "Enlace": "https://590c5dc5c3271.streamlock.net/eduardo441/eduardo441/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal33.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://streaminghd.cl/player.video/index.php?s=eduardo441/eduardo441"
-    },{
+    },
+    {
       "Nombre": "Antofagasta TV",
       "Enlace": "http://unlimited1-us.dps.live/atv/atv.smil/playlist.m3u8",
       "EsWeb": "no",
@@ -65,15 +16,71 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
-	{
-      "Nombre": "Televida",
-      "Enlace": "https://iframe.dacast.com/b/107110/c/467992",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/televida.png",
+    {
+      "Nombre": "Atacama TV",
+      "Enlace": "https://v2.tustreaming.cl/atacamatv/live1/tracks-v1a1/mono.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/atacama.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
-	{
+    {
+      "Nombre": "Bio Bio Canal 9",
+      "Enlace": "http://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/biobio.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "CDO",
+      "Enlace": "http://edge1.cl.grupoz.cl/cdofree/smil:cdn.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/cdo.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 2 San Antonio",
+      "Enlace": "http://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal2.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 11 Aysen",
+      "Enlace": "http://v3.tustreaming.cl/canal11aysen/live1/tracks-v1a1/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal11.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 13",
+      "Enlace": "http://c13-live-1.cdn.nedmedia.io/index.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal13.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://c13-live-1.cdn.nedmedia.io/index.m3u8"
+    },
+    {
+      "Nombre": "Canal 21 Chillán",
+      "Enlace": "http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/cdo.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Canal 33 Temuco",
+      "Enlace": "https://590c5dc5c3271.streamlock.net/eduardo441/eduardo441/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal33.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://streaminghd.cl/player.video/index.php?s=eduardo441/eduardo441"
+    },
+    {
       "Nombre": "Cappissima",
       "Enlace": "http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8",
       "EsWeb": "no",
@@ -81,7 +88,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://cappissimamultimedial.cl/"
     },
-	{
+    {
       "Nombre": "Chilevisión",
       "Enlace": "https://mdstrm.com/live-stream/5988625542916c5029e26e36?jsapi=true&autoplay=true&youbora[extra][param1]=Chilevisi%C3%B3n",
       "EsWeb": "si",
@@ -89,7 +96,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
-	{
+    {
       "Nombre": "Fortaleza TV",
       "Enlace": "http://media.az-mediaserver.com:1935/7004/7004/playlist.m3u8",
       "EsWeb": "no",
@@ -97,7 +104,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
-	{
+    {
       "Nombre": "Genial TV",
       "Enlace": "http://v3.tustreaming.cl/genialtv/live1/playlist.m3u8",
       "EsWeb": "no",
@@ -105,7 +112,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
+    {
       "Nombre": "Holvoet TV",
       "Enlace": "http://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
       "EsWeb": "no",
@@ -113,23 +120,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
-      "Nombre": "InterRadio TV",
-      "Enlace": "https://v3.ciclano.io:1443/jose-590/jose-590/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/holvoet.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
-    },
-	{
-      "Nombre": "Iquique TV",
-      "Enlace": "https://player-api.new.livestream.com/accounts/410066/events/6461816/broadcasts/189402782.secure.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/holvoet.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
-    },
-	{
+    {
       "Nombre": "ITV Patagonia",
       "Enlace": "http://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8",
       "EsWeb": "no",
@@ -137,7 +128,23 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
+    {
+      "Nombre": "InterRadio TV",
+      "Enlace": "https://v3.ciclano.io:1443/jose-590/jose-590/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/interradio.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
+    },
+    {
+      "Nombre": "Iquique TV",
+      "Enlace": "https://player-api.new.livestream.com/accounts/410066/events/6461816/broadcasts/189402782.secure.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/iquique.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
+    },
+    {
       "Nombre": "La Red",
       "Enlace": "https://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8",
       "EsWeb": "no",
@@ -145,7 +152,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
+    {
       "Nombre": "Mega",
       "Enlace": "https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&autoplay=true&volume=100&player=screen&access_token=&mse=true&ads[map]=&custom.c3=SENALENVIVO&custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=",
       "EsWeb": "si",
@@ -153,7 +160,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
+    {
       "Nombre": "Santa María TV",
       "Enlace": "https://unlimited1-us.dps.live/smtv/smtv.smil/playlist.m3u8",
       "EsWeb": "no",
@@ -161,7 +168,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
+    {
       "Nombre": "Sextavisión",
       "Enlace": "https://590c5dc5c3271.streamlock.net/carlos451/carlos451/playlist.m3u8",
       "EsWeb": "no",
@@ -169,39 +176,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
-      "Nombre": "Teletrack Deportes",
-      "Enlace": "http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/teletrak.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
-    },
-	{
-      "Nombre": "Teletrece",
-      "Enlace": "http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/tl13.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
-    },
-	{
-      "Nombre": "Thema TV",
-      "Enlace": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/thema.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
-    },
-	{
-      "Nombre": "Temuco TV",
-      "Enlace": "https://v3.tustreaming.cl/temucotelevision/live1/index.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/temuco.png",
-      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
-    },
-	{
+    {
       "Nombre": "TNE TV",
       "Enlace": "https://v2.tustreaming.cl/tnetv/live1/index.m3u8",
       "EsWeb": "no",
@@ -209,7 +184,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://cdn.jwplayer.com/players/hI8v2ghJ-3bWnXcWy.html"
     },
-	{
+    {
       "Nombre": "TV5 Linares",
       "Enlace": "http://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8",
       "EsWeb": "no",
@@ -217,7 +192,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://cdn.jwplayer.com/players/hI8v2ghJ-3bWnXcWy.html"
     },
-	{
+    {
       "Nombre": "TV Chile",
       "Enlace": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?&dnt=true",
       "EsWeb": "no",
@@ -225,7 +200,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://mdstrm.com/live-stream/533adcc949386ce765657d7c?player=59f0cd8ac3e7f0af6d8e2cf8"
     },
-	{
+    {
       "Nombre": "TV Senado",
       "Enlace": "http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd",
       "EsWeb": "no",
@@ -233,7 +208,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://mdstrm.com/live-stream/533adcc949386ce765657d7c?player=59f0cd8ac3e7f0af6d8e2cf8"
     },
-	{
+    {
       "Nombre": "TVN",
       "Enlace": "https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8",
       "EsWeb": "no",
@@ -241,7 +216,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://mdstrm.com/live-stream/57a498c4d7b86d600e5461cb?jsapi=true&autoplay=true&controls=true&volume=75&player=57f40bb4dc5b9f3075c49cfe&custom.preroll=&custom.overlay="
     },
-	{
+    {
       "Nombre": "TVU Concepción",
       "Enlace": "https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8",
       "EsWeb": "no",
@@ -249,23 +224,47 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://unlimited1-us.dps.live/tvu/tvu.smil/playlist.m3u8"
     },
-	{
-      "Nombre": "Ufrovisión",
-      "Enlace": "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8",
+    {
+      "Nombre": "Teletrack Deportes",
+      "Enlace": "http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/ufrovision.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/teletrak.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true"
+      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
-      "Nombre": "Umag TV",
-      "Enlace": "http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8",
+    {
+      "Nombre": "Teletrece",
+      "Enlace": "http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/umag.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/tl13.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true"
+      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
     },
-	{
+    {
+      "Nombre": "Televida",
+      "Enlace": "https://iframe.dacast.com/b/107110/c/467992",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/televida.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
+    {
+      "Nombre": "Temuco TV",
+      "Enlace": "https://v3.tustreaming.cl/temucotelevision/live1/index.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/temuco.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
+    },
+    {
+      "Nombre": "Thema TV",
+      "Enlace": "https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/thema.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://v3.tustreaming.cl/genialtv/live1/embed.html?version=3&ago=999999&autoplay=true"
+    },
+    {
       "Nombre": "UATV",
       "Enlace": "http://v3.tustreaming.cl/tvautonoma/live1/tracks-v1a1/rewind-999999.m3u8",
       "EsWeb": "no",
@@ -273,7 +272,7 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true"
     },
-	{
+    {
       "Nombre": "UTV San Clemente",
       "Enlace": "http://v3.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8",
       "EsWeb": "no",
@@ -281,13 +280,21 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true"
     },
-	{
-      "Nombre": "Canal 13",
-      "Enlace": "http://c13-live-1.cdn.nedmedia.io/index.m3u8",
+    {
+      "Nombre": "Ufrovisión",
+      "Enlace": "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/canal13.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/ufrovision.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "http://c13-live-1.cdn.nedmedia.io/index.m3u8"
+      "Referer": "http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true"
+    },
+    {
+      "Nombre": "Umag TV",
+      "Enlace": "http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/umag.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "http://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?sharing=true"
     }
   ]
 }
