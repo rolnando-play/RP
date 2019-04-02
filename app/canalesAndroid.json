@@ -355,6 +355,14 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100"
     },
+ {
+      "Nombre": "Visión Villarrica",
+      "Enlace": "https://inliveserver.com:1936/8312/8312/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vision.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
     {
       "Nombre": "A&E",
       "Enlace": "http://23.237.22.230:8000/darkiptvpart30/B4rc4M3l4p3l4asW3Y/2",
