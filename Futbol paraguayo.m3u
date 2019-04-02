@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, NEWCASTLE
-https://storage.tumarcador.xyz/t1/live4.m3u8
+#EXTINF:0, CCP-NAC
+http://104.248.1.138/hls/veopartidos.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
