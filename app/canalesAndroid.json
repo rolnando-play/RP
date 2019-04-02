@@ -220,12 +220,20 @@
     },   
  {
       "Nombre": "Cerro Porteño vs. Nacional 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "Enlace": "http://104.248.1.138/hls/veopartidos.m3u8",
       "EsWeb": "si",
       "ImagenUrl": "http://rolnando-play.000webhostapp.com/twitch.php?channel=mastvonline&f=.m3u8",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
     },   
+  {
+      "Nombre": "Cerro Porteño vs. Nacional 4",
+      "Enlace": "http://23.237.22.230:8000/darkiptv2..0/afggsp4rtr1d0s/557",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100"
+    },
  {
       "Nombre": "Goles de la fecha 13",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/01/Showdegoles%2313%282%29.mp4",
