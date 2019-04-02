@@ -4,6 +4,16 @@
       "Enlace": "http://104.248.1.138/hls/veopartidos.m3u8",
       "EsWeb": "no"
     },   
+ {
+      "Nombre": "Cerro Porteño vs. Nacional 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "EsWeb": "no"
+    },   
+ {
+      "Nombre": "Cerro Porteño vs. Nacional 3",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "EsWeb": "si"
+    }, 
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
