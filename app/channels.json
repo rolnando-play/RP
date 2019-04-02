@@ -1,4 +1,9 @@
 [
+ {
+      "Nombre": "Cerro Porteño vs. Nacional",
+      "Enlace": "http://104.248.1.138/hls/veopartidos.m3u8",
+      "EsWeb": "no"
+    },   
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
