@@ -291,6 +291,14 @@
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101"
     },
+  {
+      "Nombre": "Mi TV Obligado",
+      "Enlace": "http://inliveserver.com:1935/8314/8314/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mitv.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101"
+    },
     {
       "Nombre": "Noticias Paraguay",
       "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
