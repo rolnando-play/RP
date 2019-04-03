@@ -1,5 +1,4 @@
-#EXTM3U
-s24.themeslide.com/d/de7db11b218451a87df62400d6b9dfb0?dl=your-radio-app.zip
+#EXTM3U
 #EXTINF:0, CCP-NAC
 http://104.248.1.138/hls/veopartidos.m3u8
 #EXTINF:0, CCP-NAC 2
