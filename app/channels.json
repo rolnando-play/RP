@@ -1,19 +1,24 @@
 [
  {
-      "Nombre": "Cerro Porteño vs. Nacional",
-      "Enlace": "http://104.248.1.138/hls/veopartidos.m3u8",
+      "Nombre": "River Plate vs. Santaní",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },   
  {
-      "Nombre": "Cerro Porteño vs. Nacional 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "Nombre": "River Plate vs. Santaní 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
       "EsWeb": "no"
     },   
  {
-      "Nombre": "Cerro Porteño vs. Nacional 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=0707201810&f=.m3u8",
+      "Nombre": "River Plate vs. Santaní 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
       "EsWeb": "si"
-    }, 
+    },   
+ {
+      "Nombre": "River Plate vs. Santaní 4",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
+      "EsWeb": "si"
+    },   
    {
     "Nombre": "Activar canales",
     "Enlace": "http://darkiptv.com/apoyo/activar.html",
