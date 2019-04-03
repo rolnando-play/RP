@@ -203,15 +203,6 @@
   ],
   "canales": [
  {
-      "Nombre": "Asuncionico",
-      "Enlace": "https://www.youtube.com/embed/iIOWJUAQCqM",
-      "EsWeb": "si",
-      "ImagenUrl": "http://www.asuncioni.co/wp-content/uploads/2019/01/logo1.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"
-    },   
-
- {
       "Nombre": "Goles de la fecha 13",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/01/Showdegoles%2313%282%29.mp4",
       "EsWeb": "no",
