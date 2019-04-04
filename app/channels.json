@@ -1,22 +1,22 @@
 [
  {
-      "Nombre": "River Plate vs. Santaní",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
+      "Nombre": "Nacional vs. San Lorenzo",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },   
  {
-      "Nombre": "River Plate vs. Santaní 2",
+      "Nombre": "Nacional vs. San Lorenzo 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
       "EsWeb": "no"
     },   
  {
-      "Nombre": "River Plate vs. Santaní 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
+      "Nombre": "Nacional vs. San Lorenzo 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },   
  {
-      "Nombre": "River Plate vs. Santaní 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
+      "Nombre": "Nacional vs. San Lorenzo 4",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=cspy93",
       "EsWeb": "si"
     },   
    {
