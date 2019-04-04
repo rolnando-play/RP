@@ -32,23 +32,23 @@
     },   
   {
       "Nombre": "Fox Sports",
-      "Enlace": "http://68.183.159.206/hls/veopartidos.m3u8",
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "Fox Sports 2",
-      "Enlace": "http://206.189.216.212/hls/veopartidos.m3u8",
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "Fox Sports 3",
@@ -58,27 +58,27 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "Fox Sports Premium",
-      "Enlace": "http://62.210.116.123/hls/foxp.m3u8",
+      "Enlace": "https://sv18.apgstream.xyz/hls/foxp.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "ESPN 1",
-      "Enlace": "http://195.154.161.113/hls/espn.m3u8",
+      "Enlace": "https://sv18.apgstream.xyz/hls/espn.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "ESPN 2",
@@ -88,67 +88,67 @@
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
 {
       "Nombre": "ESPN 2",
-      "Enlace": "http://futbollibre.online/espn-2/embed.html",
+      "Enlace": "https://linearhlsls2-i.akamaihd.net/hls/live/463004/n17/master.m3u8",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "http://futbollibre.online",
+"Referer":"http://futbollibre.online/espn-2/embed.html"
     },
     {
       "Nombre": "ESPN 3",
-      "Enlace": "http://62.210.116.123/hls/espn3.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/espn3.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn3.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "ESPN+",
-      "Enlace": "http://163.172.13.149/hls/espnplus.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/espnplus.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn+.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "DirecTv Sports",
-      "Enlace": "http://178.128.224.59/hls/veopartidos.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/dtv.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "DirecTv Sports 2",
-      "Enlace": "http://134.209.220.20/hls/veopartidos.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/dtv2.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv2.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
     {
       "Nombre": "DirecTv Sports +",
-      "Enlace": "http://178.128.232.20/hls/veopartidos.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/dtv3.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv+.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
       {
       "Nombre": "Movistar 1",
@@ -192,13 +192,13 @@
     },  
     {
       "Nombre": "TNT Sports",
-      "Enlace": "http://62.210.105.156/hls/tnt.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/tnt.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tntsports.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
 {
       "Nombre": "TSN",
@@ -212,13 +212,13 @@
     },
 {
       "Nombre": "TyC Sports",
-      "Enlace": "http://sv1.futbollibre.net/m3u8/tyc.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/tyc.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tyc.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     },
 {
       "Nombre": "Vamos",
@@ -262,13 +262,13 @@
     },
     {
       "Nombre": "Facebook",
-      "Enlace": "http://62.210.69.39/hls/fb.m3u8",
+      "Enlace": "https://sv3.apgstream.xyz/hls/fb.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fb.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Referer":"https://www.apurogol.net"
     }
   ],
   "canales": [
