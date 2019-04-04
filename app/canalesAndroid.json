@@ -91,9 +91,9 @@
 "Referer":"https://www.apurogol.net"
     },
 {
-      "Nombre": "ESPN 2 HD",
-      "Enlace": "https://linearhlsls2-i.akamaihd.net/hls/live/463004/n17/800.m3u8",
-      "EsWeb": "no",
+      "Nombre": "ESPN 2",
+      "Enlace": "http://futbollibre.online/espn-2/embed.html",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
