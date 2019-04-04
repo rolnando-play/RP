@@ -92,7 +92,7 @@
     },
 {
       "Nombre": "ESPN 2 HD",
-      "Enlace": "https://linearhlsls2-i.akamaihd.net/hls/live/463004/n17/master.m3u8",
+      "Enlace": "https://linearhlsls2-i.akamaihd.net/hls/live/463004/n17/800.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
       "MostrarAds": "no",
