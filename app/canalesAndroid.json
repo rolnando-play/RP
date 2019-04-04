@@ -369,8 +369,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mas.png",
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://player.twitch.tv",
+"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=mastvonline"
     },
   {
       "Nombre": "Mi TV Obligado",
@@ -749,8 +749,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://player.twitch.tv",
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=13arg"
     },
     {
       "Nombre": "E!",
