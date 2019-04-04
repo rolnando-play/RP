@@ -281,46 +281,6 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
-    },  
- {
-      "Nombre": "River Plate vs. Santaní",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
-    },   
- {
-      "Nombre": "River Plate vs. Santaní 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
-    },   
- {
-      "Nombre": "River Plate vs. Santaní 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
-    },   
- {
-      "Nombre": "River Plate vs. Santaní 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
     },   
      {
       "Nombre": "App de TV Argentina",
