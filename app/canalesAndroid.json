@@ -273,15 +273,36 @@
   ],
   "canales": [
 {
-      "Nombre": "Libertad vs. Rosario",
+      "Nombre": "Sporting Cristal vs. Olimpia",
       "Enlace": "https://sv16.apgstream.xyz/hls/fb.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net/es/2019/04/libertad-vs-rosario-central-en-vivo-online-copa-libertadores-2019-en-directo-grupo-h.html"
     },
+ {
+      "Nombre": "Sporting Cristal vs. Olimpia 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+"Origin" : "https://player.twitch.tv",
+"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=cspy93_"
+    },
+{
+      "Nombre": "Sporting Cristal vs. Olimpia 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=cspy93",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+"Origin" : "https://www.apurogol.net",
+"Referer":"https://www.apurogol.net/es/2019/04/libertad-vs-rosario-central-en-vivo-online-copa-libertadores-2019-en-directo-grupo-h.html"
+    },
+
      {
       "Nombre": "App de TV Argentina",
       "Enlace": "https://play.google.com/store/apps/details?id=com.rp.tvargentina",
