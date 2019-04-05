@@ -464,8 +464,8 @@
     },
  {
       "Nombre": "Visión Villarrica",
-      "Enlace": "https://inliveserver.com:1936/8312/8312/chunklist_w810501406.m3u8",
-      "EsWeb": "no",
+      "Enlace": "https://rolnando-play.github.io/canales/vision.html",
+      "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vision.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
