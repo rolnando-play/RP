@@ -10,6 +10,11 @@
       "EsWeb": "si""
     },
 {
+      "Nombre": "Sporting Cristal vs. Olimpia 3",
+      "Enlace": "http://68.183.162.222/hls/veopartidos.m3u8",
+      "EsWeb": "no"
+    },
+{
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
     "EsWeb": "no"
