@@ -1,8 +1,7 @@
-#EXTM3U
-#EXTINF:0, OLIMPIA
-http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8
-#EXTINF:0, OLIMPIA 2
-http://68.183.162.222/hls/veopartidos.m3u8
+#EXTM3U
+
+#EXTINF:0, SUB 17 PY
+http://174.138.118.252/live/canal13stream.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
