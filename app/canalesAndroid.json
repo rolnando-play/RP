@@ -302,6 +302,16 @@
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net/es/2019/04/libertad-vs-rosario-central-en-vivo-online-copa-libertadores-2019-en-directo-grupo-h.html"
     },
+{
+      "Nombre": "Sporting Cristal vs. Olimpia 4",
+      "Enlace": "http://68.183.162.222/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
+"Origin" : "https://www.apurogol.net",
+"Referer":"https://www.apurogol.net/es/2019/04/libertad-vs-rosario-central-en-vivo-online-copa-libertadores-2019-en-directo-grupo-h.html"
+    },
 
      {
       "Nombre": "App de TV Argentina",
