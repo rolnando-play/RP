@@ -1,14 +1,37 @@
 [
-  {
-      "Nombre": "Paraguay vs. Ecuador Sub 17",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+ {
+      "Nombre": "Cerro Porteño vs. General Díaz",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-64bfd0bb3bce23d11b918dcbf9ed5edc_source/index.m3u8",
       "EsWeb": "no"
     },
-{
-      "Nombre": "Sporting Cristal vs. Olimpia 3",
-      "Enlace": "http://68.183.162.222/hls/veopartidos.m3u8",
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz 3",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
+      "EsWeb": "no"
+    },
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz 4",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
+      "EsWeb": "no"
+    },
+   {
+      "Nombre": "Cerro Porteño vs. General Díaz 5",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=futbolparaguayotv",
+      "EsWeb": "si"
+    },{
+      "Nombre": "Cerro Porteño vs. General Díaz 6",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=cspy93",
+      "EsWeb": "si"
+    },{
+      "Nombre": "Cerro Porteño vs. General Díaz 7",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=garra_tv",
+      "EsWeb": "si"
+    },   
 {
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
