@@ -289,8 +289,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://player.twitch.tv",
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=garra_tv"
     },
         {
       "Nombre": "Cerro Porteño vs. General Díaz 3",
@@ -299,8 +299,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://player.twitch.tv",
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=cspy93"
     },
         {
       "Nombre": "Cerro Porteño vs. General Díaz 4",
@@ -309,8 +309,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://player.twitch.tv",
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv"
     },
    {
       "Nombre": "Cerro Porteño vs. General Díaz 5",
@@ -319,8 +319,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://player.twitch.tv",
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv"
     },{
       "Nombre": "Cerro Porteño vs. General Díaz 6",
       "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=cspy93",
