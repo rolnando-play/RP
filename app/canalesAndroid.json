@@ -272,16 +272,74 @@
     }
   ],
   "canales": [
-     {
-      "Nombre": "App de TV Argentina",
-      "Enlace": "https://play.google.com/store/apps/details?id=com.rp.tvargentina",
-      "EsWeb": "si",
-      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/img/tvargentina.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-64bfd0bb3bce23d11b918dcbf9ed5edc_source/index.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
-    },   
+    },
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz 3",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
+        {
+      "Nombre": "Cerro Porteño vs. General Díaz 4",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
+   {
+      "Nombre": "Cerro Porteño vs. General Díaz 5",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=futbolparaguayotv",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },{
+      "Nombre": "Cerro Porteño vs. General Díaz 6",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=cspy93",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },{
+      "Nombre": "Cerro Porteño vs. General Díaz 7",
+      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=garra_tv",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },    
 {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
