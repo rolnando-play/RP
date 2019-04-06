@@ -33,6 +33,11 @@
       "EsWeb": "si"
     },   
 {
+      "Nombre": "Futsal ARG-PAR",
+      "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
+      "EsWeb": "no"
+    },   
+{
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
     "EsWeb": "no"
