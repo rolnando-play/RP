@@ -1,7 +1,6 @@
-#EXTM3U
-
+#EXTM3U
 #EXTINF:0, CCP-GRD
-https://videocdn.mixer.com/hls/56684811-64bfd0bb3bce23d11b918dcbf9ed5edc_source/index.m3u8
+https://videocdn.mixer.com/hls/56684811-d4786af7b8380607889cfe71b441c40c_source/index.m3u8
 #EXTINF:0, CCP-GRD 2
 http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8
 #EXTINF:0, CCP-GRD 3
