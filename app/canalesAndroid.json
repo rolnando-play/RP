@@ -272,16 +272,6 @@
     }
   ],
   "canales": [
-  {
-      "Nombre": "Femenino: Luqueño - Gral Caballero",
-      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/keepalive/yes/id/m2p6Kw9ERKI.1/hfr/1/ipbits/0/go/1/itag/0/ei/hE6qXJbLGMnHxASGqbTQCw/expire/1554686692/ratebypass/yes/dover/11/maudio/1/requiressl/yes/ip/200.108.131.9/key/yt6/signature/5751476173D232E49F8F9FA410E7D1982FF0ACCD.87F58D4C63FCB8F55D9754C7A655BB681D514C84/playlist_type/DVR/gcr/py/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/source/yt_live_broadcast/file/index.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
-    },
 {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
