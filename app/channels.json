@@ -1,42 +1,14 @@
 [
- {
-      "Nombre": "Cerro Porteño vs. General Díaz",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-d4786af7b8380607889cfe71b441c40c_source/index.m3u8",
-      "EsWeb": "no"
-    },
-        {
-      "Nombre": "Cerro Porteño vs. General Díaz 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
-      "EsWeb": "no"
-    },
-        {
-      "Nombre": "Cerro Porteño vs. General Díaz 3",
+  {
+      "Nombre": "Libertad vs. Capiatá",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
       "EsWeb": "no"
     },
-        {
-      "Nombre": "Cerro Porteño vs. General Díaz 4",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no"
+ {
+      "Nombre": "Libertad vs. Capiatá 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=cspy93",
+      "EsWeb": "si"
     },
-   {
-      "Nombre": "Cerro Porteño vs. General Díaz 5",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=futbolparaguayotv",
-      "EsWeb": "si"
-    },{
-      "Nombre": "Cerro Porteño vs. General Díaz 6",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=cspy93",
-      "EsWeb": "si"
-    },{
-      "Nombre": "Cerro Porteño vs. General Díaz 7",
-      "Enlace": "https://player.twitch.tv/?volume=0.5&!muted&channel=garra_tv",
-      "EsWeb": "si"
-    },   
-{
-      "Nombre": "Futsal ARG-PAR",
-      "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
-      "EsWeb": "no"
-    },   
 {
     "Nombre": "Evento 1",
     "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
