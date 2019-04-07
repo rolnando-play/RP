@@ -1,14 +1,10 @@
-#EXTM3U
-#EXTINF:0, CCP-GRD
-https://videocdn.mixer.com/hls/56684811-d4786af7b8380607889cfe71b441c40c_source/index.m3u8
-#EXTINF:0, CCP-GRD 2
+#EXTM3U
+#EXTINF:0, LIB-CAP
 http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8
-#EXTINF:0, CCP-GRD 3
+#EXTINF:0, LIB-CAP 2
 http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8
-#EXTINF:0, CCP-GRD 4
+#EXTINF:0, LIB-CAP 3
 http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
-#EXTINF:0, FUTSAL ARG-PY
-https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
