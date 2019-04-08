@@ -272,27 +272,6 @@
     }
   ],
   "canales": [
- {
-      "Nombre": "Libertad vs. Capiatá",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-"Origin" : "https://player.twitch.tv",
-"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=cspy93"
-    },
- {
-      "Nombre": "Libertad vs. Capiatá 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=cspy93",
-      "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-"Origin" : "https://player.twitch.tv",
-"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=cspy93"
-    },
-
 {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
