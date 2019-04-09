@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, GUA-SSL
-http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8
+#EXTINF:0, SUB17 PER-PAR
+http://174.138.118.252/live/canal13stream.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
