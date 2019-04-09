@@ -1,13 +1,18 @@
 [
-  {
-      "Nombre": "Sub 17 Perú - Paraguay",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+      {
+      "Nombre": "Olimpia vs. Godoy Cruz ",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
       "EsWeb": "no"
     },
- {
-      "Nombre": "Guaraní vs. San Lorenzo 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=cspy93",
+    {
+      "Nombre": "Olimpia vs. Godoy Cruz 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
       "EsWeb": "si"
+    },
+    {
+      "Nombre": "Olimpia vs. Godoy Cruz 3",
+      "Enlace": "http://192.241.143.84/hls/veopartidos.m3u8",
+      "EsWeb": "no"
     },
 {
     "Nombre": "Evento 1",
