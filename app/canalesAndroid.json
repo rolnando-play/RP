@@ -272,7 +272,47 @@
     }
   ],
   "canales": [
-{
+
+{  {
+      "Nombre": "Olimpia vs. Godoy Cruz,
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+"Origin" : "https://www.apurogol.net",
+"Referer":"https://www.apurogol.net"
+    },
+      {
+      "Nombre": "Olimpia vs. Godoy Cruz 2",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+"Origin" : "https://player.twitch.tv",
+"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=cspy93"
+    },
+    {
+      "Nombre": "Olimpia vs. Godoy Cruz 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+"Origin" : "https://player.twitch.tv",
+"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=cspy93"
+    },
+    {
+      "Nombre": "Olimpia vs. Godoy Cruz 4",
+      "Enlace": "http://192.241.143.84/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+"Origin" : "https://player.twitch.tv",
+"Referer" : "https://player.twitch.tv/?volume=1&muted&channel=cspy93"
+    },
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
       "EsWeb": "si",
