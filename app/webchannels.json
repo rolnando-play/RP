@@ -79,14 +79,6 @@
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
     },
-{
-      "NombreW": "ESPN 2",
-      "EnlaceW": "http://futbollibre.online/espn-2/embed.html",
-      "EsWebW": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-"Origin" : "http://futbollibre.online",
-"Referer":"http://futbollibre.online/espn-2/embed.html"
-    },
     {
       "NombreW": "ESPN 3",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/espn3.m3u8",
