@@ -1,4 +1,14 @@
 [
+       {
+      "Nombre": "Ajax-Juventus",
+      "Enlace": "https://satap.global.ssl.fastly.net/live/t1/playlist.m3u8",
+      "EsWeb": "no"
+    },  
+{
+      "Nombre": "Manchester U-Barcelona",
+      "Enlace": "https://k7p8h3m4.stackpathcdn.com/live/t3/playlist.m3u8",
+      "EsWeb": "no"
+}, 
       {
       "Nombre": "Olimpia vs. Godoy Cruz",
       "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
