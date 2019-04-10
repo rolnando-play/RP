@@ -1,11 +1,11 @@
 [
       {
       "NombreW": "test",
-      "EnlaceW": "https://g4.mc-slo.transport.edge-access.net/a08/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8",
+      "EnlaceW": "https://g3.proy-slo.transport.edge-access.net/b12/ngrp:el12_live01-100083_all/el12_live01-100083_540p.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
-"Referer":"https://vmf.edge-apps.net/embed/live.php?streamname=cronicatv_video1-100044&autoplay=true"
+"Referer":"https://vmf.edge-apps.net/embed/live.php?streamname=el12_live01-100083&autoplay=true"
     }, 
 {
       "NombreW": "Bein Sports",
