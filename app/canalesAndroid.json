@@ -274,7 +274,7 @@
   "canales": [
         {
       "Nombre": "Cerro Porteño vs. Mineiro",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
+      "Enlace": "https://sv18.apgstream.xyz/hls/foxp.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
       "MostrarAds": "si",
