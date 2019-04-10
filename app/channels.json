@@ -4,20 +4,20 @@
       "Enlace": "https://rolnando-play.github.io/index.html",
       "EsWeb": "si"
     }, 
-      {
-      "Nombre": "Olimpia vs. Godoy Cruz",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
+         {
+      "Nombre": "Cerro Porteño vs. Mineiro ",
+      "Enlace": "http://134.209.113.11/hls/veopartidos.m3u8",
       "EsWeb": "no"
     },
-    {
-      "Nombre": "Olimpia vs. Godoy Cruz 2",
+        {
+      "Nombre": "Cerro Porteño vs. Mineiro 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy93&f=.m3u8",
+      "EsWeb": "no"
+    },
+        {
+      "Nombre": "Cerro Porteño vs. Mineiro 3",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
       "EsWeb": "si"
-    },
-    {
-      "Nombre": "Olimpia vs. Godoy Cruz 3",
-      "Enlace": "http://192.241.143.84/hls/veopartidos.m3u8",
-      "EsWeb": "no"
     },
       {
       "Nombre": "Activar canales",
