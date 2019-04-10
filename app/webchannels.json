@@ -2,9 +2,7 @@
 {
       "NombreW": "Bein Sports",
       "EnlaceW": "http://68.183.159.206/hls/veopartidos.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinñ.png",
-      "MostrarAds": "no",
+      "EsWeb": "no,
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -13,8 +11,6 @@
       "NombreW": "Bein Sports LaLiga",
       "EnlaceW": "https://storage.tumarcador.xyz/a1/live.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinliga.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -23,8 +19,6 @@
       "NombreW": "CDF",
       "EnlaceW": "http://142.93.70.216/hls/veopartidos.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/cdf.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -33,8 +27,6 @@
       "NombreW": "Fox Sports",
       "EnlaceW": "https://sv4.apgstream.xyz/hls/fox.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -43,8 +35,6 @@
       "NombreW": "Fox Sports 2",
       "EnlaceW": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -53,8 +43,6 @@
       "NombreW": "Fox Sports 3",
       "EnlaceW": "https://sv18.apgstream.xyz/hls/fox3.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs3.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -63,8 +51,6 @@
       "NombreW": "Fox Sports Premium",
       "EnlaceW": "https://sv18.apgstream.xyz/hls/foxp.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -73,8 +59,6 @@
       "NombreW": "ESPN 1",
       "EnlaceW": "https://sv18.apgstream.xyz/hls/espn.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -83,8 +67,6 @@
       "NombreW": "ESPN 2",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/espn2.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -93,8 +75,6 @@
       "NombreW": "ESPN 2",
       "EnlaceW": "http://futbollibre.online/espn-2/embed.html",
       "EsWeb": "si",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
 "Origin" : "http://futbollibre.online",
 "Referer":"http://futbollibre.online/espn-2/embed.html"
@@ -103,8 +83,6 @@
       "NombreW": "ESPN 3",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/espn3.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn3.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -113,8 +91,6 @@
       "NombreW": "ESPN+",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/espnplus.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn+.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -123,8 +99,6 @@
       "NombreW": "DirecTv Sports",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/dtv.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -133,8 +107,6 @@
       "NombreW": "DirecTv Sports 2",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/dtv2.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv2.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -143,8 +115,6 @@
       "NombreW": "DirecTv Sports +",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/dtv3.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv+.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -153,8 +123,6 @@
       "NombreW": "Movistar 1",
       "EnlaceW": "https://live12.s3-accelerate.amazonaws.com/live4.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/movistar.png",
-      "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -163,8 +131,6 @@
       "NombreW": "Movistar 2",
       "EnlaceW": "https://storage.tumarcador.xyz/a1/live.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/movistar.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -173,8 +139,6 @@
       "NombreW": "NBC Sports",
       "EnlaceW": "https://storage.tumarcador.xyz/a3/live.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nbc.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -183,8 +147,6 @@
       "NombreW": "SportsNet",
       "EnlaceW": "https://storage.tumarcador.xyz/a5/live.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sportsnet.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -193,8 +155,6 @@
       "NombreW": "TNT Sports",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/tnt.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tntsports.png",
-      "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -203,8 +163,6 @@
       "NombreW": "TSN",
       "EnlaceW": "https://storage.tumarcador.xyz/t4/live.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tsn.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -213,8 +171,6 @@
       "NombreW": "TyC Sports",
       "EnlaceW": "https://sv3.apgstream.xyz/hls/tyc.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tyc.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net"
@@ -223,8 +179,6 @@
       "NombreW": "Vamos",
       "EnlaceW": "https://storage.tumarcador.xyz/a8/live.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vamos.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -233,8 +187,6 @@
       "NombreW": "SporTV",
       "EnlaceW": "http://157.230.1.152/hls/veopartidos.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sportv.png",
-      "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
@@ -243,8 +195,6 @@
       "Nombre": "Facebook",
       "Enlace": "https://sv16.apgstream.xyz/hls/fb.m3u8",
       "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fb.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
 "Origin" : "https://www.apurogol.net",
 "Referer":"https://www.apurogol.net/es/2019/04/libertad-vs-rosario-central-en-vivo-online-copa-libertadores-2019-en-directo-grupo-h.html"
