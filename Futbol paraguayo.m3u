@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0, OLIMPIA 
+#EXTINF:0, CERRO
+http://134.209.113.11/hls/veopartidos.m3u8
+#EXTINF:0, CERRO 2
 http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8
-#EXTINF:0, OLIMPIA 2
-http://192.241.143.84/hls/veopartidos.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
