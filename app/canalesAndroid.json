@@ -312,6 +312,16 @@
 "Origin" : "https://player.twitch.tv/",
 "Referer":"https://player.twitch.tv/?volume=1&muted&channel=cspy93"
     },
+  {
+      "Nombre": "Cerro Porteño vs. Mineiro 5",
+      "Enlace": "http://23.237.22.230:8000/d4rk1ptv2.0/y4v4l1st3jsjsjs124z./232",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
 {
       "Nombre": "Goles - fecha 15",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/10/showdegoles%282%29.mp4",
