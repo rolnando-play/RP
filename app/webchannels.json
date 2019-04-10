@@ -121,7 +121,7 @@
     },
       {
       "NombreW": "Movistar 1",
-      "EnlaceW": "https://live12.s3-accelerate.amazonaws.com/live4.m3u8",
+      "EnlaceW": "https://satap.global.ssl.fastly.net/live/t1/playlist.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
@@ -129,7 +129,7 @@
     },  
 {
       "NombreW": "Movistar 2",
-      "EnlaceW": "https://storage.tumarcador.xyz/a1/live.m3u8",
+      "EnlaceW": "https://k7p8h3m4.stackpathcdn.com/live/t3/playlist.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://www.apurogol.net",
