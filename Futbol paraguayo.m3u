@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:0, CERRO
-http://134.209.113.11/hls/veopartidos.m3u8
-#EXTINF:0, CERRO 2
-http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8
+#EXTINF:0, UC-LIB
+http://68.183.48.213/hls/veopartidos.m3u8
 #EXTINF:0, EVENTO 1
 http://62.210.105.125/hls/fox.m3u8
 #EXTINF:0, EVENTO 2
