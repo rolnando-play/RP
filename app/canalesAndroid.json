@@ -272,36 +272,6 @@
     }
   ],
   "canales": [
-        {
-      "Nombre": "U Católica vs. Libertad",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"https://www.apurogol.net"
-    },
-         {
-      "Nombre": "U Católica vs. Libertad 2",
-      "Enlace": "http://68.183.48.213/hls/veopartidos.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://player.twitch.tv/",
-"Referer":"https://player.twitch.tv/?volume=1&muted&channel=cspy93"
-    },
-  {
-      "Nombre": "U Católica vs. Libertad 3",
-      "Enlace": "http://23.237.22.230:8000/finalamerica/v4sh4c3rm1prr4jsjs/557",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
-    },
 {
       "Nombre": "Goles - fecha 15",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/10/showdegoles%282%29.mp4",
