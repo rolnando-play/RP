@@ -5,9 +5,24 @@
       "EsWeb": "si"
     }, 
          {
-      "Nombre": "U Católica vs. Libertad",
-      "Enlace": "http://68.183.48.213/hls/veopartidos.m3u8",
+      "Nombre": "Capiatá vs. Guaraní",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
       "EsWeb": "no"
+    },
+{
+      "Nombre": "Capiatá vs. Guaraní 2",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "Capiatá vs. Guaraní 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
+      "EsWeb": "si"
+    },
+        {
+      "Nombre": "Capiatá vs. Guaraní 4",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
+      "EsWeb": "si"
     },
       {
       "Nombre": "Activar canales",
