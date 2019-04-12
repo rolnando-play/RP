@@ -325,7 +325,7 @@
     },
    {
       "Nombre": "Central TV",
-      "Enlace": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/playlist.m3u8 ",
+      "Enlace": "http://59ce1298bfb98.streamlock.net/centraltv/centraltv/playlist.m3u8 ",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/central.png",
       "MostrarAds": "no",
