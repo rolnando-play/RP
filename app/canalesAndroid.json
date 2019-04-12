@@ -312,6 +312,17 @@
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
     },
+         {
+      "Nombre": "test",
+      "Enlace": "https://neunlds13dal.akamaized.net/nlds/tigopy/drm/dcapiat/as/live/nlncp/dcapiat_hd_pc.mpd?h=6aee9c7f58deb25f96c8193d4c25ff28.1555106739049&hdnea=exp=1555106799~acl=/*~hmac=259CAEBCECFC9690EB0C0837004713BEBF22E139DEB851E139E09E6DDC9C0FE3&nltid=tigopy&nltdt=0&uid=315%3Amvpd%3Atigoh-asd%40hotmail.com",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gg.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+"Origin" : "https://envivo.tigosports.com.py",
+"Referer":"https://envivo.tigosports.com.py/transmision/461333"
+    },
+        
 {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
