@@ -323,6 +323,17 @@
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
     },
+   {
+      "Nombre": "Central TV",
+      "Enlace": "http://video.camaronhosting.com:1935/centraltv/centraltv/playlist.m3u8 ",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/central.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
+ 
     {
       "Nombre": "Farra Play",
       "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
