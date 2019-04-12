@@ -274,13 +274,13 @@
   "canales": [
         {
       "Nombre": "Capiatá vs. Guaraní",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy93&f=.m3u8",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://player.twitch.tv",
-"Referer":"https://player.twitch.tv/?volume=1&muted&channel=cspy93"
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
 {
       "Nombre": "Capiatá vs. Guaraní 2",
@@ -294,7 +294,7 @@
     },
 {
       "Nombre": "Capiatá vs. Guaraní 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy93",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
