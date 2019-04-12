@@ -11,7 +11,7 @@
     },
 {
       "Nombre": "Capiatá vs. Guaraní 2",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
 {
@@ -21,7 +21,7 @@
     },
         {
       "Nombre": "Capiatá vs. Guaraní 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si"
     },
       {
