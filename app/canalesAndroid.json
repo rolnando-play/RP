@@ -284,13 +284,13 @@
     },
 {
       "Nombre": "Capiatá vs. Guaraní 2",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
 "Origin" : "https://player.twitch.tv",
-"Referer":"https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv"
+"Referer":"https://player.twitch.tv/?volume=1&muted&channel=garra_tv"
     },
 {
       "Nombre": "Capiatá vs. Guaraní 3",
@@ -304,7 +304,7 @@
     },
         {
       "Nombre": "Capiatá vs. Guaraní 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
