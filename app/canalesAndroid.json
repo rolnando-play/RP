@@ -325,13 +325,13 @@
     },
    {
       "Nombre": "Central TV",
-      "Enlace": "http://video.camaronhosting.com:1935/centraltv/centraltv/playlist.m3u8 ",
+      "Enlace": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/playlist.m3u8 ",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/central.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "http://paraguayonline.net",
+"Referer":"http://paraguayonline.net/centraltv"
     },
  
     {
