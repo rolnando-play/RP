@@ -364,6 +364,16 @@
 "Origin" : "https://www.apurogol.net",
 "Referer":"http://google.com"
     },
+   {
+      "Nombre": "Lambaré TV",
+      "Enlace": "https://59ce1298bfb98.streamlock.net/unity/unity/playlist.m3u8",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/lambare.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "http://paraguayonline.net",
+"Referer":"http://paraguayonline.net/tvlambare"
+    },
     {
       "Nombre": "Latele",
       "Enlace": "https://iframe.dacast.com/b/111090/c/475792",
