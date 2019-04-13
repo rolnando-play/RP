@@ -5,23 +5,13 @@
       "EsWeb": "si"
     }, 
          {
-      "Nombre": "San Lorenzo vs. Luqueño",
+      "Nombre": "Olimpia vs. Sol",
       "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no"
     },
 {
-      "Nombre": "San Lorenzo vs. Luqueño 2",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "San Lorenzo vs. Luqueño 3",
+      "Nombre": "Olimpia vs. Sol 3",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
-      "EsWeb": "si"
-    },
-        {
-      "Nombre": "San Lorenzo vs. Luqueño 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si"
     },
       {
