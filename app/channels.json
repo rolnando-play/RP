@@ -14,14 +14,24 @@
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si"
     },
- {
-      "Nombre": "Olimpia vs. Sol 3",
+{
+      "Nombre": "Olimpia vs. Sol de América 3",
       "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
-{
-      "Nombre": "Olimpia vs. Sol 4",
+   {
+      "Nombre": "Olimpia vs. Sol de América 4",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
+      "EsWeb": "si"
+    },
+{
+      "Nombre": "Olimpia vs. Sol de América 5",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "EsWeb": "no"
+    },
+   {
+      "Nombre": "Olimpia vs. Sol de América 6",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
       {
