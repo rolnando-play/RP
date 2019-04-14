@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0, RIV-CCP
+#EXTINF:0, GRD-LIB
 http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8
-#EXTINF:0, RIV-CCP 2
+#EXTINF:0, GRD-LIB 2
 http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8
-#EXTINF:0, RIV-CCP 3
+#EXTINF:0, GRD-LIB 3
 http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayot &f=.m3u8
