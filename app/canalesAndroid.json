@@ -283,6 +283,16 @@
   ],
   "canales": [
 {
+      "Nombre": "test",
+      "Enlace": "http://darkiptv.com/apoyo/activar.html",
+      "EsWeb": "si",
+      "ImagenUrl": "http://pluspng.com/img-png/the-seven-kingdoms-of-westeros-are-a-dangerous-place-the-iron-throne-is-the-heart-of-power-throughout-this-expansive-realm-840.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
+{
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
       "EsWeb": "si",
