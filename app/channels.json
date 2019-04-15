@@ -1,5 +1,11 @@
 [
       {
+      "Nombre": "Game of Thrones",
+      "Enlace": "https://livetum01.s3-accelerate.amazonaws.com/t4/t4.m3u8",
+      "EsWeb": "no"
+    }, 
+      
+      {
       "Nombre": "Actualización",
       "Enlace": "https://rolnando-play.github.io/index.html",
       "EsWeb": "si"
