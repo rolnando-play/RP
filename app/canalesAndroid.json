@@ -282,16 +282,6 @@
     }
   ],
   "canales": [
-         {
-      "Nombre": "Game of Thrones",
-      "Enlace": "https://livetum01.s3-accelerate.amazonaws.com/t4/t4.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
-    },
 {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
