@@ -283,6 +283,16 @@
   ],
   "canales": [
 {
+      "Nombre": "Goles - fecha 16",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/15/Showdegoles%2316%282%29.mp4",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
+{
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
       "EsWeb": "si",
