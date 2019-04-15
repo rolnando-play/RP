@@ -282,6 +282,17 @@
     }
   ],
   "canales": [
+    {
+      "Nombre": "test",
+      "Enlace": "https://r4---sn-bg0ezn7e.googlevideo.com/videoplayback?id=eaa937a255a2aa7c&itag=22&source=picasa&begin=0&requiressl=yes&pl=24&sc=yes&ei=qQW1XNb2OsOtVbbJncgD&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=3345.391&lmt=1555366767799285&ipbits=0&keepalive=yes&ratebypass=yes&ip=62.210.87.110&expire=1555374537&sparams=app,cnr,dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,requiressl,sc,source,susc&signature=4ACD2D6CA29A6263DDE94729FFC2C5F7D49FBE46.1A9E2AF55AD429A2858111BC0F7CD546CB527A04&key=cms1&redirect_counter=1&rm=sn-25gk67z&req_id=fb2680d2eb72a3ee&cms_redirect=yes&ipbypass=yes&mip=200.108.131.6&mm=30&mn=sn-bg0ezn7e&ms=nxu&mt=1555367594&mv=u",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },    
+        
 {
       "Nombre": "Goles - fecha 16",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/15/Showdegoles%2316%282%29.mp4",
