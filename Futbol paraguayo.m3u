@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:0, NAC-SAN
-http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8
-#EXTINF:0, NAC-SAN 2
-http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8
-#EXTINF:0, NAC-SAN 3
-http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayot &f=.m3u8
+#EXTINF:0, GOT
+https://livetum01.s3-accelerate.amazonaws.com/t4/t4.m3u8
