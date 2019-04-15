@@ -284,7 +284,7 @@
   "canales": [
     {
       "Nombre": "test",
-      "Enlace": "https://r4---sn-bg0ezn7e.googlevideo.com/videoplayback?id=eaa937a255a2aa7c&itag=22&source=picasa&begin=0&requiressl=yes&pl=24&sc=yes&ei=qQW1XNb2OsOtVbbJncgD&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=3345.391&lmt=1555366767799285&ipbits=0&keepalive=yes&ratebypass=yes&ip=62.210.87.110&expire=1555374537&sparams=app,cnr,dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,requiressl,sc,source,susc&signature=4ACD2D6CA29A6263DDE94729FFC2C5F7D49FBE46.1A9E2AF55AD429A2858111BC0F7CD546CB527A04&key=cms1&redirect_counter=1&rm=sn-25gk67z&req_id=fb2680d2eb72a3ee&cms_redirect=yes&ipbypass=yes&mip=200.108.131.6&mm=30&mn=sn-bg0ezn7e&ms=nxu&mt=1555367594&mv=u",
+      "Enlace": "https://pelispedia.stream/hls/84330f521cc076baafcba0208b7e3703/84330f521cc076baafcba0208b7e3703.playlist.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
       "MostrarAds": "no",
