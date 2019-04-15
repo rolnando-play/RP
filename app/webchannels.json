@@ -1,4 +1,12 @@
 [
+      {
+      "Nombre": "test",
+      "Enlace": "http://23.237.22.230:8000/g0thb03str3n0/nu3v0sc4p1tul0s/2",
+      "EsWeb": "no",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+},
 {
       "NombreW": "Bein Sports",
       "EnlaceW": "http://68.183.159.206/hls/veopartidos.m3u8",
