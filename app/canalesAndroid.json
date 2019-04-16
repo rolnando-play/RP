@@ -292,7 +292,16 @@
 "Origin" : "https://pelispedia.tv",
 "Referer":"https://pelispedia.stream/public/dist/index.html?id=84330f521cc076baafcba0208b7e3703&sub=Game.of.Thrones.S08E01"
     },    
-        
+        {
+      "Nombre": "test 2",
+      "Enlace": "http://23.237.22.230:8000/g0thb03str3n0/nu3v0sc4p1tul0s/28",
+      "EsWeb": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/jj.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "https://www.apurogol.net",
+"Referer":"http://google.com"
+    },
 {
       "Nombre": "Goles - fecha 16",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/04Abril/15/Showdegoles%2316%282%29.mp4",
