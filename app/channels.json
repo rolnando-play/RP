@@ -1,4 +1,34 @@
 [
+{
+      "Nombre": "Futbol paraguayo",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Futbol paraguayo 2",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Futbol paraguayo 3",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Futbol paraguayo 4",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Futbol paraguayo 5",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Futbol paraguayo 6",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
+      "EsWeb": "si"
+    },
       {
       "Nombre": "Actualización",
       "Enlace": "https://rolnando-play.github.io/index.html",
