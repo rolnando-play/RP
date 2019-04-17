@@ -1619,6 +1619,17 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "http://google.com"
     },
+  {
+      "Nombre": "TVC Deportes",
+      "Enlace": "http://23.237.22.230:8000/nu3v0sd4t0s/d4rktv3lm3j0r/121",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvc.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "http://google.com"
+    },
     {
       "Nombre": "TVP Argentina",
       "Enlace": "https://chunks01.tvpublica.com.ar/video/BJQRNMF6b.m3u8",
