@@ -310,6 +310,17 @@
     }
   ],
   "canales": [
+
+      "Nombre": "Vorterix",
+      "Enlace": "https://prepublish.f.qaotic.net:443/epa2/ngrp:vorterix_video1-20057_all/chunklist_b1491000.m3u8?sense=true",
+      "EsWeb": "no",
+"Subs": "https://github.com/rolnando-play/RP/raw/master/subs/got0801.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/vorterix.png",
+"MostrarAds": "no",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+"Origin": "https://vmf.edge-apps.net",
+      "Referer": "https://vmf.edge-apps.net/embed/universal_v2?asset=vorterix_video1-20057&type=live&autoplay=true&pdk=2.0.0&playerMode=jwp6"
+    },
     {
       "Nombre": "GOT S08E01",
       "Enlace": "https://pelispedia.stream/hls/84330f521cc076baafcba0208b7e3703/84330f521cc076baafcba0208b7e3703.playlist.m3u8",
