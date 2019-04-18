@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, FUTBOL PYO
-http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8
+http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=cspy97&f=.m3u8
 #EXTINF:0, FUTBOL PYO 2
-http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8
+http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=garra_tv&f=.m3u8
 #EXTINF:0, FUTBOL PYO 3
-http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8
+http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=futbolparaguayotv&f=.m3u8
