@@ -311,6 +311,18 @@
   ],
   "canales": [
 {
+      "Nombre": "Tigo Sports",
+      "Enlace": "http://megatv.live/pame/pame/200",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+
+{
       "Nombre": "Futbol paraguayo",
       "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no",
