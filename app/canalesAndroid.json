@@ -310,6 +310,17 @@
     }
   ],
   "canales": [
+ {
+      "Nombre": "Los Vengadores",
+      "Enlace": "https://1fhjljl.oloadcdn.net/dl/l/vHrVSrH7Ld4yheO1/bWdAfzjYAzA/tt0848228.sub.hd.repelis.mp4.mp4?mime=true",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vengadores.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
     {
       "Nombre": "GOT S08E01",
       "Enlace": "https://pelispedia.stream/hls/84330f521cc076baafcba0208b7e3703/84330f521cc076baafcba0208b7e3703.playlist.m3u8",
