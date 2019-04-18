@@ -311,17 +311,6 @@
   ],
   "canales": [
     {
-      "Nombre": "test",
-      "Enlace": "http://servicioamerica.com:1935/8312/8312/master.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/got0801.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
-    {
       "Nombre": "GOT S08E01",
       "Enlace": "https://pelispedia.stream/hls/84330f521cc076baafcba0208b7e3703/84330f521cc076baafcba0208b7e3703.playlist.m3u8",
       "EsWeb": "no",
@@ -554,14 +543,14 @@
     },
     {
       "Nombre": "Visión Villarrica",
-      "Enlace": "https://rolnando-play.github.io/canales/vision.html",
-      "EsWeb": "si",
+      "Enlace": "http://servicioamerica.com:1935/8312/8312/master.m3u8",
+      "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vision.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
-      "Origin": "http://www.radiosenparaguay.com",
-      "Referer": "http://www.radiosenparaguay.com/visiontv"
+      "Origin": "",
+      "Referer": ""
     },
     {
       "Nombre": "A&E",
