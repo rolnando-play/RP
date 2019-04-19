@@ -1,0 +1,26 @@
+{
+  "peliculas": [
+    {
+      "Nombre": "Bein Sports",
+      "Enlace": "http://68.183.159.206/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinñ.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "http://google.com"
+    },
+    {
+      "Nombre": "Bein Sports LaLiga",
+      "Enlace": "https://tum.azureedge.net/live/t1/playlist.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinliga.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "http://google.com"
+    }
+  ]
+}
