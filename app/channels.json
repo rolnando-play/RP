@@ -1,31 +1,37 @@
 [
+      
 {
       "Nombre": "Cerro Porteño vs. Olimpia",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-03240faa07f3aadcf92b82e4ecc97f22_source/index.m3u8",
+      "EsWeb": "no"
+    },
+{
+      "Nombre": "Cerro Porteño vs. Olimpia2",
       "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no"
     },
       {
-      "Nombre": "Cerro Porteño vs. Olimpia 2",
+      "Nombre": "Cerro Porteño vs. Olimpia 3",
       "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 3",
+      "Nombre": "Cerro Porteño vs. Olimpia 4",
       "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 4",
+      "Nombre": "Cerro Porteño vs. Olimpia 5",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si"
     },
       {
-      "Nombre": "Cerro Porteño vs. Olimpia 5",
+      "Nombre": "Cerro Porteño vs. Olimpia 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 6",
+      "Nombre": "Cerro Porteño vs. Olimpia 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
