@@ -1,31 +1,21 @@
 [
 {
-      "Nombre": "Futbol paraguayo",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=cspy97&f=.m3u8",
+      "Nombre": "Previa clásico",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=garra_tv&f=.m3u8",
+      "Nombre": "Previa clásico 2",
+      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Futbol paraguayo 3",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no"
-    },
-    {
-      "Nombre": "Futbol paraguayo 4",
+      "Nombre": "Previa clásico 3",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si"
     },
     {
-      "Nombre": "Futbol paraguayo 5",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
-      "EsWeb": "si"
-    },
-    {
-      "Nombre": "Futbol paraguayo 6",
+      "Nombre": "Previa clásico 4",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
