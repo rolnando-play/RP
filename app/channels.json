@@ -15,23 +15,33 @@
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
-    {
+ {
       "Nombre": "Cerro Porteño vs. Olimpia 4",
-      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=oliimpiavscerro&f=.m3u8",
+      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=elmandiokero&f=.m3u8",
       "EsWeb": "no"
     },
     {
       "Nombre": "Cerro Porteño vs. Olimpia 5",
+      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=oliimpiavscerro&f=.m3u8",
+      "EsWeb": "no"
+    },
+    {
+      "Nombre": "Cerro Porteño vs. Olimpia 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si"
     },
       {
-      "Nombre": "Cerro Porteño vs. Olimpia 6",
+      "Nombre": "Cerro Porteño vs. Olimpia 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si"
     },
+{
+      "Nombre": "Cerro Porteño vs. Olimpia 8",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=elmandiokero",
+      "EsWeb": "si"
+    },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 7",
+      "Nombre": "Cerro Porteño vs. Olimpia 9",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro",
       "EsWeb": "si"
     },
