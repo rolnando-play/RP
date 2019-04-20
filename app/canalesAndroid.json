@@ -323,7 +323,7 @@
     },
 {
       "Nombre": "Cerro Porteño vs. Olimpia 2",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=cspy97&f=.m3u8",
+      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -334,7 +334,7 @@
     },
      {
       "Nombre": "Cerro Porteño vs. Olimpia 3",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=garra_tv&f=.m3u8",
+      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -345,7 +345,7 @@
     },
     {
       "Nombre": "Cerro Porteño vs. Olimpia 4",
-      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=oliimpiavscerro&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -378,7 +378,7 @@
     },
     {
       "Nombre": "Cerro Porteño vs. Olimpia 7",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
