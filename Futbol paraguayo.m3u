@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:0, FUTBOL PYO
-https://videocdn.mixer.com/hls/56684811-4ad3e20c614cdb53bfc33c0a5ad2c606_source/index.m3u8
-#EXTINF:0, FUTBOL PYO 2
 http://milytvtv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8
-#EXTINF:0, FUTBOL PYO 3
+#EXTINF:0, FUTBOL PYO 2
 http://milytvtv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8
-#EXTINF:0, FUTBOL PYO 4
+#EXTINF:0, FUTBOL PYO 3
 http://milytvtv.000webhostapp.com/twich.php?canal=oliimpiavscerro&f=.m3u8
-#EXTINF:0, FUTBOL PYO 5
+#EXTINF:0, FUTBOL PYO 4
 http://milytvtv.000webhostapp.com/twich.php?canal=elmandiokero&f=.m3u8
