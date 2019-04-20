@@ -1,6 +1,61 @@
 {
   "peliculas": [
+  {
+      "Nombre": "Capitan America: El Primer Vengador",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv0458339s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/capitan.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
     {
+      "Nombre": "Iron Man",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv0371746s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ironman.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "El Increible Hulk",
+      "Enlace": "https://cdn3.openloadpremium.com/hls/295641a9349f33cb8d53a2e384403231/295641a9349f33cb8d53a2e384403231.playlist.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hulk.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Iron Man 2",
+      "Enlace": "https://storage.googleapis.com/spatial-racer-235722.appspot.com/cv1228705s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ironman2.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Thor",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv0800369s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/thor.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+  {
       "Nombre": "Los Vengadores",
       "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv0848228s.mp4",
       "EsWeb": "no",
@@ -11,5 +66,170 @@
       "Origin": "",
       "Referer": ""
 }
+    {
+      "Nombre": "Iron Man 3",
+      "Enlace": "https://storage.googleapis.com/spatial-racer-235722.appspot.com/cv1300854s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ironman3.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+{
+      "Nombre": "Capitan America: El Soldado Del Invierno",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv1843866s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/capitansoldado.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Thor: El Mundo Oscuro",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv1981115s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/thormundo.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Guardianes De La Galaxia",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv2015381s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/guardianes.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Guardianes De La Galaxia 2",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv3896198s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/guardianes2.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Los Vengadores: La Era De Ultron",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv2395427s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/avengersultron.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Ant-Man",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv0478970s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/antman.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Capitan América: Civil War",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv3498820s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/capitancivil.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Spiderman: Homecoming",
+      "Enlace": "https://storage.googleapis.com/spatial-racer-235722.appspot.com/cv2250912sv2.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/spiderman.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+{
+      "Nombre": "Dr. Strange",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv1211837s.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/drstrange.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Thor: Ragnarok",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/tt3501632_SUBP_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/thorragnarok.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Black Panther",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv1825683sv2.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/blackpanther.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Los Vengadores: Infinity War",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/tt4154756_SUBP_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/avengersinfinity.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Ant-Man Y La Avispa",
+      "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/tt5095030_SUBP_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/antmanavispa.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Capitana Marvel",
+      "Enlace": "https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt4154664_SUBP_TS.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/capitana.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    }
   ]
 }
