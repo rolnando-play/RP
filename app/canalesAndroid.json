@@ -312,7 +312,7 @@
   "canales": [
 {
       "Nombre": "Previa clásico",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
+      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -323,7 +323,7 @@
     },
     {
       "Nombre": "Previa clásico 2",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
+      "Enlace": "http://freddytv.000webhostapp.com/futbolparaguayotv/twich.php?canal=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
