@@ -1,47 +1,41 @@
 [
-      
 {
-      "Nombre": "Cerro Porteño vs. Olimpia",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-4ad3e20c614cdb53bfc33c0a5ad2c606_source/index.m3u8",
-      "EsWeb": "no"
-    },
-{
-      "Nombre": "Cerro Porteño vs. Olimpia 2",
+      "Nombre": "Futbol paraguayo",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no"
     },
       {
-      "Nombre": "Cerro Porteño vs. Olimpia 3",
+      "Nombre": "Futbol paraguayo 2",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
  {
-      "Nombre": "Cerro Porteño vs. Olimpia 4",
+      "Nombre": "Futbol paraguayo 3",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=elmandiokero&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 5",
+      "Nombre": "Futbol paraguayo 4",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=oliimpiavscerro&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 6",
+      "Nombre": "Futbol paraguayo 5",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si"
     },
       {
-      "Nombre": "Cerro Porteño vs. Olimpia 7",
+      "Nombre": "Futbol paraguayo 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si"
     },
 {
-      "Nombre": "Cerro Porteño vs. Olimpia 8",
+      "Nombre": "Futbol paraguayo 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=elmandiokero",
       "EsWeb": "si"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 9",
+      "Nombre": "Futbol paraguayo 8",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro",
       "EsWeb": "si"
     },
