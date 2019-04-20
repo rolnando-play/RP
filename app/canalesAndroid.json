@@ -311,7 +311,7 @@
   ],
   "canales": [
 {
-      "Nombre": "Futbol paraguayo",
+      "Nombre": "Previa clásico",
       "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -322,18 +322,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 3",
+      "Nombre": "Previa clásico 2",
       "Enlace": "http://freddytv.000webhostapp.com/twich.php?canal=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -344,7 +333,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Futbol paraguayo 4",
+      "Nombre": "Previa clásico 3",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -355,18 +344,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Futbol paraguayo 5",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 6",
+      "Nombre": "Previa clásico 4",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
