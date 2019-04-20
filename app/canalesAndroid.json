@@ -310,20 +310,9 @@
     }
   ],
   "canales": [
-    {
-      "Nombre": "Cerro Porteño vs. Olimpia",
-      "Enlace": "https://videocdn.mixer.com/hls/56684811-4ad3e20c614cdb53bfc33c0a5ad2c606_source/index.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://mixer.com",
-      "Referer": "https://mixer.com/GoofierGarlic92/mobile"
-    },
 {
-      "Nombre": "Cerro Porteño vs. Olimpia 2",
-      "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=cspy97&f=.m3u8",
+      "Nombre": "Futbol paraguayo",
+      "Enlace": "https://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -333,7 +322,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
      {
-      "Nombre": "Cerro Porteño vs. Olimpia 3",
+      "Nombre": "Futbol paraguayo 2",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=garra_tv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -344,7 +333,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
  {
-      "Nombre": "Cerro Porteño vs. Olimpia 4",
+      "Nombre": "Futbol paraguayo 3",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=elmandiokero&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -355,7 +344,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 5",
+      "Nombre": "Futbol paraguayo 4",
       "Enlace": "http://milytvtv.000webhostapp.com/twich.php?canal=oliimpiavscerro&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -366,7 +355,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 6",
+      "Nombre": "Futbol paraguayo 5",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -377,7 +366,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
      {
-      "Nombre": "Cerro Porteño vs. Olimpia 7",
+      "Nombre": "Futbol paraguayo 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -388,7 +377,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
   {
-      "Nombre": "Cerro Porteño vs. Olimpia 8",
+      "Nombre": "Futbol paraguayo 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=elmandiokero",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -399,7 +388,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Cerro Porteño vs. Olimpia 9",
+      "Nombre": "Futbol paraguayo 8",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
