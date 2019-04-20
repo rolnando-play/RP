@@ -178,14 +178,14 @@
     },
     {
       "Nombre": "Movistar 1",
-      "Enlace": "https://servidor1234.s3-accelerate.amazonaws.com/t4/t4.m3u8",
+      "Enlace": "https://perqedsoe.s3-accelerate.amazonaws.com/t3/t3.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/movistar.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "https://tumarcador.xyz",
-      "Referer": "https://tumarcador.xyz/ac4.php"
+      "Referer": "https://tumarcador.xyz/ac3.php"
     },
     {
       "Nombre": "Movistar 2",
