@@ -310,6 +310,17 @@
     }
   ],
   "canales": [
+     {
+      "Nombre": "Game Of Thrones en vivo",
+      "Enlace": "https://tumarcador0.s3-accelerate.amazonaws.com/t1/t1.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "https://tumarcador.xyz",
+      "Referer": "https://tumarcador.xyz/ac1.php"
+    },
  {
       "Nombre": "Futbol paraguayo",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8",
