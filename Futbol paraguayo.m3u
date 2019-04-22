@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, GOT
+https://tumarcador0.s3-accelerate.amazonaws.com/t1/t1.m3u8
 #EXTINF:0, FUTBOL PYO
 http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8
 #EXTINF:0, FUTBOL PYO 2
