@@ -276,28 +276,6 @@
       "Referer": "http://google.com"
     },
     {
-      "Nombre": "Superliga 1",
-      "Enlace": "http://sv1.futbollibre.net/superliga2.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/superliga.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
-    },
-    {
-      "Nombre": "Superliga 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/superliga.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/superliga.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
-    },
-    {
       "Nombre": "Facebook",
       "Enlace": "https://sv16.apgstream.xyz/hls/fb.m3u8",
       "EsWeb": "no",
