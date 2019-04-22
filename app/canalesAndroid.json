@@ -321,47 +321,6 @@
       "Origin": "https://tumarcador.xyz",
       "Referer": "https://tumarcador.xyz/ac1.php"
     },
- {
-      "Nombre": "Futbol paraguayo",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=mastvonline"
-    }, {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=mastvonline"
-    }, {
-      "Nombre": "Futbol paraguayo 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://pelispedia.tv",
-      "Referer": "https://pelispedia.stream/public/dist/index.html?id=84330f521cc076baafcba0208b7e3703&sub=Game.of.Thrones.S08E01"
-    }, {
-      "Nombre": "Futbol paraguayo 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://pelispedia.tv",
-      "Referer": "https://pelispedia.stream/public/dist/index.html?id=84330f521cc076baafcba0208b7e3703&sub=Game.of.Thrones.S08E01"
-    },
     {
       "Nombre": "GOT S08E01",
       "Enlace": "https://pelispedia.stream/hls/84330f521cc076baafcba0208b7e3703/84330f521cc076baafcba0208b7e3703.playlist.m3u8",
