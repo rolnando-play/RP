@@ -402,11 +402,11 @@
     },
     {
       "Nombre": "Telefé",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tv_fk&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tele_ss&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/telefe.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
-      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=13arg"
     },
     {
       "Nombre": "Telejunin",
