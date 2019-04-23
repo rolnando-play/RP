@@ -40,6 +40,14 @@
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
       "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
     },
+     {
+      "Nombre": "C5N",
+      "Enlace": "https://www.youtube.com/watch?v=_YCapf_RMKw",
+      "EsWeb": "si",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/c5n.png",
+      "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
+      "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=magazine_live01-100083&autoplay=true"
+    },
     {
       "Nombre": "CN23",
       "Enlace": "https://www.youtube.com/embed/live_stream?channel=UCC05qIa00qEB06CtCi01NbQ",
