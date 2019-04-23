@@ -266,11 +266,11 @@
     },
 {
       "Nombre": "El Trece",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=13arg&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=133_tv&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/eltrece.png",
       "UserAgent": "Lavf/56.40.101",
-   "Referer": "https://vmf.edge-apps.net/embed/live.php?streamname=el12_live01-100083&autoplay=true"
+   "Referer": "https://player.twitch.tv/?volume=1&muted&channel=133_tv"
     },
     {
       "Nombre": "El once",
