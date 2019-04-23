@@ -1,21 +1,16 @@
 [
-{
-      "Nombre": "Futbol paraguayo",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8",
+    {
+      "Nombre": "U de Concepcion vs. Olimpia",
+      "Enlace": "http://165.22.129.189/hls/veopartidos.m3u8",
       "EsWeb": "no"
-    }, {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tb&f=.m3u8",
-      "EsWeb": "no"
-    }, {
-      "Nombre": "Futbol paraguayo 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=cspy97",
-      "EsWeb": "si"
-    }, {
-      "Nombre": "Futbol paraguayo 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
-      "EsWeb": "si"
     },
+   
+    {
+      "Nombre": "Libertad vs. Gremio",
+      "Enlace": "http://68.183.155.180/hls/veopartidos3.m3u8",
+      "EsWeb": "no"
+    },
+    
       {
       "Nombre": "Actualización",
       "Enlace": "https://rolnando-play.github.io/index.html",
