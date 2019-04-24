@@ -165,6 +165,17 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
+  {
+      "Nombre": "DirecTv Sports Norte",
+      "Enlace": "https://sv16.apgstream.xyz/hls/dtv1.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
     {
       "Nombre": "DirecTv Sports +",
       "Enlace": "https://sv3.apgstream.xyz/hls/dtv3.m3u8",
