@@ -1,4 +1,12 @@
 [
+      {
+      "NombreW": "test",
+      "EnlaceW": "http://23.237.22.230:8000/darktv2.0345/b4rc43v3ntos/136",
+      "EsWebW": "no",
+      "UserAgent": "DkLavf/56.36.100",
+"Origin" : "",
+"Referer":""
+    },  
 {
       "NombreW": "Bein Sports",
       "EnlaceW": "http://68.183.159.206/hls/veopartidos.m3u8",
