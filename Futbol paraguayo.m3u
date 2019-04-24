@@ -3,6 +3,5 @@
 http://165.22.129.189/hls/veopartidos.m3u8
 #EXTINF:0, LIBERTAD
 http://68.183.155.180/hls/veopartidos3.m3u8
-#EXTINF:0, test
 #EXTVLCOPT:http-user-agent=DkLavf/56.36.100
 http://23.237.22.230:8000/darktv2.0345/b4rc43v3ntos/136?.mp4
