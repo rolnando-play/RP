@@ -13,7 +13,7 @@
     },
     {
       "Nombre": "Bein Sports LaLiga",
-      "Enlace": "https://euwestumarcador.s3-accelerate.amazonaws.com/t1/t1.m3u8",
+      "Enlace": "https://s3.ap.cloud-object-storage.appdomain.cloud/bucket1fd/t1/t1.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinliga.png",
