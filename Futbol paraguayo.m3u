@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0, CCP
-http://188.166.102.139/hls/veopartidos1.m3u8
 #EXTINF:0, FUTBOL PYO
-http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8
+http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8
 #EXTINF:0, FUTBOL PYO
 http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
