@@ -100,17 +100,6 @@
       "Referer": "https://www.apurogol.net"
     },
     {
-      "Nombre": "ESPN 2",
-      "Enlace": "http://futbollibre.online/espn-2/embed.html",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-      "Origin": "http://futbollibre.online",
-      "Referer": "http://futbollibre.online/espn-2/embed.html"
-    },
-    {
       "Nombre": "ESPN 3",
       "Enlace": "https://sv3.apgstream.xyz/hls/espn3.m3u8",
       "EsWeb": "no",
