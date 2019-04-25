@@ -1,16 +1,4 @@
 [
-    {
-      "Nombre": "U de Concepcion vs. Olimpia",
-      "Enlace": "http://165.22.129.189/hls/veopartidos.m3u8",
-      "EsWeb": "no"
-    },
-   
-    {
-      "Nombre": "Libertad vs. Gremio",
-      "Enlace": "http://68.183.155.180/hls/veopartidos3.m3u8",
-      "EsWeb": "no"
-    },
-    
       {
       "Nombre": "Actualización",
       "Enlace": "https://rolnando-play.github.io/index.html",
@@ -103,7 +91,7 @@
     },
     {
       "Nombre": "A&E",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/2?.mp4",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/2?.mp4",
       "EsWeb": "si"
     },
       {
@@ -113,27 +101,27 @@
     },
     {
       "Nombre": "AMC",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/136",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/136",
       "EsWeb": "no"
     },
     {
       "Nombre": "AXN",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/7",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/7",
       "EsWeb": "no"
     },
     {
       "Nombre": "Animal Planet",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/5",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/5",
       "EsWeb": "no"
     },
     {
       "Nombre": "beIn Sports Ñ",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/220",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/220",
       "EsWeb": "no"
     },
     {
       "Nombre": "Boomerang",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/17",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/17",
       "EsWeb": "no"
     },
       {
@@ -148,92 +136,92 @@
     },
     {
       "Nombre": "Cartoon Network",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/20",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/20",
       "EsWeb": "no"
     },
     {
       "Nombre": "Cinecanal",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/21",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/21",
       "EsWeb": "no"
     },
     {
       "Nombre": "Cinemax",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/135",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/135",
       "EsWeb": "no"
     },
     {
       "Nombre": "Comedy Central",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/25",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/25",
       "EsWeb": "no"
     },
     {
       "Nombre": "DirecTV Sports",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/228",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/228",
       "EsWeb": "no"
     },
     {
       "Nombre": "DirecTV Sports 2",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/230",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/230",
       "EsWeb": "no"
     },
     {
       "Nombre": "DirecTV Sports +",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/229",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/229",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery Channel",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/590",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/590",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery Civilization",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/28",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/28",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery H&H",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/29",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/29",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery Kids",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/31",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/31",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery Science",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/32",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/32",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery TLC",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/111",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/111",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery Theater",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/33",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/33",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery Turbo",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/34",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/34",
       "EsWeb": "no"
     },
     {
       "Nombre": "Discovery World",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/35",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/35",
       "EsWeb": "no"
     },
     {
       "Nombre": "Disney Channel",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/580",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/580",
       "EsWeb": "no"
     },
     {
       "Nombre": "Disney Junior",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/36",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/36",
       "EsWeb": "no"
     },
       {
@@ -243,292 +231,292 @@
     },
     {
       "Nombre": "E!",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/40",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/40",
       "EsWeb": "no"
     },
     {
       "Nombre": "ESPN",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/41",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/41",
       "EsWeb": "no"
     },
     {
       "Nombre": "ESPN 2",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/42",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/42",
       "EsWeb": "no"
     },
     {
       "Nombre": "ESPN 3",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/43",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/43",
       "EsWeb": "no"
     },
     {
       "Nombre": "ESPN +",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/45",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/45",
       "EsWeb": "no"
     },
     {
       "Nombre": "El Gourmet",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/133",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/133",
       "EsWeb": "no"
     },
     {
       "Nombre": "FX",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/61",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/61",
       "EsWeb": "no"
     },
     {
       "Nombre": "FXM",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/62",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/62",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/50",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/50",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Action",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/51",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/51",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Cinema",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/53",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/53",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Classics",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/54",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/54",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Comedy",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/562",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/562",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Family",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/561",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/561",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Life",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/55",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/55",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Movies",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/56",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/56",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Series",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/58",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/58",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports ",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/558",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/558",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports MX",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/193",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/193",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports 2",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/557",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/557",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports 2 MX",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/194",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/194",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports 3",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/556",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/556",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports 3 MX",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/195",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/195",
       "EsWeb": "no"
     },
     {
       "Nombre": "Fox Sports Premium",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/232",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/232",
       "EsWeb": "no"
     },
     {
       "Nombre": "Golden",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/63",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/63",
       "EsWeb": "no"
     },
     {
       "Nombre": "Golden Edge",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/64",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/64",
       "EsWeb": "no"
     },
     {
       "Nombre": "Golden Plus",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/65",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/65",
       "EsWeb": "no"
     },
     {
       "Nombre": "Golden Premier",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/543",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/543",
       "EsWeb": "no"
     },
     {
       "Nombre": "History",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/67",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/67",
       "EsWeb": "no"
     },
     {
       "Nombre": "History 2",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/540",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/540",
       "EsWeb": "no"
     },
     {
       "Nombre": "HBO",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/652",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/652",
       "EsWeb": "no"
     },
     {
       "Nombre": "HBO 2",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/539",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/539",
       "EsWeb": "no"
     },
     {
       "Nombre": "HBO Family",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/538",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/538",
       "EsWeb": "no"
     },
     {
       "Nombre": "HBO Plus",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/535",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/535",
       "EsWeb": "no"
     },
     {
       "Nombre": "HBO Signature",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/534",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/534",
       "EsWeb": "no"
     },
     {
       "Nombre": "ID",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/30",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/30",
       "EsWeb": "no"
     },
     {
       "Nombre": "Isat",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/71",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/71",
       "EsWeb": "no"
     },
     {
       "Nombre": "Las Estrellas",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/76",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/76",
       "EsWeb": "no"
     },
     {
       "Nombre": "MTV",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/1",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/1",
       "EsWeb": "no"
     },
     {
       "Nombre": "MTV Hits",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/94",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/94",
       "EsWeb": "no"
     },
     {
       "Nombre": "MTV Live",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/79",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/79",
       "EsWeb": "no"
     },
     {
       "Nombre": "Max",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/521",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/521",
       "EsWeb": "no"
     },
     {
       "Nombre": "Max Prime",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/519",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/519",
       "EsWeb": "no"
     },
     {
       "Nombre": "Max Up",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/651",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/651",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nat Geo",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/82",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/82",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nat Geo Kids",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/83",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/83",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nat Geo Wild",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/85",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/85",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nick",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/84",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/84",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nick 2",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/86",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/86",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nick JR",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/87",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/87",
       "EsWeb": "no"
     },
     {
       "Nombre": "Nicktoons",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/88",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/88",
       "EsWeb": "no"
     },
     {
       "Nombre": "Paramount",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/90",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/90",
       "EsWeb": "no"
     },
     {
       "Nombre": "Rai",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/502",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/502",
       "EsWeb": "no"
     },
     {
       "Nombre": "Sony",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/97",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/97",
       "EsWeb": "no"
     },
     {
       "Nombre": "Space",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/98",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/98",
       "EsWeb": "no"
     },
     {
       "Nombre": "Studio Universal",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/100",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/100",
       "EsWeb": "no"
     },
     {
       "Nombre": "Syfy",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/102",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/102",
       "EsWeb": "no"
     },
     {
       "Nombre": "TBS",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/103",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/103",
       "EsWeb": "no"
     },
       {
@@ -538,17 +526,17 @@
     }, 
     {
       "Nombre": "Telemundo",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/485",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/485",
       "EsWeb": "no"
     },
     {
       "Nombre": "TNT",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/113",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/113",
       "EsWeb": "no"
     },
     {
       "Nombre": "TNT Series",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/114",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/114",
       "EsWeb": "no"
     },
     {
@@ -558,17 +546,17 @@
     },
     {
       "Nombre": "Tooncast",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/115",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/115",
       "EsWeb": "no"
     },
     {
       "Nombre": "Tru TV",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/117",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/117",
       "EsWeb": "no"
     },
     {
       "Nombre": "TyC Sports",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/602",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/602",
       "EsWeb": "no"
     },
       {
@@ -579,22 +567,22 @@
       
     {
       "Nombre": "Universal Channel",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/124",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/124",
       "EsWeb": "no"
     },
     {
       "Nombre": "VH1",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/125",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/125",
       "EsWeb": "no"
     },
     {
       "Nombre": "VH1 Classic",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/70",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/70",
       "EsWeb": "no"
     },
     {
       "Nombre": "Warner",
-      "Enlace": "http://23.237.22.230:8000/darktv2.00f1c14l/c4mb1ot0k3n/127",
+      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/127",
       "EsWeb": "no"
     }
 ]
