@@ -288,40 +288,6 @@
     }
   ],
   "canales": [
-{
-      "Nombre": "Zamora vs. Cerro Porteño",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-    {
-      "Nombre": "Zamora vs. Cerro Porteño 2",
-      "Enlace": "http://23.237.36.170:8000/d4rktv2.00r1g1n4l/nu3v0sput03lqu3r0b3/557",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Zamora vs. Cerro Porteño 3",
-      "Enlace": "http://188.166.102.139/hls/veopartidos1.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-
     {
       "Nombre": "Futbol paraguayo",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=cspy97&f=.m3u8",
