@@ -1,31 +1,47 @@
 [
-    {
+     {
       "Nombre": "Futbol paraguayo",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-49f7645b15295fb51f5284a8ce487c21_source/index.m3u8",
+      "EsWeb": "no"
+    },
+    
+    {
+      "Nombre": "Futbol paraguayo 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Futbol paraguayo 2",
+      "Nombre": "Futbol paraguayo 3",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },
   {
-      "Nombre": "Futbol paraguayo 3",
+      "Nombre": "Futbol paraguayo 4",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Futbol paraguayo 4",
+      "Nombre": "Futbol paraguayo 5",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=elmandiokero&f=.m3u8",
+      "EsWeb": "no"
+    },
+     {
+      "Nombre": "Futbol paraguayo 6",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=elmandiokero",
+      "EsWeb": "si"
+    },
+    {
+      "Nombre": "Futbol paraguayo 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201815",
       "EsWeb": "si"
     },
     {
-      "Nombre": "Futbol paraguayo 5",
+      "Nombre": "Futbol paraguayo 8",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv",
       "EsWeb": "si"
     },
  {
-      "Nombre": "Futbol paraguayo 6",
+      "Nombre": "Futbol paraguayo 9",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
