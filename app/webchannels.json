@@ -9,11 +9,11 @@
     },   
 {
       "NombreW": "Bein Sports LaLiga",
-      "EnlaceW": "https://storage.tumarcador.xyz/a1/live.m3u8",
+      "EnlaceW": "https://live12345.s3-accelerate.amazonaws.com/t1/t1.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-"Origin" : "https://www.apurogol.net",
-"Referer":"http://google.com"
+"Origin" : "https://tumarcador.xyz",
+"Referer":"https://tumarcador.xyz/ac1.php"
     },   
 {
       "NombreW": "CDF",
