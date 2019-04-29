@@ -289,6 +289,17 @@
   ],
   "canales": [
     {
+      "Nombre": "Game Of Thrones en vivo",
+      "Enlace": "http://5.9.24.138:8000/live/Wxdbf1JgzR/SvhtTaOcD4/1.ts",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
+      "MostrarAds": "si",
+      "UserAgent": "latin.flix/9.2 ExoPlayerLib/2.8.4",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
       "Nombre": "Futbol paraguayo 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
       "EsWeb": "no",
