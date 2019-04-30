@@ -1,5 +1,16 @@
 {
   "peliculas": [
+ {
+      "Nombre": "Avengers Endgame",
+      "Enlace": "https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt4154796_SUBP_DVD-S.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/endgame.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
   {
       "Nombre": "Capitan America: El Primer Vengador",
       "Enlace": "https://storage.googleapis.com/sylvan-presence-235719.appspot.com/cv0458339s.mp4",
