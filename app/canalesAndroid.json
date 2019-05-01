@@ -289,6 +289,17 @@
   ],
   "canales": [
   {
+      "Nombre": "Ganadores del sorteo",
+      "Enlace": "https://www.youtube.com/embed/kd0mrCCrxHY",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "http://www.clubdeportivolashoces.com/wp-content/uploads/icono-sorteo.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+  {
       "Nombre": "GOT S08E03",
       "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt0944947_SUBP_HD_S08_E03.mp4",
       "EsWeb": "no",
