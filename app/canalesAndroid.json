@@ -290,7 +290,7 @@
   "canales": [
   {
       "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
+      "Enlace": "https://videocdn.mixer.com/hls/56684811-de2ea7d5baa2fe3615babb5089c615ca_source/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
