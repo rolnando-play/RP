@@ -873,7 +873,7 @@
     },
     {
       "Nombre": "El Trece AR",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=133_tv&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=13hd_arg&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
@@ -1566,14 +1566,14 @@
     },
     {
       "Nombre": "Telefé",
-      "Enlace": "http://televisionlibre.net/canal/telefe-en-vivo/embed2.html?update",
-      "EsWeb": "si",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tele_4k&f=.m3u8",
+      "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefe.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=13arg"
     },
     {
       "Nombre": "Telemundo",
