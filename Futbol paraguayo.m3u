@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:0, FUTBOL PYO
-https://videocdn.mixer.com/hls/56684811-de2ea7d5baa2fe3615babb5089c615ca_source/index.m3u8
-#EXTINF:0, FUTBOL PYO 2
 http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8
 #EXTINF:0, FUTBOL PYO 3
 http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8
-#EXTINF:0, FUTBOL PYO 4
+#EXTINF:0, FUTBOL PYO 3
 http://rolnando-play.000webhostapp.com/twitch.php?channel=elmandiokero&f=.m3u8
-#EXTINF:0, FUTBOL PYO 5
+#EXTINF:0, FUTBOL PYO 4
 http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8
