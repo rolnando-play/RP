@@ -210,11 +210,11 @@
       "Referer": "http://google.com"
     },
     {
-      "Nombre": "SportsNet",
-      "Enlace": "https://storage.tumarcador.xyz/a5/live.m3u8",
+      "Nombre": "Space",
+      "Enlace": "https://sv7.apgstream.xyz/hls/space.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sportsnet.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/space.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "https://www.apurogol.net",
