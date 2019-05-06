@@ -1,4 +1,14 @@
 [
+  {
+      "Nombre": "Game of Thrones en vivo",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=ty_td&f=.m3u8",
+      "EsWeb": "no"
+    },
+  {
+      "Nombre": "Game of Thrones en vivo 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=ty_td",
+      "EsWeb": "si"
+    },
     {
       "Nombre": "Futbol paraguayo ",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
