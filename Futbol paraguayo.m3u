@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, GOT
+http://rolnando-play.000webhostapp.com/twitch.php?channel=ty_td&f=.m3u8
 #EXTINF:0, FUTBOL PYO
 http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8
 #EXTINF:0, FUTBOL PYO 3
