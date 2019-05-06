@@ -303,7 +303,7 @@
   {
       "Nombre": "Game of Thrones en vivo 2",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=ty_td",
-      "EsWeb": "no",
+      "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
       "MostrarAds": "no",
