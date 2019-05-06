@@ -1,17 +1,12 @@
 [
-  {
-      "Nombre": "Game of Thrones en vivo",
-      "Enlace": "http://157.230.219.19/hls/veopartidos.m3u8",
-      "EsWeb": "no"
-    },
     {
       "Nombre": "Futbol paraguayo ",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=2720182&f=.m3u8",
       "EsWeb": "no"
     },
     {
       "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=oliimpiavscerro&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },
   {
@@ -31,7 +26,7 @@
     },
     {
       "Nombre": "Futbol paraguayo 6",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201815",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=2720182",
       "EsWeb": "si"
     },
     {
@@ -41,7 +36,7 @@
     },
  {
       "Nombre": "Futbol paraguayo 8",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
       {
