@@ -266,7 +266,7 @@
     },
 {
       "Nombre": "El Trece",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=13tv_sd&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=13hd_arg&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/eltrece.png",
       "UserAgent": "Lavf/56.40.101",
@@ -402,7 +402,7 @@
     },
     {
       "Nombre": "Telefé",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tele_4k&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=tele_qq&f=.m3u8",
       "EsWeb": "no",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvArgentina/logos/telefe.png",
       "UserAgent": "rolnando.play2/10.1 (Linux;Android 8.1.0) ExoPlayerLib/2.8.4",
