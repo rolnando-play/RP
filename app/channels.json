@@ -1,7 +1,12 @@
 [
-   {
+  {
       "Nombre": "Olimpia vs. Sporting Cristal",
-      "Enlace": "http://138.197.3.193/hls/veopartidos1.m3u8",
+      "Enlace": "http://157.230.80.214/hls/veopartidos.m3u8",
+      "EsWeb": "no"
+    },
+  {
+      "Nombre": "Olimpia vs. Sporting Cristal 2",
+      "Enlace": "https://tendenciasport.com/hls/fox.m3u8",
       "EsWeb": "no"
     },
     {
