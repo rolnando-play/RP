@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, OLIMPIA
-http://138.197.3.193/hls/veopartidos1.m3u8 
+http://142.93.177.195/hls/veopartidos1.m3u8
+#EXTINF:0, OLIMPIA
+https://tendenciasport.com/hls/fox.m3u8
 #EXTINF:0, FUTBOL PYO
 http://rolnando-play.000webhostapp.com/twitch.php?channel=2720182&f=.m3u8
 #EXTINF:0, FUTBOL PYO 3
