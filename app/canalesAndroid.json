@@ -299,8 +299,19 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
-    {
+  {
       "Nombre": "Olimpia vs. Sporting Cristal 2",
+      "Enlace": "https://tendenciasport.com/hls/fox.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Olimpia vs. Sporting Cristal 3",
       "Enlace": "http://138.197.3.193/hls/veopartidos1.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -311,7 +322,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Olimpia vs. Sporting Cristal 3",
+      "Nombre": "Olimpia vs. Sporting Cristal 4",
       "Enlace": "http://23.237.36.170:8000/ZapinMAMAmelavergaXD/LiroytvtemetilavergahastaelfondoXD/556",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
