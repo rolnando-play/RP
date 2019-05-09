@@ -321,17 +321,6 @@
       "Origin": "https://player.twitch.tv",
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
-    {
-      "Nombre": "Olimpia vs. Sporting Cristal 4",
-      "Enlace": "http://23.237.36.170:8000/ZapinMAMAmelavergaXD/LiroytvtemetilavergahastaelfondoXD/556",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
 {
       "Nombre": "Goles - fecha 20",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/05Mayo/08/Showdegoles%2320%282%29.mp4",
