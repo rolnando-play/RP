@@ -288,6 +288,17 @@
     }
   ],
   "canales": [
+{
+      "Nombre": "Goles - fecha 20",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/05Mayo/08/Showdegoles%2320%282%29.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
   {
       "Nombre": "GOT S08E04",
       "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt0944947_SUBP_HD_S08_E04.mp4",
