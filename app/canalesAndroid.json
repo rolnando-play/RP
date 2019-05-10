@@ -288,39 +288,6 @@
     }
   ],
   "canales": [
-   {
-      "Nombre": "Olimpia vs. Sporting Cristal",
-      "Enlace": "https://sv18.apgstream.xyz/hls/fox3.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-  {
-      "Nombre": "Olimpia vs. Sporting Cristal 2",
-      "Enlace": "https://tendenciasport.com/hls/fox.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "",
-      "Referer": ""
-    },
-    {
-      "Nombre": "Olimpia vs. Sporting Cristal 3",
-      "Enlace": "http://138.197.3.193/hls/veopartidos1.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
 {
       "Nombre": "Goles - fecha 20",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/05Mayo/08/Showdegoles%2320%282%29.mp4",
