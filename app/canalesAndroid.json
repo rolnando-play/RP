@@ -291,14 +291,14 @@
 
     {
       "Nombre": "Futbol paraguayo",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=2720183&f=.m3u8",
+      "Enlace": "https://tendenciasport.com/hls/fox.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "Origin": "",
+      "Referer": ""
     },
     {
       "Nombre": "Futbol paraguayo 2",
