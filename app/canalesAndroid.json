@@ -288,17 +288,16 @@
     }
   ],
   "canales": [
-
     {
       "Nombre": "Futbol paraguayo",
-      "Enlace": "https://tendenciasport.com/hls/fox.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
       "Nombre": "Futbol paraguayo 2",
@@ -313,7 +312,7 @@
     },
     {
       "Nombre": "Futbol paraguayo 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=2720183",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201815",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
