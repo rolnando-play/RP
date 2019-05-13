@@ -1,4 +1,9 @@
 [
+ {
+      "Nombre": "GOT en vivo",
+      "Enlace": "http://188.166.103.89/hls/veopartidos.m3u8",
+      "EsWeb": "no"
+    },
       {
       "Nombre": "Futbol paraguayo",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=2720183&f=.m3u8",
