@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, FUTBOL PARAGUAYO
-https://tendenciasport.com/hls/tigo2.m3u8
+https://videocdn.mixer.com/hls/46594080-8f6f0c29116c265dfcd5f297da2a198e_source/index.m3u8
 #EXTINF:0, FUTBOL PYO 2
 http://rolnando-play.000webhostapp.com/twitch.php?channel=2720183&f=.m3u8
 #EXTINF:0, FUTBOL PYO 3
