@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0, GOT EN VIVO
-http://188.166.103.89/hls/veopartidos.m3u8
+#EXTINF:0, FUTBOL PARAGUAYO
+https://tendenciasport.com/hls/tigo2.m3u8
 #EXTINF:0, FUTBOL PYO 2
 http://rolnando-play.000webhostapp.com/twitch.php?channel=2720183&f=.m3u8
 #EXTINF:0, FUTBOL PYO 3
