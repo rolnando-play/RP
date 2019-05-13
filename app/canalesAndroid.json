@@ -290,14 +290,14 @@
   "canales": [
 {
       "Nombre": "Futbol paraguayo",
-      "Enlace": "https://tendenciasport.com/hls/tigo2.m3u8",
+      "Enlace": "https://videocdn.mixer.com/hls/46594080-8f6f0c29116c265dfcd5f297da2a198e_source/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/56.36.100",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "https://mixer.com",
+      "Referer": "https://mixer.com"
     },
 {
       "Nombre": "Futbol paraguayo 2",
