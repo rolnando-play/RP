@@ -289,26 +289,26 @@
   ],
   "canales": [
 {
-      "Nombre": "Futbol paraguayo",
-      "Enlace": "https://videocdn.mixer.com/hls/46594080-8f6f0c29116c265dfcd5f297da2a198e_source/index.m3u8",
+      "Nombre": "Futbol paraguayo ",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://mixer.com",
-      "Referer": "https://mixer.com"
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
-{
+    {
       "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://5.9.24.138:8000/live/Wxdbf1JgzR/SvhtTaOcD4/4696.ts",
-      "EsWeb": "no",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
+      "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
-      "UserAgent": "latin.flix/9.2 ExoPlayerLib/2.8.4",
-      "Origin": "",
-      "Referer": ""
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
   {
       "Nombre": "GOT S08E05",
