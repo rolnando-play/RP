@@ -1,21 +1,16 @@
 [
-      {
-      "Nombre": "Futbol paraguayo",
-      "Enlace": "https://videocdn.mixer.com/hls/46594080-8f6f0c29116c265dfcd5f297da2a198e_source/index.m3u8",
+    {
+      "Nombre": "Futbol paraguayo ",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
       "EsWeb": "no"
     },
     {
       "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no"
-    },
-    {
-      "Nombre": "Futbol paraguayo 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=2720183",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=017201815",
       "EsWeb": "si"
     },
     {
-      "Nombre": "Futbol paraguayo 4",
+      "Nombre": "Futbol paraguayo 3",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
       "EsWeb": "si"
     },
