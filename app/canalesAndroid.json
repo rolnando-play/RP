@@ -298,6 +298,16 @@
 "Origin": "", 
 "Referer": "" 
 },
+{ 
+"Nombre": "Sorteos Conmebol 2", 
+"Enlace": "http://68.183.154.133/hls/veopartidos.m3u8", 
+"EsWeb": "no",
+ "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt", "ImagenUrl": "https://2.bp.blogspot.com/-VJu0xrfkt-I/WWwV-n2z7kI/AAAAAAABM8w/n3jtr5elYV81g2Ej0xooyC-IwNZmhvrawCLcBGAs/s1600/CONMEBOL.PNG", 
+"MostrarAds": "no", 
+"UserAgent": "latin.flix/9.2 ExoPlayerLib/2.8.4", 
+"Origin": "", 
+"Referer": "" 
+},
 {
       "Nombre": "Futbol paraguayo ",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
