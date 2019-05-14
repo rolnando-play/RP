@@ -290,19 +290,9 @@
   "canales": [
 
 { 
-"Nombre": "Sorteos Conmebol", 
+"Nombre": "Tigo Sports +", 
 "Enlace": "http://5.9.24.138:8000/live/Wxdbf1JgzR/SvhtTaOcD4/4696.ts", "EsWeb": "no",
- "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt", "ImagenUrl": "https://2.bp.blogspot.com/-VJu0xrfkt-I/WWwV-n2z7kI/AAAAAAABM8w/n3jtr5elYV81g2Ej0xooyC-IwNZmhvrawCLcBGAs/s1600/CONMEBOL.PNG", 
-"MostrarAds": "no", 
-"UserAgent": "latin.flix/9.2 ExoPlayerLib/2.8.4", 
-"Origin": "", 
-"Referer": "" 
-},
-{ 
-"Nombre": "Sorteos Conmebol 2", 
-"Enlace": "http://68.183.154.133/hls/veopartidos.m3u8", 
-"EsWeb": "no",
- "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt", "ImagenUrl": "https://2.bp.blogspot.com/-VJu0xrfkt-I/WWwV-n2z7kI/AAAAAAABM8w/n3jtr5elYV81g2Ej0xooyC-IwNZmhvrawCLcBGAs/s1600/CONMEBOL.PNG", 
+ "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt", "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo+.png", 
 "MostrarAds": "no", 
 "UserAgent": "latin.flix/9.2 ExoPlayerLib/2.8.4", 
 "Origin": "", 
