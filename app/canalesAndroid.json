@@ -308,28 +308,6 @@
 "Origin": "", 
 "Referer": "" 
 },
-{
-      "Nombre": "Futbol paraguayo ",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=futbolparaguayotv&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
   {
       "Nombre": "GOT S08E05",
       "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt6027916_SUBP_HD_S08_E05.mp4",
@@ -340,50 +318,6 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "",
       "Referer": ""
-    },
-  {
-      "Nombre": "GOT S08E04",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt0944947_SUBP_HD_S08_E04.mp4",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
-  {
-      "Nombre": "GOT S08E03",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt0944947_SUBP_HD_S08_E03.mp4",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
-     {
-      "Nombre": "GOT S08E02",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt0944947_SUBP_HD_S08_E02.mp4",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
-    {
-      "Nombre": "GOT S08E01",
-      "Enlace": "https://pelispedia.stream/hls/84330f521cc076baafcba0208b7e3703/84330f521cc076baafcba0208b7e3703.playlist.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/got0801.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://pelispedia.tv",
-      "Referer": "https://pelispedia.stream/public/dist/index.html?id=84330f521cc076baafcba0208b7e3703&sub=Game.of.Thrones.S08E01"
     },
     {
       "Nombre": "Activar canales",
