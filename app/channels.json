@@ -11,8 +11,8 @@
     },
     {
       "Nombre": "Futbol paraguayo 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv",
-      "EsWeb": "si"
+      "Enlace": "http://213.183.42.50/hls-live/xmlive/_definst_/2337222/2337222.m3u8?refId=1",
+      "EsWeb": "no"
     },
       {
       "Nombre": "Actualización",
