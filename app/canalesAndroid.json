@@ -288,7 +288,40 @@
     }
   ],
   "canales": [
-
+   {
+      "Nombre": "Futbol paraguayo",
+      "Enlace": "http://5.9.24.138:8000/live/Wxdbf1JgzR/SvhtTaOcD4/4696.ts",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "latin.flix/9.2 ExoPlayerLib/2.8.4",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Futbol paraguayo 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+ 
+    {
+      "Nombre": "Futbol paraguayo 3",
+      "Enlace": "https://player.twitch.tv/?volume=1&!muted&channel=017201815&!channelInfo",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
 { 
 "Nombre": "Tigo Sports +", 
 "Enlace": "http://5.9.24.138:8000/live/Wxdbf1JgzR/SvhtTaOcD4/4696.ts", "EsWeb": "no",
