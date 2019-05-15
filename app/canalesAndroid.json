@@ -364,17 +364,6 @@
       "Referer": "http://google.com"
     },
     {
-      "Nombre": "Central TV",
-      "Enlace": "https://59ce1298bfb98.streamlock.net/centraltv/centraltv/playlist.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/central.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "http://paraguayonline.net",
-      "Referer": "http://paraguayonline.net/centraltv"
-    },
-    {
       "Nombre": "Farra Play",
       "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
       "EsWeb": "no",
@@ -600,6 +589,17 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/AXN.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "http://google.com"
+    },
+  {
+      "Nombre": "Azteca 7",
+      "Enlace": "http://23.237.36.170:8000/ZapinMelapela/EresMiperra364573--/132",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/azteca7.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
