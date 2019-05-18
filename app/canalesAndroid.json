@@ -302,6 +302,17 @@
     },
     {
       "Nombre": "Futbol paraguayo 2",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=elmandiokero&f=.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Futbol paraguayo 3",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -312,7 +323,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Futbol paraguayo 3",
+      "Nombre": "Futbol paraguayo 4",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201815&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -323,7 +334,18 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Futbol paraguayo 4",
+      "Nombre": "Futbol paraguayo 5",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=elmandiokero&!channelInfo",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Futbol paraguayo 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
