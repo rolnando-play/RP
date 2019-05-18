@@ -313,7 +313,7 @@
     },
     {
       "Nombre": "Futbol paraguayo 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=oliimpiavscerro&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -346,7 +346,7 @@
     },
     {
       "Nombre": "Futbol paraguayo 6",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
