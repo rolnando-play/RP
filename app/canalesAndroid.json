@@ -290,70 +290,15 @@
   "canales": [
 
     {
-      "Nombre": "Futbol paraguayo",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
+      "Nombre": "GoT Final",
+      "Enlace": "http://157.230.163.200/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=oliimpiavscerro&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201815&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 5",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Futbol paraguayo 6",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
     },
 { 
 "Nombre": "Tigo Sports +", 
@@ -364,17 +309,6 @@
 "Origin": "", 
 "Referer": "" 
 },
-  {
-      "Nombre": "GoT Final",
-      "Enlace": "http://ss1.mxl-iptv.services:2052/iptv_data/app/script/tv/51d824ec6c385d1acf903b9179029cc141bafe7e/ce1cad23582840de85535c446d4fa996519265c1/348_6.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
