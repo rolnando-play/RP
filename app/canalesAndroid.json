@@ -290,8 +290,8 @@
   "canales": [
 
     {
-      "Nombre": "GoT Final",
-      "Enlace": "http://157.230.163.200/hls/veopartidos.m3u8",
+      "Nombre": "GoT episodio final",
+      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt0944947_SUBP_HD_S08_E06.mp4",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/got.png",
