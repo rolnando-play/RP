@@ -288,8 +288,19 @@
     }
   ],
   "canales": [
-    {
+ {
       "Nombre": "Futbol paraguayo",
+      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/requiressl/yes/source/yt_live_broadcast/id/-zaO_-5IGys.1/itag/0/playlist_type/DVR/ei/9DLjXI2mOo3MwwT-qLmABw/hfr/1/maudio/1/gcr/py/go/1/keepalive/yes/dover/11/ip/200.108.131.3/ipbits/0/expire/1558415189/sparams/ip%2Cipbits%2Cexpire%2Crequiressl%2Csource%2Cid%2Citag%2Cplaylist_type%2Cei%2Chfr%2Cmaudio%2Cgcr%2Cgo/signature/86EBCF67FD307912DACD179C455AD504C4C3925C.4AC1FEDD20D1FE671F5C981524838644F999154C/key/yt8/file/index.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Futbol paraguayo 2",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -301,7 +312,7 @@
     },
 
  {
-      "Nombre": "Futbol paraguayo 2",
+      "Nombre": "Futbol paraguayo 3",
       "Enlace": "https://www.youtube.com/embed/-zaO_-5IGys",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -312,7 +323,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Futbol paraguayo 3",
+      "Nombre": "Futbol paraguayo 4",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
