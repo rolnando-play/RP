@@ -290,14 +290,14 @@
   "canales": [
 {
       "Nombre": "Copa Paraguay",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201814&f=.m3u8",
+      "Enlace": "https://whostreams.net/hls/g97lrzrpnh3vs23.m3u8?s=WND66yeC3ooyRxlZtYACZw&e=1559268143",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
       "MostrarAds": "si",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "Origin": "https://whostreams.net",
+      "Referer": "https://whostreams.net/embed/g97lrzrpnh3vs23"
     },
     {
       "Nombre": "Copa Paraguay 2",
