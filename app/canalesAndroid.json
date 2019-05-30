@@ -290,18 +290,18 @@
   "canales": [
 {
       "Nombre": "Copa Paraguay",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8",
+      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1559271663/ei/j0TwXIrhAZLMwgTzg5DgBQ/ip/200.108.131.12/id/8ypbj6-EBFw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/py/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAJWCTMUwDcR2fUtznA44WAvokDRfdXeE3BlhCr3kqFJeAiEA20r4HwheOQbaJwHIzp9EWjure-Ah_HKbBH2YyzgY32M%3D/file/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
       "MostrarAds": "si",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "Origin": "",
+      "Referer": ""
     },
     {
       "Nombre": "Copa Paraguay 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201815&!channelInfo",
+      "Enlace": "https://youtu.be/8ypbj6-EBFw",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
