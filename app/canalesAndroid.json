@@ -299,9 +299,10 @@
       "Origin": "",
       "Referer": ""
     },
+
     {
       "Nombre": "Copa Paraguay 2",
-      "Enlace": "https://youtu.be/8ypbj6-EBFw",
+      "Enlace": "https://www.youtube.com/embed/8ypbj6-EBFw",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
