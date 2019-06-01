@@ -334,7 +334,7 @@
     },
     {
       "Nombre": "Farra Play",
-      "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
+      "Enlace": "http://159.203.148.226/live/farra.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/farra.png",
@@ -345,7 +345,7 @@
     },
     {
       "Nombre": "GEN",
-      "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:GEN_all/playlist.m3u8",
+      "Enlace": "https://gruponacion.castr.io/live_9ff9073080be11e9b616571fef7afaa2/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gen.png",
@@ -494,19 +494,19 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "",
+      "Referer": ""
     },
     {
       "Nombre": "Venus Media",
-      "Enlace": "http://181.40.66.93:1935/venusmedia/venusmedia/playlist.m3u8",
+      "Enlace": "http://201.217.3.212/venusmedia/venusmedia/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/venus.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "",
+      "Referer": ""
     },
     {
       "Nombre": "Visión Villarrica",
