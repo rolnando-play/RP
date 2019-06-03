@@ -1,0 +1,14 @@
+{
+  "series": [
+    {
+      "Nombre": "Chernobyl",
+      "Id": "chernobyl",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/chernobyl.png"
+    },
+    {
+      "Nombre": "dfgdfgdf",
+      "Enlace": "chernobyl",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/beinñ.png"
+    }
+  ]
+  }
