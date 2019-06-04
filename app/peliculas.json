@@ -43,6 +43,17 @@
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
       "Referer": ""
+    }, 
+{
+      "Nombre": "Chernobyl EP 5",
+      "Enlace": "https://s28.openstream.io/hls/,qvsbd6ffn7blgwsztrr2ap6alo2prncvwlydmkhwods5mbprmoxmvytksnxq,.urlset/master.m3u8 ",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/chernobyl.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/chernobyl.png",
+      "MostrarAds": "no",
+      "UserAgent": "",
+      "Origin": "",
+      "Referer": ""
     },
  {
       "Nombre": "Avengers Endgame",
