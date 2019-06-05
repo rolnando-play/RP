@@ -334,7 +334,7 @@
     },
     {
       "Nombre": "Farra Play",
-      "Enlace": "http://159.203.148.226/live/farra.m3u8",
+      "Enlace": "http://159.203.148.226/live/farra_mid.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/farra.png",
@@ -488,7 +488,7 @@
     },
     {
       "Nombre": "Unicanal",
-      "Enlace": "http://45.55.127.106/live/unicanal.m3u8",
+      "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
@@ -499,7 +499,7 @@
     },
     {
       "Nombre": "Venus Media",
-      "Enlace": "http://201.217.3.212/venusmedia/venusmedia/playlist.m3u8",
+      "Enlace": "http://201.217.3.212/venusmedia/venusmedia/chunklist_w490652724.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/venus.png",
