@@ -339,9 +339,9 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/farra.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://www.farra.com.py",
+      "Referer": "http://www.farra.com.py/"
     },
     {
       "Nombre": "GEN",
@@ -406,8 +406,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/mitv.png",
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "http://www.radiosenparaguay.com",
+      "Referer": "http://www.radiosenparaguay.com/mitv"
     },
     {
       "Nombre": "Noticias Paraguay",
@@ -438,9 +438,9 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://rpc.com.py",
+      "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
       "Nombre": "SNT",
@@ -472,8 +472,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/concepcion.png",
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "http://www.radiosenparaguay.com",
+      "Referer": "http://www.radiosenparaguay.com/canal40"
     },
     {
       "Nombre": "TVS Encarnación",
@@ -493,9 +493,9 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "",
-      "Referer": ""
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://unicanal.com.py",
+      "Referer": "http://unicanal.com.py/"
     },
     {
       "Nombre": "Venus Media",
@@ -504,20 +504,20 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/venus.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "",
-      "Referer": ""
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://www.desdeparaguay.net",
+      "Referer": "http://www.desdeparaguay.net/external/venusmedia.aspx"
     },
     {
       "Nombre": "Visión Villarrica",
-      "Enlace": "http://servicioamerica.com:1935/8312/8312/master.m3u8",
+      "Enlace": "https://inliveserver.com:1936/8312/8312/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vision.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "http://www.radiosenparaguay.com",
+      "Referer": "http://www.radiosenparaguay.com/visiontv"
     },
     {
       "Nombre": "A&E",
