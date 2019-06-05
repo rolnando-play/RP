@@ -297,8 +297,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paraguay.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/transmision/paraguayhonduras"
     },
  {
       "Nombre": "Paraguay vs. Honduras 2",
