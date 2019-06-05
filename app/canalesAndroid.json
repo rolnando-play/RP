@@ -288,6 +288,18 @@
     }
   ],
   "canales": [
+
+ {
+      "Nombre": "Paraguay vs. Honduras",
+      "Enlace": "https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paraguay.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "",
+      "Referer": ""
+    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
