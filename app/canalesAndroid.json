@@ -433,7 +433,7 @@
     },
     {
       "Nombre": "RPC",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+      "Enlace": "http://174.138.118.252/live/canal13stream_src.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
@@ -477,14 +477,14 @@
     },
     {
       "Nombre": "TVS Encarnación",
-      "Enlace": "http://201.217.3.212/TV/tvs/playlist.m3u8",
+      "Enlace": "http://201.217.3.212/TV/tvs/chunklist_w1686830156.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvs.png",
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "http://www.desdeparaguay.net",
+      "Referer": "http://www.desdeparaguay.net/external/tvs.aspx"
     },
     {
       "Nombre": "Unicanal",
