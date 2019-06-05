@@ -288,18 +288,6 @@
     }
   ],
   "canales": [
-  {
-      "Nombre": "Capiatá - Sol (femenino)",
-      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1559783133/ei/fRL4XNySF42axQTC_RQ/ip/200.108.131.2/id/EjvCZpexpys.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/py/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhANbkGHZnG4h3yJUJZtKtiAh2svljShMGEOvd3T9Wjjx5AiAGzXrqIspdlKN5C4U7AKsyRTPqYEoMtzdY2Omn8CmIuw%3D%3D/file/index.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tigo.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "",
-      "Referer": ""
-    },
-
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
