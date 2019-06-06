@@ -290,8 +290,8 @@
   "canales": [
  {
       "Nombre": "NBA",
-      "Enlace": "http://dfsjnhsdfjosdpfksdfjk.ivcvi.club/a/chunks.m3u8",
-      "EsWeb": "no",
+      "Enlace": "http://veopartidos.com/2019/06/golden-state-warriors-vs-toronto-raptors-por-las-finales-de-la-nba-05-06-2019/",
+      "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nba.png",
       "MostrarAds": "no",
