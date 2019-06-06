@@ -311,6 +311,17 @@
       "Origin": "",
       "Referer": ""
     },
+ {
+      "Nombre": "NBA",
+      "Enlace": "http://157.230.54.149/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nba.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "",
+      "Referer": ""
+    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
