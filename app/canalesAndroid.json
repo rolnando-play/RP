@@ -288,17 +288,6 @@
     }
   ],
   "canales": [
- {
-      "Nombre": "NBA",
-      "Enlace": "http://veopartidos.com/2019/06/golden-state-warriors-vs-toronto-raptors-por-las-finales-de-la-nba-05-06-2019/",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nba.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
-      "Origin": "http://buffstreamz.com",
-      "Referer": "http://buffstreamz.com/emb/raptors-vs-warriors-2.php"
-    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
