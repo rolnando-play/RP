@@ -290,14 +290,14 @@
   "canales": [
  {
       "Nombre": "NBA",
-      "Enlace": "http://buffstreamz.com:80/emb/c-44.m3u8",
+      "Enlace": "http://dfsjnhsdfjosdpfksdfjk.ivcvi.club/a/chunks.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/nba.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "http://buffstreamz.com",
+      "Referer": "http://buffstreamz.com/emb/raptors-vs-warriors-2.php"
     },
     {
       "Nombre": "Activar canales",
