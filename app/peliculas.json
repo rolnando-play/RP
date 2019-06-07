@@ -1,6 +1,17 @@
 {
   "peliculas": [
  {
+      "Nombre": "Las Herederas",
+      "Enlace": "https://slave6.vanlong.stream/hls/b7e8048bc94970d0ad067cb5486fa61c/b7e8048bc94970d0ad067cb5486fa61c.playlist.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/herederas.png",
+      "MostrarAds": "no",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+ {
       "Nombre": "John Wick 3",
       "Enlace": "https://storage.googleapis.com/spatial-racer-235722.appspot.com/tt6146586_SUBP_TS.mp4",
       "EsWeb": "no",
