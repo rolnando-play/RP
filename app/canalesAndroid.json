@@ -276,11 +276,11 @@
       "Referer": "http://google.com"
     },
     {
-      "Nombre": "Facebook",
-      "Enlace": "https://sv16.apgstream.xyz/hls/fb.m3u8",
+      "Nombre": "VTV",
+      "Enlace": "https://sv14.apgstream.xyz/hls/urupan.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fb.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vtv png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36",
       "Origin": "https://www.apurogol.net",
