@@ -156,7 +156,7 @@
     },
   {
       "Nombre": "DirecTv Sports Norte",
-      "Enlace": "https://sv9.apgstream.xyz/hls/dtv14.m3u8",
+      "Enlace": "https://sv5.apgstream.xyz/hls/dtv15.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
