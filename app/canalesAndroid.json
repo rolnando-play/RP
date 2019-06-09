@@ -420,6 +420,17 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "http://google.com"
     },
+ {
+      "Nombre": "RCC - TV Chaqueña",
+      "Enlace": "http://tv-cool.com:8000/live/online/online/12919.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png",
+      "MostrarAds": "no",
+      "UserAgent": "stagefright/1.2",
+      "Origin": "",
+      "Referer": ""
+    },
     {
       "Nombre": "RCC - TV Chaqueña",
       "Enlace": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
