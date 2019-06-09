@@ -428,8 +428,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png",
       "MostrarAds": "no",
       "UserAgent": "stagefright/1.2 (Linux;Android 9)",
-      "Origin": "",
-      "Referer": ""
+      "Origin": "http://tv-cool.com",
+      "Referer": "http://tv-cool.com"
     },
     {
       "Nombre": "RCC - TV Chaqueña",
