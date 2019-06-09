@@ -421,13 +421,13 @@
       "Referer": "http://google.com"
     },
  {
-      "Nombre": "RCC - TV Chaqueña",
-      "Enlace": "http://tv-cool.com:8000/live/online/online/12919.m3u8",
+      "Nombre": "Paravisión",
+      "Enlace": "http://tv-cool.com:8000/live/online/online/12919.ts",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png",
       "MostrarAds": "no",
-      "UserAgent": "stagefright/1.2",
+      "UserAgent": "",
       "Origin": "",
       "Referer": ""
     },
