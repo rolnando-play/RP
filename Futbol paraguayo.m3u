@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:0, PAR-HON
-https://neuclnlds18dal.akamaized.net/nlds/tigopy/seleccindeftboldeparaguay/as/live/nlncp/seleccindeftboldeparaguay_hd_android.m3u8
-#EXTINF:0, PAR-HON 2
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
-#EXTINF:0, FUTBOL PYO 
-http://rolnando-play.000webhostapp.com/twitch.php?channel=017201815&f=.m3u8
-#EXTINF:0, FUTBOL PYO 2
-http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8
-#EXTINF:0, FUTBOL PYO 3
-http://rolnando-play.000webhostapp.com/twitch.php?channel=oliimpiavscerro&f=.m3u8
+#EXTINF:0, PAR-GUA
+https://neuclnlds51dal.akamaized.net/nlds/tigopy/seleccindeftboldeparaguay/as/live/nlncp/seleccindeftboldeparaguay_hd_android.m3u8
+#EXTINF:0, PAR-GUA HD
+https://neuclnlds51dal.akamaized.net/nlds/tigopy/seleccindeftboldeparaguay/as/live/nlncp/seleccindeftboldeparaguay_hd_3000_android.m3u8
