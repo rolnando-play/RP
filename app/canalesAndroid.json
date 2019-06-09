@@ -427,7 +427,7 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png",
       "MostrarAds": "no",
-      "UserAgent": "",
+      "UserAgent": "stagefright/1.2 (Linux;Android 9)",
       "Origin": "",
       "Referer": ""
     },
