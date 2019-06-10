@@ -253,6 +253,17 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
+   {
+      "Nombre": "TVP",
+      "Enlace": "https://sv7.apgstream.xyz/hls/tvpub.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvp.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
     {
       "Nombre": "Vamos",
       "Enlace": "https://live1234.s3-accelerate.amazonaws.com/t3/t3.m3u8",
