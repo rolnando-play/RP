@@ -1,13 +1,13 @@
 [
-  {
-      "Nombre": "Paraguay vs. Guatemala",
-      "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/seleccindeftboldeparaguay/as/live/nlncp/seleccindeftboldeparaguay_hd_android.m3u8",
+{
+      "Nombre": "Futbol paraguayo ",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201814&f=.m3u8",
       "EsWeb": "no"
     },
- {
-      "Nombre": "Paraguay vs. Guatemala HD",
-      "Enlace": "https://neuclnlds51dal.akamaized.net/nlds/tigopy/seleccindeftboldeparaguay/as/live/nlncp/seleccindeftboldeparaguay_hd_3000_android.m3u8",
-      "EsWeb": "no"
+    {
+      "Nombre": "Futbol paraguayo 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201814&!channelInfo",
+      "EsWeb": "si"
     },
         {
       "Nombre": "Activar canales",
