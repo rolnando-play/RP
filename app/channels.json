@@ -1,13 +1,13 @@
 [
-{
-      "Nombre": "Futbol paraguayo ",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=017201814&f=.m3u8",
+  {
+      "Nombre": "Inauguración Copa América",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/inauguracin/as/live/nlncp/inauguracin_hd_android.m3u8",
       "EsWeb": "no"
     },
-    {
-      "Nombre": "Futbol paraguayo 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=017201814&!channelInfo",
-      "EsWeb": "si"
+  {
+      "Nombre": "Inauguración Copa América HD",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/inauguracin/as/live/nlncp/inauguracin_hd_3000_android.m3u8",
+      "EsWeb": "no"
     },
         {
       "Nombre": "Activar canales",
