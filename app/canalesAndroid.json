@@ -299,6 +299,95 @@
     }
   ],
   "canales": [
+{
+      "Nombre": "Copa América",
+      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://rpc.com.py",
+      "Referer": "http://rpc.com.py/en-vivo/"
+    },
+    {
+      "Nombre": "Copa América 2",
+      "Enlace": "http://134.209.64.20/hls/veopartidos.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://rpc.com.py",
+      "Referer": "http://rpc.com.py/en-vivo/"
+    },
+
+    {
+      "Nombre": "Copa América 3",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=2720183&f=.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Copa América 4",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Copa América 5",
+      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=oliimpiavscerro&f=.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Copa América 6",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=2720183&!channelInfo",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Copa América 7",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Copa América 8",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro&!channelInfo",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
