@@ -299,8 +299,19 @@
     }
   ],
   "canales": [
-  {
+    {
       "Nombre": "Copa América",
+      "Enlace": "https://contar-live.secure.footprint.net/worldcup2018/worldcup2/test.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
+  {
+      "Nombre": "Copa América 2",
       "Enlace": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -311,7 +322,7 @@
       "Referer": "https://www.apurogol.net"
     },
 {
-      "Nombre": "Copa América 2",
+      "Nombre": "Copa América 3",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -322,8 +333,8 @@
       "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
-      "Nombre": "Copa América 3",
-      "Enlace": "http://134.209.64.20/hls/veopartidos.m3u8",
+      "Nombre": "Copa América 4",
+      "Enlace": "http://68.183.132.47/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
@@ -333,7 +344,7 @@
       "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
-      "Nombre": "Copa América 4",
+      "Nombre": "Copa América 5",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -344,7 +355,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Copa América 5",
+      "Nombre": "Copa América 6",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -355,7 +366,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Copa América 6",
+      "Nombre": "Copa América 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -366,7 +377,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Copa América 7",
+      "Nombre": "Copa América 8",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
