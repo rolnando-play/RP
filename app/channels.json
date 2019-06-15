@@ -9,6 +9,16 @@
       "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/inauguracin/as/live/nlncp/inauguracin_hd_3000_android.m3u8",
       "EsWeb": "no"
     },
+ {
+      "Nombre": "Brasil vs. Bolivia",
+      "Enlace": "https://neuclnlds53dal.akamaized.net/nlds/tigopy/brasil/as/live/nlncp/brasil_hd_android.m3u8",
+      "EsWeb": "no"
+    },
+  {
+      "Nombre": "Brasil vs. Bolivia HD",
+      "Enlace": "https://neuclnlds53dal.akamaized.net/nlds/tigopy/brasil/as/live/nlncp/brasil_hd_3000_android.m3u8",
+      "EsWeb": "no"
+    },
         {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
