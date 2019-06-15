@@ -255,7 +255,7 @@
     },
    {
       "Nombre": "TVP",
-      "Enlace": "https://sv7.apgstream.xyz/hls/tvpub.m3u8",
+      "Enlace": "https://contar-live.secure.footprint.net/worldcup2018/worldcup2/test.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tvp.png",
