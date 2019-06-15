@@ -332,20 +332,8 @@
       "Origin": "http://rpc.com.py",
       "Referer": "http://rpc.com.py/en-vivo/"
     },
-
     {
       "Nombre": "Copa América 4",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=2720183&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Copa América 5",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -356,7 +344,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Copa América 6",
+      "Nombre": "Copa América 5",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=oliimpiavscerro&f=.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -367,18 +355,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Copa América 7",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=2720183&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Copa América 8",
+      "Nombre": "Copa América 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -389,7 +366,7 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
-      "Nombre": "Copa América 9",
+      "Nombre": "Copa América 7",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=oliimpiavscerro&!channelInfo",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
