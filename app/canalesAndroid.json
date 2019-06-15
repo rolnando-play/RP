@@ -244,7 +244,7 @@
     },
     {
       "Nombre": "TyC Sports",
-      "Enlace": "https://sv1.apgstream.xyz/hls2/master_tyc.m3u8",
+      "Enlace": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tyc.png",
@@ -301,7 +301,7 @@
   "canales": [
   {
       "Nombre": "Copa América",
-      "Enlace": "https://sv1.apgstream.xyz/hls2/master_tyc.m3u8",
+      "Enlace": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
