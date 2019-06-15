@@ -321,6 +321,28 @@
       "Origin": "https://envivo.tigosports.com.py",
       "Referer": "https://envivo.tigosports.com.py/transmision/inauguca2019"
     },
+ {
+      "Nombre": "Brasil vs. Bolivia",
+      "Enlace": "https://neuclnlds53dal.akamaized.net/nlds/tigopy/brasil/as/live/nlncp/brasil_hd_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/transmision/462511"
+    },
+  {
+      "Nombre": "Brasil vs. Bolivia HD",
+      "Enlace": "https://neuclnlds53dal.akamaized.net/nlds/tigopy/brasil/as/live/nlncp/brasil_hd_3000_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/transmision/462511"
+    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
