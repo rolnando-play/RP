@@ -6,18 +6,8 @@
     },
     {
       "Nombre": "Copa América 2",
-      "Enlace": "http://68.183.132.47/hls/veopartidos.m3u8",
+      "Enlace": "http://159.65.109.164/hls/veopartidos.m3u8",
       "EsWeb": "no"
-    },
-    {
-      "Nombre": "Copa América 3",
-      "Enlace": "https://videocdn.mixer.com/hls/46594080-89265de016a93434bf4d9b6de49ace4e_source/index.m3u8",
-      "EsWeb": "no"
-    },
-    {
-      "Nombre": "Copa América 4",
-      "Enlace": "https://mixer.com/embed/player/livepy?hideChannel=true",
-      "EsWeb": "si"
     },
         {
       "Nombre": "Activar canales",
