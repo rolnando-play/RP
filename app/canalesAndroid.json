@@ -334,18 +334,18 @@
     },
     {
       "Nombre": "Copa América 4",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
+      "Enlace": "https://videocdn.mixer.com/hls/46594080-89265de016a93434bf4d9b6de49ace4e_source/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
       "MostrarAds": "si",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "Origin": "https://mixer.com",
+      "Referer": "https://mixer.com/livepy/mobile"
     },
     {
       "Nombre": "Copa América 5",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
+      "Enlace": "https://mixer.com/embed/player/livepy?hideChannel=true",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
