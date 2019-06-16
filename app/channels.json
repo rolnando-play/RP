@@ -1,36 +1,31 @@
 [
-  {
-      "Nombre": "Copa América",
-      "Enlace": "https://contar-live.secure.footprint.net/worldcup2018/worldcup2/test.m3u8",
-      "EsWeb": "no"
-    }, 
  {
-      "Nombre": "Copa América 2",
+      "Nombre": "Copa América",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Copa América 3",
-      "Enlace": "http://68.183.132.47/hls/veopartidos.m3u8",
+      "Nombre": "Copa América 2",
+      "Enlace": "http://157.230.84.135/hls/veopartidos.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Copa América 4",
+      "Nombre": "Copa América 3",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Copa América 5",
+      "Nombre": "Copa América 4",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Copa América 6",
+      "Nombre": "Copa América 5",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
       "EsWeb": "si"
     },
     {
-      "Nombre": "Copa América 7",
+      "Nombre": "Copa América 6",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
       "EsWeb": "si"
     },
