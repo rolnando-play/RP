@@ -11,21 +11,11 @@
     },
     {
       "Nombre": "Copa América 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
-      "EsWeb": "no"
-    },
-    {
-      "Nombre": "Copa América 4",
       "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
       "EsWeb": "no"
     },
     {
-      "Nombre": "Copa América 5",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
-      "EsWeb": "si"
-    },
-    {
-      "Nombre": "Copa América 6",
+      "Nombre": "Copa América 4",
       "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
       "EsWeb": "si"
     },
