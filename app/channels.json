@@ -1,22 +1,22 @@
 [
- {
+{
       "Nombre": "Copa América",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no"
     },
     {
       "Nombre": "Copa América 2",
-      "Enlace": "http://157.230.84.135/hls/veopartidos.m3u8",
+      "Enlace": "http://68.183.132.47/hls/veopartidos.m3u8",
       "EsWeb": "no"
     },
     {
       "Nombre": "Copa América 3",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=futbolparaguayotv&f=.m3u8",
+      "Enlace": "https://videocdn.mixer.com/hls/46594080-89265de016a93434bf4d9b6de49ace4e_source/index.m3u8",
       "EsWeb": "no"
     },
     {
       "Nombre": "Copa América 4",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=futbolparaguayotv&!channelInfo",
+      "Enlace": "https://mixer.com/embed/player/livepy?hideChannel=true",
       "EsWeb": "si"
     },
         {
