@@ -329,8 +329,8 @@
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://rpc.com.py",
-      "Referer": "http://rpc.com.py/en-vivo/"
+      "Origin": "http://veopartidos.com",
+      "Referer": "http://veopartidos.com/canales/canal2.html"
     },
     {
       "Nombre": "Activar canales",
