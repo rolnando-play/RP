@@ -299,39 +299,6 @@
     }
   ],
   "canales": [
-{
-      "Nombre": "Copa América",
-      "Enlace": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-{
-      "Nombre": "Copa América 2",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://rpc.com.py",
-      "Referer": "http://rpc.com.py/en-vivo/"
-    },
-    {
-      "Nombre": "Copa América 3",
-      "Enlace": "http://68.183.142.222/hls/veopartidos.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
