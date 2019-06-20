@@ -1,22 +1,7 @@
 [
- {
-      "Nombre": "Copa América",
-      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/argentina/as/live/nlncp/argentina_hd_pc.m3u8",
-      "EsWeb": "no"
-    },
- {
-      "Nombre": "Copa América 2 HD",
-      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/argentina/as/live/nlncp/argentina_hd_3000_pc.m3u8",
-      "EsWeb": "no"
-    },
 {
-      "Nombre": "Copa América 3",
+      "Nombre": "Copa América",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
-      "EsWeb": "no"
-    },
-    {
-      "Nombre": "Copa América 4",
-      "Enlace": "http://165.22.47.238/hls/veopartidos.m3u8",
       "EsWeb": "no"
     },
         {
