@@ -1,12 +1,17 @@
 [
-{
+  {
       "Nombre": "Copa América",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
+      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigobo/ecuador/as/live/nlncp/ecuador_hd_pc.m3u8",
       "EsWeb": "no"
     },
-  {
-      "Nombre": "Copa América 2",
-      "Enlace": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
+      {
+      "Nombre": "Copa América 2 HD",
+      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigobo/ecuador/as/live/nlncp/ecuador_hd_3000_pc.m3u8",
+      "EsWeb": "no"
+    },
+      {
+      "Nombre": "Copa América 3",
+      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no"
     },
         {
