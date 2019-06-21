@@ -332,17 +332,6 @@
       "Origin": "http://veopartidos.com",
       "Referer": "http://veopartidos.com/canales/canal2.html"
     },
-     {
-      "Nombre": "Copa América 4",
-      "Enlace": "http://66.70.177.174:5000/video/hls/Qr1X_PndqX00dc-5GstAqg/1561158616/live.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "http://www.futbolparaguayoenvivo.com",
-      "Referer": "http://www.futbolparaguayoenvivo.com/video.php?crypt=aHR0cDovLzY2LjcwLjE3Ny4xNzQ6NTAwMC92aWRlby9obHMvUXIxWF9QbmRxWDAwZGMtNUdzdEFxZy8xNTYxMTU4NjE2L2xpdmUubTN1OA=="
-    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
