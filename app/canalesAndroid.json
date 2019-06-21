@@ -332,6 +332,17 @@
       "Origin": "http://veopartidos.com",
       "Referer": "http://veopartidos.com/canales/canal2.html"
     },
+  {
+      "Nombre": "Copa América 3",
+      "Enlace": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://www.repretel.com",
+      "Referer": "http://www.repretel.com/envivo-4"
+    },
     {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
