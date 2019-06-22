@@ -1,12 +1,12 @@
 [
   {
       "Nombre": "Copa América",
-      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigobo/ecuador/as/live/nlncp/ecuador_hd_pc.m3u8",
+      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_800_pc.m3u8",
       "EsWeb": "no"
     },
       {
       "Nombre": "Copa América 2 HD",
-      "Enlace": "https://neuclnlds18dal.akamaized.net/nlds/tigobo/ecuador/as/live/nlncp/ecuador_hd_3000_pc.m3u8",
+      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_3000_pc.m3u8",
       "EsWeb": "no"
     },
       {
