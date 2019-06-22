@@ -310,8 +310,19 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
-{
+  {
       "Nombre": "Copa América 2",
+      "Enlace": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://d353843ckd0sex.cloudfront.net",
+      "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
+    },
+{
+      "Nombre": "Copa América 3",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -322,7 +333,7 @@
       "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
-      "Nombre": "Copa América 3",
+      "Nombre": "Copa América 4",
       "Enlace": "http://138.197.79.54/hls/veopartidos1.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -331,17 +342,6 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
       "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-  {
-      "Nombre": "Copa América 4",
-      "Enlace": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://d353843ckd0sex.cloudfront.net",
-      "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
     },
     {
       "Nombre": "Activar canales",
