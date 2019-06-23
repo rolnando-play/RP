@@ -1,19 +1,4 @@
 [
-  {
-      "Nombre": "Copa América",
-      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_800_pc.m3u8",
-      "EsWeb": "no"
-    },
-      {
-      "Nombre": "Copa América 2 HD",
-      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_3000_pc.m3u8",
-      "EsWeb": "no"
-    },
-      {
-      "Nombre": "Copa América 3",
-      "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
-      "EsWeb": "no"
-    },
         {
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
