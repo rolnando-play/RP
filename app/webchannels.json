@@ -1,4 +1,52 @@
 [
+       {
+      "NombreW": "Copa América PY",
+      "EnlaceW": "https://sv11.apgstream.xyz/hls/dtv2.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
+  {
+      "NombreW": "Copa América 2",
+      "EnlaceW": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
+  {
+      "NombreW": "Copa América 3",
+      "EnlaceW": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://d353843ckd0sex.cloudfront.net",
+      "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
+    },
+{
+      "NombreW": "Copa América 4 PY",
+      "EnlaceW": "http://174.138.118.252/live/canal13stream.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://rpc.com.py",
+      "Referer": "http://rpc.com.py/en-vivo/"
+    },
+    {
+      "NombreW": "Copa América 5 PY",
+      "EnlaceW": "http://http://68.183.22.208/hls/veopartidos1.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://veopartidos.com",
+      "Referer": "http://veopartidos.com/canales/canal2.html"
+    },
+    {
+      "NombreW": "Copa América 6",
+      "EnlaceW": "http://68.183.173.181/hls/veopartidos.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://veopartidos.com",
+      "Referer": "http://veopartidos.com/canales/canal2.html"
+    },
 {
       "NombreW": "Bein Sports",
       "EnlaceW": "http://68.183.159.206/hls/veopartidos.m3u8",
