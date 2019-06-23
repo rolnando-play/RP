@@ -322,7 +322,7 @@
       "Referer": "https://www.apurogol.net"
     },
   {
-      "Nombre": "Copa América 2",
+      "Nombre": "Copa América 3",
       "Enlace": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -333,7 +333,7 @@
       "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
     },
 {
-      "Nombre": "Copa América 3 PY",
+      "Nombre": "Copa América 4 PY",
       "Enlace": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -344,7 +344,7 @@
       "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
-      "Nombre": "Copa América 4 PY",
+      "Nombre": "Copa América 5 PY",
       "Enlace": "http://http://68.183.22.208/hls/veopartidos1.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -355,7 +355,7 @@
       "Referer": "http://veopartidos.com/canales/canal2.html"
     },
     {
-      "Nombre": "Copa América 5",
+      "Nombre": "Copa América 6",
       "Enlace": "http://68.183.173.181/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
