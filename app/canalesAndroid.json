@@ -154,23 +154,23 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
-  {
-      "Nombre": "DirecTv Sports Norte",
-      "Enlace": "https://sv13.apgstream.xyz/hls/dtv16.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
     {
       "Nombre": "DirecTv Sports +",
       "Enlace": "https://sv3.apgstream.xyz/hls/dtv3.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv+.png",
+      "MostrarAds": "no",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
+ {
+      "Nombre": "DirecTv Sports Norte",
+      "Enlace": "https://sv9.apgstream.xyz/hls/dtv33.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
