@@ -1,15 +1,15 @@
 [
-       {
-      "NombreW": "Copa América PY",
-      "EnlaceW": "https://sv11.apgstream.xyz/hls/dtv2.m3u8",
-      "EsWebW": "no",
+     {
+      "NombreW": "Copa América",
+      "Enlace": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
+      "EsWeb": "no",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
-  {
+    {
       "NombreW": "Copa América 2",
-      "EnlaceW": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
+      "EnlaceW": "https://sv11.apgstream.xyz/hls/dtv.m3u8",
       "EsWebW": "no",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
@@ -24,7 +24,7 @@
       "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
     },
 {
-      "NombreW": "Copa América 4 PY",
+      "NombreW": "Copa América 4",
       "EnlaceW": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
@@ -32,8 +32,8 @@
       "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
-      "NombreW": "Copa América 5 PY",
-      "EnlaceW": "http://178.128.229.53/hls/veopartidos1.m3u8",
+      "NombreW": "Copa América 5",
+      "EnlaceW": "http://174.138.49.36/hls/veopartidos.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
@@ -41,7 +41,7 @@
     },
     {
       "NombreW": "Copa América 6",
-      "EnlaceW": "http://68.183.173.181/hls/veopartidos.m3u8",
+      "EnlaceW": "http://157.230.184.175/hls/veopartidos1.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
