@@ -464,6 +464,17 @@
       "Origin": "http://rpc.com.py",
       "Referer": "http://rpc.com.py/en-vivo/"
     },
+ {
+      "Nombre": "RPC SD",
+      "Enlace": "http://174.138.118.252/live/canal13stream_low.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://rpc.com.py",
+      "Referer": "http://rpc.com.py/en-vivo/"
+    },
     {
       "Nombre": "SNT",
       "Enlace": "https://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
