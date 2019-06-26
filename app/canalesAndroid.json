@@ -367,14 +367,14 @@
     },
     {
       "Nombre": "Hei",
-      "Enlace": "http://18.228.128.49:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
+      "Enlace": "http://54.94.130.159:1935/live/_definst_/ngrp:heistream_all/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/hei.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "http://heimusica.com",
+      "Referer": "http://heimusica.com/"
     },
     {
       "Nombre": "Lambaré TV",
@@ -464,7 +464,7 @@
       "Origin": "http://rpc.com.py",
       "Referer": "http://rpc.com.py/en-vivo/"
     },
- {
+  {
       "Nombre": "RPC SD",
       "Enlace": "http://174.138.118.252/live/canal13stream_low.m3u8",
       "EsWeb": "no",
