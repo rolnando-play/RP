@@ -301,7 +301,7 @@
   "canales": [
   {
       "Nombre": "Copa América",
-      "Enlace": "https://neuclnlds52dal.akamaized.net/nlds/tigobo/venezuela/as/live/nlncp/venezuela_hd_pc.m3u8",
+      "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigobo/colombia/as/live/nlncp/colombia_hd_pc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
