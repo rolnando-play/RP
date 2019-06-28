@@ -1,20 +1,21 @@
 [
-     {
+  {
       "NombreW": "Copa América",
-      "EnlaceW": "https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8",
+      "EnlaceW": "https://neuclnlds54dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_pc.m3u8",
       "EsWebW": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "https://www.tigosports.com.bo",
+      "Referer": "https://www.tigosports.com.bo/en-vivo"
     },
     {
-      "NombreW": "Copa América 2",
-      "EnlaceW": "https://sv3.apgstream.xyz/hls/dtv.m3u8",
-      "EsWebW": "no",
+      "NombreW": "Copa América 2 HD",
+      "EnlaceW": "https://neuclnlds54dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_3000_pc.m3u8",
+      "EsWebW": "no"
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "https://www.tigosports.com.bo",
+      "Referer": "https://www.tigosports.com.bo/en-vivo"
     },
+
   {
       "NombreW": "Copa América 3",
       "EnlaceW": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
