@@ -301,7 +301,7 @@
   "canales": [
 {
       "Nombre": "Copa América",
-      "Enlace": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
+      "Enlace": "https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
