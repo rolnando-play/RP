@@ -1,23 +1,14 @@
 [
-  {
+    {
       "NombreW": "Copa América",
-      "EnlaceW": "https://neuclnlds54dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_pc.m3u8",
+      "EnlaceW": "https://sv8.apgstream.xyz/hls/tyc.m3u8",
       "EsWebW": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.tigosports.com.bo",
-      "Referer": "https://www.tigosports.com.bo/en-vivo"
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net/es/2019/06/venezuela-vs-argentina-en-vivo-online-copa-america-brasil-2019-en-directo-cuartos-de-final.html"
     },
-    {
-      "NombreW": "Copa América 2 HD",
-      "EnlaceW": "https://neuclnlds54dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_3000_pc.m3u8",
-      "EsWebW": "no"
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.tigosports.com.bo",
-      "Referer": "https://www.tigosports.com.bo/en-vivo"
-    },
-
   {
-      "NombreW": "Copa América 3",
+      "NombreW": "Copa América 2",
       "EnlaceW": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
@@ -25,7 +16,7 @@
       "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
     },
 {
-      "NombreW": "Copa América 4",
+      "NombreW": "Copa América 3",
       "EnlaceW": "http://174.138.118.252/live/canal13stream.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
@@ -33,7 +24,7 @@
       "Referer": "http://rpc.com.py/en-vivo/"
     },
     {
-      "NombreW": "Copa América 5",
+      "NombreW": "Copa América 4",
       "EnlaceW": "http://178.128.237.209/hls/veopartidos.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
