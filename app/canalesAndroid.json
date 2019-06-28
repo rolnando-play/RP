@@ -334,7 +334,7 @@
     },
     {
       "Nombre": "Copa América 4",
-      "Enlace": "http://178.128.237.209/hls/veopartidos.m3u8",
+      "Enlace": "http://68.183.204.96/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
