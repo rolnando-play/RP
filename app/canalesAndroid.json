@@ -301,25 +301,25 @@
   "canales": [
 {
       "Nombre": "Copa América",
-      "Enlace": "https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8",
+      "Enlace": "https://neuclnlds54dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_pc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "https://www.tigosports.com.bo",
+      "Referer": "https://www.tigosports.com.bo/en-vivo"
     },
     {
-      "Nombre": "Copa América 2",
-      "Enlace": "https://sv11.apgstream.xyz/hls/dtv.m3u8",
+      "Nombre": "Copa América 2 HD",
+      "Enlace": "https://neuclnlds54dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_300_pc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
       "MostrarAds": "si",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "https://www.tigosports.com.bo",
+      "Referer": "https://www.tigosports.com.bo/en-vivo"
     },
   {
       "Nombre": "Copa América 3",
