@@ -34,15 +34,7 @@
     },
     {
       "NombreW": "Copa América 5",
-      "EnlaceW": "http://157.230.83.61/hls/veopartidos.m3u8",
-      "EsWebW": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-    {
-      "NombreW": "Copa América 6",
-      "EnlaceW": "http://157.230.184.175/hls/veopartidos1.m3u8",
+      "EnlaceW": "http://178.128.237.209/hls/veopartidos.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
