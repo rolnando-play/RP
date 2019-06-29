@@ -1,12 +1,12 @@
 [
-   {
+  {
       "NombreW": "Copa América",
-      "EnlaceW": "https://neuclnlds13dal.akamaized.net/nlds/tigobo/colombia/as/live/nlncp/colombia_hd_pc.m3u8",
+      "EnlaceW": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
       "EsWebW": "no",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.tigosports.com.bo",
-      "Referer": "https://www.tigosports.com.bo/en-vivo"
-    },
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+},
   {
       "NombreW": "Copa América 2",
       "EnlaceW": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
@@ -25,7 +25,7 @@
     },
     {
       "NombreW": "Copa América 4",
-      "EnlaceW": "http://68.183.204.96/hls/veopartidos.m3u8",
+      "EnlaceW": "http://157.230.144.198/hls/veopartidos.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
