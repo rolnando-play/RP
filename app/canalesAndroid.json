@@ -301,7 +301,7 @@
   "canales": [
 {
       "Nombre": "Chivas vs. River Plate",
-      "Enlace": "http://104.248.66.22/hls/veopartidos.m3u8",
+      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1561802517/ei/teIWXaqlIYG8kAOV3aPwDw/ip/200.108.131.9/id/exqFGDuZai0.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgIAB1n29thP57Mp1W8LwViQ3REtwcQU8KKqWvAX3f44ACIQDkdljnJavWIG0kZNXCT1ZKW1GjN_qX5RwqPIcriiL7og%3D%3D/file/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "http://3.bp.blogspot.com/_I07DBaBH6X4/TCwVQqBicII/AAAAAAAAAPc/YYKtiixIBiM/s320/Logo+FIFA+77.png",
