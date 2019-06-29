@@ -343,7 +343,18 @@
       "Origin": "http://veopartidos.com",
       "Referer": "http://veopartidos.com/canales/canal2.html"
     },
-    {
+{
+      "Nombre": "Paranaense vs. Cerro Porteño",
+      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1561856201/ei/abQXXfP7IsHGwwTynZGQDQ/ip/200.108.131.8/id/zfXvj3tK_RA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhALGira14H5DMADJ6v7RfLBhLHA9fbp8jKxeo2QipQCitAiBh8ftGT5FgPMj5hDU_d3ZE3LbkcIdGKCu5q-37rJV-rQ%3D%3D/file/index.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://veopartidos.com",
+      "Referer": "http://veopartidos.com/canales/canal2.html"
+    },
+{
       "Nombre": "Activar canales",
       "Enlace": "http://darkiptv.com/apoyo/activar.html",
       "EsWeb": "si",
