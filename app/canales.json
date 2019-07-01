@@ -1,5 +1,16 @@
 {
   "canales": [
+ {
+      "Nombre": "San José vs. Olimpia",
+      "Enlace": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1562046566/ei/BpwaXdqhBojAxASGuK2wBg/ip/200.108.131.8/id/nFYDaidTzo8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAJO5arWdocNOqX8EliHLHsIa1w9egHrkdKteL1a3HlvNAiEA77ofgs4SdtCnubuhPSq47iw7zR2vc8Q0jZbcEMdn8sE%3D/file/index.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://freepngimg.com/thumb/basketball/12-basketball-ball-png-image.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    },
   {
       "Nombre": "Big Buck Bunny",
       "Enlace": "https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8",
