@@ -1,5 +1,15 @@
 {
   "canales": [
-
+  {
+      "Nombre": "Big Buck Bunny",
+      "Enlace": "https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": ".",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "https://www.apurogol.net",
+      "Referer": "https://www.apurogol.net"
+    }
   ]
 }
