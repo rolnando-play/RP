@@ -46,7 +46,7 @@
     },
     {
       "Nombre": "Copa América 5",
-      "Enlace": "http://165.22.193.6/hls/veopartidos.m3u8",
+      "Enlace": "http://167.71.175.252/hls/veopartidos.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
