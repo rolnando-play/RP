@@ -1,26 +1,26 @@
 {
   "canales": [
   {
-      "Nombre": "Big Buck Bunny",
-      "Enlace": "https://video-dev.github.io/streams/x36xhzz/x36xhzz.m3u8",
+      "Nombre": "RP Sports",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/rp_sports.mp4",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": ".",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/rpsports.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "",
+      "Referer": ""
     },
   {
-      "Nombre": "Web test",
-      "Enlace": "https://google.com",
+      "Nombre": "RP Sports - Google Play",
+      "Enlace": "https://play.google.com/store/apps/details?id=rolnando.play",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/240px-Google_%22G%22_Logo.svg.png",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/rpsports.png",
       "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "",
+      "Referer": ""
     }
   ]
 }
