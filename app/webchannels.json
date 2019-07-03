@@ -1,4 +1,12 @@
 [
+   {
+      "NombreW": "Copa América HD",
+      "EnlaceW": "https://neuclnlds17dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_3000_pc.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "https://www.tigosports.com.bo",
+      "Referer": "https://www.tigosports.com.bo/transmision/2019070202"
+    },
   {
       "NombreW": "Copa América",
       "EnlaceW": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
