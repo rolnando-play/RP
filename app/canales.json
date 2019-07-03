@@ -13,14 +13,14 @@
     },
     {
       "Nombre": "Copa América 2",
-      "Enlace": "https://sv11.apgstream.xyz/hls/dtv.m3u8",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_pc.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copaamerica.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Origin": "https://www.tigosports.com.bo",
+      "Referer": "https://www.tigosports.com.bo/transmision/2019070202"
     },
   {
       "Nombre": "Copa América 3",
