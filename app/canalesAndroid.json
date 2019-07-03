@@ -1,16 +1,5 @@
 {
   "eventos": [
-  {
-      "Nombre": "América vs. Boca",
-      "Enlace": "https://sv3.apgstream.xyz/hls/tnt.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tntsports.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
     {
       "Nombre": "Bein Sports",
       "Enlace": "https://sv14.apgstream.xyz/hls/brahon.m3u8",
