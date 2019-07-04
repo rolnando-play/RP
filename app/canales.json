@@ -23,17 +23,6 @@
       "Referer": ""
     },
     {
-      "Nombre": "Daring",
-      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/daring.mp4",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/daring.png",
-      "MostrarAds": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
-    {
       "Nombre": "Dash",
       "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/dash.mp4",
       "EsWeb": "no",
