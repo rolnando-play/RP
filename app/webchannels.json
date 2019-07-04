@@ -1,7 +1,7 @@
 [
    {
       "NombreW": "Copa América HD",
-      "EnlaceW": "https://neuclnlds17dal.akamaized.net/nlds/tigobo/brasil/as/live/nlncp/brasil_hd_3000_pc.m3u8",
+      "EnlaceW": "https://neuclnlds19dal.akamaized.net/nlds/tigobo/chile/as/live/nlncp/chile_hd_3000_pc.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "https://www.tigosports.com.bo",
@@ -33,7 +33,7 @@
     },
     {
       "NombreW": "Copa América 4",
-      "EnlaceW": "http://165.22.193.6/hls/veopartidos.m3u8",
+      "EnlaceW": "http://207.154.228.64/hls/veopartidos.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
