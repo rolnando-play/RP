@@ -1,34 +1,12 @@
 {
   "canales": [
   {
-      "Nombre": "Copa de Oro",
-      "Enlace": "http://67.205.168.163/hls/veopartidos3.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://www.footballticketnet.es/files/images/tournaments/Buy-2019-CONCACAF-Gold-Cup-Football-Tickets-FootballTicketNet.png?v=1555596445",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-  {
       "Nombre": "RP Sports",
       "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/rp_sports.mp4",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/rpsports.png",
       "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "",
-      "Referer": ""
-    },
-  {
-      "Nombre": "RP Sports - Google Play",
-      "Enlace": "https://play.google.com/store/apps/details?id=rolnando.play",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/rpsports.png",
-      "MostrarAds": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "",
       "Referer": ""
