@@ -32,6 +32,127 @@
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "",
       "Referer": ""
+    },
+{
+      "Nombre": "Cast logo",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/cast.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/cast.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Daring",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/daring.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/daring.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Dash",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/dash.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/dash.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Display",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/display.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/display.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Framed",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/framed.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/framed.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Letter",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/letter.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/letter.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+    {
+      "Nombre": "Lines",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/lines.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/lines.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+   {
+      "Nombre": "Point black",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/point.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/point.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+ {
+      "Nombre": "Quoted",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/quoted.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/quoted.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+   {
+      "Nombre": "Splash",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/splash.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/splash.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
+    },
+ {
+      "Nombre": "Stopmo",
+      "Enlace": "https://raw.githubusercontent.com/rolnando-play/RP/master/videos/stopmo.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/stream/stopmo.png",
+      "MostrarAds": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "Origin": "",
+      "Referer": ""
     }
   ]
 }
