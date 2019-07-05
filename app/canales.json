@@ -24,14 +24,14 @@
     },
     {
       "Nombre": "C9N",
-      "Enlace": "https://d3kp7jkmvusdbk.cloudfront.net/py/smil:p9.smil/playlist.m3u8",
+      "Enlace": "https://py-c9n-c9n-live-0-cdn-0.ned.media/c9n/smil:c9n.smil/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "http://www.c9n.com.py",
+      "Referer": "http://www.c9n.com.py/envivo"
     },
     {
       "Nombre": "Farra Play",
@@ -167,14 +167,14 @@
     },
     {
       "Nombre": "SNT",
-      "Enlace": "https://d5xwri0kqihsc.cloudfront.net/livesnt/smil:livepy.smil/playlist.m3u8",
+      "Enlace": "https://py-snt-snt-live-0-cdn-0.ned.media/snt/smil:snt.smil/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/snt.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Origin": "http://www.snt.com.py",
+      "Referer": "http://www.snt.com.py/envivo"
     },
     {
       "Nombre": "Telefuturo",
