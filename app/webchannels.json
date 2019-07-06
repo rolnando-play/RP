@@ -1,27 +1,19 @@
 [
-   {
-      "NombreW": "Copa América HD",
-      "EnlaceW": "https://neuclnlds19dal.akamaized.net/nlds/tigobo/chile/as/live/nlncp/chile_hd_3000_pc.m3u8",
+{
+      "NombreW": "Copa América",
+      "EnlaceW": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.tigosports.com.bo",
-      "Referer": "https://www.tigosports.com.bo/transmision/2019070202"
-    },
-  {
-      "NombreW": "Copa América",
-      "EnlaceW": "https://sv11.apgstream.xyz/hls/dtv.m3u8",
-      "EsWebW": "no",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
-},
+    },
   {
       "NombreW": "Copa América 2",
-      "EnlaceW": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
+      "EnlaceW": "https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://d353843ckd0sex.cloudfront.net",
-      "Referer": "http://d353843ckd0sex.cloudfront.net/player_cr_repretel.html?canal6"
+      "Origin": "https://www.tigosports.com.bo/transmision",
+      "Referer": "https://www.tigosports.com.bo/transmision/2019070601"
     },
 {
       "NombreW": "Copa América 3",
@@ -33,7 +25,7 @@
     },
     {
       "NombreW": "Copa América 4",
-      "EnlaceW": "http://207.154.228.64/hls/veopartidos.m3u8",
+      "EnlaceW": "http://67.207.80.7/hls/veopartidos.m3u8",
       "EsWebW": "no",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://veopartidos.com",
