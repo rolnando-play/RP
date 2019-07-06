@@ -1,4 +1,44 @@
 [
+       {
+      "NombreW": "Olimpia vs. Rosario",
+      "EnlaceW": "http://rolnando-play.000webhostapp.com/twitch.php?channel=garra_tv&f=.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+        {
+      "NombreW": "Olimpia vs. Rosario 2",
+      "EnlaceW": "http://rolnando-play.000webhostapp.com/twitch.php?channel=fptv2019&f=.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "NombreW": "Olimpia vs. Rosario 3",
+      "EnlaceW": "https://player.twitch.tv/?volume=1&muted&channel=garra_tv&!channelInfo",
+      "EsWebW": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+        {
+      "NombreW": "Olimpia vs. Rosario 4",
+      "EnlaceW": "https://player.twitch.tv/?volume=1&muted&channel=fptv2019&!channelInfo",
+      "EsWebW": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+	 {
+      "NombreW": "Olimpia vs. Rosario 5",
+      "EnlaceW": "http://35.199.110.145:5000/video/hls/jTZGeoNlwx3H5MG6lBt9lw/1562455665/live2.m3u8",
+      "EsWebW": "no",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://www.tendenciasports.com",
+      "Referer": "http://www.tendenciasports.com/video.php?crypt=aHR0cDovLzM1LjE5OS4xMTAuMTQ1OjUwMDAvdmlkZW8vaGxzL2pUWkdlb05sd3gzSDVNRzZsQnQ5bHcvMTU2MjQ1NTY2NS9saXZlMi5tM3U4"
+    },
 {
       "NombreW": "Copa América",
       "EnlaceW": "https://sv11.apgstream.xyz/hls/tyc.m3u8",
