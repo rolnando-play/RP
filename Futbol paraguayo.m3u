@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:0, COPA AMERICA
-https://neuclnlds53dal.akamaized.net/nlds/tigopy/brasil/as/live/nlncp/brasil_hd_android.m3u8
-#EXTINF:0, COPA AMERICA HD
-https://neuclnlds53dal.akamaized.net/nlds/tigopy/brasil/as/live/nlncp/brasil_hd_3000_android.m3u8
+#EXTINF:0, TEST
+#EXTVLCOPT:http-user-agent=DkLavf/57.36.100
+http://23.237.36.170:8000/D4rktv0f1c14ll2.1/P1nch3r4t3r0demierda/537
