@@ -1,7 +1,7 @@
 {
-  "versionCode":1,
-  "versionName":"1.0.0",
+  "versionCode":"19072718",
+  "versionName":"11.1.17",
   "content":"1.add something#2.add something",
-  "minSupport":1,	
+  "minSupport":"19072719",	
   "url":"https://github.com/rolnando-play/RP/raw/master/app/rpsports.apk"
 }
