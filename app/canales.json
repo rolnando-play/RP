@@ -1,23 +1,24 @@
 {
   "canales": [
   {
-      "Nombre": "ABC TV",
-      "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
+      "Nombre": "Apoya al creador",
+      "Enlace": "http://optitopt.com/3XvP",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/adIcon.png",
       "MostrarAds": "no",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
       "Referer": "http://google.com"
     },
-    {
-      "Nombre": "Amor TV",
-      "Enlace": "http://181.40.66.93:1935/amortv/amortv/playlist.m3u8",
-      "EsWeb": "no",
+  
+{
+      "Nombre": "ABC TV",
+      "Enlace": "http://www.ustream.tv/embed/21235831?html5ui&autoplay=true",
+      "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/amor.png",
-      "MostrarAds": "no",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/abc.png",
+      "MostrarAds": "si",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
       "Referer": "http://google.com"
@@ -28,7 +29,7 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "http://www.c9n.com.py",
       "Referer": "http://www.c9n.com.py/envivo"
@@ -73,7 +74,7 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/tv-lambare.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
+      "UserAgent": "DkLavf/57.36.10",
       "Origin": "http://paraguayonline.net",
       "Referer": "http://paraguayonline.net/tvlambare"
     },
@@ -110,14 +111,15 @@
       "Origin": "http://www.radiosenparaguay.com",
       "Referer": "http://www.radiosenparaguay.com/mitv"
     },
+    
     {
       "Nombre": "Noticias Paraguay",
       "Enlace": "https://iframe.dacast.com/b/111090/c/476802",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/npy.png",
-      "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.36.100",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
       "Origin": "https://www.apurogol.net",
       "Referer": "http://google.com"
     },
@@ -127,7 +129,7 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/paravision.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "stagefright/1.2 (Linux;Android 9)",
       "Origin": "http://tv-cool.com",
       "Referer": "http://tv-cool.com"
@@ -149,7 +151,7 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://rpc.com.py",
       "Referer": "http://rpc.com.py/en-vivo/"
@@ -160,7 +162,7 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/rpc.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://rpc.com.py",
       "Referer": "http://rpc.com.py/en-vivo/"
@@ -171,25 +173,26 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/snt.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "http://www.snt.com.py",
       "Referer": "http://www.snt.com.py/envivo"
     },
+    
     {
       "Nombre": "Telefuturo",
-      "Enlace": "https://telefuturo.com.py/envivo",
+      "Enlace": "https://iframe.dacast.com/b/111090/c/496272",
       "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/telefuturo.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
-      "Referer": "http://google.com"
+      "Referer": "http://google.com.py"
     },
     {
       "Nombre": "TV Concepción",
-      "Enlace": "https://inliveserver.com:1936/8604/8604/playlist.m3u8",
+      "Enlace": "http://inliveserver.com:1935/8604/8604/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/concepcion.png",
@@ -215,7 +218,7 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
       "Origin": "http://unicanal.com.py",
       "Referer": "http://unicanal.com.py/"
@@ -233,7 +236,7 @@
     },
     {
       "Nombre": "Visión Villarrica",
-      "Enlace": "https://inliveserver.com:1936/8312/8312/playlist.m3u8",
+      "Enlace": "http://inliveserver.com:1935/8312/8312/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/vision.png",
