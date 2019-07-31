@@ -2,17 +2,6 @@
   "canales": [
 {
       "Nombre": "Cerro Porteño vs. San Lorenzo",
-      "Enlace": "http://172.105.37.146/hls/veopartidos4.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-{
-      "Nombre": "Cerro Porteño vs. San Lorenzo 2",
       "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -22,7 +11,17 @@
       "Origin": "https://www.apurogol.net",
       "Referer": "https://www.apurogol.net"
     },
-    
+    {
+      "Nombre": "Cerro Porteño vs. San Lorenzo 2",
+      "Enlace": "http://172.105.37.146/hls/veopartidos4.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "http://veopartidos.com",
+      "Referer": "http://veopartidos.com/canales/canal2.html"
+    },
 
   {
       "Nombre": "Apoya al creador",
