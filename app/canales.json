@@ -1,40 +1,7 @@
 {
   "canales": [
 {
-      "Nombre": "Cruzeiro vs. River Plate",
-      "Enlace": "http://172.105.37.140/hls/veopartidos.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-{
       "Nombre": "Olimpia vs. LDU Quito",
-      "Enlace": "http://5.9.24.138:25461/live/cAe49sjsRs/VCJotRKO3p/216.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Zaltv 1.5.6",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-{
-      "Nombre": "Olimpia vs. LDU Quito 2",
-      "Enlace": "http://23.237.36.170:8000/D4rktv0f1c14ll2.1/P1nch3r4t3r0demierda/556",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/57.36.100",
-      "Origin": "http://veopartidos.com",
-      "Referer": "http://veopartidos.com/canales/canal2.html"
-    },
-{
-      "Nombre": "Olimpia vs. LDU Quito 3",
       "Enlace": "http://172.105.37.140/hls/veopartidos4.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
