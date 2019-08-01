@@ -1,8 +1,8 @@
 {
   "canales": [
 {
-      "Nombre": "Cerro Porteño vs. San Lorenzo",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
+      "Nombre": "Boca vs. Paranaense",
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
@@ -12,8 +12,8 @@
       "Referer": "https://www.apurogol.net"
     },
 {
-      "Nombre": "Internacional vs. Nacional",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox3.m3u8",
+      "Nombre": "Flamengo vs. Emelec",
+      "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
