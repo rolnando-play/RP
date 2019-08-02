@@ -1,38 +1,6 @@
 {
   "canales": [
-{
-      "Nombre": "Libertad vs. Gremio",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-{
-      "Nombre": "Universidad Católica vs. Independiente",
-      "Enlace": "https://sv3.apgstream.xyz/hls/espn2.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn2.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-{
-      "Nombre": "Montevideo Wanderers vs. Corinthians",
-      "Enlace": "https://sv3.apgstream.xyz/hls/dtv3.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv+.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
+
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
