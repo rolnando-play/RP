@@ -1,22 +1,11 @@
 {
   "canales": [
 {
-      "Nombre": "Fox Sports 2",
+      "Nombre": "Superliga",
       "Enlace": "https://sv4.apgstream.xyz/hls/fox2.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs2.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-    {
-      "Nombre": "Fox Sports Premium",
-      "Enlace": "https://sv1.apgstream.xyz/hls/foxp.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fsp.png",
       "MostrarAds": "si",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
       "Origin": "https://www.apurogol.net",
