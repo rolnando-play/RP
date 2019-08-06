@@ -214,7 +214,7 @@
     },
     {
       "Nombre": "Unicanal",
-      "Enlace": "http://45.55.127.106/live/unicanal_mid.m3u8",
+      "Enlace": "http://45.55.127.106/live/unicanal.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
@@ -223,6 +223,18 @@
       "Origin": "http://unicanal.com.py",
       "Referer": "http://unicanal.com.py/"
     },
+  {
+      "Nombre": "Unicanal SD",
+      "Enlace": "http://45.55.127.106/live/unicanal_low.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/unicanal.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://unicanal.com.py",
+      "Referer": "http://unicanal.com.py/"
+    },
+
     {
       "Nombre": "Venus Media",
       "Enlace": "http://201.217.3.212/venusmedia/venusmedia/chunklist_w490652724.m3u8",
