@@ -1,7 +1,7 @@
 {
   "canales": [
 {
-      "Nombre": "Torneo clausura HD",
+      "Nombre": "Copa Paraguay HD",
       "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_3000_android.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -12,7 +12,7 @@
       "Referer": "https://envivo.tigosports.com.py/"
     },
     {
-      "Nombre": "Torneo clausura Media",
+      "Nombre": "Copa Paraguay Media",
       "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_1600_android.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
@@ -23,7 +23,7 @@
       "Referer": "https://envivo.tigosports.com.py/"
     },
     {
-      "Nombre": "Torneo clausura Baja",
+      "Nombre": "Copa Paraguay Baja",
       "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_800_android.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
