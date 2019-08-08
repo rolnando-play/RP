@@ -1,5 +1,38 @@
 {
   "canales": [
+{
+      "Nombre": "Copa PY HD repetición",
+      "Enlace": "https://neuclnlds14dal.akamaized.net:443/nlds_vod/tigopy/vod/2019/08/08/34323/f3295728-d9fa-4588-a5c0-4ee78fa5c3ba/v1/stream/2_34323_atlcolegialesp_olimpia_2019_b_whole_1_3000_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/"
+    },
+    {
+      "Nombre": "Copa PY Media repetición",
+      "Enlace": "https://neuclnlds14dal.akamaized.net:443/nlds_vod/tigopy/vod/2019/08/08/34323/f3295728-d9fa-4588-a5c0-4ee78fa5c3ba/v1/stream/2_34323_atlcolegialesp_olimpia_2019_b_whole_1_1600_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/"
+    },
+    {
+      "Nombre": "Copa PY Baja repetición",
+      "Enlace": "https://neuclnlds14dal.akamaized.net:443/nlds_vod/tigopy/vod/2019/08/08/34323/f3295728-d9fa-4588-a5c0-4ee78fa5c3ba/v1/stream/2_34323_atlcolegialesp_olimpia_2019_b_whole_1_800_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/"
+    },
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
