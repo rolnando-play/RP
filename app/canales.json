@@ -1,5 +1,17 @@
 {
   "canales": [
+ {
+      "Nombre": "C9N",
+      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/TXEFUCUIKE/streams/60_.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://hhtp2.c7abctop12mtv.tk",
+      "Referer": "https://hhtp2.c7abctop12mtv.tk/"
+    },
+
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
@@ -7,7 +19,7 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/adIcon.png",
       "MostrarAds": "no",
-      "UserAgent": "DkLavf/57.365.100",
+      "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://www.apurogol.net",
       "Referer": "http://google.com"
     },
