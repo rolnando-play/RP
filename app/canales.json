@@ -33,17 +33,6 @@
       "Origin": "https://envivo.tigosports.com.py",
       "Referer": "https://envivo.tigosports.com.py/"
     },
-{
-      "Nombre": "Roma vs. Real Madrid",
-      "Enlace": "https://sv10.apgstream.xyz/hls/espn.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
