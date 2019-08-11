@@ -577,14 +577,14 @@
     },
     {
       "Nombre": "El Trece AR",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=13hd_arg&f=.m3u8",
+      "Enlace": "http://ad.mysisli.com/live/tree325kk/tracks-v1a1/mono.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
       "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=13arg"
+      "Origin": "http://www.reseven.tv",
+      "Referer": "http://www.reseven.tv/arg/trece2.php"
     },
     {
       "Nombre": "E!",
