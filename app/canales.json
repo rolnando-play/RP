@@ -2,26 +2,16 @@
   "canales": [
 {
       "Nombre": "Copa Paraguay",
-      "Enlace": "https://rpsports.herokuapp.com/index.php?channel=nadaquever3&f=.m3u8",
+      "Enlace": "http://62.112.11.14/video2/hls/QfaiaDJGevQnmer6V_pE4Q/1565734484/tendencia1.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
       "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "UserAgent": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36",
+      "Origin": "http://www.tendenciasports.com",
+      "Referer": "http://www.tendenciasports.com/video2.php?crypt=aHR0cDovLzIxMi44LjI0MC4xMzMvdmlkZW8vaGxzL3ZxZzBudWpiUG5jR0hGZlp6U3Baa1EvMTU2NTczNDU3MS90ZW5kZW5jaWExLm0zdTg="
     },
-    {
-      "Nombre": "Copa Paraguay 2",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=nadaquever3&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
+    
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
