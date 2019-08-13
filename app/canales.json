@@ -1,5 +1,27 @@
 {
   "canales": [
+{
+      "Nombre": "Copa Paraguay",
+      "Enlace": "https://rpsports.herokuapp.com/index.php?channel=nadaquever3&f=.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Copa Paraguay 2",
+      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=nadaquever3&!channelInfo",
+      "EsWeb": "si",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/56.36.100",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
