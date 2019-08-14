@@ -33,16 +33,16 @@
       "Origin": "https://player.twitch.tv",
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
-{
+  {
       "Nombre": "Liverpool vs. Chelsea",
-      "Enlace": "https://sv10.apgstream.xyz/hls/espn.m3u8",
+      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/TXEFUCUIKE/streams/75_.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/espn.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/fs.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
       "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "Referer": "http://google.com"
     },
   {
       "Nombre": "Apoya al creador",
