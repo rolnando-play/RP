@@ -1,5 +1,16 @@
 {
   "canales": [
+{
+      "Nombre": "Copa Paraguay",
+      "Enlace": "http://212.8.240.133/video/hls/6ya5kKIJ7lYcv9xg71IBTQ/1565812165/tendencia1.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36",
+      "Origin": "http://www.tendenciasports.com",
+      "Referer": "http://www.tendenciasports.com/"
+    },
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
