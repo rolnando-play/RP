@@ -1,38 +1,5 @@
 {
   "canales": [
-{
-      "Nombre": "Copa Paraguay",
-      "Enlace": "https://videocdn.mixer.com/hls/95725845-738f448dfa22a13e7168518d24fdeb54_source/index.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://mixer.com",
-      "Referer": "https://mixer.com/"
-    },
-{
-      "Nombre": "Copa Paraguay 2",
-      "Enlace": "http://rolnando-play.000webhostapp.com/twitch.php?channel=fptv2021&f=.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
-      "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
-    {
-      "Nombre": "Copa Paraguay 3",
-      "Enlace": "https://player.twitch.tv/?volume=1&muted&channel=fptv2021&!channelInfo",
-      "EsWeb": "si",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
-      "MostrarAds": "si",
-      "UserAgent": "DkLavf/56.36.100",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
-    },
   {
       "Nombre": "Liverpool vs. Chelsea",
       "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/TXEFUCUIKE/streams/75_.m3u8",
