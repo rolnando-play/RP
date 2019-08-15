@@ -35,7 +35,7 @@
     },
     {
       "Nombre": "C9N",
-      "Enlace": "https://py-c9n-c9n-live-0-cdn-0.ned.media/c9n/smil:c9n.smil/playlist.m3u8",
+      "Enlace": "https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/c9n.png",
