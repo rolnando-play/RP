@@ -1,5 +1,16 @@
 {
   "canales": [
+{
+      "Nombre": "Copa Paraguay",
+      "Enlace": "https://videocdn.mixer.com/hls/95725845-68ac7bb7fd3e1e94b488a867a0ed81f3_source/index.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://mixer.com",
+      "Referer": "https://mixer.com/"
+    },
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
