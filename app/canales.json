@@ -1,6 +1,39 @@
 {
   "canales": [
 {
+      "Nombre": "Torneo clausura HD",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_3000_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/"
+    },
+    {
+      "Nombre": "Torneo clausura Media",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_1600_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/"
+    },
+    {
+      "Nombre": "Torneo clausura Baja",
+      "Enlace": "https://neuclnlds17dal.akamaized.net/nlds/tigopy/cporteo/as/live/nlncp/cporteo_hd_800_android.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
+      "MostrarAds": "si",
+      "UserAgent": "DkLavf/57.36.100",
+      "Origin": "https://envivo.tigosports.com.py",
+      "Referer": "https://envivo.tigosports.com.py/"
+    },
+{
       "Nombre": "Superliga",
       "Enlace": "https://sv1.apgstream.xyz/hls/foxp.m3u8",
       "EsWeb": "no",
