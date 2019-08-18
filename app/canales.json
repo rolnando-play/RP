@@ -2,7 +2,7 @@
   "canales": [
 {
       "Nombre": "Torneo clausura HD",
-      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_3000_android.m3u8",
+      "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_3000_android.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -13,7 +13,7 @@
     },
     {
       "Nombre": "Torneo clausura Media",
-      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_1600_android.m3u8",
+      "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_1600_android.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -24,7 +24,7 @@
     },
     {
       "Nombre": "Torneo clausura Baja",
-      "Enlace": "https://neuclnlds19dal.akamaized.net/nlds/tigopy/dcapiat/as/live/nlncp/dcapiat_hd_800_android.m3u8",
+      "Enlace": "https://neuclnlds13dal.akamaized.net/nlds/tigopy/libertad/as/live/nlncp/libertad_hd_800_android.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copa.png",
@@ -32,17 +32,6 @@
       "UserAgent": "DkLavf/57.36.100",
       "Origin": "https://envivo.tigosports.com.py",
       "Referer": "https://envivo.tigosports.com.py/"
-    },
-{
-      "Nombre": "La Liga",
-      "Enlace": "https://sv1.apgstream.xyz/hls/dtv.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/dtv.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net/es/2019/06/colombia-vs-chile-en-vivo-online-copa-america-brasil-2019-en-directo-cuartos-de-final.html"
     },
 {
       "Nombre": "Superliga",
