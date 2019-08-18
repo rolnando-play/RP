@@ -566,8 +566,8 @@
     },
     {
       "Nombre": "El Trece AR",
-      "Enlace": "http://ad.mysisli.com/live/tree325kk/tracks-v1a1/mono.m3u8",
-      "EsWeb": "no",
+      "Enlace": "https://ok.ru/videoembed/2365668925110",
+      "EsWeb": "si",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/eltrece.png",
       "MostrarAds": "no",
