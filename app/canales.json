@@ -1,5 +1,17 @@
 {
   "canales": [
+	   {
+      "Nombre": "Goles - fecha 5",
+      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/08Agosto/19/Showdegoles%236%282%29.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
+      "MostrarAds": "si",
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "Origin": "http://www.farra.com.py",
+      "Referer": "http://www.farra.com.py/"
+    },
+	  
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
