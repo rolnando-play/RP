@@ -1,13 +1,5 @@
 {
   "canales": [
- {
-      "Nombre": "test",
-      "Enlace": "https://sv4.apgstream.xyz/hls/fox.m3u8",
-      "EsWeb": "no",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/TvChilena/logos/24horas.png",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
-      "Referer": "https://www.apurogol.net/es/2019/04/internacional-vs-river-en-vivo-online-copa-libertadores-2019-en-directo-grupo-a.html"
-    },
     {
       "Nombre": "24Horas",
       "Enlace": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=75&player=57f4e28f9c53768535d65782&custom.preroll=&custom.overlay=",
