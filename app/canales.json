@@ -1,5 +1,6 @@
 {
   "canales": [
+
 	   {
       "Nombre": "Goles - fecha 5",
       "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/08Agosto/19/Showdegoles%236%282%29.mp4",
@@ -270,7 +271,7 @@
     },
      {
       "Nombre": "A&E",
-      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/FPKN3D1BL745DCWVH16/streams/1_.m3u8",
+      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/S808223ZSZEWFKEM9R3/streams/1_.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/ae.png",
