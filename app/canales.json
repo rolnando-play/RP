@@ -1,18 +1,16 @@
 {
   "canales": [
-
-	   {
-      "Nombre": "Goles - fecha 5",
-      "Enlace": "https://tigosports-py.s3.amazonaws.com/2019/08Agosto/19/Showdegoles%236%282%29.mp4",
+{
+      "Nombre": "Copa Paraguay",
+      "Enlace": "https://www.youtube.com/api/manifest/hls_variant/expire/1566441622/ei/NqxdXe7uDNjoxwTfnK6oAg/ip/200.108.131.11/cp/U0pVS1RPT19HTENQNV9MSVNHOjBSYVBqeF9nTlhBR1NRa3Rxb0U1Ymc5NXhvaW5FQ1BVcGJybXRuTHQ0NWw/id/eh_pXIrX43c.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Ccp%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAJDGEU4HxO_l-J90grQY64fZXdaJlYK8i4Qed1p5v4rnAiEA5Kc4Ttmknbpd4EJKzLmNedXKmyGt4nmiSAE-OhakyMo%3D/file/index.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/gol.png",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/copapy.png",
       "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
-      "Origin": "http://www.farra.com.py",
-      "Referer": "http://www.farra.com.py/"
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://mixer.com",
+      "Referer": "https://mixer.com/"
     },
-	  
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
