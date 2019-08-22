@@ -17,7 +17,7 @@
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "no",
+      "MostrarAds": "si",
       "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
       "Origin": "",
       "Referer": ""
