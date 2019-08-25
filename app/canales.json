@@ -1,15 +1,15 @@
 {
   "canales": [
-{
+  {
       "Nombre": "Premier League",
-      "Enlace": "https://sv3.apgstream.xyz/hls/espn2.m3u8",
+      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/SPY6TVCK039JDKH3CV7L/streams/56_.m3u8",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/premier.png",
       "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
     },
 {
       "Nombre": "Superliga",
