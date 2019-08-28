@@ -1,49 +1,5 @@
 {
   "canales": [
-    {
-      "Nombre": "Libertadores",
-      "Enlace": "https://sv4.apgstream.xyz/hls/foxp.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net"
-    },
-  {
-      "Nombre": "Libertadores 2",
-      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/SPY6TVCK039JDKH3CV7L/streams/75_.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/libertadores.png",
-      "MostrarAds": "si",
-      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
-      "Origin": "https://mirandatv21.tk/",
-      "Referer": "https://mirandatv21.tk/"
-    },
-    {
-      "Nombre": "Sudamericana",
-      "Enlace": "https://sv1.apgstream.xyz/hls/dtv.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sudamericana.png",
-      "MostrarAds": "si",
-      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0",
-      "Origin": "https://www.apurogol.net",
-      "Referer": "https://www.apurogol.net/es/2019/06/colombia-vs-chile-en-vivo-online-copa-america-brasil-2019-en-directo-cuartos-de-final.html"
-    },
-{
-      "Nombre": "Sudamericana 2",
-      "Enlace": "https://hhtp2.c7abctop12mtv.tk/1YAOKQOPCRIT09X4BMYY/SPY6TVCK039JDKH3CV7L/streams/153_.m3u8",
-      "EsWeb": "no",
-      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/sudamericana.png",
-      "MostrarAds": "si",
-      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
-      "Origin": "https://mirandatv21.tk/",
-      "Referer": "https://mirandatv21.tk/"
-    },
   {
       "Nombre": "Apoya al creador",
       "Enlace": "http://optitopt.com/3XvP",
