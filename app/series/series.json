@@ -4,6 +4,11 @@
       "Nombre": "Chernobyl",
       "Id": "chernobyl",
       "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/chernobyl.png"
+    },
+ {
+      "Nombre": "Watchmen",
+      "Id": "watchmen",
+      "ImagenUrl": "https://pngimage.net/wp-content/uploads/2018/06/watchmen-png-2.png"
     }
   ]
   }
