@@ -1,4 +1,16 @@
 {
+
+ "mandalorian": [
+ {
+      "Nombre": "Episodio 1",
+      "Enlace": "https://s435.clipwatching.com/zx5x3q4osz2txcne4ydcngpd2c5v76s6w6i5z3jaildwjrqtrawddcoz5fja/v.mp4",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "",
+      "Referer": ""
+    }
+ ],
+
   "chernobyl": [
  {
       "Nombre": "Episodio 1",
