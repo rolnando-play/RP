@@ -1,6 +1,10 @@
 {
   "series": [
-
+{
+      "Nombre": "See",
+      "Id": "see",
+      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/img/see.png"
+    },
 {
       "Nombre": "The Mandalorian",
       "Id": "mandalorian",
