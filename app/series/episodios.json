@@ -33,6 +33,22 @@
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://powvideo.net/",
       "Referer": "https://powvideo.net/mw6d5fxoshzi"
+    },
+ {
+      "Nombre": "Episodio 5",
+      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E05.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://powvideo.net/",
+      "Referer": "https://powvideo.net/mw6d5fxoshzi"
+    },
+ {
+      "Nombre": "Episodio 6",
+      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E06.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://powvideo.net/",
+      "Referer": "https://powvideo.net/mw6d5fxoshzi"
     }
  ],
 
@@ -123,6 +139,22 @@
 {
       "Nombre": "Episodio 6",
       "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E06.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "",
+      "Referer": ""
+    },
+{
+      "Nombre": "Episodio 7",
+      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E07.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "",
+      "Referer": ""
+    },
+{
+      "Nombre": "Episodio 8",
+      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E08.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
