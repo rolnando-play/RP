@@ -1,4 +1,9 @@
 {
   "latestVersion": "1.1.10",
-  "url": "https://play.google.com/store/apps/details?id=rolnando.play"
+  "url": "https://play.google.com/store/apps/details?id=rolnando.play",
+  "releaseNotes": [
+    "- Agregado un buscador",
+    "- Ahora podés ver las últimas notificaciones recibidas",
+    "- Se arregló el problema de que las emisoras no se podían reproducir si no se reiniciaba la app al cerrar la sección"
+  ]
 }
