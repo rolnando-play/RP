@@ -2,6 +2,40 @@
   "peliculas": [
 
     {
+      "Nombre": "Milagro en la celda 7",
+      "Enlace": "https://storage.googleapis.com/iron-fountain-266419.appspot.com/ZlXKz97AkDW.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://occ-0-1237-92.1.nflxso.net/dnm/api/v6/TsSRXvDuraoJ7apdkH6tsHhf-ZQ/AAAABSyi9GNr2JkbRCVGBuyln-wtkYHAJZDMLaUQPVwKjrt_KyiGRJShD_EAKvtot0MYH8i9R4o3JXDcmHLiNmgdEchFPlEnY1u5_ZJv.png?r=68b",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+     {
+      "Nombre": "Unidos",
+      "Enlace": "https://storage.googleapis.com/iron-fountain-266419.appspot.com/Zoy6MNb65al.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://lumiere-a.akamaihd.net/v1/images/onw_las_tt_rgb_01f_4da218f7.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+     {
+      "Nombre": "Sonic",
+      "Enlace": "https://storage.googleapis.com/iron-fountain-266419.appspot.com/ZQrJnZ10OQN.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sonic_La_Pel%C3%ADcula_Logo.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
+    {
       "Nombre": "Joker",
       "Enlace": "https://storage.googleapis.com/emerald-entity-265717.appspot.com/tt7286456_LAT_HD.mp4",
       "EsWeb": "no",
@@ -24,6 +58,41 @@
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
     {
+      "Nombre": "Bad Boys para siempre",
+      "Enlace": "https://storage.googleapis.com/iron-fountain-266419.appspot.com/XaJV8byMla5-storage.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://badboysforlifefull.com/wp-content/uploads/2020/02/Bad-Boys-for-Life-movie-logo.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "DB Super: Broly",
+      "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/tt7961060_LAT_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Dragonballsuper_broly_logo.svg/1280px-Dragonballsuper_broly_logo.svg.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
+    {
+      "Nombre": "Tu Nombre",
+      "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/cv5311514lt.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Your_name_movie_logo.png/1200px-Your_name_movie_logo.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
+    {
       "Nombre": "Bohemian Rhapsody",
       "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/tt1727824_LAT_HD.mp4",
       "EsWeb": "no",
@@ -34,7 +103,30 @@
       "Origin": "https://player.twitch.tv",
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
-   
+   {
+      "Nombre": "Detective Pikachu",
+      "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/tt5884052_LAT_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://talenthouse-res.cloudinary.com/image/upload/c_limit,h_1280,q_90,w_480/v1/invites/owzamalpfv4vztnp1id3.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+     {
+      "Nombre": "1917",
+      "Enlace": "https://storage.googleapis.com/iron-fountain-266419.appspot.com/VvxoaMy7jXw.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://universalpicturesawards.com/images/title-treatments/1917.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
+    
     {
       "Nombre": "Toy Story 4",
       "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/tt1979376_LAT_HD_V2.mp4",
