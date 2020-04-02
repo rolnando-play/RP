@@ -1,6 +1,64 @@
 {
   "peliculas": [
 
+    {
+      "Nombre": "Joker",
+      "Enlace": "https://storage.googleapis.com/emerald-entity-265717.appspot.com/tt7286456_LAT_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://upload.wikimedia.org/wikipedia/fr/8/87/Joker_%28film%2C_2019%29_Logo.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Parásitos",
+      "Enlace": "https://player.openloadpremium.com/m3u8/index_NzA4.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://madmanfilms.com.au/wp-content/uploads/2019/06/Parasite_Title_Treatment.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    {
+      "Nombre": "Bohemian Rhapsody",
+      "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/tt1727824_LAT_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://vignette.wikia.nocookie.net/doblaje/images/9/9b/BR-Logo.png/revision/latest?cb=20190508154236&path-prefix=es",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+   
+    {
+      "Nombre": "Toy Story 4",
+      "Enlace": "https://storage.googleapis.com/omega-pivot-269518.appspot.com/tt1979376_LAT_HD_V2.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://i0.wp.com/imagenesparapeques.com/wp-content/uploads/2014/07/Logo-Toy-Story-4-PNG.png?ssl=1",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+     {
+      "Nombre": "Hobbs & Shaw",
+      "Enlace": "https://storage.googleapis.com/emerald-entity-265717.appspot.com/tt6806448_LAT_HD.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://fanart.tv/fanart/movies/384018/hdmovielogo/fast--furious-presents-hobbs--shaw-5d29fc3650ffd.png",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
+    
 {
       "Nombre": "Rambo - la última misión",
       "Enlace": "https://storage.googleapis.com/aqueous-flight-253909.appspot.com/tt1206885_LAT_WEB-SCR.mp4",
