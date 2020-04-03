@@ -3,7 +3,7 @@
  "mandalorian": [
  {
       "Nombre": "Episodio 1",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E01.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E01.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0",
       "Origin": "https://powvideo.net/",
@@ -12,7 +12,7 @@
 
 {
       "Nombre": "Episodio 2",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E02.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E02.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://powvideo.net/",
@@ -20,7 +20,7 @@
     },
   {
       "Nombre": "Episodio 3",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E03.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E03.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://powvideo.net/",
@@ -28,7 +28,7 @@
     },
   {
       "Nombre": "Episodio 4",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E04.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E04.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://powvideo.net/",
@@ -36,7 +36,7 @@
     },
  {
       "Nombre": "Episodio 5",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E05.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E05.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://powvideo.net/",
@@ -44,7 +44,22 @@
     },
  {
       "Nombre": "Episodio 6",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt8111088_SUBP_HD_S01_E06.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E06.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://powvideo.net/",
+      "Referer": "https://powvideo.net/mw6d5fxoshzi"
+    },{
+      "Nombre": "Episodio 7",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E07.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://powvideo.net/",
+      "Referer": "https://powvideo.net/mw6d5fxoshzi"
+    },
+	{
+      "Nombre": "Episodio 8",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt8111088_SUBP_HD_S01_E08.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://powvideo.net/",
@@ -55,7 +70,7 @@
   "chernobyl": [
  {
       "Nombre": "Episodio 1",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt7366338_SUBP_HD_S01_E01.mp4",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7366338_SUBP_HD_S01_E01.mp4",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -63,7 +78,7 @@
     },
 {
       "Nombre": "Episodio 2",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt7366338_SUBP_HD_S01_E02.mp4",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7366338_SUBP_HD_S01_E02.mp4",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -71,7 +86,7 @@
     },
 {
       "Nombre": "Episodio 3",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt7366338_SUBP_HD_S01_E03.mp4",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7366338_SUBP_HD_S01_E03.mp4",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -79,7 +94,7 @@
     },
 {
       "Nombre": "Episodio 4",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt7366338_SUBP_HD_S01_E04.mp4",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7366338_SUBP_HD_S01_E04.mp4",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -87,7 +102,7 @@
     }, 
 {
       "Nombre": "Episodio 5",
-      "Enlace": "https://storage.googleapis.com/civil-treat-231910.appspot.com/tt7366338_SUBP_HD_S01_E05.mp4",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7366338_SUBP_HD_S01_E05.mp4",
 
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
@@ -98,7 +113,7 @@
  "watchmen": [
  {
       "Nombre": "Episodio 1",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E01.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E01.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -106,7 +121,7 @@
     },
  {
       "Nombre": "Episodio 2",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E02.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E02.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -114,7 +129,7 @@
     },
 {
       "Nombre": "Episodio 3",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E03.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E03.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -122,7 +137,7 @@
     },
 {
       "Nombre": "Episodio 4",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E04.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E04.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -130,7 +145,7 @@
     },
   {
       "Nombre": "Episodio 5",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E05.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E05.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -138,7 +153,7 @@
     },
 {
       "Nombre": "Episodio 6",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E06.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E06.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -146,7 +161,7 @@
     },
 {
       "Nombre": "Episodio 7",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E07.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E07.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -154,7 +169,15 @@
     },
 {
       "Nombre": "Episodio 8",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7049682_SUBP_HD_S01_E08.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E08.mp4?post_type=serie",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "",
+      "Referer": ""
+    },
+	{
+      "Nombre": "Episodio 9",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7049682_SUBP_HD_S01_E09.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -164,7 +187,7 @@
   "see": [
  {
       "Nombre": "Episodio 1",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7949218_SUBP_HD_S01_E01.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7949218_SUBP_HD_S01_E01.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -172,7 +195,7 @@
     },
  {
       "Nombre": "Episodio 2",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7949218_SUBP_HD_S01_E02.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7949218_SUBP_HD_S01_E02.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -180,7 +203,7 @@
     },
 {
       "Nombre": "Episodio 3",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7949218_SUBP_HD_S01_E03.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7949218_SUBP_HD_S01_E03.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -188,7 +211,7 @@
     },
 {
       "Nombre": "Episodio 4",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7949218_SUBP_HD_S01_E04.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7949218_SUBP_HD_S01_E04.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -196,7 +219,7 @@
     },
    {
       "Nombre": "Episodio 5",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7949218_SUBP_HD_S01_E05.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7949218_SUBP_HD_S01_E05.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -204,7 +227,7 @@
     },
    {
       "Nombre": "Episodio 6",
-      "Enlace": "https://storage.googleapis.com/agile-skyline-250801.appspot.com/tt7949218_SUBP_HD_S01_E06.mp4?post_type=serie",
+      "Enlace": "https://storage.googleapis.com/norse-analyst-269108.appspot.com/tt7949218_SUBP_HD_S01_E06.mp4?post_type=serie",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "",
@@ -212,6 +235,8 @@
     }
    ]
 }
+
+
 
 
 
