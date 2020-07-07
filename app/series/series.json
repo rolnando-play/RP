@@ -3,22 +3,22 @@
 {
       "Nombre": "See",
       "Id": "see",
-      "ImagenUrl": "https://raw.githubusercontent.com/rolnando-play/RP/master/app/img/see.png"
+      "ImagenUrl": "https://m.media-amazon.com/images/M/MV5BYWI2ZmM5ZTgtOTgxYS00MTQ4LThkMjQtZjBlNGM3NjQ5YTI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
     },
 {
       "Nombre": "The Mandalorian",
       "Id": "mandalorian",
-      "ImagenUrl": "https://lumiere-a.akamaihd.net/v1/images/mando-logo-875-nopad_554c28cc.png?region=0,0,875,195"
+      "ImagenUrl": "https://m.media-amazon.com/images/M/MV5BMWI0OTJlYTItNzMwZi00YzRiLWJhMjItMWRlMDNhZjNiMzJkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
     },
     {
       "Nombre": "Chernobyl",
       "Id": "chernobyl",
-      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/chernobyl.png"
+      "ImagenUrl": "https://render.fineartamerica.com/images/rendered/search/poster/images/artworkimages/medium/3/chernobyl-2019-geek-n-rock.jpg"
     },
  {
       "Nombre": "Watchmen",
       "Id": "watchmen",
-      "ImagenUrl": "https://pngimage.net/wp-content/uploads/2018/06/watchmen-png-2.png"
+      "ImagenUrl": "https://m.media-amazon.com/images/M/MV5BYjhhZDE3NjgtMjkzNC00NzI3LWJhOTItMWQ5ZjljODA5NWNkXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_.jpg"
     }
   ]
   }
