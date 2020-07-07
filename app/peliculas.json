@@ -22,6 +22,30 @@
       "Origin": "https://player.twitch.tv",
       "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
     },
+      {
+      "Nombre": "Latas vacías",
+      "Enlace": "https://r3---sn-jx25uoxu-jb3l.googlevideo.com/videoplayback?expire=1594182928&ei=sPgEX9eyI5KYvwSWia3YCA&ip=103.123.229.108&id=o-AEJ3SdalRoToW6TiFsvP3JAEfuyeVU252VBzc_QB-W8H&itag=22&source=youtube&requiressl=yes&mh=KQ&mm=31%2C29&mn=sn-jx25uoxu-jb3l%2Csn-npoeenez&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=24&initcwndbps=810000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=4330.196&lmt=1587335875714228&mt=1594161216&fvip=3&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgIs7le3IySRjW5sSD8kYVUPiq0ojLybhqV6mXC8HaMNkCIEVRbWpQmWzhzxIRP_ToppK6TUTSGVN0M4rAQ7IKTsEM&sig=AOq0QJ8wRQIhAPvecu_Cwy9ul6SUhzTYL-7C-1zubmxmlGEufv3BW7aWAiBZSYS9gXNXwDtbORJNnRiOHPRSP6Jqqsx89xBJc5xbsw%3D%3D&contentlength=404619816&video_id=DzNh5NxPy9I&title=Pelicula+Paraguaya+latas+vacias",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://www.ip.gov.py/ip/wp-content/uploads/2015/08/Afiche-Latas-Vac%C3%ADas-comprimido-722x1000.jpg",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
+    {
+      "Nombre": "Leal",
+      "Enlace": "https://r2---sn-oxvuxa15-woce.googlevideo.com/videoplayback?expire=1594182856&ei=aPgEX8_oIY-DWLXvo7gO&ip=41.169.151.90&id=o-ACFjmYjnzOsVMNQCLFtoOICk_uVGmvfh5lvfoDD2zXSi&itag=18&source=youtube&requiressl=yes&mh=Ky&mm=31%2C29&mn=sn-oxvuxa15-woce%2Csn-woc7ln7r&ms=au%2Crdu&mv=m&mvi=1&pl=14&initcwndbps=222500&vprv=1&mime=video%2Fmp4&gir=yes&clen=361067088&ratebypass=yes&dur=6440.216&lmt=1552793580634143&mt=1594161156&fvip=4&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAI2Jyvcph5UYAqlEh6OB7w8angBX8zfYyep_eq3mFhXYAiB0-8yJLBlYhfbmTiv_uscHwJjkNW1i4T7NGJsML9Zw-w%3D%3D&sig=AOq0QJ8wRAIgXr7Z30Yd0M8sPD3OiUKsVL17EV7YRnxY_Gzk8NTR134CIEPnUIY3C2OXXJuYEKPH-Zb3m6LVD8NAYH3p37CBtFE0&video_id=2--zPq_Qla0&title=Leal+Pel%C3%ADcula+completa+en+espa%C3%B1ol4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://www.ip.gov.py/ip/wp-content/uploads/2018/07/37132804_657043041301076_3481016760855953408_n.jpg",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
+    
     
      {
       "Nombre": "Milagro en la celda 7",
