@@ -1,11 +1,12 @@
 {
   "peliculas": [
-{
+
+    {
       "Nombre": "Los Buscadores",
       "Enlace": "https://www2190.o0-5.com/token=0ls23jQccfw13whY1bV_MQ/1594174680/181.94.0.0/22/a/5e/f8c53deb0f31c8acdc426aa073a3b5ea-480p.mp4",
       "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://i1.wp.com/www.lasrtaou.com/wp-content/uploads/2017/03/los-buscadores.jpg?fit=675%2C1200&ssl=1&w=640",
+      "ImagenUrl": "https://pics.filmaffinity.com/Los_buscadores-739865100-large.jpg",
       "MostrarAds": "si",
       "UserAgent": "Lavf/56.40.101",
       "Origin": "https://player.twitch.tv",
