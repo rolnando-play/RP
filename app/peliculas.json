@@ -1,7 +1,17 @@
 {
   "peliculas": [
 
-    
+    {
+      "Nombre": "7 cajas",
+      "Enlace": "https://ia800801.us.archive.org/27/items/7CajasPara/7%20Cajas%20para.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-CduDeBKWEM0/UDJDigxxzgI/AAAAAAAAA6o/0byWtrifW6Q/s1600/Afiche_7_cajs.jpg",
+      "MostrarAds": "si",
+      "UserAgent": "Lavf/56.40.101",
+      "Origin": "https://player.twitch.tv",
+      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+    },
     {
       "Nombre": "Hamaca Paraguaya",
       "Enlace": "https://vod-progressive.akamaized.net/exp=1594178336~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F3709%2F15%2F393546881%2F1669476047.mp4~hmac=93945cc36d87faa13bbdcd41982139570953c8e3e22d46b8777d3eaaf8a57b1d/vimeo-prod-skyfire-std-us/01/3709/15/393546881/1669476047.mp4",
