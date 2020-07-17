@@ -88,9 +88,9 @@
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg",
       "MostrarAds": "si",
-      "UserAgent": "Lavf/56.40.101",
-      "Origin": "https://player.twitch.tv",
-      "Referer": "https://player.twitch.tv/?volume=1&muted&channel=cspy97"
+      "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0",
+      "Origin": "https://player.openloadpremium.com",
+      "Referer": "https://player.openloadpremium.com/player.php?id=MjAzMw"
     },
     
     {
