@@ -1,7 +1,9 @@
 {
-  "latestVersion": "1.1.20",
+  "latestVersion": "1.1.21",
   "url": "https://play.google.com/store/apps/details?id=rolnando.play",
   "releaseNotes": [
-    "TOCA EN LOS ANUNCIOS Y DESCARGA LAS APLICACIONES RECOMENDADAS PARA APOYAR"
+    "Cambios de interfaz",
+    "Ahora la interfaz debería verse mejor en TV",
+    "Cambios de proveedor de publicidad"
   ]
 }
