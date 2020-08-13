@@ -2,6 +2,51 @@
   "peliculas": [
 
     {
+      "Nombre": "Apertura HD",
+      "Enlace": "https://d3lsvc60gpnpye.cloudfront.net/out/v1/224d82dc788946d2956b642476f65e72/index_8.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apertura.png",
+      "MostrarAds": "si",
+      "UserAgent": "Android10",
+      "Origin": "https://dailysport.pw/c1.php",
+      "Referer": "https://dailysport.pw/c1.php"
+    }, 
+    {
+      "Nombre": "Apertura media",
+      "Enlace": "https://d3lsvc60gpnpye.cloudfront.net/out/v1/224d82dc788946d2956b642476f65e72/index_9.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apertura.png",
+      "MostrarAds": "si",
+      "UserAgent": "Android10",
+      "Origin": "https://dailysport.pw/c1.php",
+      "Referer": "https://dailysport.pw/c1.php"
+    }, 
+    {
+      "Nombre": "Apertura SD",
+      "Enlace": "https://d3lsvc60gpnpye.cloudfront.net/out/v1/224d82dc788946d2956b642476f65e72/index_10.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apertura.png",
+      "MostrarAds": "si",
+      "UserAgent": "Android10",
+      "Origin": "https://dailysport.pw/c1.php",
+      "Referer": "https://dailysport.pw/c1.php"
+    }, 
+    {
+      "Nombre": "Apertura auto",
+      "Enlace": "https://d3lsvc60gpnpye.cloudfront.net/out/v1/224d82dc788946d2956b642476f65e72/index.m3u8",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://github.com/rolnando-play/RP/raw/master/app/canalesImg/apertura.png",
+      "MostrarAds": "si",
+      "UserAgent": "Android10",
+      "Origin": "https://dailysport.pw/c1.php",
+      "Referer": "https://dailysport.pw/c1.php"
+    }, 
+    
+    {
       "Nombre": "7 cajas",
       "Enlace": "https://ia800801.us.archive.org/27/items/7CajasPara/7%20Cajas%20para.mp4",
       "EsWeb": "no",
