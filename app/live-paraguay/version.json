@@ -1,10 +1,12 @@
 {
-  "latestVersion": "1.1.23",
+  "latestVersion": "1.1.25",
   "url": "https://play.google.com/store/apps/details?id=rolnando.play",
   "releaseNotes": [
-    "***CORRECCIÓN DE LA LISTA DE CANALES***",
-    "Ahora es posible cambiar de canal dentro del reproductor (botón de abajo ↓ si usas TV Box)",
-    "Algunas mejoras de interfaz",
-    "Corrección de errores"
+    "*****NOTAS DE LA VERSIÓN*****",
+    "****** EN EL ÚLTIMO MES LA CANTIDAD DE USUARIOS AUMENTÓ EN UN 80%, ESTO HIZO QUE SE SUPERARA EL ANCHO DE BANDA QUE LA APP TIENE DIARIAMENTE DISPONIBLE, PROVOCANDO QUE CAYERA LA LISTA DE CANALES EN HORARIO PICO, ESPERO QUE COMPRENDAN LA SITUACIÓN. LA APP ES 100% Y SOLO DOS PERSONAS DONARON, LA PUBLICIDAD CASI NO GENERA DINERO POR LO QUE ES DIFICIL MANTENER UNA APP EN EXCELENTE ESTADO",
+    "- Se hicieron algunos cambios en la lista para que no caigan, ahora la app tiene dos listas para evitar la saturación",
+    "- Ahora es posible cambiar de canal dentro del reproductor (botón de abajo ↓ si usas TV Box)",
+    "- Algunas mejoras de interfaz",
+    "- Corrección de errores"
   ]
 }
