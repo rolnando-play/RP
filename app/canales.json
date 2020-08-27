@@ -1,9 +1,9 @@
 {
   "canales": [
   {
-      "Nombre": "Nueva app Android",
-      "Enlace": "https://rolnando-play.github.io/paginas/updater.html",
-      "EsWeb": "si",
+      "Nombre": "Video 1",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/cast.mp4",
+      "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
       "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
       "MostrarAds": "no",
@@ -12,15 +12,104 @@
       "Referer": "https://mirandatv21.tk/"
     },
   {
-      "Nombre": "Actualizar Windows",
-      "Enlace": "https://rolnando-play.github.io/",
-      "EsWeb": "si",
+      "Nombre": "Video 2",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/dash.mp4",
+      "EsWeb": "no",
       "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
-      "ImagenUrl": "https://1i5s4tzbutd13jf1u2ji31u1-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Windows-10-Icon.png",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 3",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/display.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 4",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/framed.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 5",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/letter.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 6",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/lines.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 7",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/point.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 8",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/quoted.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 9",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/splash.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
+      "MostrarAds": "no",
+      "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
+      "Origin": "https://mirandatv21.tk/",
+      "Referer": "https://mirandatv21.tk/"
+    },
+  {
+      "Nombre": "Video 10",
+      "Enlace": "https://github.com/rolnando-play/RP/raw/master/videos/stopmo.mp4",
+      "EsWeb": "no",
+      "Subs": "https://github.com/rolnando-play/RP/raw/master/subs/nada.srt",
+      "ImagenUrl": "https://1.bp.blogspot.com/-_y_p_qhVxXI/XDKJIcZBKgI/AAAAAAAAABU/aks-Et0g-CAA1t4tV14VJuPzEX8_gGxJQCLcBGAs/s500/Android.png",
       "MostrarAds": "no",
       "UserAgent": "miranda.tv32/1.8 (Linux;Android 9) ExoPlayerLib/2.8.4",
       "Origin": "https://mirandatv21.tk/",
       "Referer": "https://mirandatv21.tk/"
     }
+  
   ]
 }
