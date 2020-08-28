@@ -1,4 +1,14 @@
 {
-  "latestVersion": "11.1.19",
-  "url": "https://play.google.com/store/apps/details?id=rolnando.play"
+  "latestVersion": "1.1.27",
+  "url": "https://play.google.com/store/apps/details?id=rolnando.play",
+  "releaseNotes": [
+    "*****NOTAS DE LA VERSIÓN*****",
+"***SI NO TE DEJA INSTALAR VE A LA CARPETA *LIVE PARAGUAY* DEL ALMACENAMIENTO INTERNO DE TU DISPOSITIVO Y BORRA EL ARCHIVO APK, LUEGO VUELVE A PROBAR***",
+    "- Se eliminó el chat, ahora el medio para comunicarse es Telegram",
+    "- Se hicieron algunos cambios para evitar caídas de las listas",
+    "- Ahora es posible cambiar de canal dentro del reproductor (botón de abajo ↓ si usas TV Box)",
+    "- Algunas mejoras de interfaz",
+    "- Se implementó una función para detectar errores (solo visible para el desarrollador)",
+    "- Otras corrección menores"
+  ]
 }
