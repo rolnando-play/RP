@@ -1,15 +1,14 @@
 {
-  "latestVersion": "1.1.27",
+  "latestVersion": "1.1.28",
   "url": "https://play.google.com/store/apps/details?id=rolnando.play",
   "releaseNotes": [
     
 "***SI NO TE DEJA INSTALAR VE A LA CARPETA *LIVE PARAGUAY* DEL ALMACENAMIENTO INTERNO DE TU DISPOSITIVO Y BORRA EL ARCHIVO APK, LUEGO VUELVE A PROBAR***",
    "*****************************",
 "*****NOTAS DE LA VERSIÓN*****",
-"- Agregada una opción para reportar errores",
-    "- Agregada una opción para ver el hardware de tu dispositivo",
-    "- Se agregó un botón para adquirir el APK sin publicidad (pronto)",
-    "- Algunos cambios de interfaz",
+"- Agregada una sección de canales estables",
+    "- Mejoras al cargar las imágenes",
+    "- Mejoras en el actualizador",
     "- Corrección menores"
   ]
 }
