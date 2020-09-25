@@ -1,15 +1,16 @@
 {
-  "latestVersion": "1.1.30",
+  "latestVersion": "1.1.32",
   "url": "https://play.google.com/store/apps/details?id=rolnando.play",
   "releaseNotes": [
     
 "***SI NO TE DEJA INSTALAR VE A LA CARPETA *LIVE PARAGUAY* DEL ALMACENAMIENTO INTERNO DE TU DISPOSITIVO Y BORRA EL ARCHIVO APK, LUEGO VUELVE A PROBAR***",
    "*****************************",
 "*****NOTAS DE LA VERSIÓN*****",
-"- Agregada una opción para reportar errores",
-    "- Agregada una opción para ver el hardware de tu dispositivo",
+    "- Soporte para Android 4.4, KitKat, ahora podés usar la app en tu box Claro Video modificado",
+    "- Mejoras en la detección de bloqueadores de anuncios",
     "- Se agregó un botón para adquirir el APK sin publicidad (pronto)",
-    "- Algunos cambios de interfaz",
+    "- Se agregó un método anti-crackeo",
+    "- Se mejoró el sistema de actualizaciones (visible cuando llegue la siguiente actualización)",
     "- Corrección menores"
   ]
 }
