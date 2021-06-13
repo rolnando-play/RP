@@ -5,92 +5,107 @@
   "name": "La Octava",
 "key": "X4qvQduJSzmdjhUoX5vZoQ:7U8FRwIfzC4qjyymkCzHlA",
 "playbackUrl": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/89141f9ac62f45329b64549a6319d1cf/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1292/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1292/LOGO/m/0",
+"type":"clear"
     },
     {
      "name": "Quiero TV",
 "key": "YX5PEzZOtS7jSMyp4-0QLQ:9U7oBY5x2li2w6erPuXDZg",
 "playbackUrl": "https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/370/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/370/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Discovery Turbo HD",
 "key": "HAF1tbz2syfy9X1lPUPGXw:OKo6ku2Wq1rlxzbR4Och0Q",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-TURBO-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1234/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1234/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Discovery Science HD",
 "key": "icmqmQ8MMlNjfxYm4P4dew:7wnZ6OWcivm6zhvJUJTTjg",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1233/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1233/LOGO/m/0",
+"type":"clear"
     },
     {
      "name": "Home & Garden TV HD",
 "key": "llLs-x3kHEGGKwsaBIO3eA:QUA19Rowvamg8R2FRxpOFw",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1232/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1232/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "DogTV",
 "key": "jLuD1zF1bqKzDZcLNbbvZg:cPEdlitAVgSORH2p6CRPJg",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1230/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1230/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Food Network HD",
 "key": "QnmrVFPjG69TOhu1_etdUQ:wvNwWkyeVmfRv-KzqiEYmA",
 "playbackUrl": "https://live1-ott.izzigo.tv/out/u/dash/FOOD-NET-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1242/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1242/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Heraldo Tv HD.",
 "key": "bwCSWB2JTZGoQ7lY-MfjzQ:359Yfy4YHwRw_oivmtV74A",
 "playbackUrl": "https://d2qb2cm0g9h56z.cloudfront.net/out/v1/5db46dd00b52454981865ac6613e1649/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/1332/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/1332/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Las Estrellas -2hr",
 "key": "lMe7A9rnQhplVLdCoz4wRg:2Z-CwHoG2oEho5_Jrq2tBw",
 "playbackUrl": "https://live2-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/12/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/12/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Las Estrellas",
 "key": "Uu6CDAwIDiFscLQx_ba4yg:sPDDs-8xxgOFjJLM_ACeHA",
 "playbackUrl": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/14/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/14/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Canal izzi ",
 "key": "PKJ8fmzhVjM9Geb6BlXEhQ:ONbHMq1E6_twQKH-kz0RZA",
 "playbackUrl": "https://live3-ott.izzigo.tv/out/u/dash/CANAL-IZZI-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/15/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/15/LOGO/m/0",
+"type":"clear"
     },
     {
    "name": "Foro TV",
 "key": "PN2zzYp35kmeOzPBLz58Mg:qGwN2ZGTZccHqbUcOnjbwA",
 "playbackUrl": "https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/16/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/16/LOGO/m/0",
+"type":"clear"
     },
     {
      "name": "Canal 5",
 "key": "i1YbTLDv6Lo1eD_E3J_r0A:hFNMtvO8VFl3p1-wj6uNFQ",
 "playbackUrl": "https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/17/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/17/LOGO/m/0",
+"type":"clear"
     },
     {
      "name": "CV Shopping",
 "key": "UMG_fqkKHyTTCeesytj99A:Oqk4GXXQH4_rNLkl2l3x5g",
 "playbackUrl": "https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/19/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/19/LOGO/m/0",
+"type":"clear"
     },
     
 {
       "name": "Nueve",
 "key": "WC-PD5yaajSRE9cYB1gHCA:kTIEua47ux7LyAncexw2xQ",
 "playbackUrl": "https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/20/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/20/LOGO/m/0",
+"type":"clear"
     },
     
     
@@ -98,57 +113,66 @@
      "name": "Justicia TV",
 "key": "6gXm1R13z0nen6P7u67sQg:XmCexdaxTd7rYhSH30Jc9Q",
 "playbackUrl": "https://live3-ott.izzigo.tv/out/u/dash/JUSTICIA-TV-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/23/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/23/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "MilenioTV",
 "key": "IaWIvKE9nsox_DuvaISlJg:v4mN-Ia9jldaQCNwKRnVUA",
 "playbackUrl": "https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/25/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/25/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Telefórmula",
 "key": "3iF-UAPGIEBbzpR70yWN2Q:lDMnw7ZBzuF7-5W5yzPXcg",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/26/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/26/LOGO/m/0",
+"type":"clear"
     },
     
     {
       "name": "Azteca uno",
 "key": "XDuQxaCQCFsps_XWndFQFQ:UYyu80o0oy_A1S6dgbTR3A",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/24/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/24/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "SONGIE ",
 "key": "ZfSCUPiNa_BGLouArOZzeQ:tf1wCPkf65WHnxzZkNQVUA",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/SONGIE-TV-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/28/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/28/LOGO/m/0",
+"type":"clear"
     },
     
     {
       "name": "ADN 40",
 "key": "XNfFIzaf-U1WobLZ-fO-Ug:5NtETqL85_L_5nuQcc72sg",
 "playbackUrl": "https://live3-ott.izzigo.tv/out/u/dash/ADN-40-SD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/35/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/35/LOGO/m/0",
+"type":"clear"
     },
     {
      "name": "Capital 21",
 "key": "NmDwUWYGT3Gl2HNArouOuQ:zHMLo9Cq042jOP-_jvezsQ",
 "playbackUrl": "https://d32ssuj3tq7z91.cloudfront.net/out/v1/463fa899203744a9b3825823ac62f126/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/32/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/32/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "Azteca 7",
 "key": "eGrP-3gkqoN19dNJP6VX2Q:2t5gsVpYTSzK_zl6vuIEHg",
 "playbackUrl": "https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd",
-"logo": "https://www.izzigo.tv/images/ch/18/LOGO/m/0"
+"logo": "https://www.izzigo.tv/images/ch/18/LOGO/m/0",
+"type":"clear"
     },
     {
       "name": "A&e HD",
 "key": "ZUORiP6Blme6MXMfWcfCiw:AR78uG3AwzbBu2HWAscWkQ",
 "playbackUrl": "https://mxlivechannelsdash.clarovideo.com/Content/dash_fk/Live/Channel(AE_MUNDO_HD)/manifest.mpd",
-"logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/AEMUNDOHD/EXPORTACION_WEB/SS/AEMUNDOHDWHORIZONTAL.jpg?size=290x163"
+"logo": "https://clarovideocdn7.clarovideo.net/PELICULAS/AEMUNDOHD/EXPORTACION_WEB/SS/AEMUNDOHDWHORIZONTAL.jpg?size=290x163",
+"type":"clear"
     }
   ]
 }
