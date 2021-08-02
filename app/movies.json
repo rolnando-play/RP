@@ -1,4 +1,7 @@
-[
+{
+
+    "canales": [
+
     {
         "title": "Gremlins",
         "description": "A boy inadvertantly breaks 3 important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.",
@@ -97,6 +100,6 @@
         "category": "Horror",
         "cardImageUrl": "http://ia.media-imdb.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SX214_AL_.jpg",
         "backgroundImageUrl": "http://ia.media-imdb.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SX214_AL_.jpg"
-    }
-
-]
+   }
+  ]
+}
