@@ -6164,6 +6164,9 @@ rockchip rk3328_box
 f5f45dc5ebc5de42
 rockchip rk3328_box
 3401c6f3cd398ff8
++3
+rockchip rk3328_box
+92a29f2ba36aeaf2
 
 cessl +9
 Xiaomi surya
