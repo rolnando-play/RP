@@ -10927,6 +10927,8 @@ b5edb586bcd250f7
 joduhe
 samsung c2s
 becc54b95d444765
+Google generic_x86_64
+041fa2557c695fec
 
 djyuni
 Xiaomi tulip
