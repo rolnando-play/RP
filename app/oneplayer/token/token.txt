@@ -10903,3 +10903,7 @@ Xiaomi oneday
 carlosabram
 HUAWEI HWVOG
 bdd7e10f2d8e6f8e
+
+joduhe
+samsung c2s
+becc54b95d444765
