@@ -8443,8 +8443,8 @@ rockchip rk322x_box
 9632250a945950d0
 Amlogic p281
 6e1ccbc8353f0144
-rockchip rk322x_box
-fd4c0eb3dab65b2f
+Allwinner dolphin-fvd-p1
+6f430eb7eae9b5cb
 MTK cvt_mt5886_sa
 20983d97a5fa97b5
 
