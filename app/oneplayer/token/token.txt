@@ -815,6 +815,8 @@ rockchip rk322x_box
 383aeb716cff10e4
 Allwinner dolphin-fvd-p1
 a910aa7c8f070633
+Allwinner dolphin-fvd-p1
+6c7359ba92dfd258
 
 wordbo
 SM-G925I
@@ -5889,6 +5891,8 @@ rockchip rk322x_box
 2ba2430153f9d44f
 rockchip rk322x_box
 d978f75103210971
+TCL BeyondTV
+e10ad3972f3d8543
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -6103,6 +6107,8 @@ samsung z3s
 4e76a7744e9d09c1
 HUILIAN Hi3751V350
 7b9a6f810cd3a200
+Allwinner dolphin-fvd-p1
+559e80c9f53f0015
 
 enriquelr
 Amazon sheldon
@@ -7063,6 +7069,9 @@ Amlogic p281
 f10e7edcf58ad648
 Allwinner dolphin-fvd-p1
 233e57d4a7a12e29
++18
+rockchip rk3328_box
+10e66b29ad5ff5b3
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -7112,6 +7121,8 @@ Amlogic p212
 d2cd50351d449177
 MTK cvt_mt5863_sa
 667966f6bdff6c58
+rockchip rk322x_box
+84f7e02848f9ba61
 
 j88be
 Google walleye
@@ -7318,6 +7329,8 @@ MTK cvt_mt5863_sa
 63e9866befb95e39
 rockchip rk322x_box
 4ee0420201eb96c9
+Allwinner dolphin-fvd-p1
+1bb9678988628895
 
 rr.23
 MTK cvt_mt5863_sa
@@ -7603,7 +7616,8 @@ dolphin SBQ-SM007
 +3
 rockchip rk322x_box
 feea16ee6b544cb9
-
+Allwinner dolphin-fvd-p1
+e264076f5c4920e6
 MBOX dolphin-p1
 f4282395ea17861a
 +9 usdt
@@ -8408,6 +8422,10 @@ Amlogic p281
 8d2a2066a311c90e
 dolphin dolphin-fvd-p1
 552081993df4ebc2
+dolphin dolphin-fvd-p1
+fe08f726a4e71cd4
+rockchip rk322x_box
+9632250a945950d0
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -8939,7 +8957,7 @@ rockchip rk322x_box
 samsung p3q
 750a94d94e9d59c6
 
-smartpy +10
+smartpy6 +10
 rockchip rk322x_box
 de5028ce42925d7
 rockchip rk322x_box
@@ -8973,6 +8991,8 @@ rockchip rk322x_box
 fd9d4f15dcd4addf
 dolphin dolphin-fvd-p1
 2724872f71ad48c
+rockchip rk322x_box
+f4a94a0a65803d27
 
 brandonmk
 Xiaomi begonia
@@ -10052,7 +10072,7 @@ Allwinner dolphin-fvd-p1
 juancitohe
 LENOVO YT-X705F
 7c64b2dd1efafd45
-Motorola cebÃº
+Motorola cebú
 4896416996380981
 Amazon Kara
 4b045e12689275b7
@@ -10220,6 +10240,8 @@ TCL UnionTV
 efdd5216668cdc35
 TCL UnionTV
 1a008e204baf6b64
+samsung gta4lwifi
+e05df932fe986160
 
 cbaez +6
 Amazon kara
@@ -10789,6 +10811,8 @@ dbc3d4c11d2dacef
 chino81
 SEI Robotics SEI400TV
 94341d0a94b3e2a3
+SEI Robotics SEI400TV
+ed06f01957d09bbb
 
 rodneyagu +6
 HUAWEI HWJNY
@@ -10873,3 +10897,9 @@ ffe8cf601ff1fccb
 nfcsna
 BLU G0530WW
 3831408c34cb2068
+Xiaomi oneday
+08c30a46abad63ae
+
+carlosabram
+HUAWEI HWVOG
+bdd7e10f2d8e6f8e
