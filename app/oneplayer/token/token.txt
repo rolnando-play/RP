@@ -10601,6 +10601,8 @@ Android MBOX
 3d78088c35276d98
 rockchip rk322x_box
 a1b453984dc96f16
+Allwinner dolphin-fvd-p1
+e22e8fdec8f0108
 
 samben
 samsung r8q
