@@ -7184,6 +7184,8 @@ rockchip rk3328_box
 f9b8fbb4a356ce70
 Allwinner dolphin-fvd-p1
 f7bad2f89a92ad0f
+Google sabrina
+ea0482a2a1d861a7
 
 juanve
 Xiaomi merlin
