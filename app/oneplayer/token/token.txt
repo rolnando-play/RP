@@ -9980,6 +9980,8 @@ MBX m201_512m
 f22b1eea7dc48e41
 rockchip rk322x_box
 bd6c0f03ee66a8f1
+Amazon tank
+f04715bf415189db
 
 fabianarr
 HUAWEI HWELE
@@ -10924,7 +10926,7 @@ carlosabram
 HUAWEI HWVOG
 bdd7e10f2d8e6f8e
 samsung a12
-b5edb586bcd250f7
+b5edb586bcb250f7
 
 joduhe
 samsung c2s
