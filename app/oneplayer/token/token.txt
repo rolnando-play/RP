@@ -10775,6 +10775,8 @@ samsung d2q
 3e19530199b9fa40
 rockchip rk322x_box
 76f664082ff1b168
+Samsung a 12s
+4db2bbc26b02440a
 
 funcion20 +6 psc
 Android MDTV5G
