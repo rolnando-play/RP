@@ -6109,6 +6109,8 @@ HUILIAN Hi3751V350
 7b9a6f810cd3a200
 Allwinner dolphin-fvd-p1
 559e80c9f53f0015
+HUILIAN Hi3751V350
+ecfa290b8f409d5a
 
 enriquelr
 Amazon sheldon
