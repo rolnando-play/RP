@@ -8426,6 +8426,8 @@ dolphin dolphin-fvd-p1
 fe08f726a4e71cd4
 rockchip rk322x_box
 9632250a945950d0
+Amlogic p281
+6e1ccbc8353f0144
 
 danieljo
 Allwinner dolphin-fvd-p1
