@@ -2011,6 +2011,8 @@ dolphin dolphin_fvd_p1
 47748040d23ea8b
 dolphin dolphin-fvd-p1
 2678674a7bb04957
+HUAWEI HWMAR
+ed1e3f2b3517e081
 
 fabiorg
 rockchip rk322x_box
@@ -6120,7 +6122,7 @@ ecfa290b8f409d5a
 
 enriquelr
 Amazon sheldon
-4b6f92470160571d
+82a3c4aa2fce9ec0
 Amazon tank
 f5ae1ed4a469c3b4
 samsung gta4lwifi
