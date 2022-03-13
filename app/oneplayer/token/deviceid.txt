@@ -10759,6 +10759,8 @@ a4e684513728e0e1
 rafa.ge
 Amazon mantis
 6e635f788cf89d46
+Amazon mantis
+29a946d639c02d4e
 
 ferminsa
 samsung a70q

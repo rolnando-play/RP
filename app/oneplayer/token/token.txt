@@ -5893,6 +5893,8 @@ rockchip rk322x_box
 d978f75103210971
 TCL BeyondTV
 e10ad3972f3d8543
+rockchip rk322x_box
+aff446901fb65cea
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10757,6 +10759,8 @@ a4e684513728e0e1
 rafa.ge
 Amazon mantis
 6e635f788cf89d46
+Amazon mantis
+29a946d639c02d4e
 
 ferminsa
 samsung a70q
