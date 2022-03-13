@@ -10942,3 +10942,7 @@ Google generic_x86_64
 djyuni
 Xiaomi tulip
 d5d007834efa16a6
+
+danteala +6
+Xiaomi toco
+68bb7694b4c2a016
