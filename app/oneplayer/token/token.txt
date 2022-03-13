@@ -2348,6 +2348,8 @@ HMD Global BGT_sprout
 dfd4bc380270aee5
 Xiaomi oneday
 c9b060388ac499fa
+OnePlus OnePlus9Pro
+7e720032fd713845
 
 ferlov
 Xiaomi joyeuse
