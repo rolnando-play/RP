@@ -3525,8 +3525,6 @@ Google sabrina
 20763e0c0a7c3459
 samsung c2s
 180a053a335e9c60
-KaonMedia KSTB6130
-34a148886ac34bcc
 
 leitova
 Amlogic p281
