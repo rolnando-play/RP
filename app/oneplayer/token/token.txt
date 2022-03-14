@@ -2428,6 +2428,8 @@ Rockchip rk3328_box
 75b230863b340f81
 Google cupid-p1
 1577dd2fc473313b
+Xiaomi oneday
+aed6518e5c76e5cb
 
 fe05ri
 Xiaomi lavender
@@ -9651,6 +9653,8 @@ Xiaomi aquaman
 61d4aa814495dfdf
 rockchip rk322x_box
 22fe1070b0215fe3
+Xiaomi aquaman
+b76451b6f57ba533
 
 hheimb
 samsung a50
