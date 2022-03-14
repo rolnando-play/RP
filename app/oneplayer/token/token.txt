@@ -11029,3 +11029,5 @@ samsung a3core
 cad07aaf6160884a
 Amlogic A95X_R2
 ccc83f1332cf1a43
+OnePlus OnePlus3T
+86a4cb317b7231e7
