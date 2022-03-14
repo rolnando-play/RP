@@ -6640,6 +6640,8 @@ Allwinner dolphin-fvd-p1
 96ca5ba05aed24e8
 amlogic sw01
 1c53b6fcabab053
+rockchip rk322x_box
+13a2b2c95abb51f7
 
 jjuan
 Xiaomi aquaman
@@ -10237,7 +10239,7 @@ beto-4 +6
 motorola guamp
 8d632ac00ec742a5
 Sony BRAVIA_VH2
-152e59e79cecc8b5
+053d54fc2e7b8828
 Hisense xiaoyushan
 5eef4e680832e017
 
