@@ -11005,3 +11005,7 @@ motorola addison
 c24644946942cae3
 Amazon sheldonp
 cb32a7f96159c53c
+
+intelnet
+samsung y2s
+683c785f0cfef6f0
