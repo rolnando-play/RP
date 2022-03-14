@@ -7162,6 +7162,8 @@ MTK cvt_mt5863_sa
 667966f6bdff6c58
 rockchip rk322x_box
 84f7e02848f9ba61
+Google titan-p1
+842cddade6662dd5
 
 j88be
 Google walleye
