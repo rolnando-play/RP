@@ -11015,3 +11015,9 @@ cb32a7f96159c53c
 intelnet
 samsung y2s
 683c785f0cfef6f0
+
+fretesmeau
+samsung a3core
+cad07aaf6160884a
+Amlogic A95X_R2
+ccc83f1332cf1a43
