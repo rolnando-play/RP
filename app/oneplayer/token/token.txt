@@ -7664,8 +7664,8 @@ samsung aosp
 25aed7114b65ec33
 Hisilicon Hi3751V350
 9725c3ef8b4f58fb
-OnePlus OnePlus5
-8ace16ed3df2bfc4
+rockchip rk322x_box
+27909e38afba1ab0
 Allwinner dolphin-fvd-p1
 3a6a93e16be0a688
 unknown dolphin-fvd-p1
