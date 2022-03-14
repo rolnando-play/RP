@@ -8484,6 +8484,8 @@ rockchip rk322x_box
 4a4e097a6e7b6336
 samsung a12
 2a43b40bd1f62b6a
+Xiaomi oneday
+1769afd4ba2d603d
 
 danieljo
 Allwinner dolphin-fvd-p1
