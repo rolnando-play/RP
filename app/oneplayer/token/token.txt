@@ -4428,6 +4428,9 @@ rockchip rk322x_box
 be92c25d3aecc35a
 rockchip rk322x_box
 7a63ccb4b5319e73
++18
+Google eros-p1
+b4d3b3b6e9b9b395
 
 lisandra
 MTK cvt_mt5863_sa
