@@ -5903,6 +5903,15 @@ TCL BeyondTV
 e10ad3972f3d8543
 rockchip rk322x_box
 aff446901fb65cea
++18
+rockchip rk322x_box
+bb270d775264c651
+rockchip rk322x_box
+f995c49e7c365455
+rockchip rk322x_box
+a4b4a9c8a07c3ffe
+rockchip rk322x_box
+4e65e5c08aed98c6
 
 gonzalezju +6
 HUAWEI HWYAL
