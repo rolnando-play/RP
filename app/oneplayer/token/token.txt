@@ -1532,6 +1532,8 @@ Allwinner dolphin-fvd-p1
 91076c483ae01ea6
 rockchip rk322x_box
 c2bc8bad701a028
+Xiaomi machuca
+7780ab995ffbbde1
 
 ruthgis
 S905W
