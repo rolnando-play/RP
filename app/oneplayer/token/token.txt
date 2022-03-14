@@ -9660,6 +9660,9 @@ rockchip rk322x_box
 22fe1070b0215fe3
 Xiaomi aquaman
 b76451b6f57ba533
++6 psc
+Xiaomi aquaman
+4008f1c6cd2c8232
 
 hheimb
 samsung a50
@@ -10974,3 +10977,7 @@ Xiaomi toco
 68bb7694b4c2a016
 Xiaomi aquaman
 fec7197e8f505b20
+
+Arturo_Cab
+motorola addison
+c24644946942cae3
