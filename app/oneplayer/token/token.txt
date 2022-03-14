@@ -10021,7 +10021,7 @@ samsung j7xelte
 samsung a01q
 25b1071ca779cb3b
 samsung j7elte
-cb6cfda483311c01
+fc5df26098c32874
 
 rudifran
 HUAWEI HWJNY
