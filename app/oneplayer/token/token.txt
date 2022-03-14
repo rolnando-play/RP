@@ -7111,6 +7111,8 @@ rockchip rk3328_box
 10e66b29ad5ff5b3
 rockchip rk322x_box
 ff7342872efe594
+Android MBOX
+2bc77828ec440888
 
 iptv19 +6 psc
 rockchip rk322x_box
