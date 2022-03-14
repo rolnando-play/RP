@@ -7839,6 +7839,8 @@ Allwinner dolphin-fvd-p1
 3f40d1fac5290c59
 samsung o1q
 499f7082ff0a9b6c
+Allwinner dolphin-fvd-p1
+4269768b052c3bdb
 
 zarater
 samsung a21s
