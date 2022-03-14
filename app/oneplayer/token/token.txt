@@ -9804,6 +9804,10 @@ Xiaomi aquaman
 aa0963100db0081d
 MBOX dolphin-p1
 9e074b050abc5dc6
+MTK cvt_mt5863_sa
+7f580045e3573357
+samsung a52q
+04b78cb3166fcc31
 
 arevalosve
 Amazon sheldonp
