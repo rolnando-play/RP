@@ -8508,6 +8508,8 @@ Allwinner dolphin-fvd-p1
 eeaec93ca8fe5eda
 HongXin MXQ_PRO
 55f2e4f7c8998bda
+MBOX dolphin-p1
+39e116f9c4920fce
 
 danieljo
 Allwinner dolphin-fvd-p1
