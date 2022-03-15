@@ -4433,6 +4433,12 @@ rockchip rk322x_box
 +18
 Google eros-p1
 b4d3b3b6e9b9b395
+Amlogic p201
+9779993c1f6607a6
+Amlogic p201
+f10af599bddff654
+Amlogic p201
+95e798f4fcef0d3b
 
 lisandra
 MTK cvt_mt5863_sa
@@ -8486,6 +8492,8 @@ samsung a12
 2a43b40bd1f62b6a
 Xiaomi oneday
 1769afd4ba2d603d
+Allwinner dolphin-fvd-p1
+eeaec93ca8fe5eda
 
 danieljo
 Allwinner dolphin-fvd-p1
