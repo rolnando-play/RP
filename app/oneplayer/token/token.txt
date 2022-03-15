@@ -9338,8 +9338,8 @@ Xiaomi ginkgo
 penha.pi
 Google titan-p1
 6c87a1f9f8c0dee1
-Xiaomi cereus
-3b4f1664bc2dcdc4
+Amazon tank
+2ff46bb004534027
 Amazon tank
 a3ee4cbd92651b5d
 
@@ -10967,6 +10967,8 @@ samsung a12
 a93b3b0fbcb881ca
 samsung a30
 db7bccd498a372c1
+MediaTek mt5867
+bd12f5c368d55ee6
 
 rodrigoro
 Xiaomi merlin
