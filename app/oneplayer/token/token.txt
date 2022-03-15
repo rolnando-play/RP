@@ -7685,7 +7685,7 @@ samsung aosp
 Hisilicon Hi3751V350
 9725c3ef8b4f58fb
 rockchip rk322x_box
-27909e38afba1ab0
+ed8a8aaffd3fe151
 Allwinner dolphin-fvd-p1
 3a6a93e16be0a688
 unknown dolphin-fvd-p1
