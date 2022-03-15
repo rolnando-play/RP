@@ -6684,6 +6684,7 @@ Amlogic p281
 ef6db9110eb4c2cf
 Xiaomi aquaman
 98ca75f92674414f
++3
 
 valdeztv
 rockchip rk322x_box
@@ -11055,3 +11056,7 @@ OnePlus OnePlus3T
 522dan +6 psc
 Google sabrina
 ceee80314c726b50
+
+cuentaone2 +5 psc
+Amazon tank
+4fd3729333daadb6
