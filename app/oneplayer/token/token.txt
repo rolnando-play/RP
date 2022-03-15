@@ -2882,6 +2882,8 @@ Xiaomi merlin
 6fb8a38b186b73aa
 rockchip rk322x_box
 205585d39c68ef0e
+Xiaomi curtana
+9dbcc262bab3c0f9
 
 aescobar9
 samsung y2s
