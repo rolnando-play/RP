@@ -11031,3 +11031,7 @@ Amlogic A95X_R2
 ccc83f1332cf1a43
 OnePlus OnePlus3T
 86a4cb317b7231e7
+
+522dan +6 psc
+Google sabrina
+ceee80314c726b50
