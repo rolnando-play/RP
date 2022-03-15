@@ -2603,7 +2603,7 @@ Android MDTV5G
 rockchip rk322x_box
 5aaf674ceab4b3ad
 Android MDTV5G
-3884674c5dbd1ec6
+c0deb1e083ce728a
 
 hugolo.2
 samsung j6lte
