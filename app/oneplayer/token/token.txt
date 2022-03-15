@@ -6151,8 +6151,8 @@ Allwinner dolphin-fvd-p1
 559e80c9f53f0015
 HUILIAN Hi3751V350
 ecfa290b8f409d5a
-MTK cvt_mt5863_sa
-88256e8c5b56608c
+rockchip rk322x_box
+5161bc08b587a166
 
 enriquelr
 Amazon sheldon
