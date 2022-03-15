@@ -11047,6 +11047,8 @@ cb32a7f96159c53c
 intelnet
 samsung y2s
 683c785f0cfef6f0
+Amazon sheldon
+8ea1bf3d712e8e9b
 
 fretesmeau
 samsung a3core
