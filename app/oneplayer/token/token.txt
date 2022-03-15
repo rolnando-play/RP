@@ -11081,3 +11081,7 @@ b2b3c0c4a93dce43
 chrissp
 HUAWEI HWSTK-HF
 3ce4abbab9be1ee8
+
+carlos.cor
+TCL BeyondTV
+a6faab46b34021cb
