@@ -8500,6 +8500,8 @@ Xiaomi oneday
 1769afd4ba2d603d
 Allwinner dolphin-fvd-p1
 eeaec93ca8fe5eda
+HongXin MXQ_PRO
+55f2e4f7c8998bda
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11029,6 +11031,8 @@ Xiaomi toco
 68bb7694b4c2a016
 Xiaomi aquaman
 fec7197e8f505b20
+Xiaomi once
+ca9a17ca4af3f5d1
 
 Arturo_Cab
 motorola addison
