@@ -9838,6 +9838,8 @@ MTK cvt_mt5863_sa
 7f580045e3573357
 samsung a52q
 04b78cb3166fcc31
+MBOX dolphin-p1
+c75a8d0998e9c4db
 
 arevalosve
 Amazon sheldonp
@@ -11073,3 +11075,7 @@ Amazon sheldonp
 3b5447d6be2a4524
 Amazon sheldonp
 b2b3c0c4a93dce43
+
+chrissp
+HUAWEI HWSTK-HF
+3ce4abbab9be1ee8
