@@ -354,6 +354,8 @@ a5aab47bb7b335cf
 MBOX dolphin-p1
 a5aab47bb7b335cf
 +3
+Allwinner dolphin-fvd-p1
+bab2e44f544f209c
 
 AQuinonez
 S905W
