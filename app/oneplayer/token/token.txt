@@ -11035,6 +11035,8 @@ bd12f5c368d55ee6
 rodrigoro
 Xiaomi merlin
 34b449f7fdeb0a18
+samsung gts7lwifi
+6052d2d93d0342a9
 
 trukk
 INFINIX MOBILITY LIMITED Infinix-X6812B
