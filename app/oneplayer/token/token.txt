@@ -11129,3 +11129,7 @@ Google sabrina
 rubenmon
 Android MDTV5G
 f9256c6fef040f9
+
+karto
+samsung c2s
+66ad428baefa562c
