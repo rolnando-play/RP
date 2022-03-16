@@ -4112,6 +4112,8 @@ dolphin dolphin_fvd_p1
 +6 psc
 dolphin dolphin_fvd_p1
 9f322a2cdc2db5b6
+Allwinner dolphin-fvd-p1
+ce3bccd98a5029d
 
 aylenmon
 OnePlus OnePlus8TMO
