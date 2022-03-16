@@ -11150,3 +11150,9 @@ bbfe1452c67dcf66
 ojopara +6
 Xiaomi oneday
 24a4137c8b7f81ef
+
+andrugon
+MTK cvt_mt5886_sa
+9ef80e85c3133ad2
+rockchip rk3328_box
+c966d904396594ae
