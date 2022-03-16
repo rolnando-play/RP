@@ -7131,6 +7131,8 @@ rockchip rk322x_box
 ff7342872efe594
 Android MBOX
 2bc77828ec440888
+rockchip rk322x_box
+2eb2e4d7c6c014da
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -10669,6 +10671,8 @@ Amazon sheldon
 d3f7016ee3ccdef0
 Amazon sheldon
 27b0ca10558cf6a1
+Amazon tank
+dcba17000fcf88e1
 
 servicios_te
 dolphin dolphin-fvd-p1-Crechi
