@@ -11133,3 +11133,7 @@ f9256c6fef040f9
 karto
 samsung c2s
 66ad428baefa562c
+
+ugarteta
+COSHIP n9090_telmexott
+bbfe1452c67dcf66
