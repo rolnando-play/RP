@@ -351,6 +351,9 @@ rockchip rk322x_box
 1939a08d1b1653ff
 MBOX dolphin-p1
 a5aab47bb7b335cf
+MBOX dolphin-p1
+a5aab47bb7b335cf
++3
 
 AQuinonez
 S905W
