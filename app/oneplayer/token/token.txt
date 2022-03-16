@@ -9605,6 +9605,8 @@ rockchip rk322x_box
 97e926b3b3fc8461
 rockchip rk322x_box
 b2640d8cf7330e6
+rockchip rk322x_box
+9e2a41365c084b61
 
 davalosru
 rockchip rk3328_box
