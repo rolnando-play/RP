@@ -11068,6 +11068,8 @@ HUAWEI HWVOG
 bdd7e10f2d8e6f8e
 samsung a12
 b5edb586bcb250f7
+OnePlus OnePlus5
+6be48d810b1eb524
 
 joduhe
 samsung c2s
