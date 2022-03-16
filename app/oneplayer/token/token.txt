@@ -8533,6 +8533,10 @@ MTK cvt_mt5863_sa
 ee8d5e04f5cc76e
 samsung a30
 8268a69f4a74d414
+samsung a30
+8268a69f4a74d414
+samsung a03s
+8a7a8c4260d8c89c 
 
 danieljo
 Allwinner dolphin-fvd-p1
