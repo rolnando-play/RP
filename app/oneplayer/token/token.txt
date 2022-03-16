@@ -7724,8 +7724,8 @@ Amlogic p212
 60a275b43f2e7cec
 rockchip rk322x_box
 752ca3d4adb65aef
-Android MDTV5G
-d3d99d478794640b
+
++8 usdt
 
 rocapo
 dolphin dolphin-fvd-p1
