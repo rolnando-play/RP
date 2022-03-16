@@ -7141,6 +7141,8 @@ Android MBOX
 2bc77828ec440888
 rockchip rk322x_box
 2eb2e4d7c6c014da
+dolphin dolphin-fvd-p1
+bb615fded65fb1be
 
 iptv19 +6 psc
 rockchip rk322x_box
