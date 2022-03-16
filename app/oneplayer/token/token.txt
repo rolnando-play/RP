@@ -4099,6 +4099,8 @@ Droidlogic ampere
 691e0bec5fdc897a
 Droidlogic ampere
 8519478d5ec196b9
+dolphin dolphin_fvd_p1
+af86dab5d1383fc1
 
 aylenmon
 OnePlus OnePlus8TMO
