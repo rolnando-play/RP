@@ -11004,8 +11004,6 @@ rockchip rk322x_box
 7b399ea2c9eaf0b4
 
 oscargi
-Xiaomi begonia
-31b3c05492ebd5b7
 MBOX dolphin-p1
 7ffa73cff2702b4a
 rockchip rk322x_box
