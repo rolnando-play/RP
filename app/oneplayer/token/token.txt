@@ -4105,6 +4105,8 @@ dolphin dolphin_fvd_p1
 5adccdc83cca6424
 dolphin dolphin_fvd_p1
 965eaf0cfb7cccfe
+dolphin dolphin_fvd_p1
+8dc3291c2c8cc54b
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -7402,6 +7404,11 @@ rockchip rk322x_box
 4ee0420201eb96c9
 Allwinner dolphin-fvd-p1
 1bb9678988628895
++12
+askey sti6140d360
+1c6e0a2279ea4111
+askey stephen
+c647963d56e5aa99
 
 rr.23
 MTK cvt_mt5863_sa
