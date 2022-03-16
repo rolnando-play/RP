@@ -11158,3 +11158,9 @@ MTK cvt_mt5886_sa
 9ef80e85c3133ad2
 rockchip rk3328_box
 c966d904396594ae
+
+antunezfe
+Google sabrina
+0b8775a29cc1432b
+samsung gtowifi
+c5f604f82813ef08
