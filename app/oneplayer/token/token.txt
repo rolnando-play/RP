@@ -6196,6 +6196,8 @@ rockchip rk322x_box
 d1ec6d260e4bb3fb
 AB PRIME_4K
 627f0952068bd318
+MTK cvt_mt5863_sa
+e40f8e46c33ab22e
 
 enriquelr
 Amazon sheldon
