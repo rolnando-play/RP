@@ -11235,6 +11235,8 @@ SDMC DV8547
 5e57b39a070382cd
 Amlogic p281
 e7f2375c1e5f301f
+SDMC DV8547
+915b746885bfb9aa
 
 angel.du
 samsung r8q
