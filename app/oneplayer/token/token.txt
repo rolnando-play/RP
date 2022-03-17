@@ -2338,7 +2338,8 @@ Allwinner dolphin-fvd-p1
 56c693e3f4872e9d
 
 juankk
-
+Allwinner dolphin-fvd-p1
+b57360762e2d3648
 
 chocho
 Xiaomi tucana
