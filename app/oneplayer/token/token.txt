@@ -7155,6 +7155,8 @@ rockchip rk322x_box
 2eb2e4d7c6c014da
 dolphin dolphin-fvd-p1
 bb615fded65fb1be
+rockchip rk322x_box
+cfb8238572618297
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -10748,6 +10750,8 @@ unknown x86_64
 de8cb554bfd1273a
 MTK cvt_mt5863_sa
 743ab4b454f49dd
+samsung z3q
+b697d658905c58a9
 
 sebastiandi +18
 samsung gta4xlwifi
@@ -11172,3 +11176,7 @@ c5f604f82813ef08
 jothac
 samsung SCG02
 5b3afbc4af82ccf6
+
+german_ga
+samsung f2q
+09dff233b9e3aa54
