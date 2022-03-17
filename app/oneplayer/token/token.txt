@@ -11164,3 +11164,7 @@ Google sabrina
 0b8775a29cc1432b
 samsung gtowifi
 c5f604f82813ef08
+
+jothac
+samsung SCG02
+5b3afbc4af82ccf6
