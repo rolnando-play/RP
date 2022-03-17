@@ -7442,6 +7442,8 @@ askey sti6140d360
 1c6e0a2279ea4111
 askey stephen
 c647963d56e5aa99
+dolphin dolphin_fvd_p1
+3b328593392dd431
 
 rr.23
 MTK cvt_mt5863_sa
@@ -9670,6 +9672,8 @@ rockchip rk322x_box
 330a1d56c2dbd323
 rockchip rk322x_box
 2e8588bc116632ac
+dolphin dolphin-fvd-p1
+754afc6d576b92b1
 
 davalosru
 rockchip rk3328_box
