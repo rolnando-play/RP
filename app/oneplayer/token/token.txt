@@ -5091,6 +5091,8 @@ a4dfc797589fa99a
 Xiaomi aquaman
 233f6d2f2b5cd1e1
 +3
+rockchip rk3328_box
+3ccc5a36895d0425
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -9665,6 +9667,8 @@ rockchip rk322x_box
 1083edfd8670ab05
 rockchip rk322x_box
 330a1d56c2dbd323
+rockchip rk322x_box
+2e8588bc116632ac
 
 davalosru
 rockchip rk3328_box
