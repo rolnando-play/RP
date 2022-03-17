@@ -7619,6 +7619,9 @@ Xiaomi amelie
 af231e07c8effe08
 Xiaomi laurel_sprout
 40bae9b471e490a9
++3
+Amazon mantis
+89d82be7c509b57f
 
 samme19 +6
 Allwinner dolphin-fvd-p1
