@@ -9141,6 +9141,8 @@ rockchip rk322x_box
 f4a94a0a65803d27
 rockchip rk322x_box
 2e70cba3ac30ba21
+HongXin hx_s905x
+9fcd0efb4d205783
 
 brandonmk
 Xiaomi begonia
