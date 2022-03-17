@@ -5086,6 +5086,9 @@ rockchip rk322x_box
 a37ab95dfe9a1c02
 rockchip rk322x_box
 a4dfc797589fa99a
+Xiaomi aquaman
+233f6d2f2b5cd1e1
++3
 
 cuentatv
 Allwinner dolphin-fvd-p1
