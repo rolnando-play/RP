@@ -10310,6 +10310,8 @@ Xiaomi vayu
 37738aefb728101e
 MTK cvt_mt5863_sa
 2897c3065551219e
+Xiaomi vayu
+30ff49626f88e836
 
 santiagoz
 Android MBOX
