@@ -2338,8 +2338,7 @@ Allwinner dolphin-fvd-p1
 56c693e3f4872e9d
 
 juankk
-Allwinner dolphin-fvd-p1
-b57360762e2d3648
+
 
 chocho
 Xiaomi tucana
@@ -5958,6 +5957,8 @@ rockchip rk322x_box
 4e65e5c08aed98c6
 rockchip rk322x_box
 9eead23b0e447524
+rockchip rk322x_box
+5b67271da44cfc67
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -8799,6 +8800,8 @@ rockchip rk322x_box
 bb5f03739c402b24
 rockchip rk322x_box
 c60d7780a83ecd55
+GOBox gobox
+5288734881be5af4
 
 gergod +6
 Amlogic franklin
@@ -11192,3 +11195,7 @@ Android MDTV5G
 begar
 SDMC DV8547
 5e57b39a070382cd
+
+angel.du
+samsung r8q
+cc06807e62c55761
