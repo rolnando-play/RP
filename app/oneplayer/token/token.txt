@@ -4288,8 +4288,8 @@ Xiaomi oneday
 010e2ed8a8aec066
 
 rkrdo
-Xiaomi laurel_sprout
-eb4edae507a391e2
+motorola odessa
+8a96cb529db27606
 Xiaomi oneday
 405d622656df7f68
 rockchip rk322x_box
@@ -7169,6 +7169,8 @@ rockchip rk322x_box
 cfb8238572618297
 dolphin dolphin-fvd-p1
 ef33b9f54468f0ec
+rockchip rk322x_box
+f3123819d1fe70cd
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9661,6 +9663,8 @@ rockchip rk322x_box
 9e2a41365c084b61
 rockchip rk322x_box
 1083edfd8670ab05
+rockchip rk322x_box
+330a1d56c2dbd323
 
 davalosru
 rockchip rk3328_box
@@ -11213,6 +11217,8 @@ Android MDTV5G
 begar
 SDMC DV8547
 5e57b39a070382cd
+Amlogic p281
+e7f2375c1e5f301f
 
 angel.du
 samsung r8q
