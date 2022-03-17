@@ -8974,12 +8974,10 @@ Amazon sheldon
 35c040de531acaa4
 
 ismaelso
-samsung on7xelte
-75bb3c9aec322069
 motorola guam
 b420627a9c1c23d4
-samsung a20s
-c3ae07c9a2d0ebeb
+samsung a30s
+c70dfdb3c75b7aaf
 
 gonzaloez
 Xiaomi surya
