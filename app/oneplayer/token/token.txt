@@ -7622,6 +7622,8 @@ Xiaomi laurel_sprout
 +3
 Amazon mantis
 89d82be7c509b57f
+Amazon mantis
+2ae03585755c0408
 
 samme19 +6
 Allwinner dolphin-fvd-p1
