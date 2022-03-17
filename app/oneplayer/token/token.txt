@@ -6191,6 +6191,11 @@ HUILIAN Hi3751V350
 ecfa290b8f409d5a
 rockchip rk322x_box
 5161bc08b587a166
++9
+rockchip rk322x_box
+d1ec6d260e4bb3fb
+AB PRIME_4K
+627f0952068bd318
 
 enriquelr
 Amazon sheldon
