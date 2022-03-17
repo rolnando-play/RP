@@ -7741,8 +7741,9 @@ Amlogic p212
 60a275b43f2e7cec
 rockchip rk322x_box
 752ca3d4adb65aef
-
-+8 usdt
+MBOX dolphin-p1
+a73ef401a1cc0fa2
++9 usdt
 
 rocapo
 dolphin dolphin-fvd-p1
