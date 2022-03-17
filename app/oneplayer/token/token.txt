@@ -11182,3 +11182,5 @@ samsung SCG02
 german_ga
 samsung f2q
 09dff233b9e3aa54
+rockchip rk322x_box
+1ac63eb068e31b7c
