@@ -4655,6 +4655,8 @@ MTK ctv_mt5863_sa
 42287ed69e51741a
 Samsung dream2lte
 42e57251ee5da5b0
+Xiaomi aquaman
+cbc72e0fb4ada625
 
 aldomo +9
 Amazon mantis
