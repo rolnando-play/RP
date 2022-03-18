@@ -2957,6 +2957,8 @@ Amlogic p201
 5863ae1197ba0623
 Xiaomi oneday
 da0e200cdba6241d
+BTV p212
+48286b9f9351bc31
 
 diegoafra
 HUAWEI HWEML
