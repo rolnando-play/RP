@@ -5130,6 +5130,9 @@ Droidlogic franklin
 0bfce1af5d9f5f46
 rockchip rk322x_box
 bf0386dafa20b7ee
++3
+Google walleye
+943a92aec6519fe5
 
 studiodi +6 psc
 rockchip rk322x_box
@@ -10499,6 +10502,8 @@ worldchip T8116
 c671ffae1be159cb
 humaxdigital b604tnw
 1558648662ef0da2
+KaonMedia KSTB6130
+562015b3f099cc6b
 
 dr.adan
 Amazon kara
