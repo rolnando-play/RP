@@ -11274,3 +11274,7 @@ samsung r8q
 cc06807e62c55761
 Xiaomi croods
 57a495c15dc3f3e6
+
+luis.alb
+Amazon sheldonp
+45b145c326f6f09c
