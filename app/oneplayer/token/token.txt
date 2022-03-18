@@ -9165,6 +9165,8 @@ rockchip rk322x_box
 2e70cba3ac30ba21
 HongXin hx_s905x
 9fcd0efb4d205783
+MBOX dolphin-p1
+cc06a1b30eb7e350
 
 brandonmk
 Xiaomi begonia
