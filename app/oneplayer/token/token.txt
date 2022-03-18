@@ -6721,6 +6721,8 @@ amlogic sw01
 1c53b6fcabab053
 rockchip rk322x_box
 13a2b2c95abb51f7
+rockchip rk322x_box
+9b26bb097a43df68
 
 jjuan
 Xiaomi aquaman
@@ -9688,6 +9690,8 @@ rockchip rk322x_box
 2e8588bc116632ac
 dolphin dolphin-fvd-p1
 754afc6d576b92b1
+rockchip rk322x_box
+7db0f94cb42a0df6
 
 davalosru
 rockchip rk3328_box
@@ -10287,8 +10291,8 @@ samsung a12s
 3d853ca2475399f9
 
 jaragab
-motorola pstar
-bcd069e7ee9cea4d
+Amlogic p212
+8f8e1aff5e6a4a7a
 TCL BeyondTV
 8298f79958d38d59
 Amazon montoya
