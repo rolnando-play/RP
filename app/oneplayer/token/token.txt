@@ -8598,6 +8598,8 @@ samsung a30
 8268a69f4a74d414
 samsung a03s
 8a7a8c4260d8c89c
+Allwinner dolphin-fvd-p1
+33f8539e01d86f27
 
 danieljo
 Allwinner dolphin-fvd-p1
