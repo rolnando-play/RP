@@ -10876,6 +10876,8 @@ Xiaomi oneday
 0e47fa13ca7d05de
 rockchip rk3328_box
 3d73cd2a9a58492b
+Amazon sheldon
+fa0b5bcbd390f5ab
 
 josetrini
 Xiaomi machuca
