@@ -5553,7 +5553,7 @@ erdant
 motorola nicklaus_f
 a282d7edb85cd875
 Amlogic nanox
-65aca781e95d41bb
+727f239256a31216
 
 cventu
 Xiaomi oneday
