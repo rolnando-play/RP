@@ -1963,6 +1963,9 @@ Amazon sheldonp
 76b850a7a79360ff
 Amazon mantis
 36a6cee06600c98f
++5 psc
+Amazon mantis
+11f2dab10fc9daf6
 
 mv_mf_
 Xiaomi oneday
@@ -5102,6 +5105,8 @@ Xiaomi aquaman
 +3
 rockchip rk3328_box
 3ccc5a36895d0425
+Amazon maverick
+a3cb6cf21710ad63
 
 cuentatv
 Allwinner dolphin-fvd-p1
