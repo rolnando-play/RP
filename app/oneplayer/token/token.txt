@@ -1546,6 +1546,8 @@ rockchip rk322x_box
 c2bc8bad701a028
 Xiaomi machuca
 7780ab995ffbbde1
+AMLOGIC -
+61feddc639c899eb
 
 ruthgis
 S905W
