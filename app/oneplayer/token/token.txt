@@ -7223,6 +7223,8 @@ rockchip rk322x_box
 8f9244e6990c8df7
 streambus rk322x_box
 9830ef1e1e6d7538
+Android MBOX
+1d8a933efa191634
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9752,6 +9754,9 @@ dolphin dolphin-fvd-p1
 754afc6d576b92b1
 rockchip rk322x_box
 7db0f94cb42a0df6
++6
+rockchip rk322x_box
+867d15c510e8913d
 
 davalosru
 rockchip rk3328_box
@@ -11333,6 +11338,8 @@ Xiaomi croods
 luis.alb
 Amazon sheldonp
 45b145c326f6f09c
+Amazon kara
+4df569156b6fbb3d
 
 anibalgf
 Amazon sheldonp
