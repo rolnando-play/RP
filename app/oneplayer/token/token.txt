@@ -530,6 +530,8 @@ Xiaomi aquaman
 59c327c6a05d8dfd
 Xiaomi aquaman
 65249a162b7cb2f2
+Xiaomi aquaman
+a955aa4dfc6c4eab
 
 adolfo3
 rockchip rk322x_box
