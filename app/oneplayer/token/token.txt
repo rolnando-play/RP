@@ -8879,6 +8879,8 @@ GOBox gobox
 5288734881be5af4
 Amazon sheldon
 2736bb5877eb67e5
+rockchip rk322x_box
+9543d1999de75700
 
 gergod +6
 Amlogic franklin
