@@ -11350,3 +11350,7 @@ Amazon sheldonp
 03fbf15d5c1ac3a8
 samsung a12
 8065abad238898bc
+
+canal11
+samsung a50
+209f5f007f25cfd4
