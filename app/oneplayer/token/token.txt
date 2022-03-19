@@ -11196,7 +11196,7 @@ Xiaomi oneday
 
 carlosabram
 HUAWEI HWVOG
-bdd7e10f2d8e6f8e
+b3cdd3f61205d440
 samsung a12
 b5edb586bcb250f7
 OnePlus OnePlus5
@@ -11287,6 +11287,8 @@ bbfe1452c67dcf66
 ojopara +6
 Xiaomi oneday
 24a4137c8b7f81ef
+samsung a32
+2bac6e0bb7fc0a02
 
 andrugon
 MTK cvt_mt5886_sa
