@@ -11282,6 +11282,8 @@ Google sabrina
 rubenmon
 Android MDTV5G
 f9256c6fef040f9
+rockchip rk322x_box
+116d3a25d4a8e2e7
 
 karto
 samsung c2s
