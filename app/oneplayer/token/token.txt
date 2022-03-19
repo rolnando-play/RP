@@ -831,6 +831,8 @@ Allwinner dolphin-fvd-p1
 a910aa7c8f070633
 Allwinner dolphin-fvd-p1
 6c7359ba92dfd258
+rockchip rk322x_box
+93c7ffdcb5edf7db
 
 wordbo
 SM-G925I
