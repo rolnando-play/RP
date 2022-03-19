@@ -6209,6 +6209,8 @@ MBOX dolphin-p1
 b7e70be95f861473
 rockchip rk322x_box
 8bfae55a4098aff2
+rockchip rk322x_box
+6f3618c1cc570399
 
 enriquelr
 Amazon sheldon
