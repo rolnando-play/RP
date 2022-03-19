@@ -7215,6 +7215,8 @@ rockchip rk322x_box
 786cf532af80f943
 rockchip rk322x_box
 8f9244e6990c8df7
+streambus rk322x_box
+9830ef1e1e6d7538
 
 iptv19 +6 psc
 rockchip rk322x_box
