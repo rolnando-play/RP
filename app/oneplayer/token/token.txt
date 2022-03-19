@@ -8881,6 +8881,8 @@ Amazon sheldon
 2736bb5877eb67e5
 rockchip rk322x_box
 9543d1999de75700
+Amazon sheldon
+86fb525e68ab452e
 
 gergod +6
 Amlogic franklin
