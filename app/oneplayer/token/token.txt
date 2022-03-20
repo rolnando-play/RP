@@ -11380,3 +11380,7 @@ Allwinner dolphin-fvd-p1
 morandr
 samsung a50
 cba81f1980145e0d
+
+rbaro0
+samsung a32
+56ce42202b14ea03
