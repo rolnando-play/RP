@@ -3624,6 +3624,8 @@ MBOX dolphin-p1
 1da41ab4b81b1183
 SEI Robotics SEI400TV
 03636ad6f7f6778c
+rockchip MK
+27638f806c448a19
 
 oma19 +9
 samsung c2s
@@ -10014,6 +10016,8 @@ samsung a52q
 04b78cb3166fcc31
 MBOX dolphin-p1
 c75a8d0998e9c4db
+Xiaomi begonia
+e53aeed19ff900cd
 
 arevalosve
 Amazon sheldonp
