@@ -5474,6 +5474,8 @@ Xiaomi oneday
 6c1c0a73e41cc75a
 Xiaomi oneday
 641e06395a4450c1
+Allwinner dolphin-fvd-p1
+18db7eab53430767
 
 alanbz
 samsung gtowifi
