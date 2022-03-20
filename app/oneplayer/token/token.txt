@@ -11339,13 +11339,15 @@ rockchip rk322x_box
 Android MDTV5G
 12a73e7e1e9286a1
 
-begar
+begar +6
 SDMC DV8547
 5e57b39a070382cd
 Amlogic p281
 e7f2375c1e5f301f
 SDMC DV8547
 915b746885bfb9aa
+MTK cvt_mt5886_sa
+592e7d50de31caa
 
 angel.du
 samsung r8q
