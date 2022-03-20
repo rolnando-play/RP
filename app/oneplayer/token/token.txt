@@ -8322,6 +8322,8 @@ samsung a12s
 069dc74f3799a823
 Xiaomi oneday
 1759c1f2e6ac6181
+samsung r8q
+9393a9f2acb43191
 
 germol
 Amlogic BC13
