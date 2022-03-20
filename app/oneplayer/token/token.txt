@@ -11388,3 +11388,7 @@ samsung a32
 licoa1
 SkyworthDigital LAS
 a73656ed9f50dfc9
+
+dany_el
+Allwinner dolphin-fvd-p1
+ca09587be8e9aab8
