@@ -10772,6 +10772,8 @@ askey sti6140d360
 chrisol
 Google eros-p1
 f216512425176c45
+rockchip rk3328 box
+f13589616bddc3c2
 
 rubenador
 Google sabrina
