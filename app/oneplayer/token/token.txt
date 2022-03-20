@@ -11110,6 +11110,8 @@ Amazon sheldonp
 lprafa
 Google sabrina
 6d664303d2bc9e83
+Amlogic p201
+ea97e886ada076fd
 
 adela19
 HUAWEI HWANE
