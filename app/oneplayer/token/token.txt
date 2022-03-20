@@ -1550,6 +1550,8 @@ Xiaomi machuca
 7780ab995ffbbde1
 AMLOGIC -
 61feddc639c899eb
+Xiaomi aquaman
+01e633959915ce7f
 
 ruthgis
 S905W
