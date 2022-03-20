@@ -9671,6 +9671,8 @@ samsung m12
 1dfd92fbe871a547
 Google generic_x86_64
 98f12f4c773c91a9
+Xiaomi camellian
+f3de215566910805
 
 sistel
 samsung r8s
