@@ -11360,3 +11360,9 @@ samsung a12
 canal11
 samsung a50
 209f5f007f25cfd4
+amlogic sw01
+fb494a46b0ae32a7
+
+alfreman
+Allwinner dolphin-fvd-p1
+2c781e8072880d0f
