@@ -10625,7 +10625,7 @@ ba599ad6cbc4a9e0
 Google sabrina
 37612b2b76859fef
 Samsung manta
-157dc066d41d982c
+3e387ed27c7867e1
 
 silvio_7
 rockchip rk3188
@@ -11368,3 +11368,7 @@ fb494a46b0ae32a7
 alfreman
 Allwinner dolphin-fvd-p1
 2c781e8072880d0f
+
+morandr
+samsung a50
+cba81f1980145e0d
