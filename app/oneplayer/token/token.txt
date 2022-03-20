@@ -6238,6 +6238,8 @@ rockchip rk322x_box
 6f3618c1cc570399
 Xiaomi aquaman
 652d88cb8b709ad8
+MTK cvt_mt5886_sa
+2702e5a5dc7e1a39
 
 enriquelr
 Amazon sheldon
