@@ -6234,6 +6234,8 @@ rockchip rk322x_box
 8bfae55a4098aff2
 rockchip rk322x_box
 6f3618c1cc570399
+Xiaomi aquaman
+652d88cb8b709ad8
 
 enriquelr
 Amazon sheldon
@@ -8637,6 +8639,8 @@ rockchip rk322x_box
 1d512bb818b39b84
 Xiaomi aquaman
 8091f3e1110b5544
+samsung j4lte
+2c04e254b6211a37
 
 danieljo
 Allwinner dolphin-fvd-p1
