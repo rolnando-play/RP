@@ -8924,6 +8924,8 @@ bfde5f573325d182
 +18 usdt
 rockchip rk322x_box
 359d8aac88680c90
+rockchip rk322x_box
+f4cf6324a97af760
 
 gergod +6
 Amlogic franklin
