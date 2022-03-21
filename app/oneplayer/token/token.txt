@@ -8911,6 +8911,10 @@ rockchip rk322x_box
 9543d1999de75700
 Amazon sheldon
 86fb525e68ab452e
+rockchip rk322x_box
+d15637cfab8c17ab
+Xiaomi oneday
+180ec41606b70a36
 
 gergod +6
 Amlogic franklin
