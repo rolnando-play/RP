@@ -10049,6 +10049,8 @@ Xiaomi begonia
 e53aeed19ff900cd
 rockchip rk322x_box
 fe1e196d4aa5e30b
+Xiaomi angelica
+0db3a44df7bbdbd2
 
 arevalosve
 Amazon sheldonp
