@@ -3628,6 +3628,8 @@ SEI Robotics SEI400TV
 03636ad6f7f6778c
 rockchip MK
 27638f806c448a19
+rockchip MK
+eef2d75bdcd7a647
 
 oma19 +9
 samsung c2s
