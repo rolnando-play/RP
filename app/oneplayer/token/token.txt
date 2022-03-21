@@ -6246,6 +6246,8 @@ Xiaomi aquaman
 652d88cb8b709ad8
 MTK cvt_mt5886_sa
 2702e5a5dc7e1a39
+dolphin dolphin_fvd_p1
+de71f879af8a4f58
 
 enriquelr
 Amazon sheldon
