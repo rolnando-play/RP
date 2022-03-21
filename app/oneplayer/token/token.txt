@@ -11360,6 +11360,8 @@ SDMC DV8547
 915b746885bfb9aa
 MTK cvt_mt5886_sa
 592e7d50de31caa
+Droidlogic ampere
+0dbba90a5034e70f
 
 angel.du
 samsung r8q
