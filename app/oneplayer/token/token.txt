@@ -9798,8 +9798,8 @@ rockchip rk322x_box
 davalosru
 rockchip rk3328_box
 5d1538cae666a348
-samsung z3s
-d052e254b6bb9687
+Amazon mantis
+eebe68b1241dd36
 dolphin dolphin-fvd-p1
 423a44b289547dee
 +3
