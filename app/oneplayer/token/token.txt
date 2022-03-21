@@ -4489,6 +4489,8 @@ Amlogic p201
 e6dee4fefe6db0fb
 Amlogic p201
 82b0992ca155c9f0
+rockchip rk322x_box
+9ba5bf1715effa07
 
 lisandra
 MTK cvt_mt5863_sa
