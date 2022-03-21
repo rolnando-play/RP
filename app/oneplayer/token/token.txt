@@ -8661,6 +8661,8 @@ samsung j4lte
 2c04e254b6211a37
 rockchip rk322x_box
 5f80d0b016c92eb0
+rockchip rk322x_box
+ba1ccd162f1a68b6
 
 danieljo
 Allwinner dolphin-fvd-p1
