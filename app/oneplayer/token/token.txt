@@ -4929,8 +4929,8 @@ rockchip rk322x_box
 sanchez9
 Allwinner dolphin-fvd-p1
 1313182ec621101f
-samsung gto
-fe8a6fc0873db9dc
+samsung t2s
+bde8253a76b34c64
 rockchip rk322x_box
 72aa12d314f89dc3
 
