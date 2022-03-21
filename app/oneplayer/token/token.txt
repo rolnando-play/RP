@@ -2371,6 +2371,8 @@ rockchip rk322x_box
 1797a30f5505c04d
 MBOX dolphin-p1
 8bd4e189e78db900
+streambus rk322x_box
+a6b6c3c0162e095
 
 schulzo
 HMD Global BGT_sprout
