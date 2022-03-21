@@ -10041,6 +10041,8 @@ MBOX dolphin-p1
 c75a8d0998e9c4db
 Xiaomi begonia
 e53aeed19ff900cd
+rockchip rk322x_box
+fe1e196d4aa5e30b
 
 arevalosve
 Amazon sheldonp
