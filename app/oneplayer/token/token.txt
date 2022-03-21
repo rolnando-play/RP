@@ -9912,6 +9912,8 @@ Xiaomi aquaman
 4008f1c6cd2c8232
 Xiaomi aquaman
 8cb8cd49b3a237d8
+rockchip rk322x_box
+a085a74eb3643314
 
 hheimb
 samsung a50
