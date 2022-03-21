@@ -8653,6 +8653,8 @@ Xiaomi aquaman
 8091f3e1110b5544
 samsung j4lte
 2c04e254b6211a37
+rockchip rk322x_box
+5f80d0b016c92eb0
 
 danieljo
 Allwinner dolphin-fvd-p1
