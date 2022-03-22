@@ -11229,6 +11229,8 @@ askey sti6140d360
 adbbc710a8d123c3
 SEI Robotics SEI400TV
 43df1cd9fbbef980
+Amazon mantis
+92325afca793d7af
 
 ccardo
 samsung a12
