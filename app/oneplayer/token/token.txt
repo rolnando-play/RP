@@ -8607,7 +8607,8 @@ MTK cvt_mt5886_sa
 cff2ffb8bc11830b
 rockchip rk322x_box
 55599e36b23dc9bd
-
+Amlogic p281
+9882dac32fdc4c61
 MBOX dolphin-p1
 d346712a303c599d
 rockchip rk3328_box
@@ -10085,6 +10086,8 @@ rockchip rk322x_box
 fe1e196d4aa5e30b
 Xiaomi angelica
 0db3a44df7bbdbd2
+rockchip rk322x_box
+2a916f3b287dd249
 
 arevalosve
 Amazon sheldonp
