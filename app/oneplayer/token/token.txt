@@ -1925,7 +1925,7 @@ rockchip rk322x_box
 3bd9bfce6635a96
 rockchip rk322x_box
 afe79f8f2bb67974
-+12
++9
 rockchip rk322x_box
 b9bce9a754015b59
 rockchip rk322x_box
@@ -1936,6 +1936,8 @@ rockchip rk322x_box
 e83ac7f2a0180ffc
 dolphin dolphin-fvd-p1
 4a101b83f962bdb1
+Amazon sheldon
+8881526ee4dec57c
 
 ricar.fu
 HUAWEI HWMAR
