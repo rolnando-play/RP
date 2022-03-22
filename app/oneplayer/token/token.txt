@@ -7519,6 +7519,8 @@ askey stephen
 c647963d56e5aa99
 dolphin dolphin_fvd_p1
 3b328593392dd431
+askey sti6140d360
+57024767e4b5701d
 
 rr.23
 MTK cvt_mt5863_sa
@@ -8669,6 +8671,8 @@ rockchip rk322x_box
 ba1ccd162f1a68b6
 rockchip rk322x_box
 1fd8250f74cb34af
+samsung a70q
+b7abebaa3c2b2ce0
 
 danieljo
 Allwinner dolphin-fvd-p1
