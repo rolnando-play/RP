@@ -3836,8 +3836,8 @@ MTK cvt_mt5863_sa
 7158238556198d0
 MTK cvt_mt5863_sa
 ed2b802892f5f8f4
-Samsung a30s 
-e5e93b1526fbcd3d
+Xiaomi curtana
+faeb07aad44ecad3
 
 diegoe
 samsung p3s
