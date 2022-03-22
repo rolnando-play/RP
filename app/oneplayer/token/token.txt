@@ -7941,6 +7941,8 @@ rockchip rk322x_box
 4fbf392ce01d1025
 rockchip rk322x_box
 1d01113af70d111a
+rockchip rk322x_box
+708c52d1ed398049
 
 pjc0910 +9
 rockchip rk322x_box
@@ -11126,13 +11128,15 @@ ferminsa
 samsung a70q
 cd8348ec622e57b1
 
-pkuro
+pkuro +6
 HUAWEI HWYAL
 09279252eca60b4c
 Xiaomi oneday
 ccb3dec25f0ac5bd
 fengmi anglee
 5fbd70a6ec46451c
+Xiaomi oneday
+ea7a91d6fd011305
 
 rodrigosal
 HUAWEI HWANE
