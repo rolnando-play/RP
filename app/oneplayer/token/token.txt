@@ -5310,6 +5310,8 @@ dolphin dolphin_fvd_p1
 ccea3c3bcc54b2d9
 dolphin dolphin_fvd_p1
 4d325f23b3ad39db
+rockchip rk322x_box
+f047f5584cb5205c
 
 its.cm
 Amlogic p282
@@ -6027,6 +6029,8 @@ rockchip rk322x_box
 95e6bd294912909a
 rockchip rk322x_box
 286f19043a76fdb2
+rockchip rk322x_box
+664ebf43512d429d
 
 gonzalezju +6
 HUAWEI HWYAL
