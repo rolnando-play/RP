@@ -5314,6 +5314,8 @@ dolphin dolphin_fvd_p1
 4d325f23b3ad39db
 rockchip rk322x_box
 f047f5584cb5205c
+rockchip rk322x_box
+7de6ddea4b6577e4
 
 its.cm
 Amlogic p282
@@ -11467,6 +11469,8 @@ samsung a50
 209f5f007f25cfd4
 amlogic sw01
 fb494a46b0ae32a7
+rockchip rk322x_box
+a566729925dbcf18
 
 alfreman
 Allwinner dolphin-fvd-p1
