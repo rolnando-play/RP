@@ -6019,6 +6019,8 @@ rockchip rk322x_box
 ecb0caec1a54177c
 rockchip rk322x_box
 95e6bd294912909a
+rockchip rk322x_box
+286f19043a76fdb2
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -7251,6 +7253,8 @@ streambus rk322x_box
 9830ef1e1e6d7538
 Android MBOX
 1d8a933efa191634
+rockchip MDP-711
+8fb7c37d330bfd07
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11467,3 +11471,7 @@ samsung a20s
 55c028d51efc0bd8
 Xiaomi oneday
 e2c6c0eb99e834d7
+
+fabiocro +9
+samsung z3q
+16aa5e70287633c1
