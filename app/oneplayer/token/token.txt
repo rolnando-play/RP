@@ -1558,6 +1558,8 @@ Xiaomi aquaman
 01e633959915ce7f
 dolphin dolphin-fvd-p1
 9abebdeee7a93650
+MBOX dolphin-p1
+5db33b7bd0493674
 
 ruthgis
 S905W
@@ -11403,6 +11405,13 @@ rockchip rk322x_box
 1ac63eb068e31b7c
 Android MDTV5G
 12a73e7e1e9286a1
++3
+Xiaomi oneday
+727fe4febc072faa
+HUAWEI HWSNE
+b43a5f66c2e5a32c
+OnePlus OnePlus5
+7756d9d62117d431
 
 begar +6
 SDMC DV8547
