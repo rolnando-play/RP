@@ -1560,6 +1560,8 @@ dolphin dolphin-fvd-p1
 9abebdeee7a93650
 MBOX dolphin-p1
 5db33b7bd0493674
+rockchip rk322x_box
+1181b18062b52a2d
 
 ruthgis
 S905W
