@@ -534,6 +534,8 @@ Xiaomi aquaman
 a955aa4dfc6c4eab
 Xiaomi oneday
 1cd52434d277f9c6
+Xiaomi aquaman
+faf18b74f6d33e1a
 
 adolfo3
 rockchip rk322x_box
@@ -7255,6 +7257,8 @@ Android MBOX
 1d8a933efa191634
 rockchip MDP-711
 8fb7c37d330bfd07
+rockchip rk322x_box
+7dc79f90aacb65c2
 
 iptv19 +6 psc
 rockchip rk322x_box
