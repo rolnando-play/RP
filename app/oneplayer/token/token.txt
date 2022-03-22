@@ -5139,6 +5139,8 @@ Xiaomi oneday
 edda874cd8165d69
 MTK cvt_mt5863_sa
 50265ea6c378614d
+Xiaomi aquaman
+7ed8e44c57baae79
 
 simonk +6 psc
 LGE cv1
@@ -11447,6 +11449,8 @@ Allwinner dolphin-fvd-p1
 ca09587be8e9aab8
 rockchip rk322x_box
 15969237ccce8343
+MBOX dolphin-p1
+b97a303b21870b28
 
 moralesch
 dolphin SBQ-SM007
