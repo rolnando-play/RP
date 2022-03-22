@@ -8536,8 +8536,7 @@ MBOX dolphin-p1
 e5d803997ac15cb1
 Allwinner dolphin-fvd-p1
 bf8af129c7e43db8
-Amazon mantis
-9c566bd4e1ff8d44
+
 MTK cvt_mt5886_sa
 27bc3a46f709a4c1
 Xiaomi aquaman
@@ -8665,8 +8664,7 @@ rockchip rk322x_box
 1d512bb818b39b84
 Xiaomi aquaman
 8091f3e1110b5544
-samsung j4lte
-2c04e254b6211a37
+
 rockchip rk322x_box
 5f80d0b016c92eb0
 rockchip rk322x_box
