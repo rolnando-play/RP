@@ -1552,6 +1552,8 @@ AMLOGIC -
 61feddc639c899eb
 Xiaomi aquaman
 01e633959915ce7f
+dolphin dolphin-fvd-p1
+9abebdeee7a93650
 
 ruthgis
 S905W
@@ -8663,6 +8665,8 @@ rockchip rk322x_box
 5f80d0b016c92eb0
 rockchip rk322x_box
 ba1ccd162f1a68b6
+rockchip rk322x_box
+1fd8250f74cb34af
 
 danieljo
 Allwinner dolphin-fvd-p1
