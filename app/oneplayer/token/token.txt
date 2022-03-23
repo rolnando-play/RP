@@ -7869,6 +7869,8 @@ rockchip rk322x_box
 MBOX dolphin-p1
 a73ef401a1cc0fa2
 +9 usdt
+dolphin dolphin-fvd-p1
+ef6d6cfaaea8196d
 
 rocapo
 dolphin dolphin-fvd-p1
