@@ -9711,6 +9711,8 @@ streambus rk322x_box
 c0400b5ba57fb3e2
 dolphin dolphin_fvd_p1
 87093dea7406a3e7
+dolphin dolphin_fvd_p1
+398de11cb3e3fdd2
 
 chavezqu
 HUAWEI HWMAR
@@ -11546,3 +11548,5 @@ Amazon mantis
 celso8
 Xiaomi oneday
 a184be2f3cb54739
+Xiaomi oneday
+827869a87c92fe51
