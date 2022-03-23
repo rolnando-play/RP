@@ -10348,6 +10348,8 @@ rockchip rk322x_box
 bd6c0f03ee66a8f1
 Amazon tank
 f04715bf415189db
+rockchip rk322x_box
+c53d9d2fae688e82
 
 fabianarr
 HUAWEI HWELE
