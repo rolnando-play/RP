@@ -8716,6 +8716,8 @@ b7abebaa3c2b2ce0
 samsung a20s
 739b6c01d3376edc
 +18
+rockchip rk322x_box
+90ae03f3b8bd94fd
 
 danieljo
 Allwinner dolphin-fvd-p1
