@@ -6818,6 +6818,8 @@ ef6db9110eb4c2cf
 Xiaomi aquaman
 98ca75f92674414f
 +3
+Amazon sheldonp
+25e017f881fa369b
 
 valdeztv
 rockchip rk322x_box
