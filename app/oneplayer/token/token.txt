@@ -9748,6 +9748,8 @@ f3de215566910805
 sistel
 samsung r8s
 d9395b7d05d2521d
+Xiaomi oneday
+54105df1638c682a
 
 krlitos
 samsung star2qltechn
