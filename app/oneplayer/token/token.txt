@@ -7871,6 +7871,8 @@ a73ef401a1cc0fa2
 +9 usdt
 dolphin dolphin-fvd-p1
 ef6d6cfaaea8196d
+rockchip rk322x_box
+31557f728825fa84
 
 rocapo
 dolphin dolphin-fvd-p1
