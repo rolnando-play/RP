@@ -1753,6 +1753,8 @@ samsung crownlte
 fd526680799f6b92
 samsung d2s
 b44155eac26b1aa9
+rockchip rk3328_box
+0980094b2081cc75
 
 ag.tom
 dolphin dolphin_fvd_p1
