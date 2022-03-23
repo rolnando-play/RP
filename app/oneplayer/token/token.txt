@@ -1562,6 +1562,8 @@ MBOX dolphin-p1
 5db33b7bd0493674
 rockchip rk322x_box
 1181b18062b52a2d
+Allwinner dolphin-fvd-p1
+d98c3156c722daf2
 
 ruthgis
 S905W
@@ -8699,6 +8701,9 @@ rockchip rk322x_box
 1fd8250f74cb34af
 samsung a70q
 b7abebaa3c2b2ce0
+samsung a20s
+739b6c01d3376edc
++18
 
 danieljo
 Allwinner dolphin-fvd-p1
