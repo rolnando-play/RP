@@ -8720,6 +8720,8 @@ samsung a20s
 +18
 rockchip rk322x_box
 90ae03f3b8bd94fd
+dolphin dolphin_fvd_p1
+a5056339c45da532
 
 danieljo
 Allwinner dolphin-fvd-p1
