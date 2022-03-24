@@ -1988,6 +1988,8 @@ Amazon mantis
 +5 psc
 Amazon mantis
 11f2dab10fc9daf6
+Amazon tank
+6a881649ed0b55e0
 
 mv_mf_
 Xiaomi oneday
@@ -9752,6 +9754,9 @@ dolphin dolphin_fvd_p1
 87093dea7406a3e7
 dolphin dolphin_fvd_p1
 398de11cb3e3fdd2
++9
+dolphin dolphin_fvd_p1
+3b8b96bc475855ec
 
 chavezqu
 HUAWEI HWMAR
@@ -11608,6 +11613,8 @@ Rockchip rk3328_box
 528dda8e435f4eba
 MTK cvt_mt5863_sa
 47f7593b3f4dd2ff
+rockchip rk322x_box
+4099c90d30db74a7
 
 villalba4
 samsung o1s
