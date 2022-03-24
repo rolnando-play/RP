@@ -7288,6 +7288,8 @@ rockchip MDP-711
 8fb7c37d330bfd07
 rockchip rk322x_box
 7dc79f90aacb65c2
+rockchip rk322x_box
+e8d9da71f2967bcb
 
 iptv19 +6 psc
 rockchip rk322x_box
