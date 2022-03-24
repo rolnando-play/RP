@@ -7880,6 +7880,8 @@ dolphin dolphin-fvd-p1
 ef6d6cfaaea8196d
 rockchip rk322x_box
 31557f728825fa84
+Android MBOX
+43f567107626d23a
 
 rocapo
 dolphin dolphin-fvd-p1
