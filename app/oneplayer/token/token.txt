@@ -11583,7 +11583,13 @@ MTK cvt_mt5863_sa
 villalba4
 samsung o1s
 aac6fcbd94d3ca88
+Amlogic p281
+fec10b00d9a8f2a4
 
 cesar_ro +9
 HUAWEI HWMAR
 0814b1301bd1cb39
+
+dt727
+samsung a32
+62fba8ca86e48df8
