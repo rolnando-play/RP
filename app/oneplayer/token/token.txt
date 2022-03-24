@@ -11533,6 +11533,9 @@ amlogic sw01
 fb494a46b0ae32a7
 rockchip rk322x_box
 a566729925dbcf18
++6
+PinguimTv p231
+4b783772637654b7
 
 alfreman
 Allwinner dolphin-fvd-p1
