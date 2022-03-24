@@ -10734,13 +10734,15 @@ Amazon mantis
 Google sabrina
 e694586dffe77cba
 
-mandyco
+mandyco +18
 Amlogic p281
 c047b9d568895971
 Amazon raven 
 1bfdc53021e5ed73
 rockchip rk3328_box
 2afe966097497717
+Amazon mantis
+2770ffc61a66ee57
 
 centrotv
 Allwinner dolphin-fvd-p1
