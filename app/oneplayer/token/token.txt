@@ -9303,7 +9303,7 @@ rockchip rk322x_box
 rockchip rk322x_box
 4ede42007f95d177
 dolphin dolphin_fvd_p1
-8c32059df8bd4fa2
+e2241a4b4c79a4ae
 rockchip rk322x_box
 91c62716da405c
 rockchip rk322x_box
