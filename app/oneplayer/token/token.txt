@@ -8755,6 +8755,8 @@ Xiaomi oneday
 8070377a60b68fa9
 Android MBOX
 2830c1e2b440d217
+SmartTV 10839
+c49efd2c93c1aa0b
 
 danieljo
 Allwinner dolphin-fvd-p1
