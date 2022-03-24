@@ -11598,6 +11598,8 @@ samsung o1s
 aac6fcbd94d3ca88
 Amlogic p281
 fec10b00d9a8f2a4
+MTK cvt_mt5886_sa
+11d4a179dff5f264
 
 cesar_ro +9
 HUAWEI HWMAR
