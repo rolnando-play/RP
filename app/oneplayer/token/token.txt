@@ -6284,6 +6284,9 @@ MTK cvt_mt5886_sa
 2702e5a5dc7e1a39
 dolphin dolphin_fvd_p1
 de71f879af8a4f58
++6
+rockchip rk3328_box
+b3008019d0447217
 
 enriquelr
 Amazon sheldon
