@@ -11608,3 +11608,7 @@ HUAWEI HWMAR
 dt727
 samsung a32
 62fba8ca86e48df8
+
+diegomir
+HUAWEI HWELE
+672ef0d39e037425
