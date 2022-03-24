@@ -11573,3 +11573,7 @@ Xiaomi oneday
 adilsongon
 rockchip rk322x_box
 acf1ccedb8ddef5f
+
+roberca
+Rockchip rk3328_box
+528dda8e435f4eba
