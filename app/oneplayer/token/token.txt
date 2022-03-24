@@ -4166,6 +4166,9 @@ dolphin dolphin_fvd_p1
 d0fc60b53de90bb0
 dolphin dolphin_fvd_p1
 160a9d7e3cffd09d
++6 psc
+dolphin dolphin_fvd_p1
+af2e9f88e65ff6b5
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -8748,6 +8751,8 @@ rockchip rk322x_box
 2d9c1a7fae842503
 Xiaomi oneday
 8070377a60b68fa9
+Android MBOX
+2830c1e2b440d217
 
 danieljo
 Allwinner dolphin-fvd-p1
