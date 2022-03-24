@@ -10709,6 +10709,8 @@ Amlogic p281
 c047b9d568895971
 Amazon raven 
 1bfdc53021e5ed73
+rockchip rk3328_box
+2afe966097497717
 
 centrotv
 Allwinner dolphin-fvd-p1
