@@ -6063,6 +6063,8 @@ rockchip rk322x_box
 +18
 MBOX dolphin-p1
 73077c0f86a7d77c
+rockchiprk322x_box
+8dc29ff631f53cda
 
 gonzalezju +6
 HUAWEI HWYAL
