@@ -11725,3 +11725,9 @@ de7c0e81c74791a1
 julioiba
 samsung a52q
 a829031b13e195ea
+rockchip rk322x_box
+8bd6f09be042ec45
+
+grao9
+OnePlus OnePlus7T
+dfaabdd49eb95309
