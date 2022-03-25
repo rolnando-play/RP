@@ -11018,6 +11018,8 @@ c73e32e26c7e5977
 berny46 +6 usdt
 dolphin dolphin_fvd_p1
 55853fbec160a274
+amlogic sw01
+501bd4e70d38cd10
 
 matiasva
 samsung r8q
