@@ -2994,6 +2994,8 @@ Xiaomi oneday
 da0e200cdba6241d
 BTV p212
 48286b9f9351bc31
+Xiaomi machuca
+9c203409c25fe7f3
 
 diegoafra
 HUAWEI HWEML
