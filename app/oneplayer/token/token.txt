@@ -11664,3 +11664,7 @@ rockchip rk322x_box
 cei.gue +5 psc
 Xiaomi begonia
 28c61efd37a9f720
+
+veintunoc
+Rockchip rk3328_box
+0760ec09959554cd
