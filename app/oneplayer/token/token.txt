@@ -11705,3 +11705,9 @@ HUAWEI HWMAR
 aa7b73174f968754
 dolphin dolphin_fvd_p1
 6ae23d61ec4eb121
+
+gmarmo
+Xiaomi lavender
+938ab7484cb28265
+Amazon sheldonp
+2aafdc6274e7a944
