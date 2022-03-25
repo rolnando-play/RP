@@ -1948,6 +1948,9 @@ dolphin dolphin-fvd-p1
 4a101b83f962bdb1
 Amazon sheldon
 8881526ee4dec57c
+rockchip MK
+5ffcfc124ee34abe
++6
 
 ricar.fu
 HUAWEI HWMAR
