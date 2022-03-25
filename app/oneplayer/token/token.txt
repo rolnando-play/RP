@@ -9224,6 +9224,8 @@ motorola guam
 b420627a9c1c23d4
 samsung a30s
 c70dfdb3c75b7aaf
+LGE mmh4p-pr
+6d1e5ad2c3b0f24b
 
 gonzaloez
 Xiaomi surya
