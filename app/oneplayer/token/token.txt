@@ -6338,6 +6338,8 @@ rockchip rk322x_box
 876f3ec4193402ca
 rockchip rk322x_box
 df4bb65ebe34b263
+Gecen Tiger foreverg
+679d6196ccb885d7
 
 enriquelr
 Amazon sheldon
@@ -11719,3 +11721,7 @@ Amazon sheldonp
 tico_
 Amazon mantis
 de7c0e81c74791a1
+
+julioiba
+samsung a52q
+a829031b13e195ea
