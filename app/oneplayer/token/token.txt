@@ -6315,6 +6315,8 @@ rockchip rk3328_box
 b3008019d0447217
 rockchip rk322x_box
 cbe6c6c27ad45df6
+rockchip rk322x_box
+1ce29945d1fdea04
 
 enriquelr
 Amazon sheldon
