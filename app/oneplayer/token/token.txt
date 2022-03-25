@@ -2992,9 +2992,9 @@ BTV p212
 53680f7115c0be63
 rockchip rk322x_box
 41803a8d175c0524
-+9
 Xiaomi oneday
 b588942c9f4f5817
++9
 Xiaomi oneday
 5f9b0d25a83ecbca
 Xiaomi oneday
@@ -3011,6 +3011,8 @@ BTV p212
 48286b9f9351bc31
 Xiaomi machuca
 9c203409c25fe7f3
+BTV franklin
+9ef1f9af262b8a28
 
 diegoafra
 HUAWEI HWEML
