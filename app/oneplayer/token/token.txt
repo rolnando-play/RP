@@ -839,6 +839,8 @@ Allwinner dolphin-fvd-p1
 6c7359ba92dfd258
 rockchip rk322x_box
 93c7ffdcb5edf7db
+rockchip rk322x_box
+d2df0e62c3229535
 
 wordbo
 SM-G925I
@@ -11673,3 +11675,7 @@ Xiaomi begonia
 veintunoc
 Rockchip rk3328_box
 0760ec09959554cd
+
+corime
+Amazon mantis
+ddea6db04e338c5
