@@ -7615,6 +7615,8 @@ dolphin dolphin_fvd_p1
 3b328593392dd431
 askey sti6140d360
 57024767e4b5701d
+dolphin dolphin-fvd-p1
+24156e7984e3f4f0
 
 rr.23
 MTK cvt_mt5863_sa
@@ -11711,3 +11713,7 @@ Xiaomi lavender
 938ab7484cb28265
 Amazon sheldonp
 2aafdc6274e7a944
+
+tico_
+Amazon mantis
+de7c0e81c74791a1
