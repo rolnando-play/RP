@@ -11693,3 +11693,7 @@ Rockchip rk3328_box
 corime
 Amazon mantis
 ddea6db04e338c5
+
+jrodrig
+HUAWEI HWMAR
+aa7b73174f968754
