@@ -1961,6 +1961,8 @@ rockchip MK
 33a3b3d46f06cb3
 rockchip MK
 be37453861165554
+rockchip rk322x_box
+b79d334882ef91f3
 
 ricar.fu
 HUAWEI HWMAR
