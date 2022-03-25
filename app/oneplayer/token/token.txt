@@ -11637,3 +11637,9 @@ samsung a32
 diegomir
 HUAWEI HWELE
 672ef0d39e037425
+
+agustinju
+samsung a50
+bf600f8abe38f9df
+rockchip rk322x_box
+74885f5d1a9c30df
