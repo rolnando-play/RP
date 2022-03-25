@@ -11658,3 +11658,7 @@ samsung a50
 bf600f8abe38f9df
 rockchip rk322x_box
 74885f5d1a9c30df
+
+cei.gue +5 psc
+Xiaomi begonia
+28c61efd37a9f720
