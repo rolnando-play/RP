@@ -1566,6 +1566,8 @@ rockchip rk322x_box
 1181b18062b52a2d
 Allwinner dolphin-fvd-p1
 d98c3156c722daf2
+dolphin dolphin-fvd-p1
+6343f1ffda3fbac4
 
 ruthgis
 S905W
