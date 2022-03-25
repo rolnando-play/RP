@@ -7916,6 +7916,8 @@ rockchip rk322x_box
 31557f728825fa84
 Android MBOX
 43f567107626d23a
+Xiaomi aquaman
+3c36820f41d0e6df
 
 rocapo
 dolphin dolphin-fvd-p1
