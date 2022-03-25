@@ -6313,6 +6313,8 @@ de71f879af8a4f58
 +6
 rockchip rk3328_box
 b3008019d0447217
+rockchip rk322x_box
+cbe6c6c27ad45df6
 
 enriquelr
 Amazon sheldon
@@ -9654,12 +9656,11 @@ Amazon tank
 a3ee4cbd92651b5d
 
 jgabriel.
-HUAWEI HWJNY
-72dc7d8406dfa77f
-rockchip rk322x_box
-8c0130b8ad03febd
 HUAWEI HWEML
 7feb5e9a57c7bebb
+rockchip rk322x_box
+8c0130b8ad03febd
+
 
 david.an
 Xiaomi aquaman
