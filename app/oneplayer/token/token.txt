@@ -4173,6 +4173,8 @@ dolphin dolphin_fvd_p1
 +6 psc
 dolphin dolphin_fvd_p1
 af2e9f88e65ff6b5
+amlogic M8SPLUS
+9b3f0a675f6bea08
 
 aylenmon
 OnePlus OnePlus8TMO
