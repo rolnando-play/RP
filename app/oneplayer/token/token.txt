@@ -11695,6 +11695,8 @@ samsung z3q
 16aa5e70287633c1
 Amazon mantis
 788dabdb6244e973
+Amazon mantis
+6a487c27a6fd893
 
 celso8
 Xiaomi oneday
@@ -11803,3 +11805,7 @@ a9bd9eabe575def3
 ricardoro
 samsung beyond1
 e1352711f1518a85
+
+ger_go
+Allwinner dolphin-fvd-p1
+2b5990bfabb48fa9
