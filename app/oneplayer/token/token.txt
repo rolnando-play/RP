@@ -6354,6 +6354,8 @@ FTROU eros-p1
 61edd58cc794a09f
 rockchip rk322x_box
 2c759c7258e65cef
+AB PRIME_4K
+ff99e7ac1c057689
 
 enriquelr
 Amazon sheldon
