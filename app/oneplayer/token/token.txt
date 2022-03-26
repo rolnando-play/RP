@@ -6345,6 +6345,8 @@ Gecen Tiger foreverg
 962b257f25af17e2
 Gecen Tiger foreverg
 18b196e5183195a7
+FTROU eros-p1
+61edd58cc794a09f
 
 enriquelr
 Amazon sheldon
@@ -11752,6 +11754,8 @@ rockchip rk322x_box
 grao9
 OnePlus OnePlus7T
 dfaabdd49eb95309
+Xiaomi oneday
+03d40b165e223027
 
 gcgab +6
 Xiaomi surya
