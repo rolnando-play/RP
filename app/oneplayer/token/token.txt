@@ -841,6 +841,11 @@ rockchip rk322x_box
 93c7ffdcb5edf7db
 rockchip rk322x_box
 d2df0e62c3229535
++10 psc
+rockchip rk322x_box
+d2d11f9e64c6875
+Android MBOX
+a1a15db5795bcb5b
 
 wordbo
 SM-G925I
