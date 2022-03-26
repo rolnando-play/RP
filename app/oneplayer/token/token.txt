@@ -8811,6 +8811,8 @@ samsung a52q
 98f2b87a9a319f32
 samsung y2s
 67e2e58178ab6512
+samsung on7xelte
+5cd7887ff4c9d3ac
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11712,6 +11714,8 @@ Xiaomi begonia
 28c61efd37a9f720
 Xiaomi oneday
 407f42475e560c65
+Xiaomi aquaman
+e4c0363c6fbd0768
 
 veintunoc
 Rockchip rk3328_box
@@ -11748,3 +11752,9 @@ rockchip rk322x_box
 grao9
 OnePlus OnePlus7T
 dfaabdd49eb95309
+
+gcgab +6
+Xiaomi surya
+4e44d87e2479fd95
+Amazon sheldonp
+527df88fac0fd8a3
