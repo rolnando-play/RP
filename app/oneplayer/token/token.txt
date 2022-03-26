@@ -11774,3 +11774,7 @@ Amazon sheldonp
 seguridadelec +18
 Google titan-p1
 a9bd9eabe575def3
+
+ricardoro
+samsung beyond1
+e1352711f1518a85
