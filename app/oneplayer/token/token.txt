@@ -6356,6 +6356,8 @@ rockchip rk322x_box
 2c759c7258e65cef
 AB PRIME_4K
 ff99e7ac1c057689
+Xiaomi oneday
+2a4a89c5ccd37067
 
 enriquelr
 Amazon sheldon
