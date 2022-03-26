@@ -6894,6 +6894,9 @@ rockchip rk322x_box
 9b26bb097a43df68
 rockchip rk322x_box
 329a295755f1c89f
++
+dolphin dolphin-fvd-p1
+b3b9a9d38ea31689
 
 jjuan
 Xiaomi aquaman
@@ -11549,6 +11552,8 @@ b2b3c0c4a93dce43
 chrissp
 HUAWEI HWSTK-HF
 3ce4abbab9be1ee8
+TCL UnionTV
+67e7512010874594
 
 carlos.cor
 TCL BeyondTV
