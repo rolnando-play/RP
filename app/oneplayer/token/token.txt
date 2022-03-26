@@ -9708,7 +9708,8 @@ HUAWEI HWEML
 7feb5e9a57c7bebb
 rockchip rk322x_box
 8c0130b8ad03febd
-
+rockchip rk322_box
+7c75c8a7504f5db6
 
 david.an
 Xiaomi aquaman
