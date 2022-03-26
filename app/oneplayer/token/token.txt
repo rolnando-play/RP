@@ -5002,6 +5002,8 @@ Xiaomi joyeuse
 d3nis
 rockchip rk322x_box
 34e65af630999e48
+Xiaomi vayu
+dab7b27dbe6a6430
 
 sanchez9
 Allwinner dolphin-fvd-p1
