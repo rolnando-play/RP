@@ -1251,6 +1251,8 @@ Xiaomi amber
 bebdd03cf5a6014f
 rockchip rk322x_box
 c67cf49790a903cc
+Amlogic p212
+a16671df37059404
 
 renatobe
 tv box
