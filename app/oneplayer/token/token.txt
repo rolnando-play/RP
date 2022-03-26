@@ -8826,6 +8826,8 @@ samsung y2s
 67e2e58178ab6512
 samsung on7xelte
 5cd7887ff4c9d3ac
+dolphin dolphin-fvd-p1
+8af3d3347089718d
 
 danieljo
 Allwinner dolphin-fvd-p1
