@@ -4755,6 +4755,9 @@ Amazon mantis
 692af26c96c7be31
 Amazon duckie
 38571b5a4b8965be
++12
+Amazon mantis
+917ec19e381bc960
 
 multivent
 Android MDTV5G
@@ -11638,6 +11641,8 @@ PinguimTv p231
 4b783772637654b7
 rockchip rk322x_box
 c14e5c9cb215ccd4
+Allwinner dolphin-fvd-p1
+1a06f3b5dee5a9aa
 
 alfreman
 Allwinner dolphin-fvd-p1
