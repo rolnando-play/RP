@@ -7624,6 +7624,8 @@ askey sti6140d360
 57024767e4b5701d
 dolphin dolphin-fvd-p1
 24156e7984e3f4f0
+Android MBOX
+659d7b40a151be00
 
 rr.23
 MTK cvt_mt5863_sa
@@ -8807,6 +8809,8 @@ SmartTV 10839
 c49efd2c93c1aa0b
 samsung a52q
 98f2b87a9a319f32
+samsung y2s
+67e2e58178ab6512
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11706,6 +11710,8 @@ rockchip rk322x_box
 cei.gue +5 psc
 Xiaomi begonia
 28c61efd37a9f720
+Xiaomi oneday
+407f42475e560c65
 
 veintunoc
 Rockchip rk3328_box
