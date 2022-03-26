@@ -11731,6 +11731,8 @@ HUAWEI HWELE
 672ef0d39e037425
 rockchip rk322x_box
 e2a7d1696b57bb0d
+rockchip rk322x_box
+e4f267596d967267
 
 agustinju
 samsung a50
