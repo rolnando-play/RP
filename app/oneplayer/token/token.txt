@@ -356,6 +356,8 @@ bab2e44f544f209c
 +3
 rockchip rk322x_box
 dfcb410c765ee97d
+Google walleye
+9d70a4957c72c4c4
 
 AQuinonez
 S905W
