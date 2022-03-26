@@ -6340,6 +6340,11 @@ rockchip rk322x_box
 df4bb65ebe34b263
 Gecen Tiger foreverg
 679d6196ccb885d7
++9
+Gecen Tiger foreverg
+962b257f25af17e2
+Gecen Tiger foreverg
+18b196e5183195a7
 
 enriquelr
 Amazon sheldon
@@ -8800,6 +8805,8 @@ Android MBOX
 2830c1e2b440d217
 SmartTV 10839
 c49efd2c93c1aa0b
+samsung a52q
+98f2b87a9a319f32
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11607,6 +11614,8 @@ a566729925dbcf18
 +6
 PinguimTv p231
 4b783772637654b7
+rockchip rk322x_box
+c14e5c9cb215ccd4
 
 alfreman
 Allwinner dolphin-fvd-p1
@@ -11685,6 +11694,8 @@ samsung a32
 diegomir
 HUAWEI HWELE
 672ef0d39e037425
+rockchip rk322x_box
+e2a7d1696b57bb0d
 
 agustinju
 samsung a50
