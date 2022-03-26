@@ -4758,6 +4758,8 @@ Amazon duckie
 +12
 Amazon mantis
 917ec19e381bc960
+Amazon needle
+cc898e80b82f7aa0
 
 multivent
 Android MDTV5G
@@ -7366,6 +7368,10 @@ rockchip rk322x_box
 e8d9da71f2967bcb
 rockchip rk3328_box
 1f55121c590cd948
+Android MDTV5G
+85bf6afc3b6c1e13
+rockchip rk322x_box
+20f9e552db838402
 
 iptv19 +6 psc
 rockchip rk322x_box
