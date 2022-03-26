@@ -4760,6 +4760,8 @@ Amazon mantis
 917ec19e381bc960
 Amazon needle
 cc898e80b82f7aa0
+Amazon mantis
+b1d6e0d58070d632
 
 multivent
 Android MDTV5G
