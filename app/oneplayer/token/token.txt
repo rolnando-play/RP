@@ -11236,6 +11236,8 @@ Amazon sheldon
 fa0b5bcbd390f5ab
 samsung aosp
 28000f4c0ef515f5
+samsung aosp
+28000f4c0ef515f5
 
 josetrini
 Xiaomi machuca
