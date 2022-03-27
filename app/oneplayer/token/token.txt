@@ -8853,6 +8853,8 @@ samsung on7xelte
 5cd7887ff4c9d3ac
 dolphin dolphin-fvd-p1
 8af3d3347089718d
+rockchip rk322x_box
+6772c05bf73c71d1
 
 danieljo
 Allwinner dolphin-fvd-p1
