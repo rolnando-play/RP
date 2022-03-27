@@ -2327,10 +2327,8 @@ rockchip rk322x_box
 ab9485cb1869f636
 
 arthurb
-motorola nicklaus_f
-57750e433b6018ff
 Allwinner H6
-74482bb7906d6719
+ec2a308557d8f356
 motorola nicklaus_f
 80e13cbfe5121d43
 
@@ -11673,6 +11671,8 @@ rockchip rk322x_box
 c14e5c9cb215ccd4
 Allwinner dolphin-fvd-p1
 1a06f3b5dee5a9aa
+amlogic sw01
+7742dec7bbe441d2
 
 alfreman
 Allwinner dolphin-fvd-p1
