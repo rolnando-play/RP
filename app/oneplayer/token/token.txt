@@ -6481,8 +6481,8 @@ rockchip rk322x_box
 f580e93a18c1ec36
 Allwinner dolphin-fvd-p1
 5207917de22cf386
-rockchip rk322x_box
-72e249812580d94
+dolphin dolphin_fvd_p1
+8446d4152746e26b
 
 rodrine
 Xiaomi oneday
