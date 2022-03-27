@@ -8855,6 +8855,8 @@ dolphin dolphin-fvd-p1
 8af3d3347089718d
 rockchip rk322x_box
 6772c05bf73c71d1
+rockchip rk3328_box
+993f003f7cfed404
 
 danieljo
 Allwinner dolphin-fvd-p1
