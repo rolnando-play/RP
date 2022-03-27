@@ -11843,3 +11843,5 @@ rockchip rk322x_box
 jbonill +6
 samsung d2s
 50f5f19416364ace
+MTK cvt_mt5886_sa
+b820e94274c783c3
