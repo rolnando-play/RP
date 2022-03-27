@@ -3685,6 +3685,8 @@ rockchip MK
 27638f806c448a19
 rockchip MK
 eef2d75bdcd7a647
+Xiaomi machuca
+a6bc0d9f2a19ae89
 
 oma19 +9
 samsung c2s
