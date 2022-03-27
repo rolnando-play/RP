@@ -2354,7 +2354,7 @@ dolphin dolphin_fvd_p1
 Allwinner T98
 a49c90fe769c9f60
 rockchip rk322x_box
-e0dfdba915b80160
+d6948085c6012848
 
 edgarnu
 Xiaomi ginkgo
