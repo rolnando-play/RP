@@ -11234,6 +11234,8 @@ rockchip rk3328_box
 3d73cd2a9a58492b
 Amazon sheldon
 fa0b5bcbd390f5ab
+samsung aosp
+28000f4c0ef515f5
 
 josetrini
 Xiaomi machuca
@@ -11851,3 +11853,7 @@ samsung d2s
 50f5f19416364ace
 MTK cvt_mt5886_sa
 b820e94274c783c3
+Amlogic p281
+8fba5565b6c78725
+samsung dreamlte
+cbf7e56c43eef69c
