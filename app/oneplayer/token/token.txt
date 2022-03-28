@@ -8862,6 +8862,8 @@ rockchip rk322x_box
 6772c05bf73c71d1
 rockchip rk3328_box
 993f003f7cfed404
+Amazon mantis
+9c566bd4e1ff8d44
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11876,3 +11878,7 @@ MBOX dolphin-p1
 19f1319711c2166b
 MBOX dolphin-p1
 ef460f54eb7e5629
+
+guido.be
+samsung dream2lte
+bcefe76c277f7712
