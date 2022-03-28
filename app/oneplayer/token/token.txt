@@ -9134,6 +9134,10 @@ rockchip rk322x_box
 39aa08c02d4b1530
 rockchip rk322x_box
 f10ed58b16025543
+rockchip rk322x_box
+29ded5fb759242ff
+Android MBOX
+9a7944bede1d7ae3
 
 gergod +6
 Amlogic franklin
