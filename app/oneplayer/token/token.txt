@@ -1104,6 +1104,8 @@ rockchip rk322x_box
 +6
 dolphin dolphin-fvd-p1
 f5f7a6051a1bee99
+MBOX dolphin-p1
+54197d0b883fa508
 
 rtomas
 d60a22d61c15d036
@@ -7999,6 +8001,8 @@ Android MBOX
 43f567107626d23a
 Xiaomi aquaman
 3c36820f41d0e6df
+MTK cvt_mt5886_sa
+79a5c2046552686e
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -11890,3 +11894,7 @@ Xiaomi aquaman
 guido.be
 samsung dream2lte
 bcefe76c277f7712
+
+benitezjor
+samsung hero2lte
+ae22a45513022658
