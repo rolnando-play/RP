@@ -6383,6 +6383,8 @@ AB PRIME_4K
 ff99e7ac1c057689
 Xiaomi oneday
 2a4a89c5ccd37067
+rockchip rk322x_box
+83c80ec2ceedbf44
 
 enriquelr
 Amazon sheldon
