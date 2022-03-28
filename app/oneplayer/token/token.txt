@@ -11243,10 +11243,8 @@ rockchip rk3328_box
 3d73cd2a9a58492b
 Amazon sheldon
 fa0b5bcbd390f5ab
-samsung aosp
-28000f4c0ef515f5
-samsung aosp
-28000f4c0ef515f5
+OnePlus OnePlus5
+20ff346cca210531
 
 josetrini
 Xiaomi machuca
@@ -11872,3 +11870,8 @@ Amlogic p281
 8fba5565b6c78725
 samsung dreamlte
 cbf7e56c43eef69c
+
+tvboxp +5 psc
+MBOX dolphin-p1
+19f1319711c2166b
+
