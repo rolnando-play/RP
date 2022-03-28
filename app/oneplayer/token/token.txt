@@ -4160,8 +4160,8 @@ dolphin dolphin_fvd_p1
 5a0b03ff93abac34
 samsung star2qltechn
 4c9f1cfbb8cdafd5
-samsung a30s
-b12d1cc4a102ad8a
+samsung r8q
+149db19de41185dd
 +6 psc
 dolphin dolphin_fvd_p1
 90fe4bf51e3a4a91
