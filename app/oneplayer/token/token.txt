@@ -4206,6 +4206,8 @@ dolphin dolphin_fvd_p1
 af2e9f88e65ff6b5
 amlogic M8SPLUS
 9b3f0a675f6bea08
+rockchip rk322x_box
+fd000e2f28b3c797
 
 aylenmon
 OnePlus OnePlus8TMO
