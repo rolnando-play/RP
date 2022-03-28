@@ -5385,6 +5385,9 @@ rockchip rk322x_box
 7de6ddea4b6577e4
 rockchip rk322x_box
 6be77e7043307fb0
++6
+rockchip rk322x_box
+9c5360d1e9f6f659
 
 its.cm
 Amlogic p282
