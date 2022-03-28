@@ -6907,9 +6907,11 @@ rockchip rk322x_box
 9b26bb097a43df68
 rockchip rk322x_box
 329a295755f1c89f
-+
++12
 dolphin dolphin-fvd-p1
 b3b9a9d38ea31689
+Google sabrina
+2349c0cb5485535a
 
 jjuan
 Xiaomi aquaman
@@ -10912,7 +10914,7 @@ ba599ad6cbc4a9e0
 Google sabrina
 37612b2b76859fef
 Samsung manta
-50299102eb234693
+98dab42754ab44ab
 
 silvio_7
 rockchip rk3188
