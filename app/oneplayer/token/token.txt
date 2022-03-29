@@ -11405,6 +11405,8 @@ Samsung a 12s
 4db2bbc26b02440a
 samsung y2s
 a47375cad8a2396f
+samsung a31
+f1bd86c5fa99f1f1
 
 funcion20 +6 psc
 Android MDTV5G
