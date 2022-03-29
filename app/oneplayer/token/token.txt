@@ -6385,6 +6385,10 @@ Xiaomi oneday
 2a4a89c5ccd37067
 rockchip rk322x_box
 83c80ec2ceedbf44
+Xiaomi aquaman
+2065009fe66bfcfd
+Xiaomi aquaman
+fac8265970fd38d6
 
 enriquelr
 Amazon sheldon
