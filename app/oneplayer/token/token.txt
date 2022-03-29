@@ -11968,3 +11968,5 @@ rockchip rk322x_box
 ndgc19
 samsung starqltechn
 b3386fb07ee10804
+rockchip rk3328_box
+e46966ca476e5822
