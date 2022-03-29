@@ -8896,6 +8896,8 @@ Amazon mantis
 9c566bd4e1ff8d44
 Google walleye
 b1d0baf19acb0aef
+rockchip rk322x_box
+c56da95bd23fd8a9
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11866,6 +11868,8 @@ samsung a52q
 a829031b13e195ea
 rockchip rk322x_box
 8bd6f09be042ec45
+MBX m201_512m
+523655c008bf3699
 
 grao9
 OnePlus OnePlus7T
