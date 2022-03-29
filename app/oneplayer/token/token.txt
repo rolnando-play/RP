@@ -11789,6 +11789,8 @@ MTK cvt_mt5886_sa
 cesar_ro +9
 HUAWEI HWMAR
 0814b1301bd1cb39
+Allwinner dolphin-fvd-p1
+e15605b63574884f
 
 dt727
 samsung a32
@@ -11911,3 +11913,9 @@ ae22a45513022658
 mjuan27
 Xiaomi sunny
 c32712142863362f
+
+joelbat +5 psc
+HUAWEI HWANE
+e6379e9e68c4f7ea
+Google sabrina
+3a8d25dae115aecf
