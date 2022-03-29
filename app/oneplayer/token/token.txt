@@ -8113,6 +8113,8 @@ rockchip rk322x_box
 708c52d1ed398049
 Allwinner petrel-p1
 a672b280155a3c74
+rockchip rk322x_box
+9ca07a8e19a835ad
 
 pjc0910 +9
 rockchip rk322x_box
