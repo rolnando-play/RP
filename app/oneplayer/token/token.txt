@@ -1584,6 +1584,8 @@ dolphin dolphin-fvd-p1
 +10
 rockchip rk322x_box
 7860e5385b41aba
+rockchip rk322x_box
+1d96e8b85d61171
 
 ruthgis
 S905W
@@ -6118,6 +6120,8 @@ rockchiprk322x_box
 8dc29ff631f53cda
 rockchip rk322x_box
 bd0b1dffb9b23c23
+Android MBOX
+b9c7aa5062cf39a8
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10121,6 +10125,8 @@ dolphin SBQ-SM007
 +3
 rockchip rk322x_box
 5afea713045a67dd
+dolphin SBQ-SM007
+cd407ef5f92ccb8d
 
 mpalac
 Xiaomi ginkgo
