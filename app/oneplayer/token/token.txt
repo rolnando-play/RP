@@ -8144,6 +8144,8 @@ Allwinner dolphin-fvd-p1
 eb0c23f43a2ba550
 Xiaomi aquaman
 5bc03c19aa010ab0
+rockchip rk322x_box
+1d7c8ff3f4fd161d
 
 nucny
 Xiaomi aquaman
