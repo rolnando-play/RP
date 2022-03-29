@@ -10321,6 +10321,8 @@ Xiaomi angelica
 0db3a44df7bbdbd2
 rockchip rk322x_box
 2a916f3b287dd249
+rockchip rk322x_box
+3a1f0b2c2d701f68
 
 arevalosve
 Amazon sheldonp
