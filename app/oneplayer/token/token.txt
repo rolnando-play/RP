@@ -7417,6 +7417,8 @@ rockchip rk322x_box
 248d267bbaa9ccef
 MTK cvt_mt5863_sa
 df091c854a7b1ccd
+Android MDTV5G
+b884e89ad17f50ba
 
 iptv19 +6 psc
 rockchip rk322x_box
