@@ -7415,6 +7415,8 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 248d267bbaa9ccef
+MTK cvt_mt5863_sa
+df091c854a7b1ccd
 
 iptv19 +6 psc
 rockchip rk322x_box
