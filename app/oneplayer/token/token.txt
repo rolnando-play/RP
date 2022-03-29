@@ -8902,6 +8902,8 @@ Google walleye
 b1d0baf19acb0aef
 rockchip rk322x_box
 c56da95bd23fd8a9
+rockchip rk322x_box
+2dede85361f47a6c
 
 danieljo
 Allwinner dolphin-fvd-p1
