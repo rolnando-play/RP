@@ -9162,6 +9162,8 @@ rockchip rk322x_box
 29ded5fb759242ff
 Android MBOX
 9a7944bede1d7ae3
+Xiaomi pine
+dc5b0f5df088b686
 
 gergod +6
 Amlogic franklin
