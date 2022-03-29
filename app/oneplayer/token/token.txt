@@ -8008,6 +8008,8 @@ Xiaomi aquaman
 3c36820f41d0e6df
 MTK cvt_mt5886_sa
 79a5c2046552686e
+rockchip rk322x_box
+2cf6511a7a752483
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -11905,3 +11907,7 @@ bcefe76c277f7712
 benitezjor
 samsung hero2lte
 ae22a45513022658
+
+mjuan27
+Xiaomi sunny
+c32712142863362f
