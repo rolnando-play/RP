@@ -540,6 +540,8 @@ Xiaomi oneday
 1cd52434d277f9c6
 Xiaomi aquaman
 faf18b74f6d33e1a
+Amazon sheldonp
+56ebf47a12fc0ea8
 
 adolfo3
 rockchip rk322x_box
@@ -7492,6 +7494,9 @@ rockchip rk322x_box
 84f7e02848f9ba61
 Google titan-p1
 842cddade6662dd5
++6 psc
+rockchip rk322x_box
+793fe1d265d1656d
 
 j88be
 Google walleye
