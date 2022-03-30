@@ -6414,6 +6414,8 @@ samsung beyond2
 de65d54305559fa3
 Android MX9PRO
 bdf6d3c9ab4d710a
+samsung jackpotlte
+e54f084ddda80723
 
 enriquelr
 Amazon sheldon
@@ -11967,6 +11969,8 @@ MBOX dolphin-p1
 ef460f54eb7e5629
 Xiaomi aquaman
 87578a088b652f93
+Android MDTV5G
+bfda584e1c774303
 
 guido.be
 samsung dream2lte
