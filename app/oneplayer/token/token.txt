@@ -10236,6 +10236,8 @@ rockchip rk322x_box
 a085a74eb3643314
 Xiaomi oneday
 821236fc03e0d792
+Xiaomi aquaman
+38388d7f41181f0d
 
 hheimb
 samsung a50
