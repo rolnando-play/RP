@@ -7433,6 +7433,8 @@ MTK cvt_mt5863_sa
 df091c854a7b1ccd
 Android MDTV5G
 b884e89ad17f50ba
+rockchip rk322x_box
+6a572293808b6c17
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11439,6 +11441,8 @@ samsung y2s
 a47375cad8a2396f
 samsung a31
 f1bd86c5fa99f1f1
+HUAWEI HWJKM-H
+de8bdf7b4e537558
 
 funcion20 +6 psc
 Android MDTV5G
