@@ -6124,6 +6124,10 @@ rockchip rk322x_box
 bd0b1dffb9b23c23
 Android MBOX
 b9c7aa5062cf39a8
+rockchip rk322x_box
+95967425f11b86cf
+rockchip rk322x_box
+be2dcbf06344c132
 
 gonzalezju +6
 HUAWEI HWYAL
