@@ -7699,6 +7699,8 @@ dolphin dolphin-fvd-p1
 24156e7984e3f4f0
 Android MBOX
 659d7b40a151be00
+askey sti6140d360
+c30e6197d40df7bd
 
 rr.23
 MTK cvt_mt5863_sa
@@ -11946,6 +11948,8 @@ bcefe76c277f7712
 benitezjor
 samsung hero2lte
 ae22a45513022658
+MBOX dolphin-p1
+29048a68b249eb7d
 
 mjuan27
 Xiaomi sunny
