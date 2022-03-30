@@ -11996,6 +11996,8 @@ d35d3a0d457830b1
 walter_si
 rockchip rk322x_box
 56d2aa950a578529
+Amazon sheldon
+8658ad3d66b714eb
 
 ndgc19
 samsung starqltechn
