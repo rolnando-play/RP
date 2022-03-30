@@ -6130,6 +6130,8 @@ rockchip rk322x_box
 be2dcbf06344c132
 rockchip rk322x_box
 83a51032cecfe3f0
+rockchip rk322x_box
+5e18be76ff1cde35
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10210,6 +10212,8 @@ Xiaomi aquaman
 8cb8cd49b3a237d8
 rockchip rk322x_box
 a085a74eb3643314
+Xiaomi oneday
+821236fc03e0d792
 
 hheimb
 samsung a50
