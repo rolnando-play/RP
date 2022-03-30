@@ -7446,6 +7446,8 @@ Android MDTV5G
 b884e89ad17f50ba
 rockchip rk322x_box
 6a572293808b6c17
+M043 SMARTPHONE
+9aa1ee8b1f9c0812
 
 iptv19 +6 psc
 rockchip rk322x_box
