@@ -6408,6 +6408,8 @@ Xiaomi aquaman
 4c715e8403acad91
 Android MX9PRO
 1c61ab55986c4f25
+samsung beyond2
+de65d54305559fa3
 
 enriquelr
 Amazon sheldon
@@ -7713,6 +7715,8 @@ Android MBOX
 659d7b40a151be00
 askey sti6140d360
 c30e6197d40df7bd
+askey sti6140d360
+1ea5bd3f4120802f
 
 rr.23
 MTK cvt_mt5863_sa
@@ -12010,3 +12014,7 @@ samsung starqlteue
 gcamp +5 psc
 samsung m31
 996d921a3ff63123
+
+ezequielfr +6
+Xiaomi vayu
+8c668177952c078c
