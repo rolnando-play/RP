@@ -11994,3 +11994,7 @@ samsung starqltechn
 b3386fb07ee10804
 rockchip rk3328_box
 e46966ca476e5822
+
+allioro_
+samsung a7y18lte
+7c92e7fecdb8784d
