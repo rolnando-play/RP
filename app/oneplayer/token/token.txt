@@ -1586,6 +1586,8 @@ rockchip rk322x_box
 7860e5385b41aba
 rockchip rk322x_box
 1d96e8b85d61171
+rockchip rk322x_box
+e8bd8e8652811ed5
 
 ruthgis
 S905W
