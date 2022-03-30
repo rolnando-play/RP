@@ -10175,7 +10175,7 @@ mpalac
 Xiaomi ginkgo
 f484c49e9b2c38e9
 rockchip rk3328_box
-5b169497d2d69406
+979bbc1d277950e9
 
 sergiomen
 Amazon mantis
@@ -12037,6 +12037,8 @@ e46966ca476e5822
 allioro_
 samsung a7y18lte
 7c92e7fecdb8784d
+Hisilicon Hi3751V350
+5238bdc9fc3673f7
 
 jfmart
 samsung starqlteue
