@@ -1989,6 +1989,8 @@ Amazon sheldon
 32ca17a092ed1a14
 Amazon sheldon
 bb916dccd39b3d3f
+Amazon sheldon
+fb1a72e8c2013b11
 
 ricar.fu
 HUAWEI HWMAR
@@ -12105,10 +12107,12 @@ motorola cebu
 rockchip rk322x_box
 36513368cf20f74c
 
-sevencli
+sevencli +6
 Amlogic p281
 89f80a4b07841dee
 Amlogic p281
 d5bb598ad45fe362
 Amlogic p281
 746975a74de6010d
+Amlogic p281
+5a5080c657215382
