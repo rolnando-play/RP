@@ -12051,3 +12051,11 @@ samsung m31
 ezequielfr +6
 Xiaomi vayu
 8c668177952c078c
+rockchip rk322x_box
+faaa20cc8aedd817
+
+aldoale
+Xiaomi aquaman
+3efe9090f91d8035
+samsung a10
+517fcf00b4dedc30
