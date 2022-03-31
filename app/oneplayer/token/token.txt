@@ -11979,6 +11979,8 @@ Amlogic p281
 8fba5565b6c78725
 samsung dreamlte
 cbf7e56c43eef69c
+Amlogic p281
+d5cd90a07f7382f6
 
 tvboxp +5 psc
 MBOX dolphin-p1
