@@ -7451,6 +7451,8 @@ rockchip rk322x_box
 6a572293808b6c17
 M043 SMARTPHONE
 9aa1ee8b1f9c0812
+rockchip rk322x_box
+c44e5580a45be945
 
 iptv19 +6 psc
 rockchip rk322x_box
