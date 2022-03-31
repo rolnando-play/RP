@@ -4231,6 +4231,8 @@ rockchip rk322x_box
 fd000e2f28b3c797
 samsung a7y17lte
 27001bdd04710bc3
+dolphin dolphin_fvd_p1
+1888efeee5e3ce22
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -12101,6 +12103,8 @@ samsung starqlteue
 gcamp +5 psc
 samsung m31
 996d921a3ff63123
+Amazon mantis
+15f99cc3bce4573f
 
 ezequielfr +6
 Xiaomi vayu
