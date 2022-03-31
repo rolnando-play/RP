@@ -8254,8 +8254,8 @@ samsung a21s
 933d3ba6bf382015
 rockchip rk322x_box
 62cbf431135f037d
-Amlogic p281
-615fbcf623adfc17
+Xiaomi oneday
+485169451176c327
 
 victor@f
 Amazon mantis
