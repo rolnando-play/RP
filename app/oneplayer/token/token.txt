@@ -1985,6 +1985,8 @@ rockchip rk322x_box
 b79d334882ef91f3
 Amazon sheldon
 32ca17a092ed1a14
+Amazon sheldon
+bb916dccd39b3d3f
 
 ricar.fu
 HUAWEI HWMAR
@@ -11666,6 +11668,8 @@ Xiaomi aquaman
 fec7197e8f505b20
 Xiaomi once
 ca9a17ca4af3f5d1
+Xiaomi machuca
+9861d5d9a7fbb79f
 
 Arturo_Cab
 motorola addison
