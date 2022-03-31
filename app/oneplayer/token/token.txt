@@ -10418,6 +10418,8 @@ rockchip rk322x_box
 2a916f3b287dd249
 rockchip rk322x_box
 3a1f0b2c2d701f68
+rockchip rk322x_box
+99d77ecd1ed2343e
 
 arevalosve
 Amazon sheldonp
