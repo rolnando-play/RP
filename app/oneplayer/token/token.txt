@@ -9231,6 +9231,12 @@ Android MBOX
 9a7944bede1d7ae3
 Xiaomi pine
 dc5b0f5df088b686
+rockchip rk322x_box
+deb046ad2eea99ae
+dolphin dolphin_fvd_p1
+a720aea30f41f310
+rockchip rk322x_box
+43eb069fa47d575f
 
 gergod +6
 Amlogic franklin
