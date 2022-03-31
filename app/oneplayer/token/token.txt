@@ -12088,6 +12088,8 @@ Xiaomi secret
 erango3
 motorola cebu
 7e8921dc69240d0c
+rockchip rk322x_box
+36513368cf20f74c
 
 sevencli
 Amlogic p281
