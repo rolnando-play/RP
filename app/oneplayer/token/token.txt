@@ -1590,6 +1590,8 @@ rockchip rk322x_box
 1d96e8b85d61171
 rockchip rk322x_box
 e8bd8e8652811ed5
+rockchip rk322x_box
+ec659f9fcb0d1a3
 
 ruthgis
 S905W
@@ -12108,3 +12110,5 @@ Amlogic p281
 89f80a4b07841dee
 Amlogic p281
 d5bb598ad45fe362
+Amlogic p281
+746975a74de6010d
