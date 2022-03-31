@@ -12088,3 +12088,7 @@ Xiaomi secret
 erango3
 motorola cebu
 7e8921dc69240d0c
+
+sevencli
+Amlogic p281
+89f80a4b07841dee
