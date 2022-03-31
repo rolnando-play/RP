@@ -1991,6 +1991,7 @@ Amazon sheldon
 bb916dccd39b3d3f
 Amazon sheldon
 fb1a72e8c2013b11
++6
 
 ricar.fu
 HUAWEI HWMAR
@@ -7469,6 +7470,8 @@ M043 SMARTPHONE
 9aa1ee8b1f9c0812
 rockchip rk322x_box
 c44e5580a45be945
+HUILIAN Hi3751V350
+b943893ff316c0ee
 
 iptv19 +6 psc
 rockchip rk322x_box
