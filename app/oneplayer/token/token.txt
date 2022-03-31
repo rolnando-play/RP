@@ -12040,7 +12040,7 @@ MBOX dolphin-p1
 MBOX dolphin-p1
 ef460f54eb7e5629
 Xiaomi aquaman
-87578a088b652f93
+9455767e98945d87
 Android MDTV5G
 bfda584e1c774303
 
@@ -12057,6 +12057,8 @@ MBOX dolphin-p1
 mjuan27
 Xiaomi sunny
 c32712142863362f
+Xiaomi oneday
+99ee666a66a2ce74
 
 joelbat +5 psc
 HUAWEI HWANE
