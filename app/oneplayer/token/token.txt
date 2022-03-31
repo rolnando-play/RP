@@ -4216,6 +4216,8 @@ amlogic M8SPLUS
 9b3f0a675f6bea08
 rockchip rk322x_box
 fd000e2f28b3c797
+samsung a7y17lte
+27001bdd04710bc3
 
 aylenmon
 OnePlus OnePlus8TMO
