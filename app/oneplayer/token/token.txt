@@ -1992,6 +1992,8 @@ bb916dccd39b3d3f
 Amazon sheldon
 fb1a72e8c2013b11
 +6
+Amazon sheldon
+680d4a0061a9e784
 
 ricar.fu
 HUAWEI HWMAR
@@ -4580,6 +4582,10 @@ Amlogic p201
 82b0992ca155c9f0
 rockchip rk322x_box
 9ba5bf1715effa07
+Amlogic p201
+97c0b639da589a0
+Amlogic p201
+7bb3cba541d2feba
 
 lisandra
 MTK cvt_mt5863_sa
