@@ -11956,6 +11956,8 @@ Amazon sheldonp
 seguridadelec +18
 Google titan-p1
 a9bd9eabe575def3
+Xiaomi aquaman
+452fef582f2ce6e4
 
 ricardoro
 samsung beyond1
@@ -12060,6 +12062,8 @@ Xiaomi vayu
 8c668177952c078c
 rockchip rk322x_box
 faaa20cc8aedd817
+rockchip rk322x_box
+f2e2f2f3722b02a1
 
 aldoale
 Xiaomi aquaman
