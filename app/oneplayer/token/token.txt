@@ -6145,6 +6145,8 @@ rockchip rk322x_box
 58f4799ab88db468
 rockchip rk322x_box
 e6462c3ef6067348
+rockchip rk322x_box
+122c4a8a265d7899
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -12100,3 +12102,5 @@ rockchip rk322x_box
 sevencli
 Amlogic p281
 89f80a4b07841dee
+Amlogic p281
+d5bb598ad45fe362
