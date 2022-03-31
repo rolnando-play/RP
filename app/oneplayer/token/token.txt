@@ -1983,6 +1983,8 @@ rockchip MK
 be37453861165554
 rockchip rk322x_box
 b79d334882ef91f3
+Amazon sheldon
+32ca17a092ed1a14
 
 ricar.fu
 HUAWEI HWMAR
@@ -6139,6 +6141,10 @@ rockchip rk322x_box
 83a51032cecfe3f0
 rockchip rk322x_box
 5e18be76ff1cde35
+rockchip rk322x_box
+58f4799ab88db468
+rockchip rk322x_box
+e6462c3ef6067348
 
 gonzalezju +6
 HUAWEI HWYAL
