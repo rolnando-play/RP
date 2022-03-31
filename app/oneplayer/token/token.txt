@@ -6448,6 +6448,8 @@ samsung jackpotlte
 e54f084ddda80723
 rockchip rk322x_box
 f937e7200c9e34da
+rockchip rk322x_box
+c10fa1890ac199bd
 
 enriquelr
 Amazon sheldon
