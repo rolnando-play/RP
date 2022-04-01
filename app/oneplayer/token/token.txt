@@ -528,8 +528,6 @@ dolphin dolphin-fvd-p1
 +9
 Xiaomi aquaman
 b615fab84a95012a
-Xiaomi oneday
-51d2c026dad3a57d
 Xiaomi aquaman
 59c327c6a05d8dfd
 Xiaomi aquaman
@@ -6466,6 +6464,8 @@ rockchip rk322x_box
 8b44a43215d04dc
 Xiaomi aquaman
 6edb1f9774dae575
+rockchip rk322x_box
+b0063c7553438c0c
 
 enriquelr
 Amazon sheldon
@@ -10038,6 +10038,8 @@ dolphin dolphin_fvd_p1
 aa86f7e33fb584f6
 dolphin dolphin_fvd_p1
 245226bd38cf389e
+streambus rk322x_box
+73253ab6f91b4ef4
 
 chavezqu
 HUAWEI HWMAR
