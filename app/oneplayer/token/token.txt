@@ -1594,6 +1594,8 @@ rockchip rk322x_box
 ec659f9fcb0d1a3
 rockchip rk322x_box
 7b952b55f226ef1b
+rockchip rk322x_box
+1a5510afd27d1a3e
 
 ruthgis
 S905W
@@ -8991,6 +8993,9 @@ askey stephen
 bc0f7855d7421992
 Amazon tank
 1bc23fec43afa77d
++18
+rockchip rk322x_box
+62dc636203d85ac1
 
 danieljo
 Allwinner dolphin-fvd-p1
