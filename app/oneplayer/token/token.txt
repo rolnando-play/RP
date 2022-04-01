@@ -6460,6 +6460,8 @@ rockchip rk322x_box
 1b9b249582261a78
 rockchip rk322x_box
 8b44a43215d04dc
+Xiaomi aquaman
+6edb1f9774dae575
 
 enriquelr
 Amazon sheldon
