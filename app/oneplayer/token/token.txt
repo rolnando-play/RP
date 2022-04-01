@@ -6800,7 +6800,7 @@ victorcor
 rockchip rk322x_box
 46db57f6f1030ac2
 rockchip rk322x_box
-2dad4fe5d6b5be0a
+81af0b2d3b8a0d17
 rockchip rk322x_box
 309c84204c431a16
 
