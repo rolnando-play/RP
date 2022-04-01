@@ -11342,8 +11342,8 @@ Amazon mantis
 noes64
 Xiaomi ginkgo
 aa8148316f922624
-dolphin dolphin_fvd_p1
-fcb97d8dadf85c25
+rockchip rk322x_box
+7e5c2cf8e6f65168
 Amazon onyx
 6aad8d4dd21323a2
 
