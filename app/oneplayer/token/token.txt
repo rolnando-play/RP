@@ -12176,3 +12176,7 @@ rockchip rk322x_box
 luisvill
 rockchip rk322x_box
 b0bd251c446552cc
+
+luisbnt +6
+rockchip rk322x_box
+adad02671214dbde
