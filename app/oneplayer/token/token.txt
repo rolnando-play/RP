@@ -4239,6 +4239,8 @@ samsung a7y17lte
 27001bdd04710bc3
 dolphin dolphin_fvd_p1
 1888efeee5e3ce22
+dolphin dolphin_fvd_p1
+571fab469b79851f
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -7554,6 +7556,8 @@ Google titan-p1
 +6 psc
 rockchip rk322x_box
 793fe1d265d1656d
+Allwinner dolphin-fvd-p1
+99217180f0110a24
 
 j88be
 Google walleye
@@ -10186,6 +10190,8 @@ rockchip rk322x_box
 4f398b135a124ece
 rockchip rk322x_box
 134a2cf989fcdf17
+rockchip rk322x_box
+50efec65e877c5a9
 
 davalosru
 rockchip rk3328_box
@@ -12083,6 +12089,8 @@ Xiaomi sunny
 c32712142863362f
 Xiaomi oneday
 99ee666a66a2ce74
+OnePlus OnePlus5
+5e223d26c1ce3b00
 
 joelbat +5 psc
 HUAWEI HWANE
@@ -12180,6 +12188,8 @@ Amlogic p281
 288d1792b19a335f
 Amlogic p281
 fff002c4effa413e
+Amlogic p281
+c36f669b75e87fe6
 
 luisvill
 rockchip rk322x_box
