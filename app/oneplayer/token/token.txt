@@ -883,6 +883,8 @@ SM-G9600
 ca8e3d371e909ea7
 tv box
 b57aead3e2ee1d7b
+Xiaomi aquaman
+8b92dc5da7153021
 
 aguero.j
 SM-G985F
@@ -12158,3 +12160,7 @@ Amlogic p281
 5a5080c657215382
 Amlogic p281
 57d5ef93ef7e3484
+
+luisvill
+rockchip rk322x_box
+b0bd251c446552cc
