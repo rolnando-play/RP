@@ -9010,6 +9010,8 @@ rockchip rk322x_box
 62dc636203d85ac1
 Amlogic p281
 c40715e744cd59fd
+rockchip rk322x_box
+4651351dd14c3ecf
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -10034,6 +10036,8 @@ dolphin dolphin_fvd_p1
 f8a5fce160705231
 dolphin dolphin_fvd_p1
 aa86f7e33fb584f6
+dolphin dolphin_fvd_p1
+245226bd38cf389e
 
 chavezqu
 HUAWEI HWMAR
