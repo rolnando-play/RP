@@ -10312,6 +10312,9 @@ Xiaomi oneday
 821236fc03e0d792
 Xiaomi aquaman
 38388d7f41181f0d
++6 psc
+Xiaomi aquaman
+754896f962dcf12c
 
 hheimb
 samsung a50
