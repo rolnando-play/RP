@@ -1996,6 +1996,8 @@ fb1a72e8c2013b11
 +6
 Amazon sheldon
 680d4a0061a9e784
+Amazon sheldon
+a75cb354dd023cde
 
 ricar.fu
 HUAWEI HWMAR
@@ -6450,6 +6452,8 @@ rockchip rk322x_box
 f937e7200c9e34da
 rockchip rk322x_box
 c10fa1890ac199bd
+rockchip rk322x_box
+1b9b249582261a78
 
 enriquelr
 Amazon sheldon
@@ -7769,6 +7773,8 @@ askey sti6140d360
 c30e6197d40df7bd
 askey sti6140d360
 1ea5bd3f4120802f
+askey sti6140d360
+53cdc90d57941cff
 
 rr.23
 MTK cvt_mt5863_sa
