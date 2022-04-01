@@ -9000,6 +9000,8 @@ Amazon tank
 +18
 rockchip rk322x_box
 62dc636203d85ac1
+Amlogic p281
+c40715e744cd59fd
 
 danieljo
 Allwinner dolphin-fvd-p1
