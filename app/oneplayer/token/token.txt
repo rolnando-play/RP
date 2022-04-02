@@ -1108,6 +1108,8 @@ dolphin dolphin-fvd-p1
 f5f7a6051a1bee99
 MBOX dolphin-p1
 54197d0b883fa508
+rockchip rk322x_box
+ca8403a2439bd910
 
 rtomas
 d60a22d61c15d036
@@ -6466,6 +6468,8 @@ Xiaomi aquaman
 6edb1f9774dae575
 rockchip rk322x_box
 b0063c7553438c0c
+rockchip rockchip006
+f1b375684d0f17b6
 
 enriquelr
 Amazon sheldon
