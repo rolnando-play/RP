@@ -12280,6 +12280,8 @@ rockchip rk322x_box
 13f2b1e80e10eebb
 Amazon sheldonp
 6f05d3aeea52c136
+rockchip rk322x_box
+8ccbf7f9b4430585
 
 aflei
 Amazon sheldonp
