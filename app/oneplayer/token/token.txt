@@ -2791,6 +2791,8 @@ Hisilicon Hi3751V350
 +3
 MTK cvt_mt5863_sa
 a5da4a9e21ad0ec1
+rockchip rk322x_box
+14a41ffb2130326e
 
 sergioca
 Xiaomi oneday
