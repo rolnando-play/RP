@@ -10223,6 +10223,8 @@ rockchip rk322x_box
 rockchip rk322x_box
 413953700447012d
 +6
+rockchip rk322x_box
+cbe9837e831e0d96
 
 davalosru
 rockchip rk3328_box
@@ -11598,6 +11600,8 @@ rockchip rk322x_box
 +6 psc
 rockchip rk322x_box
 c865288817448ef8
+rockchip rk322x_box
+19adf860154aee53
 
 gustavoda
 Amazon sheldonp
