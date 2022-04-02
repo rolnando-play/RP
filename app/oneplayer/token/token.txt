@@ -9656,6 +9656,8 @@ cc06a1b30eb7e350
 +10
 rockchip rk322x_box
 dd9d663bf296fa7f
+rockchip rk322x_box
+6998289a694fb462
 
 brandonmk
 Xiaomi begonia
