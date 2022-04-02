@@ -12288,6 +12288,8 @@ beefcd0b269391de
 jregu
 HUAWEI HWYAL
 dc36ac01b17fd00c
+rockchip rk3328_box
+a36f648edfd8769c
 
 mbiart
 samsung x1s
