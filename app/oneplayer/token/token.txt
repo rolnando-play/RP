@@ -5248,6 +5248,8 @@ rockchip rk3328_box
 3ccc5a36895d0425
 Amazon maverick
 a3cb6cf21710ad63
+rockchip rk322x_box
+53464f179d232b84
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -12227,6 +12229,11 @@ Amlogic p281
 fff002c4effa413e
 Amlogic p281
 c36f669b75e87fe6
++9
+Amlogic p281
+7964a0ced1f7c308
+Amlogic p281
+6a05bfc6067b477f
 
 luisvill
 rockchip rk322x_box
