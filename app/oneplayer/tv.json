@@ -1,5 +1,15 @@
 {
   "123asd": [
+    {
+      "name": "Fútbol paraguayo",
+      "link": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/6HwMkLL-KtkamEgz6Hj0zyycmBc1GO3GvOMI4A5MLc1g-ee8tf9HJ8DPDaRdBdbY_IeROb3f7gU2yh9bX7zCRQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU1Mn0.3A9GRgc_U6OaBSfcuYAu9hoCljzQ3mc_aGpFBtlrgts/dynamic_highlatency.m3u8?type=live",
+      "web": "no",
+      "img": "apertura",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "origin": "",
+      "referer": ""
+    },
 {
       "name": "Fútbol paraguayo FHD",
       "link": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8",
