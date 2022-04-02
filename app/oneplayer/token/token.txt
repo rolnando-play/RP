@@ -6487,6 +6487,9 @@ rockchip rk322x_box
 b0063c7553438c0c
 rockchip rockchip006
 f1b375684d0f17b6
++9
+Android MX9PRO
+871c8e0ec1dea10c
 
 enriquelr
 Amazon sheldon
