@@ -1,0 +1,2533 @@
+{
+  "channels": [
+{
+      "name": "Fútbol paraguayo FHD",
+      "link": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_6.m3u8",
+      "web": "no",
+      "img": "apertura",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "origin": "http://localhost",
+      "referer": "http://localhost/"
+    },
+{
+      "name": "Fútbol paraguayo HD",
+      "link": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_5.m3u8",
+      "web": "no",
+      "img": "apertura",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "origin": "http://localhost",
+      "referer": "http://localhost/"
+    },
+{
+      "name": "Fútbol paraguayo SD",
+      "link": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_4.m3u8",
+      "web": "no",
+      "img": "apertura",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "origin": "http://localhost",
+      "referer": "http://localhost/"
+    },
+{
+      "name": "Fútbol paraguayo 360P",
+      "link": "https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_3.m3u8",
+      "web": "no",
+      "img": "apertura",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "origin": "http://localhost",
+      "referer": "http://localhost/"
+    },
+  {
+      "name": "ABC TV",
+      "link": "http://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_SAGEMCOM/ABC_TV_C4.m3u8",
+      "web": "no",
+      "img": "abc",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "5 Días",
+      "link": "http://chromecast.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_SAGEMCOM/5_Dias_PY.m3u8",
+      "web": "no",
+      "img": "5dias",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "C9N",
+      "link": "http://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8",
+      "web": "no",
+      "img": "c9n",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal PRO",
+      "link": "https://rds3.desdeparaguay.net/canalpro/canalpro/playlist.m3u8",
+      "web": "no",
+      "img": "pro",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Canal 12 RTV",
+      "link": "http://video.camaronhosting.com/mediosenpy/mediosenpy/playlist.m3u8",
+      "web": "no",
+      "img": "canal12",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "CD Pro Multimedios",
+      "link": "https://mediacp.hostradios.com.ar:19360/cdpro/cdpro.m3u8",
+      "web": "no",
+      "img": "cdpro",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Christian Candia Multimedios HD",
+      "link": "https://demo.mediacp.net:19360/nginxlivestreaming/nginxlivestreaming.m3u8",
+      "web": "no",
+      "img": "christian",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Chrome",
+      "origin": "http://localhost",
+      "referer": "http://localhost/"
+    },
+    {
+      "name": "Costanera TV",
+      "link": "https://inliveserver.com:1936/11034/11034/playlist.m3u8",
+      "web": "no",
+      "img": "costanera",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Chrome",
+      "origin": "http://localhost",
+      "referer": "http://localhost/"
+    },
+    
+    
+    {
+      "name": "E40",
+      "link": "https://copaco.desdeparaguay.net/e40tv/e40tv_py_alta/chunklist_w192411193.m3u8",
+      "web": "no",
+      "img": "e40",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Chrome/537.36",
+      "origin": "a",
+      "referer": "a"
+    },
+    {
+      "name": "Farra TV",
+      "link": "http://159.203.148.226/live/farra.m3u8",
+      "web": "no",
+      "img": "farra",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Chrome/537.36",
+      "origin": "a",
+      "referer": "a"
+    },
+    
+    {
+      "name": "GEN",
+      "link": "http://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_SAGEMCOM/GEN_TV.m3u8",
+      "web": "no",
+      "img": "gen",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "a",
+      "referer": "a"
+    },
+    {
+      "name": "Guaira TV",
+      "link": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+      "web": "no",
+      "img": "guairatv",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "a",
+      "referer": "a"
+    },
+    
+    
+    {
+      "name": "Hei",
+      "link": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/chunklist_w1140817190.m3u8",
+      "web": "no",
+      "img": "hei",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "f",
+      "referer": "f"
+    },
+    
+    
+    
+    {
+      "name": "Koa TV",
+      "link": "https://panel.dattalive.com/8028/8028/playlist.m3u8",
+      "web": "no",
+      "img": "koa",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Latele",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8",
+      "web": "no",
+      "img": "latele",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Más TV Encarnación",
+      "link": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mastvonline?.m3u8",
+      "web": "no",
+      "img": "mas",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Mega TV",
+      "link": "https://rds3.desdeparaguay.net/megatv/megatv/playlist.m3u8",
+      "web": "no",
+      "img": "mega",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Mi TV Obligado",
+      "link": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+      "web": "no",
+      "img": "mitv",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "http://www.radiosenparaguay.com",
+      "referer": "http://www.radiosenparaguay.com/mitv"
+    },
+    {
+      "name": "Motor Sur Media",
+      "link": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/motorsurmedia?.m3u8",
+      "web": "no",
+      "img": "motorsur",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Noticias Paraguay",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8",
+      "web": "no",
+      "img": "npy",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ñanduti TV",
+      "link": "https://tvdatta.com:3839/live/nandutitvlive.m3u8",
+      "web": "no",
+      "img": "nanduti",
+      "Iicense": "no",
+      "ua": "DkLavf/56.36.100",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Oviedo TV Online",
+      "link": "https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8",
+      "web": "no",
+      "img": "oviedo",
+      "Iicense": "no",
+      "ua": "DkLavf/56.36.100",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Paraguay TV",
+      "link": " http://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_SAGEMCOM/Paraguay_TV.m3u8",
+      "web": "no",
+      "img": "pytv",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+{
+      "name": "Paravisión",
+      "link": " http://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_SAGEMCOM/PARAVISION_C4.m3u8",
+      "web": "no",
+      "img": "paravision",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Radio 780 AM",
+      "link": " https://rds3.desdeparaguay.net/780tv/780tv/playlist.m3u8",
+      "web": "no",
+      "img": "780",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+ 
+    {
+      "name": "Radio Popular Canindeyú",
+      "link": " https://edge1o.live.opencaster.com/caster/HqnbrvnFkvEb.m3u8",
+      "web": "no",
+      "img": "canindeyu",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "https://www.opencaster.com",
+      "referer": "https://www.opencaster.com/"
+    },
+    
+    
+    {
+      "name": "RCC - TV Chaqueña",
+      "link": "https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8",
+      "web": "no",
+      "img": "rcc",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Satelital TV",
+      "link": "https://rds3.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+      "web": "no",
+      "img": "satelital",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Senado TV",
+      "link": "https://rtmpsvr01.ddns.net:30101/dash/stream.m3u8",
+      "web": "no",
+      "img": "senado",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Linux; Android 9; Redmi Note 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Mobile Chrome/537.36",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "SNT",
+      "link": "http://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8",
+      "web": "no",
+      "img": "snt",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "SNT 2",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8",
+      "web": "no",
+      "img": "snt",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Mozilla/5.0 (Linux; Android 11; BE2029) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Mobile Safari/537.36",
+      "origin": "a",
+      "referer": "a"
+    },
+    
+    {
+      "name": "Somos del Este",
+      "link": "https://59ce1298bfb98.streamlock.net:443/somosdeleste/somosdeleste/playlist.m3u8",
+      "web": "no",
+      "img": "este",
+      "Iicense": "si",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Suceso TV",
+      "link": "https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8",
+      "web": "no",
+      "img": "suceso",
+      "Iicense": "no",
+      "ua": "DkLavf/56.36.100",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Sur TV",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/SUR_TV_C4/SA_SAGEMCOM/SUR_TV_C4.m3u8",
+      "web": "no",
+      "img": "surtv",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Telefuturo",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8",
+      "web": "no",
+      "img": "telefuturo",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Trece",
+      "link": "http://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_SAGEMCOM/RPC_C4.m3u8",
+      "web": "no",
+      "img": "rpc",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TVA Coronel Oviedo",
+      "link": "https://59ce1298bfb98.streamlock.net:443/tvaire/tvaire/playlist.m3u8",
+      "web": "no",
+      "img": "tva",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TV Max Coronel Oviedo",
+      "link": "https://tvmaxsa.com.py/canal-5-en-vivo/../hls/stream.m3u8?ver=1.2",
+      "web": "no",
+      "img": "tvmax",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TV Cámara",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/TV_Camara/SA_SAGEMCOM/TV_Camara.m3u8",
+      "web": "no",
+      "img": "tvcamara",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "TVS Encarnación",
+      "link": "https://rds3.desdeparaguay.net/tvs/tvs/playlist.m3u8",
+      "web": "no",
+      "img": "tvs",
+      "Iicense": "no",
+      "ua": "Firefox",
+      "origin": "http://www.desdeparaguay.net",
+      "referer": "http://www.desdeparaguay.net/external/tvs.aspx"
+    },
+    
+    {
+      "name": "Unicanal",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8",
+      "web": "no",
+      "img": "unicanal",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Universo 970",
+      "link": "https://copaco.desdeparaguay.net/gruponaciontv/gruponaciontv/chunklist_w185459489.m3u8",
+      "web": "no",
+      "img": "universo",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "f",
+      "referer": "f"
+    },
+  
+    {
+      "name": "Venus Media",
+      "link": "https://copaco.desdeparaguay.net/venusmedia/venusmedia/chunklist_w40139735.m3u8",
+      "web": "no",
+      "img": "venus",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0",
+      "origin": "f",
+      "referer": "f"
+    },
+    {
+      "name": "Visión Villarrica",
+      "link": "https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8",
+      "web": "no",
+      "img": "vision",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Chrome/537.36",
+      "origin": "http://www.radiosenparaguay.com",
+      "referer": "http://www.radiosenparaguay.com/visiontv"
+    },
+    
+    {
+      "name": "A24 Argentina",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8",
+      "web": "no",
+      "img": "a24",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "A3 Cine",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8",
+      "web": "no",
+      "img": "a3cine",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "A3 Series",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_SAGEMCOM/A3_Series.m3u8",
+      "web": "no",
+      "img": "a3series",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "A&E",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8",
+      "web": "no",
+      "img": "ae",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "ADN40",
+      "link": "https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8",
+      "web": "no",
+      "img": "adn40",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "AMC",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8",
+      "web": "no",
+      "img": "amc",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "AXN",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8",
+      "web": "no",
+      "img": "AXN",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "América",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8",
+      "web": "no",
+      "img": "america",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "América Sports",
+      "link": "http://cdn.cvattv.com.ar/live/c6eds/America_Sports/SA_SAGEMCOM/America_Sports.m3u8",
+      "web": "no",
+      "img": "americas",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Animal Planet",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8",
+      "web": "no",
+      "img": "animal",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Antena 3",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Antena_3/SA_SAGEMCOM/Antena_3.m3u8",
+      "web": "no",
+      "img": "antena3",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Argentinísima Satelital",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_SAGEMCOM/Argentinisima.m3u8",
+      "web": "no",
+      "img": "argentinisima",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "ATV Perú",
+      "link": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
+      "web": "no",
+      "img": "atv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+  
+    {
+      "name": "Baby TV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_SAGEMCOM/BabyTV.m3u8",
+      "web": "no",
+      "img": "baby",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Band Internacional",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Bandeirantes/SA_SAGEMCOM/Bandeirantes.m3u8",
+      "web": "no",
+      "img": "band",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Band Sports",
+      "link": "http://50.7.34.155:2200/BR/Band_Sports_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "bandsports",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+
+    {
+      "name": "Bein Sports Español",
+      "link": "http://208.88.246.11:4481/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "beines",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Bein Sports Xtra Español",
+      "link": "https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8",
+      "web": "no",
+      "img": "beinex",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": "oneplayer"
+    },
+    
+   
+   {
+      "name": "Bloomberg",
+      "link": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+      "web": "no",
+      "img": "bloomberg",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Bitme",
+      "link": "http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8",
+      "web": "no",
+      "img": "bitme",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "C5N AR",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8",
+      "web": "no",
+      "img": "c5n",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Cartoonito (Boomerang)",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8",
+      "web": "no",
+      "img": "cartoonito",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "CNN",
+      "link": "https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8",
+      "web": "no",
+      "img": "cnn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Canal 4 Uruguay",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/Canal4_URU/SA_SAGEMCOM/Canal4_URU.m3u8",
+      "web": "no",
+      "img": "canal4uy",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal 5 Uruguay",
+      "link": "http://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_SAGEMCOM/TV_Nacional_Uy.m3u8",
+      "web": "no",
+      "img": "canal5uy",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   
+    {
+      "name": "Canal 10 Uruguay",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/Canal10_URU/SA_SAGEMCOM/Canal10_URU.m3u8",
+      "web": "no",
+      "img": "canal10uy",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Canal 9 AR",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8",
+      "web": "no",
+      "img": "canal9",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Canal 26 AR",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8",
+      "web": "no",
+      "img": "canal26",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Canal Rural AR",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_SAGEMCOM/Canal_Rural.m3u8",
+      "web": "no",
+      "img": "rural",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Cartoon Network",
+      "link": "https://edge6-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8",
+      "web": "no",
+      "img": "cartoon",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Charrua TV Uruguay",
+      "link": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/charruatvcanal?.m3u8",
+      "web": "no",
+      "img": "charrua",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Chilevisión",
+      "link": "https://marine2.miplay.cl/chilevision/playlist.m3u8",
+      "web": "no",
+      "img": "chv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "Cine AR",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_SAGEMCOM/INCAA_Tv.m3u8",
+      "web": "no",
+      "img": "cinear",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Cinecanal",
+      "link": "https://edge2-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8",
+      "web": "no",
+      "img": "cinecanal",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Cinemax",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8",
+      "web": "no",
+      "img": "Cinemax",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Ciudad Magazine",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_SAGEMCOM/Magazine.m3u8",
+      "web": "no",
+      "img": "ciudadm",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Claro Sports",
+      "link": "https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8",
+      "web": "no",
+      "img": "clarosports",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Combate",
+      "link": "http://50.7.34.155:2200/BR/Combate_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "combate",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Comedy Central",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8",
+      "web": "no",
+      "img": "comedy",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Crónica TV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8",
+      "web": "no",
+      "img": "cronica",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    {
+      "name": "DeporTV",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8",
+      "web": "no",
+      "img": "deportv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    {
+      "name": "Discovery Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8",
+      "web": "no",
+      "img": "discovery",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery H&H",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8",
+      "web": "no",
+      "img": "hh",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Kids",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8",
+      "web": "no",
+      "img": "dkids",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Science",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8",
+      "web": "no",
+      "img": "science",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery TLC",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8",
+      "web": "no",
+      "img": "tlc",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Theater",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8",
+      "web": "no",
+      "img": "theater",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery Turbo",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8",
+      "web": "no",
+      "img": "turbo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Discovery World",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8",
+      "web": "no",
+      "img": "world",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Disney Channel",
+      "link": "https://edge-live12-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8",
+      "web": "no",
+      "img": "disney",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Disney Junior",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8",
+      "web": "no",
+      "img": "junior",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Disney XD",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8",
+      "web": "no",
+      "img": "disneyxd",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "DW",
+      "link": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+      "web": "no",
+      "img": "dw",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    {
+      "name": "E!",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8",
+      "web": "no",
+      "img": "e",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Esne TV",
+      "link": "https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8",
+      "web": "no",
+      "img": "esne",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "ESPN",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8",
+      "web": "no",
+      "img": "espn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN MX",
+      "link": "http://208.88.246.11:4481/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "espn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 2",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8",
+      "web": "no",
+      "img": "espn2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 2 MX",
+      "link": "http://208.88.246.11:4481/evento2/bodega/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "espn2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 3",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8",
+      "web": "no",
+      "img": "espn3",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 3 MX",
+      "link": "http://208.88.246.11:4481/507ESPN3/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "espn3",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "ESPN 4",
+      "link": "http://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8",
+      "web": "no",
+      "img": "espn4",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "ESPN Extra",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8",
+      "web": "no",
+      "img": "espn+",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Europa Europa",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Europa_Europa/SA_SAGEMCOM/Europa_Europa.m3u8",
+      "web": "no",
+      "img": "europaeu",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Eurochannel",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_SAGEMCOM/Eurochannel.m3u8",
+      "web": "no",
+      "img": "eurocha",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+
+
+    {
+      "name": "EWTN",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_SAGEMCOM/EWTN.m3u8",
+      "web": "no",
+      "img": "ewtn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "El Chavo",
+      "link": "https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8",
+      "web": "no",
+      "img": "chavo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "El Gourmet",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8",
+      "web": "no",
+      "img": "gourmet",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "El Trece AR",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8",
+      "web": "no",
+      "img": "eltrece",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Encuentro TV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_SAGEMCOM/Encuentro.m3u8",
+      "web": "no",
+      "img": "encuentro",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Enlace",
+      "link": "https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8",
+      "web": "no",
+      "img": "enlace",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "https://componentes.enlace.org",
+      "referer": "https://componentes.enlace.org/"
+    },
+    {
+      "name": "Fish TV",
+      "link": "http://50.7.34.155:2200/BR/fishtvhd-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "fish",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "REDLINECLIENT ANDROID MOBILE 1.0.16",
+      "origin": "",
+      "referer": ""
+    },
+    
+  {
+      "name": "Foro TV",
+      "link": "https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8",
+      "web": "no",
+      "img": "forotv",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "https://componentes.enlace.org",
+      "referer": "https://componentes.enlace.org/"
+    },
+  
+    {
+      "name": "FX",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8",
+      "web": "no",
+      "img": "fx",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "FXM",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8",
+      "web": "no",
+      "img": "fxm",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "France 24",
+      "link": "http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+      "web": "no",
+      "img": "france24",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Food Network",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8",
+      "web": "no",
+      "img": "food",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8",
+      "web": "no",
+      "img": "fs",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports MX",
+      "link": "http://208.88.246.11:4481/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "fs",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports 2",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8",
+      "web": "no",
+      "img": "fs2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports 2 MX",
+      "link": "http://208.88.246.11:4481/andromeda/FOXSP2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "fs2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports 3",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8",
+      "web": "no",
+      "img": "fs3",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports 3 MX",
+      "link": "http://208.88.246.11:4481/508FoxSports3/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "fs3",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Fox Sports Premium",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.m3u8",
+      "web": "no",
+      "img": "fsp",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Film&Arts",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.m3u8",
+      "web": "no",
+      "img": "filmarts",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Garage TV",
+      "link": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/El_Garage/SA_SAGEMCOM/El_Garage.m3u8",
+      "web": "no",
+      "img": "garage",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Glitz",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Glitz/SA_SAGEMCOM/Glitz.m3u8",
+      "web": "no",
+      "img": "glitz",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Globo",
+      "link": "http://50.7.34.155:2200/BR/Globo_HD_RJ-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "globo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "Gol TV",
+      "link": "https://hostop.ga/fan/R29sX1RWX0VzcGFub2w=.m3u8",
+      "web": "no",
+      "img": "goltv",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": "oneplayer"
+    },
+    
+    
+    {
+      "name": "HBO",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8",
+      "web": "no",
+      "img": "hbo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO 2",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8",
+      "web": "no",
+      "img": "hbo2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Family",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8",
+      "web": "no",
+      "img": "hbof",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Mundi",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8",
+      "web": "no",
+      "img": "hbomundi",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Plus",
+      "link": "https://edge-live12-hr.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8",
+      "web": "no",
+      "img": "hbop",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Pop",
+      "link": "https://edge-live12-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8",
+      "web": "no",
+      "img": "hbopop",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Signature",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8",
+      "web": "no",
+      "img": "hbos",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HBO Xtreme",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8",
+      "web": "no",
+      "img": "hbox",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    {
+      "name": "HGTV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8",
+      "web": "no",
+      "img": "hgtv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    
+{
+      "name": "Hispan TV",
+      "link": "https://live.presstv.ir/live/smil:live.smil/chunklist_w1016777505.m3u8",
+      "web": "no",
+      "img": "hispan",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "History",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8",
+      "web": "no",
+      "img": "history",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "History 2",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8",
+      "web": "no",
+      "img": "h2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Hola TV",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8",
+      "web": "no",
+      "img": "hola",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "HTV",
+      "link": "https://edge-live31-sl.cvattv.com.ar/live/c6eds/HTV/SA_SAGEMCOM/HTV.m3u8",
+      "web": "no",
+      "img": "htv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Investigation Discovery",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8",
+      "web": "no",
+      "img": "id",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "IP Noticias",
+      "link": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
+      "web": "no",
+      "img": "ip",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Isat",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8",
+      "web": "no",
+      "img": "isat",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "La Nación Argentina",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8",
+      "web": "no",
+      "img": "lanacion",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "La Red Chile",
+      "link": "https://marine2.miplay.cl/lared/playlist.m3u8",
+      "web": "no",
+      "img": "laredcl",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "La Red Uruguay",
+      "link": "https://stmv1.srvif.com/laredtv/laredtv/playlist.m3u8",
+      "web": "no",
+      "img": "lared",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Las Estrellas",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8",
+      "web": "no",
+      "img": "estrellas",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Lifetime",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8",
+      "web": "no",
+      "img": "lifetime",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Los Simpson",
+      "link": "https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8",
+      "web": "no",
+      "img": "simpsons",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "Mega",
+      "link": "https://marine2.miplay.cl/mega/playlist.m3u8",
+      "web": "no",
+      "img": "megacl",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   
+    {
+      "name": "Much Music",
+      "link": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8",
+      "web": "no",
+      "img": "muchm",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Más Chic",
+      "link": "https://edge-live12-sl.cvattv.com.ar/live/c6eds/Mas_Chic/SA_SAGEMCOM/Mas_Chic.m3u8",
+      "web": "no",
+      "img": "maschic",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "MTV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8",
+      "web": "no",
+      "img": "mtv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "MTV Hits",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8",
+      "web": "no",
+      "img": "mtvh",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "MTV 00s",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8",
+      "web": "no",
+      "img": "mtv00",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "NBA",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_SAGEMCOM/NBA_TV.m3u8",
+      "web": "no",
+      "img": "nba",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Nat Geo",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8",
+      "web": "no",
+      "img": "natgeo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Nat Geo Kids",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/NatGeo_Kids/SA_SAGEMCOM/NatGeo_Kids.m3u8",
+      "web": "no",
+      "img": "natgeok",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Nat Geo Wild",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8",
+      "web": "no",
+      "img": "natgeow",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Net TV",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_SAGEMCOM/Net_TV.m3u8",
+      "web": "no",
+      "img": "net",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Nick",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8",
+      "web": "no",
+      "img": "nick",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Nick JR",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8",
+      "web": "no",
+      "img": "nickjr",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Paka Paka",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_SAGEMCOM/PAKA_PAKA.m3u8",
+      "web": "no",
+      "img": "paka",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Paramount",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8",
+      "web": "no",
+      "img": "paramount",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pasiones",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8",
+      "web": "no",
+      "img": "pasiones",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Perú Mágico",
+      "link": "https://hostop.ga/fan/UGVydV9NYWdpY28=.m3u8",
+      "web": "no",
+      "img": "perumagico",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": "oneplayer"
+    },
+  {
+      "name": "Pluto Cine Acción",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=79&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutoaccion",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Comedia",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=85&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutocomedia",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Drama",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=78&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutodrama",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Estelar",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutocine",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Familia",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=84&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutofamilia",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Romance",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=82&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutoromance",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Suspenso",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=83&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutosuspenso",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Cine Terror",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=77&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutoterror",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Pluto Series",
+      "link": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=81&deviceId=channel&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&country=PY&serverSideAds=false",
+      "web": "no",
+      "img": "plutoseries",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Premiere Clubes",
+      "link": "http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "premiere",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "PX Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_SAGEMCOM/PX_Sports.m3u8",
+      "web": "no",
+      "img": "pxsports",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Rai",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_SAGEMCOM/RAI.m3u8",
+      "web": "no",
+      "img": "rai",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "RCN Nuestra tele",
+      "link": "https://hostop.ga/fan/UkNOX051ZXN0cmFfVGVsZQ==.m3u8",
+      "web": "no",
+      "img": "rcnco",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": "oneplayer"
+    },
+  {
+      "name": "Rede TV",
+      "link": "http://50.7.34.155:2200/BR/Rede_TV_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "rede",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": "oneplayer"
+    },
+  
+    {
+      "name": "RT",
+      "link": "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
+      "web": "no",
+      "img": "rt",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "SBT",
+      "link": "http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8",
+      "web": "no",
+      "img": "sbt",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Señal Colombia",
+      "link": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+      "web": "no",
+      "img": "senalco",
+      "Iicense": "no",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "Sony",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8",
+      "web": "no",
+      "img": "sony",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Space",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8",
+      "web": "no",
+      "img": "space",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+{
+      "name": "SporTV",
+      "link": "http://50.7.34.155:2200/BR/Sportv_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "sportv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "SporTV 2",
+      "link": "http://50.7.34.155:2200/BR/Sportv_2_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "sportv2",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "SporTV 3",
+      "link": "http://50.7.34.155:2200/BR/Sportv_3_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null",
+      "web": "no",
+      "img": "sportv3",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Star Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8",
+      "web": "no",
+      "img": "fox",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Star Life",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Start_Life/SA_SAGEMCOM/Start_Life.m3u8",
+      "web": "no",
+      "img": "life",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Studio Universal",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8",
+      "web": "no",
+      "img": "studio",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Syfy",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/SyFy/SA_SAGEMCOM/SyFy.m3u8",
+      "web": "no",
+      "img": "syfy",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TBS",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8",
+      "web": "no",
+      "img": "tbs",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TCM",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8",
+      "web": "no",
+      "img": "tcm",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+  {
+      "name": "Tele VID",
+      "link": "https://api.new.livestream.com/accounts/28238881/events/8574038/live.m3u8",
+      "web": "no",
+      "img": "televid",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+  {
+      "name": "Telecafé",
+      "link": "https://liveingesta118.cdnmedia.tv//telecafelive/smil:dvrlive.smil/playlist.m3u8",
+      "web": "no",
+      "img": "telecafe",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "https://player.instantvideocloud.net",
+      "referer": "https://player.instantvideocloud.net/"
+    },
+    {
+      "name": "Teledoce Uruguay",
+      "link": "http://cdn.cvattv.com.ar/live/c4eds/Canal12URU/SA_SAGEMCOM/Canal12URU.m3u8",
+      "web": "no",
+      "img": "teledoce",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    {
+      "name": "Telefé",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8",
+      "web": "no",
+      "img": "telefe",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Telemundo",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8",
+      "web": "no",
+      "img": "telemundo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+   {
+      "name": "Telemundo Chicago",
+      "link": "https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8",
+      "web": "no",
+      "img": "telemundo",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "Telesur",
+      "link": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+      "web": "no",
+      "img": "telesur",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Televen",
+      "link": "https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8",
+      "web": "no",
+      "img": "televen",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    {
+      "name": "Tlnovelas",
+      "link": "https://el4live1.boldmss.com/TL_NOVELAS/TL_NOVELAS.isml/TL_NOVELAS.m3u8",
+      "web": "no",
+      "img": "tlnovelas",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "TN Todo Noticias",
+      "link": "https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8",
+      "web": "no",
+      "img": "tn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TNT",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8",
+      "web": "no",
+      "img": "tnt",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TNT Series",
+      "link": "https://edge2-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8",
+      "web": "no",
+      "img": "tnts",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TNT Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.m3u8",
+      "web": "no",
+      "img": "tntsports",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TNT Sports Brasil",
+      "link": "https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8",
+      "web": "no",
+      "img": "tntsports",
+      "Iicense": "a",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TV Ciudad Uruguay",
+      "link": "http://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_SAGEMCOM/Teve_Ciudad.m3u8",
+      "web": "no",
+      "img": "tvciudad",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TV España",
+      "link": "https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/TV_Espana/SA_SAGEMCOM/TV_Espana.m3u8",
+      "web": "no",
+      "img": "tves",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    
+    {
+      "name": "TVP Argentina",
+      "link": "https://chromecast.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8",
+      "web": "no",
+      "img": "tvp",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Tooncast",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8",
+      "web": "no",
+      "img": "tooncast",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Tru TV",
+      "link": "https://edge-live16-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8",
+      "web": "no",
+      "img": "tru",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TUDN",
+      "link": "http://208.88.246.11:4481/encoder84/evento17/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "tudn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    
+  {
+      "name": "TVN",
+      "link": "https://marine2.miplay.cl/tvn/playlist.m3u8",
+      "web": "no",
+      "img": "tvn",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TV Chile",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_SAGEMCOM/Tv_Chile.m3u8",
+      "web": "no",
+      "img": "tvchile",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "TV Perú",
+      "link": "https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8",
+      "web": "no",
+      "img": "tvperu",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "TV Perú Noticias",
+      "link": "https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8",
+      "web": "no",
+      "img": "tvperun",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "TyC Sports",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8",
+      "web": "no",
+      "img": "tyc",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "TyC Sports Internacional",
+      "link": "https://hostop.ga/fan/VHlDX1Nwb3J0c19JbnRlcm5hY2lvbmFs.m3u8",
+      "web": "no",
+      "img": "tyc",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": "oneplayer"
+    },
+    {
+      "name": "UCL",
+      "link": "https://cdn.cvattv.com.ar/live/c3eds/Canal_U/SA_SAGEMCOM/Canal_U.m3u8",
+      "web": "no",
+      "img": "ucl",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Universal Channel",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8",
+      "web": "no",
+      "img": "universal",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+{
+      "name": "Univision",
+      "link": "http://208.88.246.11:4481/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "web": "no",
+      "img": "univision",
+      "Iicense": "https://iptvtucuman.com/sv-py",
+      "ua": "BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Volver",
+      "link": "http://cdn.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8",
+      "web": "no",
+      "img": "volver",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  {
+      "name": "Vorterix",
+      "link": "https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8",
+      "web": "no",
+      "img": "vorterix",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+  
+    {
+      "name": "VTV",
+      "link": "http://cdn.cvattv.com.ar/live/c3eds/VTV_HD/SA_SAGEMCOM/VTV_HD.m3u8",
+      "web": "no",
+      "img": "vtv",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "VTV Plus",
+      "link": "http://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8",
+      "web": "no",
+      "img": "vtvplus",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    
+    
+    {
+      "name": "Warner",
+      "link": "https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8",
+      "web": "no",
+      "img": "warner",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    },
+    {
+      "name": "Wow TV",
+      "link": "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8",
+      "web": "no",
+      "img": "wow",
+      "Iicense": "http://hostop.ga/lic/op.php",
+      "ua": "Firefox",
+      "origin": "",
+      "referer": ""
+    }
+    
+    
+    
+  ]
+}
