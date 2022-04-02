@@ -7030,6 +7030,8 @@ Amazon sheldonp
 c75aafd18a287249
 samsung j4lte
 f6e78a19f40bcc95
+HUAWEI HWCDY
+2c4f9027e40ee7ac
 
 magnoba
 samsung t2s
@@ -7789,6 +7791,8 @@ askey sti6140d360
 1ea5bd3f4120802f
 askey sti6140d360
 53cdc90d57941cff
+Xiaomi oneday
+4a755480aec1f42f
 
 rr.23
 MTK cvt_mt5863_sa
@@ -8575,8 +8579,8 @@ Funai freesia
 julio.esti
 dolphin dolphin-fvd-p1
 4730687cfbdb000
-samsung a70q
-9c6d61cc9a383cd8
+Amazon sheldonp
+2fe86b3d4361f838
 dolphin dolphin-fvd-p1
 24993bc7eb8cc188
 
@@ -12220,3 +12224,5 @@ Amazon sheldonp
 hugogift
 Xiaomi vayu
 7b78396e22e6b708
+samsung on7xelte
+beefcd0b269391de
