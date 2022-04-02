@@ -12232,3 +12232,7 @@ Xiaomi vayu
 7b78396e22e6b708
 samsung on7xelte
 beefcd0b269391de
+
+jregu
+HUAWEI HWYAL
+dc36ac01b17fd00c
