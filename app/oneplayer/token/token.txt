@@ -11973,6 +11973,8 @@ HUAWEI HWMAR
 0814b1301bd1cb39
 Allwinner dolphin-fvd-p1
 e15605b63574884f
+rockchip rk322x_box
+eb1415f660192783
 
 dt727
 samsung a32
