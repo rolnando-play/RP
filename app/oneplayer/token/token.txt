@@ -8886,8 +8886,7 @@ rockchip rk322x_box
 55599e36b23dc9bd
 Amlogic p281
 9882dac32fdc4c61
-MBOX dolphin-p1
-d346712a303c599d
+
 rockchip rk3328_box
 7de8f16d0c942d01
 samsung a31
