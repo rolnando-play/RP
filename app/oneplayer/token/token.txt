@@ -7814,6 +7814,8 @@ askey sti6140d360
 53cdc90d57941cff
 Xiaomi oneday
 4a755480aec1f42f
+askey sti6140d360
+d8b62a5044b1871a
 
 rr.23
 MTK cvt_mt5863_sa
