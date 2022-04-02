@@ -1110,6 +1110,8 @@ MBOX dolphin-p1
 54197d0b883fa508
 rockchip rk322x_box
 ca8403a2439bd910
+rockchip rk322x_box
+bc0a15b03c60ff93
 
 rtomas
 d60a22d61c15d036
@@ -10209,6 +10211,9 @@ rockchip rk322x_box
 134a2cf989fcdf17
 rockchip rk322x_box
 50efec65e877c5a9
++6
+rockchip rk322x_box
+413953700447012d
 
 davalosru
 rockchip rk3328_box
