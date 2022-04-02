@@ -11545,6 +11545,8 @@ Amazon mantis
 6e635f788cf89d46
 Amazon mantis
 29a946d639c02d4e
+Amazon mantis
+ea5b50e72fd3a338
 
 ferminsa
 samsung a70q
@@ -12260,3 +12262,7 @@ beefcd0b269391de
 jregu
 HUAWEI HWYAL
 dc36ac01b17fd00c
+
+mbiart
+samsung x1s
+9bdffa09e78e5a74
