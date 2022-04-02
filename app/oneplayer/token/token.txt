@@ -4613,6 +4613,8 @@ Amlogic p201
 7bb3cba541d2feba
 rockchip rk322x_box
 527d2dfa2d132157
+Amlogic p201
+696ca962ffd58a7c
 
 lisandra
 MTK cvt_mt5863_sa
@@ -10227,6 +10229,8 @@ rockchip rk322x_box
 +6
 rockchip rk322x_box
 cbe9837e831e0d96
+rockchip rk322x_box
+93538b4dca58c320
 
 davalosru
 rockchip rk3328_box
