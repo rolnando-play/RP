@@ -9332,6 +9332,10 @@ dolphin dolphin_fvd_p1
 a720aea30f41f310
 rockchip rk322x_box
 43eb069fa47d575f
+Amazon sheldon
+d34a345867139031
+rockchip MK
+f995121eb4a4da1a
 
 gergod +6
 Amlogic franklin
