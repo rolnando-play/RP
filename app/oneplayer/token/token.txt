@@ -12074,6 +12074,8 @@ Google titan-p1
 a9bd9eabe575def3
 Xiaomi aquaman
 452fef582f2ce6e4
+Google titan-p1
+0e966e0940c22254
 
 ricardoro
 samsung beyond1
@@ -12236,6 +12238,8 @@ Amlogic p281
 7964a0ced1f7c308
 Amlogic p281
 6a05bfc6067b477f
+Amlogic p281
+a56fc067d7b993c2
 
 luisvill
 rockchip rk322x_box
