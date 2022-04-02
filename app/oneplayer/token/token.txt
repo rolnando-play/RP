@@ -11704,6 +11704,8 @@ Amazon mantis
 92325afca793d7af
 SEI Robotics SEI400TV
 04e2e636dd607c91
+askey sti6140d360
+13e86c45c5833d23
 
 ccardo
 samsung a12
@@ -12244,6 +12246,8 @@ Amlogic p281
 6a05bfc6067b477f
 Amlogic p281
 a56fc067d7b993c2
+Amlogic p281
+28a7e69b9bcf6a37
 
 luisvill
 rockchip rk322x_box
