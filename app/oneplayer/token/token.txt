@@ -11461,6 +11461,8 @@ Amazon sheldon
 fa0b5bcbd390f5ab
 OnePlus OnePlus5
 20ff346cca210531
+Amazon sheldon
+14b61e7202570f49
 
 josetrini
 Xiaomi machuca
