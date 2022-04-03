@@ -12134,6 +12134,8 @@ Xiaomi aquaman
 452fef582f2ce6e4
 Google titan-p1
 0e966e0940c22254
+Amazon sheldonp
+315fce6d5d7aefac
 
 ricardoro
 samsung beyond1
