@@ -12337,6 +12337,8 @@ HUAWEI HWEML
 d.dem
 Xiaomi willow
 529d9da0af3f4a3a
+Xiaomi oneday
+1862fdb7e70e905a
 
 antoyu
 samsung d2s
