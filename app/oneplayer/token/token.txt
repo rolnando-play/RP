@@ -7043,6 +7043,8 @@ Google sabrina
 2349c0cb5485535a
 rockchip rk322x_box
 55bc00ab0571f81d
+rockchip rk322x_box
+d484893dbe892954
 
 jjuan
 Xiaomi aquaman
