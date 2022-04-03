@@ -7041,6 +7041,8 @@ dolphin dolphin-fvd-p1
 b3b9a9d38ea31689
 Google sabrina
 2349c0cb5485535a
+rockchip rk322x_box
+55bc00ab0571f81d
 
 jjuan
 Xiaomi aquaman
@@ -11777,8 +11779,8 @@ Xiaomi oneday
 08c30a46abad63ae
 
 carlosabram
-HUAWEI HWVOG
-b3cdd3f61205d440
+Xiaomi alioth
+4b433e8db2fba60b
 samsung a12
 b5edb586bcb250f7
 OnePlus OnePlus5
