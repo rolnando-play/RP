@@ -12296,6 +12296,8 @@ Amlogic p281
 28a7e69b9bcf6a37
 Amlogic p281
 c58cb7e946ad6a55
+Amlogic p281
+9b60e27fb6b9d9d9
 
 luisvill
 rockchip rk322x_box
@@ -12312,6 +12314,8 @@ rockchip rk322x_box
 8ccbf7f9b4430585
 Android MBOX
 c7ad4a3e9c407788
+rockchip rk322x_box
+a3a519ff8e01236a
 
 aflei
 Amazon sheldonp
