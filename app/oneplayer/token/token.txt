@@ -12022,6 +12022,8 @@ Xiaomi oneday
 a184be2f3cb54739
 Xiaomi oneday
 827869a87c92fe51
+Xiaomi oneday
+759e8523ca9f8e97
 
 adilsongon
 rockchip rk322x_box
