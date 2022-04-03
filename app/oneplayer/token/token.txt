@@ -12366,3 +12366,7 @@ Xiaomi oneday
 antoyu
 samsung d2s
 d18f56a48e995ac3
+
+lisara +9
+samsung m12
+6aba2b42835ea984
