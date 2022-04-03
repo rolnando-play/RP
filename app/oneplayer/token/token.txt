@@ -7606,6 +7606,8 @@ rockchip rk322x_box
 793fe1d265d1656d
 Allwinner dolphin-fvd-p1
 99217180f0110a24
+dolphin dolphin_fvd_p1
+431474186a68f95b
 
 j88be
 Google walleye
