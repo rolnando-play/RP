@@ -12370,3 +12370,7 @@ d18f56a48e995ac3
 lisara +9
 samsung m12
 6aba2b42835ea984
+
+mau_r
+rockchip rk322x_box
+a26758391332c5d9
