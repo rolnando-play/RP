@@ -7841,6 +7841,9 @@ askey sti6140d360
 d8b62a5044b1871a
 askey sti6140d360
 fa9962a7d7821aeb
++9
+askey sti6140d360
+ab49cdae1d958fe8
 
 rr.23
 MTK cvt_mt5863_sa
@@ -7852,6 +7855,8 @@ b0623ff98ca4ed12
 +3
 Xiaomi oneday
 202f67ab503447a4
+rockchip rk3328_box
+e61de38cc6cf7c72
 
 aldo-ro +9
 Xiaomi aquaman
@@ -12289,6 +12294,8 @@ Amlogic p281
 a56fc067d7b993c2
 Amlogic p281
 28a7e69b9bcf6a37
+Amlogic p281
+c58cb7e946ad6a55
 
 luisvill
 rockchip rk322x_box
