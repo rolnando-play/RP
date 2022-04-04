@@ -12331,6 +12331,8 @@ Amlogic p281
 +6
 Amlogic p281
 6e7d312e01b2ebc6
+Amlogic p281
+2e245e67fcc9083
 
 luisvill
 rockchip rk322x_box
@@ -12426,3 +12428,7 @@ Xiaomi oneday
 89cb578e05e44aec
 Xiaomi oneday
 623b77a78a33769e
+
+carlosda
+HUAWEI HWMHA
+75f77179cf5283f3
