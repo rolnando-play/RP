@@ -11670,6 +11670,8 @@ rockchip rk322x_box
 c865288817448ef8
 rockchip rk322x_box
 19adf860154aee53
+Android MDTV5G
+80acd5c5000c420a
 
 gustavoda
 Amazon sheldonp
