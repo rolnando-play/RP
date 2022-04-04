@@ -7562,6 +7562,8 @@ dolphin dolphin-fvd-p1
 78bec415d9fffb6f
 rockchip rk322x_box
 713c1ee873f5fdb5
+rockchip rk322x_box
+b88681875181ca53
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12456,3 +12458,7 @@ HUAWEI HWMHA
 75f77179cf5283f3
 dolphin SBQ-SM007
 9a17524add47ff70
+
+victor.de
+Xiaomi sunny
+21200a718741ea1c
