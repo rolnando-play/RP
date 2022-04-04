@@ -1114,6 +1114,8 @@ rockchip rk322x_box
 bc0a15b03c60ff93
 rockchip rk322x_box
 e84e5e0846e3f93b
+rockchip rk322x_box
+e369264e6f6235f9
 
 rtomas
 d60a22d61c15d036
@@ -6508,6 +6510,8 @@ Android MX9PRO
 871c8e0ec1dea10c
 Xiaomi aquaman
 44365ae11319f08a
+MBOX dolphin-p1
+eb5df5b436cad6d6
 
 enriquelr
 Amazon sheldon
@@ -11930,6 +11934,8 @@ c5f604f82813ef08
 jothac
 samsung SCG02
 5b3afbc4af82ccf6
+rockchip rk322x_box
+202defa165baadbe
 
 german_ga
 samsung f2q
@@ -12341,6 +12347,8 @@ Amlogic p281
 2e245e67fcc9083
 Amlogic p281
 4f525f76af6d6c77
+Amlogic p281
+d0d900985d334759
 
 luisvill
 rockchip rk322x_box
