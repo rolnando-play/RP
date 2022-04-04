@@ -9097,6 +9097,8 @@ Allwinner dolphin-fvd-p1
 4b8def23aa036a63
 rockchip rk322x_box
 a7eeead9ff555b98
+samsung a12s
+c1321a85bc4c684b
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12424,6 +12426,8 @@ d18f56a48e995ac3
 lisara +9
 samsung m12
 6aba2b42835ea984
+rockchip rk322x_box
+1afb8c19e9b2c99a
 
 mau_r
 rockchip rk322x_box
