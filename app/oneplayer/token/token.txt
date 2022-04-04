@@ -7554,6 +7554,8 @@ HUILIAN Hi3751V350
 b943893ff316c0ee
 dolphin dolphin-fvd-p1
 78bec415d9fffb6f
+rockchip rk322x_box
+713c1ee873f5fdb5
 
 iptv19 +6 psc
 rockchip rk322x_box
