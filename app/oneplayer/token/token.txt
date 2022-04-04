@@ -6481,8 +6481,8 @@ Xiaomi aquaman
 4c715e8403acad91
 Android MX9PRO
 1c61ab55986c4f25
-samsung beyond2
-de65d54305559fa3
+samsung a52q
+f559d8f0c3168057
 Android MX9PRO
 bdf6d3c9ab4d710a
 samsung jackpotlte
@@ -7552,6 +7552,8 @@ rockchip rk322x_box
 c44e5580a45be945
 HUILIAN Hi3751V350
 b943893ff316c0ee
+dolphin dolphin-fvd-p1
+78bec415d9fffb6f
 
 iptv19 +6 psc
 rockchip rk322x_box
