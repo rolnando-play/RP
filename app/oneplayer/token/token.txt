@@ -9714,6 +9714,8 @@ rockchip rk322x_box
 dd9d663bf296fa7f
 rockchip rk322x_box
 6998289a694fb462
+rockchip rk322x_box
+a4ce63bc0863031a
 
 brandonmk
 Xiaomi begonia
@@ -12370,6 +12372,8 @@ a3a519ff8e01236a
 +6
 Amazon sheldonp
 1ec6c25ecaad463d
+Hisilicon Hi3751V350
+7125ddeec8458748
 
 aflei
 Amazon sheldonp
