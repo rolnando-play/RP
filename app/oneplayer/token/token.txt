@@ -8185,6 +8185,8 @@ MTK cvt_mt5886_sa
 79a5c2046552686e
 rockchip rk322x_box
 2cf6511a7a752483
+rockchip rk322x_box
+456b1735ff3de37f
 
 rocapo
 dolphin dolphin-fvd-p1
