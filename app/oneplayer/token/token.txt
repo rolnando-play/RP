@@ -12224,6 +12224,8 @@ Amazon sheldon
 f083edf238cdbe38
 Xiaomi aquaman
 d35d3a0d457830b1
+Xiaomi aquaman
+886a3a9ea084b5c0
 
 walter_si
 rockchip rk322x_box
