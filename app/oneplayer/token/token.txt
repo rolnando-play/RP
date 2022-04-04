@@ -4619,6 +4619,8 @@ rockchip rk322x_box
 527d2dfa2d132157
 Amlogic p201
 696ca962ffd58a7c
+dolphin dolphin-fvd-p1
+b295ba8091e38b26
 
 lisandra
 MTK cvt_mt5863_sa
@@ -7856,6 +7858,8 @@ askey sti6140d360
 ab49cdae1d958fe8
 askey sti6140d360
 f5b7ad9e20a751af
+rockchip rk322x_box
+2c78b1d38639cf69
 
 rr.23
 MTK cvt_mt5863_sa
@@ -12432,3 +12436,5 @@ Xiaomi oneday
 carlosda
 HUAWEI HWMHA
 75f77179cf5283f3
+dolphin SBQ-SM007
+9a17524add47ff70
