@@ -12380,3 +12380,11 @@ samsung m12
 mau_r
 rockchip rk322x_box
 a26758391332c5d9
+
+jokerke
+samsung a50
+37df6b8fd086fb1b
+
+anmora +6
+OnePlus OnePlus8T
+fde7630b0d75b3b7
