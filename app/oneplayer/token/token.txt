@@ -358,6 +358,9 @@ rockchip rk322x_box
 dfcb410c765ee97d
 Google walleye
 9d70a4957c72c4c4
+PinguimTv p231
+7ac7c74780038e35
++3
 
 AQuinonez
 S905W
