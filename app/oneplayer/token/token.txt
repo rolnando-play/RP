@@ -12548,3 +12548,7 @@ HUAWEI HWVOG
 6694793ec990f725
 Google sabrina
 fc57cf5bbf4d6fff
+
+altemb
+Xiaomi merlin
+052350d0d2f0090e
