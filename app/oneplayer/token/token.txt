@@ -12494,6 +12494,8 @@ OnePlus OnePlus8T
 fde7630b0d75b3b7
 Xiaomi oneday
 4e5242939230c2ed
+SDMC DV8547
+88702c8e682342dc
 
 jakelinca
 motorola hanoip
