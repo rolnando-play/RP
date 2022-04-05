@@ -2580,7 +2580,7 @@ rockchip rk322x_box
 
 atles
 Xiaomi aquaman
-3f2946045cf8cba5
+dd21c387aad6a7c7
 MTK cvt_mt5863_sa
 a23d82471d1bbfd6
 Xiaomi aquaman
