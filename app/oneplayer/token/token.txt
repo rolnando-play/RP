@@ -10477,7 +10477,8 @@ Xiaomi aquaman
 +6 psc
 Xiaomi aquaman
 754896f962dcf12c
-
+rockchip rk322x_box
+a5a66b6b13497b5c
 
 hheimb
 samsung a50
