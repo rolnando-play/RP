@@ -367,12 +367,8 @@ S905W
 355760360a1240c2.
 
 rodrigoes
-samsung a30
-45b6ae9890791557
-Samsung OnePlus5
-f2869a7362256cb7
-samsung a10s
-d4dfb2901bf71281
+samsung j7velte
+ac19fc55a38c6cb1
 
 marcelo.sa
 Redmi Note 8 Pro
@@ -3634,8 +3630,8 @@ dolphin dolphin_fvd_p1
 9e0b12eacfce1e70
 rockchip rk3328_box
 99ad31e6fcabb006
-Zplus Hi3798MV100
-47ffcfdc3883f4fb
+Xiaomi oneday
+3c850b60ac64f3b1
 Xiaomi courbet
 697359f86043af20
 samsung t2s
@@ -12161,6 +12157,8 @@ samsung a50
 bf600f8abe38f9df
 rockchip rk322x_box
 74885f5d1a9c30df
+Xiaomi aquaman
+8087eed84c158aab
 
 cei.gue +5 psc
 Xiaomi begonia
