@@ -11188,6 +11188,8 @@ Xiaomi vayu
 fbe0c93893100e65
 MBOX dolphin-p1
 8d0c6ae4112d6a0d
+rockchip rk322x_box
+fbfcca42ee864a0c
 
 venancioza
 samsung starqltesq
