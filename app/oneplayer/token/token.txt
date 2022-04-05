@@ -6219,6 +6219,8 @@ MTK cvt_mt5863_sa
 b419026faf1129a4
 rockchip rk322x_box
 592fd6bb2741a574
+rockchip rk322x_box
+a5ee89d41b1396fd
 
 gonzalezju +6
 HUAWEI HWYAL
