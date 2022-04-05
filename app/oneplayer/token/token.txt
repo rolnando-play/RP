@@ -9737,6 +9737,8 @@ samsung gta2xllte
 +3
 dolphin SBQ-SM007
 446fd2c2271e1f7a
+rockchip rk322x_box
+8a3a552a10e0058
 
 joseb
 Xiaomi ginkgo
