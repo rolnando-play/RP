@@ -7566,6 +7566,8 @@ rockchip rk322x_box
 713c1ee873f5fdb5
 rockchip rk322x_box
 b88681875181ca53
+rockchip rk322x_box
+275ae03e505aaae2
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12012,6 +12014,8 @@ Allwinner dolphin-fvd-p1
 1a06f3b5dee5a9aa
 amlogic sw01
 7742dec7bbe441d2
+samsung a72q
+8a751e5194300882
 
 alfreman
 Allwinner dolphin-fvd-p1
