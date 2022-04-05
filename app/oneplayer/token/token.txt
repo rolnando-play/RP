@@ -9553,6 +9553,7 @@ samsung a30s
 c70dfdb3c75b7aaf
 LGE mmh4p-pr
 6d1e5ad2c3b0f24b
++9
 
 gonzaloez
 Xiaomi surya
@@ -12476,3 +12477,7 @@ dolphin SBQ-SM007
 victor.de
 Xiaomi sunny
 21200a718741ea1c
+
+luismi07
+dolphin dolphin_fvd_p1
+650a71114efb3af2
