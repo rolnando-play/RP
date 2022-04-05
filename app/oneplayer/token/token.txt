@@ -9103,6 +9103,8 @@ rockchip rk322x_box
 a7eeead9ff555b98
 samsung a12s
 c1321a85bc4c684b
+Xiaomi oneday
+539db30b60757477
 
 danieljo
 Allwinner dolphin-fvd-p1
