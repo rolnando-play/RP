@@ -6217,6 +6217,8 @@ rockchip rk322x_box
 e2897f6e04411c64
 MTK cvt_mt5863_sa
 b419026faf1129a4
+rockchip rk322x_box
+592fd6bb2741a574
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -9817,6 +9819,8 @@ Xiaomi oneday
 16af24e0a35e4a1c
 Samsung a31
 78d0bcd6b55cc9ba
+rockchip rk3328_box
+30c231188882be5b
 
 pjc2211 +9
 dolphin dolphin_fvd_p1
@@ -10867,13 +10871,15 @@ nellop
 Amlogic p212
 3838c8ce5bda56b7
 
-victorman
+victorman +6
 samsung a31
 268568fa4896675c
 Amazon sheldonp
 3bc6238850c6356d
 TCL BeyondTV
 79c9f6fdaf565e15
+Rockchip rk3328_box
+34e6d6cbae0a4597
 
 oscarama
 Amazon sheldon
@@ -12528,3 +12534,5 @@ dolphin dolphin_fvd_p1
 maurica +6
 HUAWEI HWVOG
 6694793ec990f725
+Google sabrina
+fc57cf5bbf4d6fff
