@@ -9566,6 +9566,8 @@ c70dfdb3c75b7aaf
 LGE mmh4p-pr
 6d1e5ad2c3b0f24b
 +9
+motorola nicklaus_f
+55666dc3ff9bca55
 
 gonzaloez
 Xiaomi surya
