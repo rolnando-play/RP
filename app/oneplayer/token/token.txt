@@ -12399,6 +12399,8 @@ Amlogic p281
 de23e149b9b34484
 Amlogic p281
 f33fba193a4676c8
+Amlogic p281
+7a3907f14c1800b
 
 luisvill
 rockchip rk322x_box
@@ -12514,3 +12516,7 @@ Xiaomi sunny
 luismi07
 dolphin dolphin_fvd_p1
 650a71114efb3af2
+
+maurica +6
+HUAWEI HWVOG
+6694793ec990f725
