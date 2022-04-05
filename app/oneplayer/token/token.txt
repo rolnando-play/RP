@@ -5450,6 +5450,8 @@ rockchip rk322x_box
 +6
 rockchip rk322x_box
 9c5360d1e9f6f659
+rockchip rk322x_box
+b9aa438811a67916
 
 its.cm
 Amlogic p282
@@ -10467,7 +10469,7 @@ franciscoag
 HUAWEI HWSTK-HF
 2bb82593f037206a
 Amlogic franklin
-b44b9389e2e83953
+00c2aea4e4ab9216
 
 andrespc
 Xiaomi oneday
