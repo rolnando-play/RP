@@ -10477,8 +10477,7 @@ Xiaomi aquaman
 +6 psc
 Xiaomi aquaman
 754896f962dcf12c
-rockchip rk322x_box
-862c5ca0ebee158d
+
 
 hheimb
 samsung a50
@@ -12532,6 +12531,8 @@ HUAWEI HWMHA
 75f77179cf5283f3
 dolphin SBQ-SM007
 9a17524add47ff70
+motorola cyprus64
+c7b6d49eda7f846d
 
 victor.de
 Xiaomi sunny
