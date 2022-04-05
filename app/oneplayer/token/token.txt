@@ -7568,6 +7568,8 @@ rockchip rk322x_box
 b88681875181ca53
 rockchip rk322x_box
 275ae03e505aaae2
+rockchip rk322x_box
+352bd123cf206a1
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -7883,6 +7885,8 @@ Xiaomi oneday
 202f67ab503447a4
 rockchip rk3328_box
 e61de38cc6cf7c72
+rockchip rk322x_box
+fd2a3809ebaca589
 
 aldo-ro +9
 Xiaomi aquaman
@@ -10443,6 +10447,8 @@ Xiaomi aquaman
 +6 psc
 Xiaomi aquaman
 754896f962dcf12c
+rockchip rk322x_box
+862c5ca0ebee158d
 
 hheimb
 samsung a50
