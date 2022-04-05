@@ -9720,6 +9720,8 @@ rockchip rk322x_box
 6998289a694fb462
 rockchip rk322x_box
 a4ce63bc0863031a
+Amazon sheldon
+71f28f1da7259278
 
 brandonmk
 Xiaomi begonia
