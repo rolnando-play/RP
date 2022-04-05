@@ -6520,6 +6520,8 @@ Xiaomi aquaman
 44365ae11319f08a
 MBOX dolphin-p1
 eb5df5b436cad6d6
+rockchip rk322x_box
+ed7079057bd6b53
 
 enriquelr
 Amazon sheldon
@@ -6766,8 +6768,8 @@ Amlogic p281
 7e62156c72b9d669
 
 juama9
-samsung dream2lte
-4ab5e5ec52f6f4ce
+samsung r8q
+21af2434c9eb4bbe
 Amazon onyx
 500960f444ae5be1
 Xiaomi aquaman
@@ -12401,6 +12403,8 @@ Amlogic p281
 f33fba193a4676c8
 Amlogic p281
 7a3907f14c1800b
+Amlogic p281
+8978873d43894d7e
 
 luisvill
 rockchip rk322x_box
