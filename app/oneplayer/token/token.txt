@@ -7570,6 +7570,8 @@ rockchip rk322x_box
 275ae03e505aaae2
 rockchip rk322x_box
 352bd123cf206a1
+rockchip rk322x_box
+13d486957c549af9
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9400,6 +9402,8 @@ Amazon sheldon
 d34a345867139031
 rockchip MK
 f995121eb4a4da1a
+rockchip rk322x_box
+9d4bfd3c5c60f3c8
 
 gergod +6
 Amlogic franklin
