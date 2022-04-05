@@ -2496,6 +2496,8 @@ Amazon sheldon
 cce864731f0392f2
 Amazon sheldon
 8ff5bc30d5efa2b1
+Xiaomi oneday
+5365fdf8cb993e11
 
 pedrojuan91
 rockchip rk322x_box
