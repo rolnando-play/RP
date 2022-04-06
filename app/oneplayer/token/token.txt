@@ -4654,6 +4654,8 @@ Amlogic p201
 696ca962ffd58a7c
 dolphin dolphin-fvd-p1
 b295ba8091e38b26
+Amlogic p201
+2265f017d2c9828c
 
 lisandra
 MTK cvt_mt5863_sa
@@ -6255,6 +6257,8 @@ rockchip rk322x_box
 8385c04125f7f073
 rockchip rk322x_box
 c46c2ad89100f9e8
+Xiaomi aquaman
+af08a7eb389d9843
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -7934,6 +7938,8 @@ rockchip rk322x_box
 2c78b1d38639cf69
 Allwinner dolphin-fvd-p1
 c2ca54ee52cd4dc2
+dolphin dolphin-fvd-p1
+a336d2a894523ffb
 
 rr.23
 MTK cvt_mt5863_sa
