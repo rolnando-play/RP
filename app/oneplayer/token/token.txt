@@ -9650,6 +9650,8 @@ LGE mmh4p-pr
 +9
 motorola nicklaus_f
 55666dc3ff9bca55
+samsung a12
+650333cf08eb012d
 
 gonzaloez
 Xiaomi surya
@@ -12537,6 +12539,8 @@ Xiaomi oneday
 0c1d21ae66719aeb
 Xiaomi oneday
 7275d65e2f4abe7d
+rockchip rk322x_box
+92ca394b5417c27c
 
 aflei
 Amazon sheldonp
