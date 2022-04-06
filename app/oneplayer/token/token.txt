@@ -11081,6 +11081,10 @@ Xiaomi oneday
 Amazon tank
 aa3539f79838d162
 
+lezcano.
+Xiaomi aquaman
+d10254180cb8b7be
+
 marcos.ru
 Google sabrina
 
@@ -12664,3 +12668,7 @@ Amazon sheldon
 tvcentro
 rockchip rk322x_box
 3e14e35058ae2578
+
+angelca
+Amazon mantis
+d83dab74ea9bc192
