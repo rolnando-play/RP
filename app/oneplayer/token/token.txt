@@ -8248,7 +8248,7 @@ ef6d6cfaaea8196d
 rockchip rk322x_box
 31557f728825fa84
 Android MBOX
-43f567107626d23a
+36debdcbe375ffc6
 Xiaomi aquaman
 3c36820f41d0e6df
 MTK cvt_mt5886_sa
