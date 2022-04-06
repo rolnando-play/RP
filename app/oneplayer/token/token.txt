@@ -12486,6 +12486,8 @@ Amlogic p281
 11a005d31dd16ded
 Amlogic p281
 78637ab1fad8f186
+Amlogic p281
+661c02b0670ff359
 
 luisvill
 rockchip rk322x_box
@@ -12626,3 +12628,7 @@ c90345d97dee421a
 davichi +6
 Xiaomi oneday
 2a6cdef1b4286237
+
+gonzalezhr
+Amazon sheldon
+0a6139178546a705
