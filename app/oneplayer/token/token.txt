@@ -6526,6 +6526,10 @@ MBOX dolphin-p1
 eb5df5b436cad6d6
 rockchip rk322x_box
 ed7079057bd6b53
+Android MX9PRO
+ae9104e81b453209
+Android MX9PRO
+442ed0ab2b083c7b
 
 enriquelr
 Amazon sheldon
@@ -7584,6 +7588,8 @@ rockchip rk322x_box
 352bd123cf206a1
 rockchip rk322x_box
 13d486957c549af9
+rockchip rk322x_box
+17901f6b02a7c5b7
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9424,6 +9430,8 @@ rockchip rk322x_box
 9d4bfd3c5c60f3c8
 rockchip rk322x_box
 866075ec0d2df836
+Amazon sheldon
+c6e7554d7cd1c616
 
 gergod +6
 Amlogic franklin
