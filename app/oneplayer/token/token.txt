@@ -3594,6 +3594,8 @@ rockchip rk322x_box
 a36b91e7be52ab54
 dolphin dolphin_fvd_p1
 ea64ece416855365
+rockchip rk322x_box
+7e3a98c7bb8cb906
 
 oscarmaar +6
 samsung beyond2
@@ -4656,6 +4658,8 @@ dolphin dolphin-fvd-p1
 b295ba8091e38b26
 Amlogic p201
 2265f017d2c9828c
+Amlogic p201
+cfdcf13cb100c76c
 
 lisandra
 MTK cvt_mt5863_sa
@@ -10866,6 +10870,8 @@ Amazon trona
 +3
 rockchip rk322x_box
 c7e21dfe27e2d1cb
+Xiaomi alioth
+ebd315a51056a5d2
 
 richardmir
 rockchip rk322x_box
