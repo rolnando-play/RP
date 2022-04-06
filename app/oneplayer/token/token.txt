@@ -1607,6 +1607,14 @@ rockchip rk322x_box
 7b952b55f226ef1b
 rockchip rk322x_box
 1a5510afd27d1a3e
+rockchip rk322x_box
+2d616e017f654929
+rockchip rk322x_box
+a4ce63bc0863031a
+Amazon sheldon
+71f28f1da7259278
+rockchip rk322x_box
+b112d173888af09e
 
 ruthgis
 S905W
@@ -9793,14 +9801,7 @@ rockchip rk322x_box
 dd9d663bf296fa7f
 rockchip rk322x_box
 6998289a694fb462
-rockchip rk322x_box
-a4ce63bc0863031a
-Amazon sheldon
-71f28f1da7259278
-rockchip rk322x_box
-b112d173888af09e
-rockchip rk322x_box
-2d616e017f654929
+
 
 brandonmk
 Xiaomi begonia
