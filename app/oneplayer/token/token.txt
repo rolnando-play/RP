@@ -6548,6 +6548,8 @@ Android MX9PRO
 ae9104e81b453209
 Android MX9PRO
 442ed0ab2b083c7b
+Android MX9PRO
+84c7dbb2f8a79336
 
 enriquelr
 Amazon sheldon
@@ -11775,6 +11777,8 @@ rockchip rk322x_box
 19adf860154aee53
 Android MDTV5G
 80acd5c5000c420a
+rockchip rk322x_box
+46275d73a8673e15
 
 gustavoda
 Amazon sheldonp
@@ -12245,6 +12249,8 @@ OnePlus OnePlus7T
 dfaabdd49eb95309
 Xiaomi oneday
 03d40b165e223027
+Amazon kara
+fe856bf608b13c11
 
 gcgab +6
 Xiaomi surya
@@ -12461,6 +12467,10 @@ Amlogic p281
 7a3907f14c1800b
 Amlogic p281
 8978873d43894d7e
+Amlogic p281
+ba6cfdacd4bef87a
+Amlogic p281
+e15b2fb1703bb82f
 
 luisvill
 rockchip rk322x_box
@@ -12594,3 +12604,7 @@ Xiaomi merlin
 052350d0d2f0090e
 Xiaomi oneday
 c90345d97dee421a
+
+davichi +6
+Xiaomi oneday
+2a6cdef1b4286237
