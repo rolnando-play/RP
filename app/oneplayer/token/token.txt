@@ -6223,6 +6223,9 @@ rockchip rk322x_box
 592fd6bb2741a574
 rockchip rk322x_box
 a5ee89d41b1396fd
++18
+rockchip rk322x_box
+f8c97a5f619c12bb
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -12466,6 +12469,8 @@ Amazon sheldonp
 1ec6c25ecaad463d
 Hisilicon Hi3751V350
 7125ddeec8458748
+Xiaomi oneday
+0c1d21ae66719aeb
 
 aflei
 Amazon sheldonp
