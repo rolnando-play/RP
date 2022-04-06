@@ -9476,6 +9476,8 @@ Amazon sheldon
 c6e7554d7cd1c616
 Amazon sheldon
 7f9e8d0e248cde37
+rockchip rk322x_box
+9eb675367a12e180
 
 gergod +6
 Amlogic franklin
@@ -12521,6 +12523,8 @@ Hisilicon Hi3751V350
 7125ddeec8458748
 Xiaomi oneday
 0c1d21ae66719aeb
+Xiaomi oneday
+7275d65e2f4abe7d
 
 aflei
 Amazon sheldonp
