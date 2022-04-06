@@ -9799,6 +9799,8 @@ Amazon sheldon
 71f28f1da7259278
 rockchip rk322x_box
 b112d173888af09e
+rockchip rk322x_box
+2d616e017f654929
 
 brandonmk
 Xiaomi begonia
@@ -12478,6 +12480,8 @@ e15b2fb1703bb82f
 +12
 Amlogic p281
 8e94c221bd66b84f
+Amlogic p281
+11a005d31dd16ded
 
 luisvill
 rockchip rk322x_box
