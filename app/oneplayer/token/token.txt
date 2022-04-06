@@ -9936,6 +9936,8 @@ dolphin dolphin-fvd-p1
 +3
 rockchip rk3328_box
 1a6164a871b1c1d5
+HUAWEI HWJNY
+fa062c07381389be
 
 rodrigo.vi
 Xiaomi beryllium
