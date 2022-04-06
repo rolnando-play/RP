@@ -369,6 +369,8 @@ S905W
 rodrigoes
 samsung j7velte
 ac19fc55a38c6cb1
+Xiaomi biloba
+1160eb6ef881d17a
 
 marcelo.sa
 Redmi Note 8 Pro
@@ -12554,3 +12556,5 @@ fc57cf5bbf4d6fff
 altemb
 Xiaomi merlin
 052350d0d2f0090e
+Xiaomi oneday
+c90345d97dee421a
