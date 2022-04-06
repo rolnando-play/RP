@@ -12632,3 +12632,7 @@ Xiaomi oneday
 gonzalezhr
 Amazon sheldon
 0a6139178546a705
+
+tvcentro
+rockchip rk322x_box
+3e14e35058ae2578
