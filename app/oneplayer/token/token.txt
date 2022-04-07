@@ -6270,6 +6270,8 @@ Xiaomi aquaman
 af08a7eb389d9843
 rockchip rk322x_box
 867feee2125a6944
+Amazon sheldon
+6cb6910be4def687
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -12567,6 +12569,8 @@ Amlogic p281
 c634b599d07bbe90
 Amlogic p281
 f57eb79c76a0edf6
+rockchip rk322x_box
+d5c9f6b80c65a8e2
 
 luisvill
 rockchip rk322x_box
