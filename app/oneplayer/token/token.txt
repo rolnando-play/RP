@@ -12673,6 +12673,8 @@ samsung a50
 37df6b8fd086fb1b
 Xiaomi aquaman
 2b05b3a6f4dc4a25
+Xiaomi joyeuse
+5f96f40d2c528315
 
 anmora +6
 OnePlus OnePlus8T
