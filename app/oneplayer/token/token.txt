@@ -9208,6 +9208,8 @@ Amazon sheldonp
 3884ba75bf9f627e
 Amlogic p281
 fa461f3d95c97ebe
+rockchip rk322x_box
+bd35a17763db34e3
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12608,6 +12610,9 @@ rockchip rk322x_box
 92ca394b5417c27c
 Allwinner dolphin-fvd-p1
 97a8a653e1f390a2
++6
+Android MDTV5G
+a71bf694f36ff3aa
 
 aflei
 Amazon sheldonp
