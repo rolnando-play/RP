@@ -9498,6 +9498,9 @@ rockchip rk322x_box
 9eb675367a12e180
 Android MDTV5G
 f8ac59eeb53004d4
++18 usdt
+Android MDTV5G
+f9cb963b6cb962c
 
 gergod +6
 Amlogic franklin
@@ -12688,6 +12691,8 @@ rockchip rk322x_box
 angelca
 Amazon mantis
 d83dab74ea9bc192
+MBOX dolphin-p1
+2358cfec0ddbb837
 
 gferra
 Xiaomi oneday
