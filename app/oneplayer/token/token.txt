@@ -9275,6 +9275,8 @@ dolphin dolphin-fvd-p1
 5688acb85c0c8296
 Allwinner dolphin-fvd-p1
 8676df3a59a124c7
+SmartTV 10839
+e9280cc25ab1df29
 
 angelpa btc
 rockchip rk322x_box
@@ -12761,3 +12763,7 @@ MTK cvt_mt5886_sa
 amado9 +6
 samsung a71
 611edaeba7ea7230
+
+everarn
+Xiaomi oneday
+14e22001550be04f
