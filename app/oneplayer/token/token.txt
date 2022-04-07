@@ -12167,6 +12167,9 @@ samsung a72q
 8a751e5194300882
 rockchip rk322x_box
 60fed5be1dedaedd
++6
+Amlogic p281
+dbe64b0a3c378104
 
 alfreman
 Allwinner dolphin-fvd-p1
