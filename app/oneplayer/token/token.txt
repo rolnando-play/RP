@@ -363,6 +363,8 @@ PinguimTv p231
 +3
 Amazon sheldon
 c908959a516d5f70
+PinguimTv p231
+b518a5374ab1a01d
 
 AQuinonez
 S905W
@@ -4309,6 +4311,9 @@ Amazon tank
 1c23179ca97a9cdf
 Amazon mantis
 7ed35f5ed86ee374
++18
+Amazon mantis
+267bf7cc27bc62c2
 
 rigole1
 TCL BeyondTV
@@ -12541,6 +12546,12 @@ Amlogic p281
 78637ab1fad8f186
 Amlogic p281
 661c02b0670ff359
+Amlogic p281
+f1019912a1dda2f
+Amlogic p281
+4cf732610fbcb48b
+Amlogic p281
+7704cf12da002a75
 
 luisvill
 rockchip rk322x_box
