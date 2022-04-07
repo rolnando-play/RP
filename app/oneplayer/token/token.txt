@@ -12772,3 +12772,7 @@ samsung a71
 everarn
 Xiaomi oneday
 14e22001550be04f
+
+antonio31
+samsung hero2lte
+ba919eb7c1528fd8
