@@ -7638,6 +7638,8 @@ rockchip rk322x_box
 17901f6b02a7c5b7
 rockchip rk322x_box
 f6a3c0e62945732e
+rockchip rk322x_box
+84b5766774f51db1
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9503,6 +9505,8 @@ Android MDTV5G
 f9cb963b6cb962c
 Amazon sheldon
 df00eda5c292983d
+Android MDTV5G
+f103d8cae0907a98
 
 gergod +6
 Amlogic franklin
