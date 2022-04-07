@@ -9501,6 +9501,8 @@ f8ac59eeb53004d4
 +18 usdt
 Android MDTV5G
 f9cb963b6cb962c
+Amazon sheldon
+df00eda5c292983d
 
 gergod +6
 Amlogic franklin
