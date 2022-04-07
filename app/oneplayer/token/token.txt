@@ -7698,6 +7698,8 @@ Allwinner dolphin-fvd-p1
 99217180f0110a24
 dolphin dolphin_fvd_p1
 431474186a68f95b
+Android MBOX
+12599a63a6fa6828
 
 j88be
 Google walleye
@@ -9252,6 +9254,10 @@ samsung a30s
 7651a78df30bdb27
 unknown CVTE_Hi3751V530_768M
 d58e453f121758a4
+dolphin dolphin-fvd-p1
+5688acb85c0c8296
+Allwinner dolphin-fvd-p1
+8676df3a59a124c7
 
 angelpa btc
 rockchip rk322x_box
@@ -9490,6 +9496,8 @@ Amazon sheldon
 7f9e8d0e248cde37
 rockchip rk322x_box
 9eb675367a12e180
+Android MDTV5G
+f8ac59eeb53004d4
 
 gergod +6
 Amlogic franklin
