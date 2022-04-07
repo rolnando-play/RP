@@ -12663,6 +12663,8 @@ samsung m12
 6aba2b42835ea984
 rockchip rk322x_box
 1afb8c19e9b2c99a
+motorola guam
+9b56cc98321ffb8e
 
 mau_r
 rockchip rk322x_box
