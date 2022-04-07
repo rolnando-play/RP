@@ -7126,6 +7126,8 @@ rockchip rk322x_box
 586a63c31f52188
 MTK cvt_mt5863_sa
 9a366b12650c8aa6
+Amlogic p281
+f400c031de02c878
 
 jjuan
 Xiaomi aquaman
@@ -7645,6 +7647,8 @@ rockchip rk322x_box
 f6a3c0e62945732e
 rockchip rk322x_box
 84b5766774f51db1
+rockchip rk322x_box
+83ca8d812e2cc9da
 
 iptv19 +6 psc
 rockchip rk322x_box
