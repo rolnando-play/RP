@@ -8292,6 +8292,8 @@ rockchip rk322x_box
 2cf6511a7a752483
 rockchip rk322x_box
 456b1735ff3de37f
+Android MDTV5G
+a215ac500bcc1235
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -12554,6 +12556,8 @@ Amlogic p281
 7704cf12da002a75
 Amlogic p281
 c634b599d07bbe90
+Amlogic p281
+f57eb79c76a0edf6
 
 luisvill
 rockchip rk322x_box
@@ -12736,3 +12740,7 @@ a1d748eacf42cdfc
 aduarte@
 MTK cvt_mt5886_sa
 47fe4f253340ad46
+
+amado9 +6
+samsung a71
+611edaeba7ea7230
