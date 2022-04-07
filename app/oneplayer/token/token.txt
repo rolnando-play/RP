@@ -6268,6 +6268,8 @@ rockchip rk322x_box
 c46c2ad89100f9e8
 Xiaomi aquaman
 af08a7eb389d9843
+rockchip rk322x_box
+867feee2125a6944
 
 gonzalezju +6
 HUAWEI HWYAL
