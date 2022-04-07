@@ -12707,3 +12707,7 @@ Xiaomi aquaman
 3492b7144fcaf3f2
 realme RMX2170L1
 a1d748eacf42cdfc
+
+aduarte@
+MTK cvt_mt5886_sa
+47fe4f253340ad46
