@@ -12385,6 +12385,8 @@ Xiaomi aquaman
 d35d3a0d457830b1
 Xiaomi aquaman
 886a3a9ea084b5c0
+Amazon mantis
+f9aa75eede4ada6b
 
 walter_si
 rockchip rk322x_box
