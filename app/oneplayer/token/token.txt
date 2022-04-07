@@ -12581,6 +12581,8 @@ Xiaomi oneday
 7275d65e2f4abe7d
 rockchip rk322x_box
 92ca394b5417c27c
+Allwinner dolphin-fvd-p1
+97a8a653e1f390a2
 
 aflei
 Amazon sheldonp
