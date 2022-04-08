@@ -9892,6 +9892,8 @@ rockchip rk322x_box
 89df3894b417ae15
 rockchip rk322x_box
 c858bf7e05272d57
+rockchip rk322x_box
+6a7b991d31b62833
 
 brandonmk
 Xiaomi begonia
@@ -12818,7 +12820,7 @@ a1d748eacf42cdfc
 
 aduarte@
 MTK cvt_mt5886_sa
-47fe4f253340ad46
+4e24ca40eb35c427
 MBOX dolphin-p1
 35aab1df21ee6e92
 
@@ -12861,3 +12863,7 @@ bc210efc6f32e9db
 jleona
 HUAWEI HWMAR
 a380b937b843bc0f
+
+swbeni
+Xiaomi surya
+1c0e646284cdd4ff
