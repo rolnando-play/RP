@@ -9560,6 +9560,8 @@ Amazon sheldon
 df00eda5c292983d
 Android MDTV5G
 f103d8cae0907a98
+rockchip rk322x_box
+940b25d55382bff
 
 gergod +6
 Amlogic franklin
@@ -12892,3 +12894,7 @@ Xiaomi oneday
 ad009ce34b2bc51b
 dolphin dolphin_fvd_p1
 3d6ef02b8f35e528
+
+janopl
+Xiaomi lancelot
+1c1b2e4eab2ccd5d
