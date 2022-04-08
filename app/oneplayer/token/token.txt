@@ -5308,6 +5308,9 @@ Amazon maverick
 a3cb6cf21710ad63
 rockchip rk322x_box
 53464f179d232b84
++6
+rockchip rk322x_box
+9a7a388d36f0b10d
 
 cuentatv
 Allwinner dolphin-fvd-p1
