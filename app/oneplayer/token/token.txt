@@ -9899,6 +9899,8 @@ rockchip rk322x_box
 6a7b991d31b62833
 rockchip rk322x_box
 676ba5ae539ff762
+rockchip rk322x_box
+ea40217c5188d234
 
 brandonmk
 Xiaomi begonia
@@ -12747,6 +12749,8 @@ emdoor ACRUX
 222fdbe7e78683fa
 SDMC DV8547
 9b6287db2d5fae64
+SDMC DV8547
+b375f4f716cfece7
 +3
 
 jakelinca
