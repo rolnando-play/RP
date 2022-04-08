@@ -3010,6 +3010,8 @@ rockchip rk322x_box
 205585d39c68ef0e
 Xiaomi curtana
 9dbcc262bab3c0f9
+samsung a12
+375875b9174890c1
 
 aescobar9
 samsung y2s
@@ -6600,6 +6602,8 @@ rockchip rk322x_box
 1b15dca4ed9d62f4
 rockchip rk322x_box
 213b2d10f4840ddd
+rockchip MXQ PRO
+470ec827d1f8eabe
 
 enriquelr
 Amazon sheldon
@@ -8459,6 +8463,9 @@ Xiaomi aquaman
 5bc03c19aa010ab0
 rockchip rk322x_box
 1d7c8ff3f4fd161d
++3
+rockchip rk322x_box
+286cc54ab3e6354d
 
 nucny
 Xiaomi aquaman
@@ -10745,6 +10752,8 @@ rockchip rk322x_box
 99d77ecd1ed2343e
 rockchip rk322x_box
 72056e44491d0f1f
+Allwinner dolphin-fvd-p1
+19c0ecd5fa492ef0
 
 arevalosve
 Amazon sheldonp
@@ -12639,6 +12648,8 @@ Allwinner dolphin-fvd-p1
 +6
 Android MDTV5G
 a71bf694f36ff3aa
+Amlogic p282
+b45a4f3be147bcb5
 
 aflei
 Amazon sheldonp
