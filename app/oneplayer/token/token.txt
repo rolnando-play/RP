@@ -992,9 +992,7 @@ samsung goyave3g
 2f76fe5f1356cdf7
 +3
 Xiaomi machuca
-5d08f90ab434d450
-Xiaomi machuca
-bd76f81049bb972e
+de0bab55b1b3828a
 rockchip rk322x_box
 b83e1ebd22db7eb9
 
