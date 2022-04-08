@@ -5050,6 +5050,8 @@ samsung starqltechn
 12950245620f634c
 MTK cvt_mt5863_sa
 4427c7bd6f64d6c7
+Xiaomi alioth
+4450ff09d7e0a8c6
 
 aldoandr
 Xiaomi davinci
