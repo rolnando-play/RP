@@ -6274,6 +6274,10 @@ rockchip rk322x_box
 867feee2125a6944
 Amazon sheldon
 6cb6910be4def687
+Android MDTV5G
+17b32d00ca1be7c5
+Android MDTV5G
+bc222e7e799cf49
 
 gonzalezju +6
 HUAWEI HWYAL
