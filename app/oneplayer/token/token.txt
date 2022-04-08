@@ -12811,3 +12811,7 @@ Xiaomi joyeuse
 franci_n
 samsung a70q
 6834fd0334617e07
+
+metallig
+samsung a52q
+ab1719c660383ecc
