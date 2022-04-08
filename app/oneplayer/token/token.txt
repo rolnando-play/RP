@@ -12843,3 +12843,5 @@ Xiaomi laurel_sprout
 kiluadel
 TCL BeyondTV
 8f18898a77a75a16
+motorola saipan
+bc210efc6f32e9db
