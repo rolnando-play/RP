@@ -7676,6 +7676,9 @@ rockchip rk322x_box
 83ca8d812e2cc9da
 rockchip rk322x_box
 5d63f9980d16307a
++18
+dolphin dolphin-fvd-p1
+fbb33048bb228b98
 
 iptv19 +6 psc
 rockchip rk322x_box
