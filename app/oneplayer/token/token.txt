@@ -2021,6 +2021,8 @@ Amazon sheldon
 a75cb354dd023cde
 Google titan-p1
 40445b4033d9c86e
+Amazon sheldon
+2aad5b354766e3c0
 
 ricar.fu
 HUAWEI HWMAR
@@ -9872,6 +9874,8 @@ rockchip rk322x_box
 6998289a694fb462
 rockchip rk322x_box
 89df3894b417ae15
+rockchip rk322x_box
+c858bf7e05272d57
 
 brandonmk
 Xiaomi begonia
