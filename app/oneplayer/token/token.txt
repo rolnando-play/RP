@@ -12182,6 +12182,8 @@ rockchip rk322x_box
 +6
 Amlogic p281
 dbe64b0a3c378104
+MBX m201_512m
+781222e5f0c761a
 
 alfreman
 Allwinner dolphin-fvd-p1
