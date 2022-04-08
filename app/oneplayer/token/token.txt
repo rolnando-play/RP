@@ -6585,6 +6585,15 @@ Android MX9PRO
 84c7dbb2f8a79336
 Android MX9PRO
 f5d3d0b8387204ff
+rockchip rk322x_box
+bb17209c0be322b0
++9
+rockchip rk322x_box
+3b177a60ae6d6c3f
+rockchip rk322x_box
+1b15dca4ed9d62f4
+rockchip rk322x_box
+213b2d10f4840ddd
 
 enriquelr
 Amazon sheldon
@@ -7653,6 +7662,8 @@ rockchip rk322x_box
 84b5766774f51db1
 rockchip rk322x_box
 83ca8d812e2cc9da
+rockchip rk322x_box
+5d63f9980d16307a
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11616,16 +11627,14 @@ Amazon onyx
 6aad8d4dd21323a2
 
 marcosoj +6
-OnePlus OnePlus3T
-27d2b242c70d28ca
 amlogic sw01
 63d7d0fc34102359
 unknown x86_64
 de8cb554bfd1273a
 MTK cvt_mt5863_sa
 743ab4b454f49dd
-samsung z3q
-b697d658905c58a9
+OnePlus OnePlus5
+8a3fe25ecacd9b48
 
 sebastiandi +18
 samsung gta4xlwifi
@@ -12629,6 +12638,8 @@ Xiaomi vayu
 7b78396e22e6b708
 samsung on7xelte
 beefcd0b269391de
+MTK cvt_mt5863_sa
+673d27deb835fbc7
 
 jregu
 HUAWEI HWYAL
