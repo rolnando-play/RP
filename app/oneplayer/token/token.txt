@@ -12745,6 +12745,8 @@ SDMC DV8547
 88702c8e682342dc
 emdoor ACRUX
 222fdbe7e78683fa
+SDMC DV8547
+9b6287db2d5fae64
 +3
 
 jakelinca
@@ -12864,6 +12866,8 @@ TCL BeyondTV
 8f18898a77a75a16
 motorola saipan
 bc210efc6f32e9db
+Hisense hamamatsucho
+91ebf3318484a464
 
 jleona
 HUAWEI HWMAR
