@@ -12839,3 +12839,7 @@ ab1719c660383ecc
 dhbko
 Xiaomi laurel_sprout
 55a7ec7ea086d6af
+
+kiluadel
+TCL BeyondTV
+8f18898a77a75a16
