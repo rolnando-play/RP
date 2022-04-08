@@ -11867,6 +11867,8 @@ Google sabrina
 6d664303d2bc9e83
 Amlogic p201
 ea97e886ada076fd
+Amazon mantis
+625ca0c70d123ece
 
 adela19
 HUAWEI HWANE
@@ -12720,10 +12722,10 @@ Xiaomi sunny
 luismi07
 dolphin dolphin_fvd_p1
 650a71114efb3af2
-MBOX dolphin-p1
-ff1edacc2c338d20
-MBOX dolphin-p1
-f0772a9c5e6a6f81
+dolphin dolphin_fvd_p1
+6fea942ac0014428
+dolphin dolphin_fvd_p1
+be7bfaa9d929adbb
 
 maurica +6
 HUAWEI HWVOG
@@ -12786,3 +12788,7 @@ Xiaomi oneday
 antonio31
 samsung hero2lte
 ba919eb7c1528fd8
+
+gamepla
+Xiaomi joyeuse
+10d70008d115a759
