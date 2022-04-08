@@ -12870,3 +12870,7 @@ a380b937b843bc0f
 swbeni
 Xiaomi surya
 1c0e646284cdd4ff
+Xiaomi oneday
+ad009ce34b2bc51b
+dolphin dolphin_fvd_p1
+3d6ef02b8f35e528
