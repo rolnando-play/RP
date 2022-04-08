@@ -12776,6 +12776,8 @@ MTK cvt_mt5886_sa
 amado9 +6
 samsung a71
 611edaeba7ea7230
+rockchip rk322x_box
+df67269d8e4f3365
 
 everarn
 Xiaomi oneday
