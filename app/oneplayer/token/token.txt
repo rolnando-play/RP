@@ -12673,6 +12673,8 @@ Android MDTV5G
 a71bf694f36ff3aa
 Amlogic p282
 b45a4f3be147bcb5
+Gecen Tiger MXQPRO
+565873fca432c9c1
 
 aflei
 Amazon sheldonp
