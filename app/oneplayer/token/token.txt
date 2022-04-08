@@ -9234,8 +9234,6 @@ Xiaomi oneday
 539db30b60757477
 rockchip rk3328_box
 36df483f72068c7c
-rockchip rk322x_box
-bd273bb990204e89
 Amazon sheldonp
 3884ba75bf9f627e
 Amlogic p281
