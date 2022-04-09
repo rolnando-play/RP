@@ -12920,3 +12920,7 @@ Xiaomi lancelot
 1c1b2e4eab2ccd5d
 motorola astro
 520a3cbb765469b6
+
+tomasgp
+samsung b0q
+5f132ff6e0341666
