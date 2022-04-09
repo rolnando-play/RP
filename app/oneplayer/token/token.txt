@@ -10353,6 +10353,8 @@ streambus rk322x_box
 73253ab6f91b4ef4
 dolphin dolphin_fvd_p1
 d231bce6dbc3be63
+dolphin dolphin_fvd_p1
+89d862417d4ecec7
 
 chavezqu
 HUAWEI HWMAR
@@ -11930,6 +11932,8 @@ rockchip rk322x_box
 46275d73a8673e15
 Android MDTV5G
 57b4224396e6be60
+rockchip rk322x_box
+587343a010ba06b2
 
 gustavoda
 Amazon sheldonp
