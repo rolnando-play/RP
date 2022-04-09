@@ -365,6 +365,9 @@ Amazon sheldon
 c908959a516d5f70
 PinguimTv p231
 b518a5374ab1a01d
+Android MDTV5G
+c09181ed78e5c91a
++3
 
 AQuinonez
 S905W
