@@ -10803,6 +10803,8 @@ Allwinner dolphin-fvd-p1
 +18
 Android MDTV5G
 93d83b3b70ab6f2c
+Xiaomi aquaman
+17b7db9df20a0073
 
 arevalosve
 Amazon sheldonp
