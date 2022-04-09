@@ -12456,13 +12456,15 @@ e1352711f1518a85
 Xiaomi aquaman
 583583b0cd866be9
 
-ger_go
+ger_go +6
 Allwinner dolphin-fvd-p1
 2b5990bfabb48fa9
 Allwinner dolphin-fvd-p1
 579dba11bf71e2fd
 rockchip rk3318
 cfdd9bf0ad457974
+rockchip rk322x_box
+84b36c552426b214
 
 victor.ma2
 rockchip rk322x_box
