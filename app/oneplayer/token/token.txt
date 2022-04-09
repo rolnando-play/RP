@@ -12898,3 +12898,5 @@ dolphin dolphin_fvd_p1
 janopl
 Xiaomi lancelot
 1c1b2e4eab2ccd5d
+motorola astro
+520a3cbb765469b6
