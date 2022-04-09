@@ -9248,6 +9248,8 @@ rockchip rk322x_box
 bd35a17763db34e3
 samsung dreamlte
 f5517ab4d4764269
+rockchip rk322x_box
+c06425d65a253c3a
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -9566,6 +9568,8 @@ Android MDTV5G
 f103d8cae0907a98
 rockchip rk322x_box
 940b25d55382bff
+Android MDTV5G
+9aa67c72695afa64
 
 gergod +6
 Amlogic franklin
