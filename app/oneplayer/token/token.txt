@@ -12258,6 +12258,8 @@ samsung a32
 licoa1
 SkyworthDigital LAS
 a73656ed9f50dfc9
+SEI Robotics HND
+5d8a44cef802ed13
 
 dany_el
 Allwinner dolphin-fvd-p1
@@ -12870,6 +12872,8 @@ samsung a70q
 metallig
 samsung a52q
 ab1719c660383ecc
+rockchip rk322x_box
+e563d0c1bd9600bc
 
 dhbko
 Xiaomi laurel_sprout
