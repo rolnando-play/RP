@@ -9272,6 +9272,8 @@ Android MBOX
 fe0fcb879fd4a8d0
 rockchip rk322x_box
 66da89f77ded968
+rockchip rk3328_box
+3f20a65887bd8783
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12728,6 +12730,8 @@ Amlogic p282
 b45a4f3be147bcb5
 Gecen Tiger MXQPRO
 565873fca432c9c1
+Amlogic p201
+f2f0f3134ae7bfed
 
 aflei
 Amazon sheldonp
