@@ -8048,6 +8048,8 @@ Amazon sheldonp
 dc281181ad6027bb
 Amazon sheldonp
 975295292e48232b
+Xiaomi aquaman
+ccfbe12512701389
 
 marceloal
 Google sabrina
@@ -10516,6 +10518,8 @@ rockchip rk322x_box
 93538b4dca58c320
 rockchip rk322x_box
 ae2bd32703090857
+rockchip rk322x_box
+2cf30404575588c8
 
 davalosru
 rockchip rk3328_box
