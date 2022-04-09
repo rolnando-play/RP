@@ -9258,6 +9258,8 @@ Realtek 211_2831P588_L19020258_SD
 7c93574cfd1d849f
 Android MBOX
 fe0fcb879fd4a8d0
+rockchip rk322x_box
+66da89f77ded968
 
 danieljo
 Allwinner dolphin-fvd-p1
