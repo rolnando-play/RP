@@ -14,7 +14,7 @@ askey stephen
 askey stephen
 3dba0a05c25d2fa9
 Google generic_x86
-e8ad45395f5219e4.
+e8ad45395f5219e4
 Amazon sheldon
 a2b44d438cf41f91
 OnePlus OnePlusN10
