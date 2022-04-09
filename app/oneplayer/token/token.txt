@@ -11992,6 +11992,8 @@ SDMC DV8547
 24aa0a65c7a87135
 Xiaomi vayu
 37491c54f6c009ce
+SDMC DV8547
+cfaf81b3256d1071
 
 dr.cardo
 samsung o1s
