@@ -6629,6 +6629,10 @@ rockchip MXQ PRO
 470ec827d1f8eabe
 rockchip rk322x_box
 7e2b65acdb3a9ad1
+Xiaomi oneday
+b3dc7b900a02d54a
+Xiaomi oneday
+e37bf2b387c3dc93
 
 enriquelr
 Amazon sheldon
@@ -10538,6 +10542,8 @@ rockchip rk322x_box
 ae2bd32703090857
 rockchip rk322x_box
 2cf30404575588c8
+rockchip rk322x_box
+6062677332de7e52
 
 davalosru
 rockchip rk3328_box
@@ -12815,6 +12821,8 @@ SDMC DV8547
 SDMC DV8547
 b375f4f716cfece7
 +3
+Amlogic p281
+18d09865f2307474
 
 jakelinca
 motorola hanoip
