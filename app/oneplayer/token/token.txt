@@ -11943,6 +11943,9 @@ Android MDTV5G
 57b4224396e6be60
 rockchip rk322x_box
 587343a010ba06b2
++6 psc
+rockchip rk322x_box
+c0804320beeb9013
 
 gustavoda
 Amazon sheldonp
