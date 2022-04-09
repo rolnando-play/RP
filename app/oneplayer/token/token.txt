@@ -12952,3 +12952,7 @@ motorola astro
 tomasgp
 samsung b0q
 5f132ff6e0341666
+
+david92
+Xiaomi aquaman
+94d1173551c881fd
