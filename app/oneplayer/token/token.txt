@@ -6615,6 +6615,8 @@ rockchip rk322x_box
 213b2d10f4840ddd
 rockchip MXQ PRO
 470ec827d1f8eabe
+rockchip rk322x_box
+7e2b65acdb3a9ad1
 
 enriquelr
 Amazon sheldon
@@ -9250,6 +9252,8 @@ samsung dreamlte
 f5517ab4d4764269
 rockchip rk322x_box
 c06425d65a253c3a
+Realtek 211_2831P588_L19020258_SD
+7c93574cfd1d849f
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -9570,6 +9574,8 @@ rockchip rk322x_box
 940b25d55382bff
 Android MDTV5G
 9aa67c72695afa64
+Android MDTV5G
+c4c296daf0ef7f47
 
 gergod +6
 Amlogic franklin
