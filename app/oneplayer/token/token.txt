@@ -4719,6 +4719,8 @@ SkyworthDigital LAS
 apbt2
 Xiaomi aquaman
 19364a3e89dc61ba
+HUAWEI HWAGS2
+952b91c5aa1567ca
 
 jhonnyma
 Xiaomi begonia
