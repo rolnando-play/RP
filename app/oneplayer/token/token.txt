@@ -2025,6 +2025,8 @@ Amazon sheldon
 2aad5b354766e3c0
 Amazon sheldon
 5296b64850486cd0
+Amazon sheldon
+fd703daa17ff3676
 
 ricar.fu
 HUAWEI HWMAR
@@ -4669,6 +4671,8 @@ Amlogic p201
 2265f017d2c9828c
 Amlogic p201
 cfdcf13cb100c76c
+dolphin dolphin_fvd_p1
+b3705943f81f3e19
 
 lisandra
 MTK cvt_mt5863_sa
@@ -10607,8 +10611,8 @@ rockchip rk322x_box
 469873ae67ec8735
 rockchip rk322x_box
 faeabe81b58a327e
-rockchip rk322x_box
-bb1c19c2cc9371d9
+Xiaomi aquaman
+7057eea3f91f6715
 Xiaomi aquaman
 61d4aa814495dfdf
 rockchip rk322x_box
