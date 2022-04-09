@@ -368,6 +368,8 @@ b518a5374ab1a01d
 Android MDTV5G
 c09181ed78e5c91a
 +3
+Amazon sheldon
+2893841e71e06ca3
 
 AQuinonez
 S905W
