@@ -372,6 +372,9 @@ Amazon sheldon
 2893841e71e06ca3
 rockchip rk322x_box
 d3e6c288ec9995f3
++3
+Amazon sheldon
+961890c1f2db2fa4
 
 AQuinonez
 S905W
