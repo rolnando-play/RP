@@ -9278,6 +9278,8 @@ rockchip rk322x_box
 66da89f77ded968
 rockchip rk3328_box
 3f20a65887bd8783
+rockchip rk322x_box
+4169aeaecb7a30ec
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12971,3 +12973,7 @@ samsung b0q
 david92
 Xiaomi aquaman
 94d1173551c881fd
+
+matito
+Xiaomi aquaman
+d34150a4ece3b618
