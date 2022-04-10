@@ -12989,6 +12989,8 @@ motorola astro
 tomasgp
 samsung b0q
 5f132ff6e0341666
+samsung o1s
+06aff0684dd34eb8
 
 david92
 Xiaomi aquaman
@@ -13017,3 +13019,7 @@ Xiaomi vayu
 476e4cfc41c39252
 Google sabrina
 380c03ed03357a38
+
+arguello.h
+samsung a5y17lte
+c45c8c287e17e2a4
