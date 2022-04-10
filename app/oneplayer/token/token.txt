@@ -13023,5 +13023,5 @@ Google sabrina
 380c03ed03357a38
 
 arguello.h
-samsung a5y17lte
-c45c8c287e17e2a4
+HUAWEI HWFIG-H
+03f90f61f0a2487c
