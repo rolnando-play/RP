@@ -2833,6 +2833,8 @@ MTK cvt_mt5863_sa
 a5da4a9e21ad0ec1
 rockchip rk322x_box
 14a41ffb2130326e
+rockchip rk322x_box
+21a6c57590dc5b78
 
 sergioca
 Xiaomi oneday
