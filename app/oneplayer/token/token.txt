@@ -13039,3 +13039,7 @@ Xiaomi machuca
 3d12803f8edd4156
 Xiaomi alioth
 7c333ad10bb8130e
+
+angeltum
+Allwinner dolphin-fvd-p1
+7535951060089ef8
