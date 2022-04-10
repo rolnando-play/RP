@@ -13029,3 +13029,7 @@ HUAWEI HWFIG-H
 alex_22
 Xiaomi surya
 c0ca738fa546cfb6
+
+m3900 +12
+Xiaomi tucana
+83c13c5a2e4ded51
