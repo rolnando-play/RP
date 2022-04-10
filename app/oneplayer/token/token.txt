@@ -9773,6 +9773,8 @@ motorola nicklaus_f
 55666dc3ff9bca55
 samsung a12
 650333cf08eb012d
+samsung a5y17lte
+c45c8c287e17e2a4
 
 gonzaloez
 Xiaomi surya
