@@ -13043,3 +13043,7 @@ Xiaomi alioth
 angeltum
 Allwinner dolphin-fvd-p1
 7535951060089ef8
+
+diegomi
+Xiaomi amber
+c6465f8c81e747e1
