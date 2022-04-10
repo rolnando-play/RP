@@ -4313,6 +4313,8 @@ dolphin dolphin_fvd_p1
 ebbd11165662fd18
 dolphin dolphin_fvd_p1
 5ea58c4a4054c460
+Skyworth globe_sa
+740631eb0d9a738b
 
 aylenmon
 OnePlus OnePlus8TMO
