@@ -10169,6 +10169,8 @@ Amlogic p281
 Amlogic p281
 9f32572daa15b0db
 +6
+Amlogic p281
+0bf97c0c97c443b0
 
 superchaos +9
 i7 petrel-p1
@@ -12991,3 +12993,9 @@ d34150a4ece3b618
 mjesu
 Xiaomi aquaman
 bbf9b37213e7290a
+
+tvype +12
+Xiaomi aquaman
+7427e7dd71a4894a
+Xiaomi aquaman
+5b65458f113a014c
