@@ -12965,6 +12965,8 @@ Hisense hamamatsucho
 jleona
 HUAWEI HWMAR
 a380b937b843bc0f
+HUAWEI HWMAR
+80a6f9d7d5aaa8e1
 
 swbeni
 Xiaomi surya
