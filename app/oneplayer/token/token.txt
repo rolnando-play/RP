@@ -13033,3 +13033,7 @@ c0ca738fa546cfb6
 m3900 +12
 Xiaomi tucana
 83c13c5a2e4ded51
+
+jtorr
+Xiaomi machuca
+3d12803f8edd4156
