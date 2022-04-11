@@ -12762,6 +12762,10 @@ Amazon mantis
 3701819b1713e57d
 Android MDTV5G
 fc5a8429bc1726b4
++6
+Allwinner dolphin-fvd-p1
+eed154b117f061b2
+
 
 aflei
 Amazon sheldonp
