@@ -13086,3 +13086,7 @@ df0c97bf6d515bcf
 rodrigopa
 HUAWEI HWJNY
 5e01b7db0705358f
+
+dasro
+OnePlus OnePlus7T
+3054de10c987a201
