@@ -12758,6 +12758,10 @@ Gecen Tiger MXQPRO
 565873fca432c9c1
 Amlogic p201
 f2f0f3134ae7bfed
+Amazon mantis
+3701819b1713e57d
+Android MDTV5G
+fc5a8429bc1726b4
 
 aflei
 Amazon sheldonp
