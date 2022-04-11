@@ -5338,6 +5338,8 @@ rockchip rk322x_box
 9a7a388d36f0b10d
 rockchip rk322x_box
 2a1b35d0eee4a94b
+Amazon sheldon
+3b833db95acec763
 
 cuentatv
 Allwinner dolphin-fvd-p1
