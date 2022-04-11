@@ -8469,6 +8469,9 @@ Allwinner petrel-p1
 a672b280155a3c74
 rockchip rk322x_box
 9ca07a8e19a835ad
++9
+rockchip rk322x_box
+65f8d651ebe6251b
 
 pjc0910 +9
 rockchip rk322x_box
@@ -13110,3 +13113,9 @@ HUAWEI HWJNY
 dasro
 OnePlus OnePlus7T
 3054de10c987a201
+
+vtorr +5 psc
+Xiaomi begonia
+955398d089e05e51
+Xiaomi oneday
+89ffb739dca7fab1
