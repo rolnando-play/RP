@@ -11276,8 +11276,8 @@ Android MDTV5G
 maggielo
 Xiaomi machuca
 d658339b13715a1c
-Amazon sheldonp
-98a50026a53a5f2d
+Google sabrina
+74f6691a894ad60d
 samsung noblelte
 6d854584317d1768
 
@@ -11509,8 +11509,8 @@ samsung d2q
 c23751b1f7dd7591
 Amlogic p282
 be235caf31e6f2d8
-OPPO aosp
-8206e0b95ff90a16
+Amlogic p282
+7ab172e54362670b
 
 faridem
 Google sabrina
