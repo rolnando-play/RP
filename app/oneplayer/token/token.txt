@@ -6641,6 +6641,11 @@ Xiaomi oneday
 e37bf2b387c3dc93
 rockchip rk322x_box
 7b9c81d3873a10e9
++9
+rockchip MXQ PRO
+56fc331d01be5126
+FTROU eros-p1
+455c284675195997
 
 enriquelr
 Amazon sheldon
@@ -9617,6 +9622,8 @@ Android MDTV5G
 9aa67c72695afa64
 Android MDTV5G
 c4c296daf0ef7f47
+rockchip rk322x_box
+2a5c4714a4be2f2d
 
 gergod +6
 Amlogic franklin
