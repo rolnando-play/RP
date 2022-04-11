@@ -4317,6 +4317,9 @@ dolphin dolphin_fvd_p1
 5ea58c4a4054c460
 Skyworth globe_sa
 740631eb0d9a738b
+dolphin dolphin_fvd_p1
+4276acf338ad70b5
++6 psc
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -9971,6 +9974,8 @@ rockchip rk322x_box
 676ba5ae539ff762
 rockchip rk322x_box
 ea40217c5188d234
+Allwinner dolphin-fvd-p1
+c4e94244e5e2a1c1
 
 brandonmk
 Xiaomi begonia
