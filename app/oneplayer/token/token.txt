@@ -13029,6 +13029,8 @@ HUAWEI HWFIG-H
 alex_22
 Xiaomi surya
 c0ca738fa546cfb6
+Amazon sheldon
+848fffe325c88f6f
 
 m3900 +12
 Xiaomi tucana
