@@ -9312,6 +9312,8 @@ rockchip rk322x_box
 26307da8dc70305d
 rockchip rk322x_box
 947933d95ef91bc2
+rockchip rk322x_box
+cff50863d1f3d49e
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13127,3 +13129,7 @@ Xiaomi oneday
 b223729f9f93a064
 LENOVO TB-X505L
 f57bf19e6d48f000
+
+javicu
+samsung a10s
+9f49abc4d548a2f3
