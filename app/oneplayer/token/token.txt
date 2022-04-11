@@ -9624,6 +9624,8 @@ Android MDTV5G
 c4c296daf0ef7f47
 rockchip rk322x_box
 2a5c4714a4be2f2d
+rockchip rk322x_box
+636958d3b0af2033
 
 gergod +6
 Amlogic franklin
