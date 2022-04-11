@@ -9291,6 +9291,8 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 fd9e14455b50b261
+rockchip rk322x_box
+26307da8dc70305d
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13063,3 +13065,9 @@ Allwinner dolphin-fvd-p1
 diegomi
 Xiaomi amber
 c6465f8c81e747e1
+
+medicen
+Xiaomi oneday
+546cac1b8087ce69
+dolphin dolphin_fvd_p1
+df0c97bf6d515bcf
