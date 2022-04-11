@@ -387,6 +387,8 @@ samsung j7velte
 ac19fc55a38c6cb1
 Xiaomi biloba
 1160eb6ef881d17a
+samsung a21s
+f33c363646bf6dc0
 
 marcelo.sa
 Redmi Note 8 Pro
@@ -13025,6 +13027,8 @@ Google sabrina
 arguello.h
 HUAWEI HWFIG-H
 03f90f61f0a2487c
+Allwinner dolphin-fvd-p1
+cff104a5f4e04c8e
 
 alex_22
 Xiaomi surya
