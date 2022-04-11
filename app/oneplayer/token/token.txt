@@ -13129,6 +13129,8 @@ Xiaomi oneday
 b223729f9f93a064
 LENOVO TB-X505L
 f57bf19e6d48f000
+Xiaomi aquaman
+55747e6eee0d665d
 
 javicu
 samsung a10s
