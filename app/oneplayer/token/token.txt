@@ -13141,3 +13141,5 @@ samsung a10s
 tigresi
 samsung a50
 735ced6acb872bbe
+dolphin dolphin_fvd_p1
+fc7832698c17c371
