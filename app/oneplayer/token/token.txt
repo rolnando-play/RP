@@ -13224,6 +13224,8 @@ Xiaomi aquaman
 javicu
 samsung a10s
 9f49abc4d548a2f3
+dolphin dolphin_fvd_p1
+67f54fa87ae79902
 
 tigresi
 samsung a50
@@ -13262,3 +13264,7 @@ Google titan-p1
 b8be3447b46b5eeb
 samsung r8q
 079493f36f385073
+
+carloandr
+samsung t2s
+a3b3ac256d4026d2
