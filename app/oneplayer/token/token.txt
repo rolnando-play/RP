@@ -13143,3 +13143,7 @@ samsung a50
 735ced6acb872bbe
 dolphin dolphin_fvd_p1
 fc7832698c17c371
+
+adpala
+Xiaomi laurel_sprout
+2f81027abfec6176
