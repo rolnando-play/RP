@@ -6348,6 +6348,8 @@ Android MDTV5G
 bc222e7e799cf49
 Xiaomi oneday
 89951e650aa59cec
+rockchip rk322x_box
+c7f961c7ce295f5e
 
 gonzalezju +6
 HUAWEI HWYAL
