@@ -10645,6 +10645,8 @@ c21d4c1d346fc66a
 +6
 rockchip rk322x_box
 c81a14bdde9e3ce2
+rockchip rk322x_box
+a8f1a1e22fd2fcff
 
 davalosru
 rockchip rk3328_box
@@ -12476,6 +12478,9 @@ Amlogic p281
 fec10b00d9a8f2a4
 MTK cvt_mt5886_sa
 11d4a179dff5f264
++6
+Xiaomi oneday
+a98d052a92be7ade
 
 cesar_ro +9
 HUAWEI HWMAR
