@@ -6326,6 +6326,8 @@ Android MDTV5G
 17b32d00ca1be7c5
 Android MDTV5G
 bc222e7e799cf49
+Xiaomi oneday
+89951e650aa59cec
 
 gonzalezju +6
 HUAWEI HWYAL
