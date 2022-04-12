@@ -3035,6 +3035,8 @@ Xiaomi curtana
 9dbcc262bab3c0f9
 samsung a12
 375875b9174890c1
+rockchip rk322x_box
+d0492a89339a61e6
 
 aescobar9
 samsung y2s
@@ -12010,6 +12012,8 @@ Xiaomi oneday
 ea7a91d6fd011305
 Xiaomi oneday
 cf37ae0b06587bdf
+Xiaomi oneday
+f6e3183a40a56914
 
 rodrigosal
 HUAWEI HWANE
