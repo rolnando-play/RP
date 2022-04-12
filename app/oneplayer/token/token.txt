@@ -2835,6 +2835,8 @@ MTK cvt_mt5863_sa
 a5da4a9e21ad0ec1
 rockchip rk322x_box
 14a41ffb2130326e
+rockchip rk322x_box
+6249d6354abd5655
 
 sergioca
 Xiaomi oneday
@@ -7738,6 +7740,8 @@ rockchip rk322x_box
 +18
 dolphin dolphin-fvd-p1
 fbb33048bb228b98
+MTK cvt_mt5863_sa
+1d283fee50adf6ab
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -13159,3 +13163,7 @@ fc7832698c17c371
 adpala
 Xiaomi laurel_sprout
 2f81027abfec6176
+
+jacg6
+motorola nash
+bcbdc757d733579b
