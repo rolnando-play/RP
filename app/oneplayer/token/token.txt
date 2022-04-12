@@ -4320,6 +4320,12 @@ Skyworth globe_sa
 dolphin dolphin_fvd_p1
 4276acf338ad70b5
 +6 psc
+dolphin dolphin_fvd_p1
+fddffdd04c93e725
+dolphin dolphin_fvd_p1
+d271ebc67828961d
+dolphin dolphin_fvd_p1
+fb7315e6aedb5fea
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -4692,6 +4698,10 @@ Amlogic p201
 cfdcf13cb100c76c
 dolphin dolphin_fvd_p1
 b3705943f81f3e19
+Amlogic p201
+540080dfb036ecef
+Amlogic p201
+d931edf4f15ecb99
 
 lisandra
 MTK cvt_mt5863_sa
