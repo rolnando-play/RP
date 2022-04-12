@@ -7765,6 +7765,8 @@ dolphin dolphin-fvd-p1
 fbb33048bb228b98
 MTK cvt_mt5863_sa
 1d283fee50adf6ab
+rockchip rk322x_box
+ba8ed111e5d38168
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12822,6 +12824,8 @@ Amlogic p281
 b38239baa042316a
 Amlogic p281
 c072ff20fcdb9416
+Amlogic p281
+c64e8be003c0c7b7
 
 luisvill
 rockchip rk322x_box
@@ -13234,3 +13238,5 @@ ca9d203bee58bab8
 manfredkl
 Google titan-p1
 b8be3447b46b5eeb
+samsung r8q
+079493f36f385073
