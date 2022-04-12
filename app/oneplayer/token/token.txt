@@ -6673,6 +6673,8 @@ FTROU eros-p1
 455c284675195997
 Android MX9PRO
 10584bbf5d910d2b
+Android MX9PRO
+12c2a09a45f5e888
 
 enriquelr
 Amazon sheldon
@@ -7000,6 +7002,8 @@ MBOX dolphin-p1
 f465b16adc6ca36d
 rockchip rk322x_box
 a027c10cc8c6253d
+Xiaomi aquaman
+f2719644e38bacde
 +6 psc
 
 victorcor
@@ -9335,6 +9339,8 @@ rockchip rk322x_box
 947933d95ef91bc2
 rockchip rk322x_box
 cff50863d1f3d49e
+Xiaomi oneday
+176fe16ec0dce6e6
 
 danieljo
 Allwinner dolphin-fvd-p1
