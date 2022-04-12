@@ -13272,3 +13272,7 @@ samsung r8q
 carloandr
 samsung t2s
 a3b3ac256d4026d2
+
+fbarre
+HUAWEI HWMAR
+f66cee1bb00420f5
