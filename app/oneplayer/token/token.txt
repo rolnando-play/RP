@@ -13101,6 +13101,8 @@ Xiaomi alioth
 angeltum
 Allwinner dolphin-fvd-p1
 7535951060089ef8
+Asus fugu
+5749e6aa5370cf7f
 
 diegomi
 Xiaomi amber
@@ -13135,3 +13137,7 @@ Xiaomi aquaman
 javicu
 samsung a10s
 9f49abc4d548a2f3
+
+tigresi
+samsung a50
+735ced6acb872bbe
