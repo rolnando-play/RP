@@ -2041,6 +2041,9 @@ Amazon sheldon
 5296b64850486cd0
 Amazon sheldon
 fd703daa17ff3676
++6
+Amazon sheldon
+1c75f4c0d276cb0c
 
 ricar.fu
 HUAWEI HWMAR
@@ -6684,6 +6687,8 @@ Android MX9PRO
 10584bbf5d910d2b
 Android MX9PRO
 12c2a09a45f5e888
+Android MX9PRO
+ef238083c6fbfbe
 
 enriquelr
 Amazon sheldon
@@ -13225,3 +13230,7 @@ d661f6ded3bfd16f
 zappin +9
 Xiaomi nino
 ca9d203bee58bab8
+
+manfredkl
+Google titan-p1
+b8be3447b46b5eeb
