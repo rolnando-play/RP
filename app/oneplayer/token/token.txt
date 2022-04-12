@@ -9365,6 +9365,8 @@ rockchip rk322x_box
 cff50863d1f3d49e
 Xiaomi oneday
 176fe16ec0dce6e6
+MBOX dolphin-p1
+d573ac31e79ff94e
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -10482,6 +10484,8 @@ dolphin dolphin_fvd_p1
 8e14bf5fa0cd94ca
 dolphin dolphin_fvd_p1
 800d5a37d7c8c8e6
+rockchip rk322x_box
+19c93e67a8541986
 
 chavezqu
 HUAWEI HWMAR
