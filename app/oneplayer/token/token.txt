@@ -7241,6 +7241,8 @@ MTK cvt_mt5863_sa
 9a366b12650c8aa6
 Amlogic p281
 f400c031de02c878
+rockchip rk3328_box
+bdebfc65fe0e7de5
 
 jjuan
 Xiaomi aquaman
