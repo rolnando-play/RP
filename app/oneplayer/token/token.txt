@@ -6994,8 +6994,7 @@ MBOX dolphin-p1
 f465b16adc6ca36d
 rockchip rk322x_box
 a027c10cc8c6253d
-rockchip rk322x_box
-3bb63bd5ed374af
++6 psc
 
 victorcor
 rockchip rk322x_box
@@ -11999,6 +11998,8 @@ samsung a31
 f1bd86c5fa99f1f1
 HUAWEI HWJKM-H
 de8bdf7b4e537558
+rockchip rk322x_box
+9d0c647ba4475eef
 
 funcion20 +6 psc
 Android MDTV5G
