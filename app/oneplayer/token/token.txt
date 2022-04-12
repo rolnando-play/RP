@@ -6671,6 +6671,8 @@ rockchip MXQ PRO
 56fc331d01be5126
 FTROU eros-p1
 455c284675195997
+Android MX9PRO
+10584bbf5d910d2b
 
 enriquelr
 Amazon sheldon
