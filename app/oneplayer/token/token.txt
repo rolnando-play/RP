@@ -9667,6 +9667,8 @@ rockchip rk322x_box
 2a5c4714a4be2f2d
 rockchip rk322x_box
 636958d3b0af2033
+Amazon mantis
+f0e7a0307b9956a2
 
 gergod +6
 Amlogic franklin
