@@ -7255,6 +7255,8 @@ rockchip rk3328_box
 bdebfc65fe0e7de5
 Amlogic p282
 9a94a5e5bb86def9
+Amlogic p282
+418692eda390567a
 
 jjuan
 Xiaomi aquaman
@@ -12938,6 +12940,8 @@ Amlogic p281
 230f7bf712514ff9
 Amlogic p281
 ee9ec29b43185cb
+Amlogic p281
+7f742942b7f7ab9a
 
 luisvill
 rockchip rk322x_box
