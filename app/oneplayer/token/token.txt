@@ -9701,6 +9701,8 @@ Amazon mantis
 f0e7a0307b9956a2
 Xiaomi oneday
 454fb10b1754fe5a
+Xiaomi oneday
+05a997a7844c95df
 
 gergod +6
 Amlogic franklin
