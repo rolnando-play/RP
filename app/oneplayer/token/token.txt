@@ -13401,3 +13401,7 @@ samsung j8y18lte
 alvarezc +6
 rockchip rk322x_box
 8a1b05bd8bff6e1c
+
+franco.ca
+KTC_8G ktc_8g
+a3206a07736f2b0f
