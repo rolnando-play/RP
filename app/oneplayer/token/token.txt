@@ -13307,6 +13307,8 @@ Xiaomi nino
 ca9d203bee58bab8
 Amazon kara
 4423522d521fb6e8
+Amazon mantis
+c8a651005c5e65a6
 
 manfredkl
 Google titan-p1
