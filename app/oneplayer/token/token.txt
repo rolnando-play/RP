@@ -9699,6 +9699,8 @@ rockchip rk322x_box
 636958d3b0af2033
 Amazon mantis
 f0e7a0307b9956a2
+Xiaomi oneday
+454fb10b1754fe5a
 
 gergod +6
 Amlogic franklin
