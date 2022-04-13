@@ -7837,6 +7837,8 @@ dolphin dolphin_fvd_p1
 431474186a68f95b
 Android MBOX
 12599a63a6fa6828
+rockchip rk322x_box
+22c44e84d65dfd4b
 
 j88be
 Google walleye
