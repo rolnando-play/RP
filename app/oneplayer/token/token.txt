@@ -678,6 +678,8 @@ Xiaomi oneday
 028aae9123baaf17
 Xiaomi oneday
 cde32a9a24ca980a
+Amazon mantis
+d8d75748448558cb
 
 eduben
 tv box
