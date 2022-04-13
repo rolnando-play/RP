@@ -6350,6 +6350,8 @@ Xiaomi oneday
 89951e650aa59cec
 rockchip rk322x_box
 c7f961c7ce295f5e
+Android MDTV5G
+e9ddcebf52ef4546
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -12504,6 +12506,8 @@ MTK cvt_mt5886_sa
 +6
 Xiaomi oneday
 a98d052a92be7ade
+Zplus Hi3798MV100
+696cd03801a37b4c
 
 cesar_ro +9
 HUAWEI HWMAR
