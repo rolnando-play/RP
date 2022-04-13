@@ -7775,6 +7775,8 @@ MTK cvt_mt5863_sa
 1d283fee50adf6ab
 rockchip rk322x_box
 ba8ed111e5d38168
+Allwinner dolphin-fvd-p1
+5e6bb18b378f2d8b
 
 iptv19 +6 psc
 rockchip rk322x_box
