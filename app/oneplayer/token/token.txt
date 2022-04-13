@@ -13293,6 +13293,8 @@ d661f6ded3bfd16f
 zappin +9
 Xiaomi nino
 ca9d203bee58bab8
+Amazon kara
+4423522d521fb6e8
 
 manfredkl
 Google titan-p1
