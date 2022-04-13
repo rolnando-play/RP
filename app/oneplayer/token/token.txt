@@ -13288,3 +13288,7 @@ a3b3ac256d4026d2
 fbarre
 HUAWEI HWMAR
 f66cee1bb00420f5
+
+mbentan
+rockchip rk322x_box
+f76730111393e0cc
