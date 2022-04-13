@@ -11700,6 +11700,8 @@ dolphin dolphin_fvd_p1
 ea4986c6aa59678d
 rockchip rk322x_box
 aab88aae0c256b2a
+Allwinner dolphin-fvd-p1
+7a015ef7adea30ea
 
 jcsar9
 samsung a50
@@ -12913,6 +12915,8 @@ Amlogic p281
 4edd4366aaede19
 Amlogic p281
 5f092a4beb4fd7ef
+Amlogic p281
+230f7bf712514ff9
 
 luisvill
 rockchip rk322x_box
