@@ -2044,6 +2044,8 @@ fd703daa17ff3676
 +6
 Amazon sheldon
 1c75f4c0d276cb0c
+Amazon sheldon
+0d6e083a7641f233
 
 ricar.fu
 HUAWEI HWMAR
@@ -13352,4 +13354,8 @@ f76730111393e0cc
 
 osvaldofer
 Xiaomi joyeuse
-03a5bcb31839216a
+03a5bcb31839216
+
+miguel.an
+samsung j8y18lte
+0d08a5498ba013a2
