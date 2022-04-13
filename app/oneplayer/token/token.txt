@@ -9711,6 +9711,8 @@ rockchip rk322x_box
 a14256d4b4fea76c
 Xiaomi oneday
 1880928bb5b93cbc
+Android MDTV5G
+f8c238a7b14c8d72
 
 gergod +6
 Amlogic franklin
