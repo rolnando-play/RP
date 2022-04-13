@@ -7900,6 +7900,8 @@ Allwinner dolphin-fvd-p1
 f7bad2f89a92ad0f
 Google sabrina
 ea0482a2a1d861a7
+Google sabrina
+10e23ff4873609fd
 
 juanve
 Xiaomi merlin
