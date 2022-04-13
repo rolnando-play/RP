@@ -9703,6 +9703,8 @@ Xiaomi oneday
 454fb10b1754fe5a
 Xiaomi oneday
 05a997a7844c95df
+Android MDTV5G
+789ff5eff3530d91
 
 gergod +6
 Amlogic franklin
