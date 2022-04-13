@@ -9725,6 +9725,9 @@ rockchip rk322x_box
 671f9e658bc5c23c
 rockchip rk322x_box
 de1d4b35bb832f2d
++18 usdt
+rockchip rk322x_box
+63a41672a2048e89
 
 gergod +6
 Amlogic franklin
@@ -10700,6 +10703,8 @@ rockchip rk322x_box
 a8f1a1e22fd2fcff
 rockchip rk322x_box
 3433ae38c4981ace
+rockchip rk322x_box
+e26caed27f35a88c
 
 davalosru
 rockchip rk3328_box
@@ -13360,7 +13365,9 @@ f76730111393e0cc
 
 osvaldofer
 Xiaomi joyeuse
-03a5bcb31839216
+03a5bcb31839216a
+Xiaomi aquaman
+963c92fbf9587db8
 
 miguel.an
 samsung j8y18lte
