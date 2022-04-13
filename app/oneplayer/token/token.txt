@@ -13281,6 +13281,8 @@ Allwinner dolphin-fvd-p1
 7535951060089ef8
 Asus fugu
 5749e6aa5370cf7f
+Xiaomi oneday
+91f6c55ed49e0cbe
 
 diegomi
 Xiaomi amber
