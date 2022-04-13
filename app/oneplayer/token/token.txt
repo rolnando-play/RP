@@ -12508,6 +12508,8 @@ Xiaomi oneday
 a98d052a92be7ade
 Zplus Hi3798MV100
 696cd03801a37b4c
+Xiaomi oneday
+3a7a8e1051c06144
 
 cesar_ro +9
 HUAWEI HWMAR
