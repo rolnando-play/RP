@@ -12217,6 +12217,8 @@ Google sabrina
 enproce
 Expressluck yeongdeungpo
 ffe8cf601ff1fccb
+Amlogic p201
+f140c75fb198bec7
 
 nfcsna
 BLU G0530WW
