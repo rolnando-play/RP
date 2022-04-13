@@ -9879,6 +9879,8 @@ samsung a12
 650333cf08eb012d
 samsung a5y17lte
 c45c8c287e17e2a4
+motorola fijisc
+c344d380bd612e49
 
 gonzaloez
 Xiaomi surya
