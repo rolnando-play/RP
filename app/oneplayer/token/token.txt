@@ -13262,6 +13262,8 @@ Xiaomi oneday
 gus218 +6
 samsung a12
 8aad6c3b528a5ee0
+Google titan-p1
+83d0334c7ad6731c
 
 victorf8
 Xiaomi cannong
