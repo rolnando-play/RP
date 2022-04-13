@@ -7253,6 +7253,8 @@ Amlogic p281
 f400c031de02c878
 rockchip rk3328_box
 bdebfc65fe0e7de5
+Amlogic p282
+9a94a5e5bb86def9
 
 jjuan
 Xiaomi aquaman
@@ -13391,3 +13393,7 @@ Xiaomi aquaman
 miguel.an
 samsung j8y18lte
 0d08a5498ba013a2
+
+alvarezc +6
+rockchip rk322x_box
+8a1b05bd8bff6e1c
