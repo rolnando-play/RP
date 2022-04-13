@@ -9732,6 +9732,8 @@ de1d4b35bb832f2d
 +18 usdt
 rockchip rk322x_box
 63a41672a2048e89
+Android MDTV5G
+54f57b6e5875ce6e
 
 gergod +6
 Amlogic franklin
@@ -13275,6 +13277,8 @@ Xiaomi oneday
 +3
 SkyworthDigital YYT
 80db12c7684bcf5e
+SkyworthDigital YYT
+beef696ff34e782c
 
 angeltum
 Allwinner dolphin-fvd-p1
