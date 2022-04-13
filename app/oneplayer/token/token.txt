@@ -9713,6 +9713,8 @@ Xiaomi oneday
 1880928bb5b93cbc
 Android MDTV5G
 f8c238a7b14c8d72
+rockchip rk322x_box
+38ea4faf2299d3fe
 
 gergod +6
 Amlogic franklin
