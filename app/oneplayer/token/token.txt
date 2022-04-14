@@ -7257,6 +7257,10 @@ Amlogic p282
 9a94a5e5bb86def9
 Amlogic p282
 418692eda390567a
+rockchip rk322x_box
+b018fed4161068d8
+rockchip rk322x_box
+bceafc9636d4f03d
 
 jjuan
 Xiaomi aquaman
@@ -12944,6 +12948,8 @@ Amlogic p281
 7f742942b7f7ab9a
 Amlogic p281
 dbc25f2f536fa157
+Amlogic p281
+48fe9ebbabcbb211
 
 luisvill
 rockchip rk322x_box
@@ -13407,3 +13413,5 @@ rockchip rk322x_box
 franco.ca
 KTC_8G ktc_8g
 a3206a07736f2b0f
+Droidlogic ampere
+2a9509bf210211d0
