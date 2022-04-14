@@ -12950,6 +12950,10 @@ Amlogic p281
 dbc25f2f536fa157
 Amlogic p281
 48fe9ebbabcbb211
+Amlogic p281
+f9dc4726953b77d9
+Amlogic p281
+55cb86476e630f82
 
 luisvill
 rockchip rk322x_box
@@ -13037,6 +13041,8 @@ Amazon sheldon
 gpaiv
 HUAWEI HWEML
 8d4561e46317fece
+dolphin dolphin_fvd_p1
+a62c8d8f028fa7aa
 
 d.dem
 Xiaomi willow
