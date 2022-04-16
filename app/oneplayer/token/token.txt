@@ -7888,6 +7888,8 @@ Android MBOX
 12599a63a6fa6828
 rockchip rk322x_box
 22c44e84d65dfd4b
+rockchip rk322x_box
+bd89c76b38f6c266
 
 j88be
 Google walleye
@@ -11111,6 +11113,8 @@ Android MDTV5G
 2d2057648f58ada
 dolphin dolphin-fvd-p1
 5789d6813455f816
+Realtek RealtekATV
+a82728d40c712d64
 +6 psc
 
 meek_bo
