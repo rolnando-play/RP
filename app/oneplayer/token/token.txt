@@ -10444,8 +10444,8 @@ Amazon tank
 a3ee4cbd92651b5d
 
 jgabriel.
-HUAWEI HWEML
-7feb5e9a57c7bebb
+rockchip rk322x_box
+d176799d3470f51
 rockchip rk322x_box
 8c0130b8ad03febd
 rockchip rk322_box
@@ -13486,3 +13486,7 @@ KTC_8G ktc_8g
 a3206a07736f2b0f
 Droidlogic ampere
 2a9509bf210211d0
+
+laran +6
+Xiaomi surya
+10e23737c280ec4e
