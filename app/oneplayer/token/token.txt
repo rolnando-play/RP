@@ -3560,6 +3560,8 @@ dolphin SBQ-SM007
 652eae1f599338a0
 amazon tank
 98937aa7ada8a9b3
+Amazon mantis
+93ee5150a122263d
 
 marcelogonz
 rockchip rk322x_box
@@ -6377,6 +6379,10 @@ rockchip rk322x_box
 c7f961c7ce295f5e
 Android MDTV5G
 e9ddcebf52ef4546
+rockchip rk322x_box
+510f12a647c383d8
+rockchip rk322x_box
+a23924cdeefa96c4
 
 gonzalezju +6
 HUAWEI HWYAL
