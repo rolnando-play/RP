@@ -9442,6 +9442,8 @@ Xiaomi oneday
 502279ec7c9e7972
 rockchip rk322x_box
 53f1b22c35296075
+rockchip rk322x_box
+bd273bb990204e89
 
 danieljo
 Allwinner dolphin-fvd-p1
