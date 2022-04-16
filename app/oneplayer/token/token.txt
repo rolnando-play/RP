@@ -3187,6 +3187,8 @@ Xiaomi aquaman
 cf095bf6d660e3de
 Xiaomi aquaman
 4e32e264695b8cbf
+Xiaomi aquaman
+03ebbd80a075e73d
 
 darioap +9
 rockchip rk322x_box
