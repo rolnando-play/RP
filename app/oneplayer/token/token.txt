@@ -2230,6 +2230,8 @@ OnePlus OnePlus7Pro
 190a465206a7d046
 dolphin dolphin-fvd-p1
 bb52300604628e69
+OnePlus OnePlus9
+9c25e546115454ff
 
 jorgy
 HUAWEI HWMAR
