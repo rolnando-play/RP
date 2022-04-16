@@ -13237,6 +13237,8 @@ Xiaomi oneday
 14e22001550be04f
 Xiaomi oneday
 967618ee8fdab357
+rockchip rk322x_box
+ddd03ebb8517fad9
 
 antonio31
 samsung hero2lte
