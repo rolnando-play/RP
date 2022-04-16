@@ -8184,6 +8184,8 @@ Xiaomi aquaman
 ccfbe12512701389
 Xiaomi aquaman
 bd04b2106f1087c9
+Xiaomi aquaman
+b0f208b208e457cc
 
 marceloal
 Google sabrina
@@ -8477,6 +8479,8 @@ rockchip rk322x_box
 456b1735ff3de37f
 Android MDTV5G
 a215ac500bcc1235
+rockchip rk322x_box
+f186ab91b2636027
 
 rocapo
 dolphin dolphin-fvd-p1
