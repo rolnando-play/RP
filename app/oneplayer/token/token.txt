@@ -3113,6 +3113,19 @@ Xiaomi machuca
 9c203409c25fe7f3
 BTV franklin
 9ef1f9af262b8a28
++9
+Xiaomi oneday
+403cee9d2d40cb0d
+Xiaomi oneday
+fd414bf9949ad50e
+Xiaomi oneday
+b2a99dee0bc68b3a
+Xiaomi oneday
+2332c35fe4189c52
+Xiaomi oneday
+67c4fb3558fc82a9
+Xiaomi oneday
+a038f09eb5364d5b
 
 diegoafra
 HUAWEI HWEML
@@ -5570,6 +5583,8 @@ rockchip rk322x_box
 b9aa438811a67916
 rockchip rk322x_box
 c0d7d1d8e36f224d
+rockchip rk322x_box
+9ea175a7550c5854
 
 its.cm
 Amlogic p282
@@ -7795,6 +7810,10 @@ Allwinner dolphin-fvd-p1
 5e6bb18b378f2d8b
 rockchip rk322x_box
 20f90b0b03ecf9f9
+rockchip rk322x_box
+519755d93b9a5474
+rockchip rk322x_box
+b45f0cb608fb9025
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -8107,6 +8126,10 @@ Allwinner dolphin-fvd-p1
 c2ca54ee52cd4dc2
 dolphin dolphin-fvd-p1
 a336d2a894523ffb
+rockchip rk322x_box
+de0ffe3493a78785
+dolphin dolphin-fvd-p1
+8ed9e68466bea6dd
 
 rr.23
 MTK cvt_mt5863_sa
@@ -8329,6 +8352,8 @@ Allwinner dolphin-fvd-p1
 dbb67e7e0e6f3467
 rockchip rk3328_box
 8d0cc2891b5338d3
+Allwinner dolphin-fvd-p1
+89e6d195378c505b
 
 carlosrau
 rockchip rk322x_box
@@ -9393,6 +9418,10 @@ Xiaomi oneday
 176fe16ec0dce6e6
 MBOX dolphin-p1
 d573ac31e79ff94e
+rockchip rk322x_box
+8068bbcaf0ffa896
+Xiaomi oneday
+502279ec7c9e7972
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11848,6 +11877,8 @@ dolphin dolphin_fvd_p1
 55853fbec160a274
 amlogic sw01
 501bd4e70d38cd10
+rockchip rk322x_box
+e66c994e072e0550
 
 matiasva
 samsung r8q
@@ -11940,6 +11971,8 @@ samsung a51
 ffe37300eba78dfe
 MTC seocho
 8a5bd37531f8cb5d
+MTC seocho
+e2307f7766668e3a
 
 soporte.no
 Amlogic p212
@@ -12210,6 +12243,8 @@ samsung a70q
 59b010b0fce0c919
 rockchip rk322x_box
 7b399ea2c9eaf0b4
+Google sabrina
+8e663d900b2f06e4
 
 oscargi
 MBOX dolphin-p1
@@ -13130,6 +13165,8 @@ HUAWEI HWVOG
 6694793ec990f725
 Google sabrina
 fc57cf5bbf4d6fff
+Google sabrina
+74c883e58674fd91
 
 altemb
 Xiaomi merlin
@@ -13246,6 +13283,10 @@ samsung o1s
 david92
 Xiaomi aquaman
 94d1173551c881fd
+Xiaomi aquaman
+3475715e688123f0
+Xiaomi aquaman
+b2f358dbfca1093a
 
 matito
 Xiaomi aquaman
@@ -13288,6 +13329,8 @@ Amazon sheldon
 m3900 +12
 Xiaomi tucana
 83c13c5a2e4ded51
+Xiaomi maltose
+eab650692db1c053
 
 jtorr
 Xiaomi machuca
@@ -13389,6 +13432,8 @@ Google titan-p1
 b8be3447b46b5eeb
 samsung r8q
 079493f36f385073
+HongXin hx_s905x
+e433031d1a51bb13
 
 carloandr
 samsung t2s
@@ -13415,6 +13460,8 @@ samsung j8y18lte
 alvarezc +6
 rockchip rk322x_box
 8a1b05bd8bff6e1c
+rockchip rk322x_box
+c1819151c7e28732
 
 franco.ca
 KTC_8G ktc_8g
