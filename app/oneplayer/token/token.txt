@@ -13507,3 +13507,7 @@ Xiaomi surya
 10e23737c280ec4e
 Xiaomi oneday
 bfc8bbd3baf3f659
+
+juanro
+Xiaomi curtana
+3dbb78ceb5959cd2
