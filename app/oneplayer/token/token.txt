@@ -11696,8 +11696,8 @@ SCBC R2
 ba599ad6cbc4a9e0
 Google sabrina
 37612b2b76859fef
-Samsung manta
-8dd81ff36c5ac696
+samsung manta
+5dbd1bf5522c363d
 
 silvio_7
 rockchip rk3188
@@ -13519,3 +13519,7 @@ LGE alphalm
 b9f81dabc36fcbff
 samsung star2qlteue
 9850977bd69ef2ce
+
+brunocon
+Xiaomi curtana
+ea0b8d663759c8a7
