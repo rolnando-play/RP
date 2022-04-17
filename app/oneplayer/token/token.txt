@@ -13547,3 +13547,5 @@ Xiaomi surya
 3e427b12d560ebb5
 Xiaomi oneday
 38beef1aa6a269c1
+Xiaomi oneday
+35dcf974e0b1b7ba
