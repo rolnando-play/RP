@@ -10338,6 +10338,8 @@ HUAWEI HWEML
 028a8adfe2413fbe
 rockchip rk322x_box
 65a1ec7f08847de7
+Android MDTV5G
+262731990a4f7a2b
 
 stephengo
 samsung j8y18lte
