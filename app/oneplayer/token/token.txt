@@ -9449,6 +9449,8 @@ rockchip rk322x_box
 53f1b22c35296075
 rockchip rk322x_box
 bd273bb990204e89
+Xiaomi oneday
+e253c1550cfa2b77
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11355,7 +11357,7 @@ ocampocr
 Amazon sheldon
 7fe0731035f042da
 Xiaomi sunny
-a9a3ac0d448be760
+39e28e6fd156c332
 
 bevo19 +18
 Xiaomi aquaman
