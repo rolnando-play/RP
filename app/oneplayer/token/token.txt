@@ -10648,6 +10648,8 @@ dolphin dolphin_fvd_p1
 8fe74f8c4478b516
 dolphin dolphin_fvd_p1
 6afa11b55fd3f8d4
+rockchip rk322x_box
+b0f40013c87f80ca
 
 chavezqu
 HUAWEI HWMAR
@@ -13630,6 +13632,8 @@ Xiaomi veux
 b2fbad36c5b2c7e2
 
 eluis1 +12
+Allwinner dolphin-fvd-p1
+4cadec0b677562e2
 
 aguayoza
 Xiaomi angelican
