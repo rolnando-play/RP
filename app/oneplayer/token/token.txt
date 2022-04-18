@@ -6402,6 +6402,8 @@ rockchip rk322x_box
 89ddc03db1d49eff
 motorola guamp
 b2022f0e43191e3a
+Android MBOX
+c83f8a1a1eb0b797
 
 gonzalezju +6
 HUAWEI HWYAL
