@@ -4380,6 +4380,8 @@ dolphin dolphin_fvd_p1
 990c7973daf4d56
 dolphin dolphin_fvd_p1
 6a77c7772f747b45
+MBOX dolphin-p1
+e2d24109e7ee3779
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -13536,9 +13538,9 @@ rockchip rk322x_box
 rockchip rk322x_box
 c1819151c7e28732
 rockchip rk322x_box
-c1819151c7e28732
-rockchip rk322x_box
 3f4d56fa2c9a8fd5
+rockchip rk322x_box
+96101a3e2777f2bf
 
 franco.ca
 KTC_8G ktc_8g
@@ -13649,3 +13651,5 @@ Android MBOX
 rortiz +6
 HUAWEI HWELE
 e915427e127497f0
+rockchip rk3328_box
+ae9ab66283258b93
