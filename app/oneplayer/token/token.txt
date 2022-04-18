@@ -13613,6 +13613,8 @@ motorola kane_sprout
 ramirezb +6
 rockchip rk322x_box
 494195dc6cbde792
+rockchip rk322x_box
+207a3d9bb69ac3aa
 
 guiye +9
 Amazon mantis
