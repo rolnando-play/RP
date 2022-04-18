@@ -13109,6 +13109,8 @@ Allwinner dolphin-fvd-p1
 eed154b117f061b2
 Allwinner dolphin-fvd-p1
 e6f0d1fa9b407e60
+rockchip MK
+36a60d13f86cd4
 
 aflei
 Amazon sheldonp
@@ -13671,3 +13673,5 @@ f15b55a0f214e0b9
 ar.sto
 Amazon sheldonp
 11966e1b46f29e10
+samsung a32
+d8e4c35a76226ea4
