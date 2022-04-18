@@ -8167,6 +8167,8 @@ rockchip rk322x_box
 de0ffe3493a78785
 dolphin dolphin-fvd-p1
 8ed9e68466bea6dd
+Amlogic p212
+470b42313ef5678c
 
 rr.23
 MTK cvt_mt5863_sa
@@ -13499,6 +13501,8 @@ Amazon kara
 4423522d521fb6e8
 Amazon mantis
 c8a651005c5e65a6
+Amazon mantis
+c35b6f2fa380287
 
 manfredkl
 Google titan-p1
@@ -13643,6 +13647,8 @@ rockchip rk322x_box
 guiye +9
 Amazon mantis
 edfc68e14b8fb303
+Google sabrina
+b047ebf8d48768e2
 
 fleitas.e
 Android MBOX
@@ -13653,3 +13659,7 @@ HUAWEI HWELE
 e915427e127497f0
 rockchip rk3328_box
 ae9ab66283258b93
+
+mariavbg
+Xiaomi pomelo
+f15b55a0f214e0b9
