@@ -6396,6 +6396,8 @@ Allwinner petrel-p1
 3ae2b31cdfaa7b0b
 rockchip rk322x_box
 89ddc03db1d49eff
+motorola guamp
+b2022f0e43191e3a
 
 gonzalezju +6
 HUAWEI HWYAL
