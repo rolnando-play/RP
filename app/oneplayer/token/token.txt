@@ -13569,3 +13569,9 @@ Xiaomi angelican
 benjon
 samsung p3s
 ba7b7fccc1b2f3ba
+
+luis_gi
+Sony BRAVIA_ATV2
+8b14b862d42aabc0
+samsung y2s
+16a8d90ae3674a64
