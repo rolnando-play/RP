@@ -13539,6 +13539,8 @@ samsung star2qlteue
 brunocon
 Xiaomi curtana
 ea0b8d663759c8a7
+Xiaomi aquaman
+38701db5ea9a91a0
 
 marcelo_or
 Amazon sheldon
@@ -13575,3 +13577,9 @@ Sony BRAVIA_ATV2
 8b14b862d42aabc0
 samsung y2s
 16a8d90ae3674a64
+Amazon sheldonp
+a385e4ac30f6649b
+
+ramyni
+Xiaomi oneday
+1a30c48491b6cd88
