@@ -9481,6 +9481,8 @@ dolphin dolphin-fvd-p1
 ccd4ab84a8fa50ae
 MTK cvt_mt5863_sa
 b3246c497b0d10cd
+Xiaomi oneday
+008e2b1659061406
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13701,3 +13703,7 @@ rockchip rk322x_box
 navigator
 HUAWEI HWLYA
 88aeb72b3c0b1e34
+samsung a32
+3bac174a0d0c325b
+samsung a20
+a49b4db44bc36cab
