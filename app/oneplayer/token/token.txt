@@ -13645,6 +13645,8 @@ rockchip rk322x_box
 494195dc6cbde792
 rockchip rk322x_box
 207a3d9bb69ac3aa
+Xiaomi oneday
+64bb2426f3bfdabb
 
 guiye +9
 Amazon mantis
