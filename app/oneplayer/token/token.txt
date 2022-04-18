@@ -6390,6 +6390,10 @@ rockchip rk322x_box
 510f12a647c383d8
 rockchip rk322x_box
 a23924cdeefa96c4
+Allwinner petrel-p1
+3ae2b31cdfaa7b0b
+rockchip rk322x_box
+89ddc03db1d49eff
 
 gonzalezju +6
 HUAWEI HWYAL
