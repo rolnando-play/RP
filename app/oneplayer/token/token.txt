@@ -9337,8 +9337,8 @@ Amlogic p281
 6e1ccbc8353f0144
 Allwinner dolphin-fvd-p1
 6f430eb7eae9b5cb
-MBOX dolphin-p1
-a52a2f45c8b9883e
+Xiaomi oneday
+5841557d00c4c631
 +18
 rockchip rk322x_box
 4a4e097a6e7b6336
@@ -13074,6 +13074,8 @@ Amlogic p281
 55cb86476e630f82
 Amlogic p281
 6086ae5ac6ac56b3
+Amlogic p281
+41aacfdf8f6695ed
 
 luisvill
 rockchip rk322x_box
@@ -13695,6 +13697,10 @@ d8e4c35a76226ea4
 jgillol
 Amazon mantis
 97334e4602b7f3bd
+Amazon mantis
+ae72bb9ad1ca49f3
+Amazon mantis
+39575af130f8576f
 
 mariogon
 rockchip rk322x_box
@@ -13707,3 +13713,9 @@ samsung a32
 3bac174a0d0c325b
 samsung a20
 a49b4db44bc36cab
+
+omarse
+rockchip rk322x_box
+26fd3cb86f1e0f5d
+rockchip rk322x_box
+b30ed27218c73f89
