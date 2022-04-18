@@ -6747,6 +6747,8 @@ rockchip rk322x_box
 2d974e39f2711c35
 rockchip rk322x_box
 9922bca0c11394ba
+rockchip rk322x_box
+bb0c5954ec17a9ec
 
 enriquelr
 Amazon sheldon
@@ -7843,6 +7845,8 @@ rockchip rk322x_box
 519755d93b9a5474
 rockchip rk322x_box
 b45f0cb608fb9025
+Android MDTV5G
+b27757dabfc13831
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -13641,3 +13645,7 @@ edfc68e14b8fb303
 fleitas.e
 Android MBOX
 896b8dcadbc049c3
+
+rortiz +6
+HUAWEI HWELE
+e915427e127497f0
