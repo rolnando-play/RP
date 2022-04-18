@@ -13254,6 +13254,8 @@ samsung a71
 611edaeba7ea7230
 rockchip rk322x_box
 df67269d8e4f3365
+dolphin dolphin-fvd-p1
+f5a3a5075e7db435
 
 everarn
 Xiaomi oneday
@@ -13559,3 +13561,7 @@ Xiaomi veux
 b2fbad36c5b2c7e2
 
 eluis1 +12
+
+aguayoza
+Xiaomi angelican
+58a7bdcd3f351529
