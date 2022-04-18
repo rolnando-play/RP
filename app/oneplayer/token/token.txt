@@ -4129,6 +4129,8 @@ Xiaomi aquaman
 3c68ecfe96024e68
 Amazon sheldon
 d9fdabfd423e7388
+Xiaomi vayu
+bd93d3af30b30f57
 
 itapua30
 rockchip rk322x_box
@@ -10605,6 +10607,8 @@ dolphin dolphin_fvd_p1
 de4a8aa97593a50e
 dolphin dolphin_fvd_p1
 4de42135891d82e9
+dolphin dolphin_fvd_p1
+8fe74f8c4478b516
 
 chavezqu
 HUAWEI HWMAR
