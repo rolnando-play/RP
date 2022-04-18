@@ -460,6 +460,8 @@ rockchip rk322x_box
 aa5e990bb2a67bc
 Amlogic p281
 7226a0f814e723f8
+rockchip rk322x_box
+d23815a00fc3d2f8
 
 Wordtv20
 tx6 mini
@@ -9473,6 +9475,12 @@ Xiaomi oneday
 e253c1550cfa2b77
 rockchip rk322x_box
 ceaf11c843112408
+Allwinner dolphin-fvd-p1
+c598da68bb7799fa
+dolphin dolphin-fvd-p1
+ccd4ab84a8fa50ae
+MTK cvt_mt5863_sa
+b3246c497b0d10cd
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -10177,6 +10185,8 @@ Allwinner dolphin-fvd-p1
 c4e94244e5e2a1c1
 rockchip rk322x_box
 626e89d6b7b1d640
+Android MDTV5G
+619fd40087295351
 
 brandonmk
 Xiaomi begonia
@@ -13507,6 +13517,8 @@ Amazon mantis
 c8a651005c5e65a6
 Amazon mantis
 c35b6f2fa380287
+Amazon mantis
+2dc6e45ceda5a143
 
 manfredkl
 Google titan-p1
@@ -13675,3 +13687,15 @@ Amazon sheldonp
 11966e1b46f29e10
 samsung a32
 d8e4c35a76226ea4
+
+jgillol
+Amazon mantis
+97334e4602b7f3bd
+
+mariogon
+rockchip rk322x_box
+9bcf4a4c8ad10f7d
+
+navigator
+HUAWEI HWLYA
+88aeb72b3c0b1e34
