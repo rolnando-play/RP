@@ -10599,6 +10599,12 @@ dolphin dolphin_fvd_p1
 800d5a37d7c8c8e6
 rockchip rk322x_box
 19c93e67a8541986
+dolphin dolphin_fvd_p1
+22912e03e194eeb5
+dolphin dolphin_fvd_p1
+de4a8aa97593a50e
+dolphin dolphin_fvd_p1
+4de42135891d82e9
 
 chavezqu
 HUAWEI HWMAR
@@ -13585,3 +13591,7 @@ Xiaomi oneday
 1a30c48491b6cd88
 Xiaomi curtana
 c220e05aa5562979
+
+diegosas
+motorola caprip
+2677473a8941fe38
