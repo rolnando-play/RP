@@ -13084,6 +13084,9 @@ Amlogic p281
 41aacfdf8f6695ed
 Allwinner dolphin-fvd-p1
 dab8d16c8fa561d
+rockchip rk3328_box
+0df23655fd59ee8b
++6
 
 luisvill
 rockchip rk322x_box
