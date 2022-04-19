@@ -10192,6 +10192,17 @@ rockchip rk322x_box
 626e89d6b7b1d640
 Android MDTV5G
 619fd40087295351
++10
+Android MDTV5G
+97e5b416fb094339
+Android MDTV5G
+97e5b416fb094339
+Android MDTV5G
+e98485c92fe07be0
+NVIDIA Hi3798MV200
+ab7148a95ab9db30
+Android MDTV5G
+d75d343a4df765c5
 
 brandonmk
 Xiaomi begonia
@@ -13087,6 +13098,10 @@ dab8d16c8fa561d
 rockchip rk3328_box
 0df23655fd59ee8b
 +6
+rockchip rk3328_box
+ef7ac1cd882034dd
+Allwinner dolphin-fvd-p1
+21043f003e1cabe0
 
 luisvill
 rockchip rk322x_box
@@ -13440,8 +13455,6 @@ Amazon sheldon
 m3900 +12
 Xiaomi tucana
 83c13c5a2e4ded51
-Xiaomi maltose
-eab650692db1c053
 Xiaomi maltose
 eab650692db1c053
 
