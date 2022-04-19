@@ -10678,6 +10678,8 @@ dolphin dolphin_fvd_p1
 6afa11b55fd3f8d4
 rockchip rk322x_box
 b0f40013c87f80ca
+dolphin dolphin_fvd_p1
+c7829ae626e35463
 
 chavezqu
 HUAWEI HWMAR
