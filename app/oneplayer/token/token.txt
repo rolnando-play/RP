@@ -12556,7 +12556,7 @@ begar +6
 SDMC DV8547
 5e57b39a070382cd
 Amlogic p281
-e7f2375c1e5f301f
+e4292406ae408c7d
 SDMC DV8547
 915b746885bfb9aa
 MTK cvt_mt5886_sa
@@ -13762,3 +13762,5 @@ Amlogic X96W
 52f1991d63d23613
 Xiaomi lavender
 c7bcd66f7a2f3b80
+rockchip RK3318
+5b7774a89701a803
