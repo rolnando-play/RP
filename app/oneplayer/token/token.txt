@@ -8451,12 +8451,8 @@ Amazon sheldon
 79619c0de96936d3
 
 jorgedan
-Xiaomi vayu
-629d28771ff29033
-samsung gta4lwifi
-a1c3540c4b2075ee
-Xiaomi joyeuse
-a281af554dd854b4
+Xiaomi oneday
+3ffb6e7066e01c98
 
 carlosme
 Xiaomi vayu
@@ -12375,6 +12371,7 @@ SEI Robotics SEI400TV
 3df7adcfefbfc46f
 SEI Robotics SEI400TV
 eb2d79bebbee8335
++18
 
 ccardo
 samsung a12
