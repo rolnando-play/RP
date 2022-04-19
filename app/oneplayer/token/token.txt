@@ -13756,3 +13756,9 @@ OnePlus OnePlus7T
 61b594d9c3d6fd48
 OnePlus OnePlus7T
 61b594d9c3d6fd48
+
+carlos19
+Amlogic X96W
+52f1991d63d23613
+Xiaomi lavender
+c7bcd66f7a2f3b80
