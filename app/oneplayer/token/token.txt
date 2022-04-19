@@ -13122,6 +13122,8 @@ Amlogic p281
 89b03b986d9bb4a3
 Amlogic p281
 1a5e1983c45c99eb
+Amlogic p281
+c94cbaef26deab4c
 
 luisvill
 rockchip rk322x_box
@@ -13726,6 +13728,8 @@ rockchip rk322x_box
 abdcf5cc77f233fc
 dolphin dolphin_fvd_p1
 78c267833dd22b52
+rockchip rk322x_box
+66983557f96a954c
 
 guiye +9
 Amazon mantis
