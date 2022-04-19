@@ -13804,3 +13804,7 @@ samsung a52q
 gonzalom
 samsung dream2lte
 f621a86ae75d39d3
+
+abelvi
+Xiaomi venus
+8943d18eab3d40b6
