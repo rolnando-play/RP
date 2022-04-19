@@ -13848,6 +13848,8 @@ e1007cfc0fc0f443
 miguel.so
 Xiaomi sweet
 b06d6c78bac9a9d0
+HUAWEI HWSTK-HF
+53259ace15fe65f2
 
 edwinyl
 Xiaomi vayu
