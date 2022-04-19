@@ -8178,6 +8178,8 @@ dolphin dolphin-fvd-p1
 8ed9e68466bea6dd
 Amlogic p212
 470b42313ef5678c
+dolphin SBQ-SM007
+982cb4fc00c620a9
 
 rr.23
 MTK cvt_mt5863_sa
