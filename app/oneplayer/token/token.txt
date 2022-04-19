@@ -13752,6 +13752,8 @@ Amazon mantis
 mariogon
 rockchip rk322x_box
 9bcf4a4c8ad10f7d
+rockchip rk322x_box
+af55426c99188543
 
 navigator
 HUAWEI HWLYA
@@ -13808,6 +13810,8 @@ f621a86ae75d39d3
 abelvi
 Xiaomi venus
 8943d18eab3d40b6
+Google sabrina
+e1007cfc0fc0f443
 
 miguel.so
 Xiaomi sweet
