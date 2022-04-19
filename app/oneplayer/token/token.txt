@@ -13795,4 +13795,8 @@ Xiaomi oneday
 
 marhe
 samsung a52q
-41f02ad497d94b70
+41f02ad497d94b
+
+gonzalom
+samsung dream2lte
+f621a86ae75d39d3
