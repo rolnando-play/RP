@@ -13112,6 +13112,8 @@ rockchip rk3328_box
 ef7ac1cd882034dd
 Allwinner dolphin-fvd-p1
 21043f003e1cabe0
+Amlogic p281
+5d08b3ae5242c391
 
 luisvill
 rockchip rk322x_box
@@ -13722,6 +13724,8 @@ Amazon mantis
 edfc68e14b8fb303
 Google sabrina
 b047ebf8d48768e2
+Google sabrina
+55d830be7f6be1d9
 
 fleitas.e
 Android MBOX
