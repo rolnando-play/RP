@@ -9617,6 +9617,8 @@ Xiaomi oneday
 dd60a66fc768d995
 samsung a51
 3c8a0318ab72dde2
+SDMC JFK
+0df08844324df2e2
 
 alepg0
 samsung a20
