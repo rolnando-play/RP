@@ -11134,6 +11134,8 @@ Xiaomi aquaman
 17b7db9df20a0073
 dolphin dolphin_fvd_p1
 88008365161ee188
+HUAWEI-P30-EdgarIS
+c837fb5660cea537
 
 arevalosve
 Amazon sheldonp
@@ -12393,6 +12395,8 @@ SEI Robotics SEI400TV
 SEI Robotics SEI400TV
 eb2d79bebbee8335
 +18
+askey sti6140d360
+aa35130a0107e68d
 
 ccardo
 samsung a12
