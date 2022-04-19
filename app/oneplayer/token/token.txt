@@ -10203,6 +10203,8 @@ NVIDIA Hi3798MV200
 ab7148a95ab9db30
 Android MDTV5G
 d75d343a4df765c5
+rockchip rk322x_box
+a46601622efba2
 
 brandonmk
 Xiaomi begonia
@@ -13790,3 +13792,7 @@ rockchip RK3318
 villalbacris
 Xiaomi oneday
 51e326646eb405c4
+
+marhe
+samsung a52q
+41f02ad497d94b70
