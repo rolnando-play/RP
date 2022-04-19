@@ -11481,7 +11481,7 @@ Allwinner dolphin-fvd-p1
 
 juancitohe
 LENOVO YT-X705F
-7c64b2dd1efafd45
+eaab92fc8c93a6bf
 Motorola cebú
 4896416996380981
 Amazon Kara
