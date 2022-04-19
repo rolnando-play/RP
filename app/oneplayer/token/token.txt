@@ -13740,3 +13740,7 @@ samsung a12u
 armandore
 Amazon tank
 a86cd7ee9f66762c
+
+pedroja +18
+Android MDTV5G
+b86604f46371e47d
