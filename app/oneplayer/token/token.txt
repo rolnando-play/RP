@@ -9285,8 +9285,8 @@ Xiaomi lavender
 1c637329ac3080e4
 MBOX dolphin-p1
 d9da2ad601d9d0c4
-MTK cvt_mt5886_sa
-cff2ffb8bc11830b
+rockchip rk3318
+02dfc7857cdfc647
 rockchip rk322x_box
 55599e36b23dc9bd
 Amlogic p281
@@ -13694,6 +13694,8 @@ HUAWEI HWELE
 e915427e127497f0
 rockchip rk3328_box
 ae9ab66283258b93
+HUAWEI HWBLA
+996abff2a8d7205d
 
 mariavbg
 Xiaomi pomelo
@@ -13734,3 +13736,7 @@ b30ed27218c73f89
 danielro
 samsung a12u
 83d90503c230dc49
+
+armandore
+Amazon tank
+a86cd7ee9f66762c
