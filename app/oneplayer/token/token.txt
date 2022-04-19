@@ -8453,6 +8453,8 @@ Amazon sheldon
 jorgedan
 Xiaomi oneday
 3ffb6e7066e01c98
+Xiaomi oneday
+a206ca747129dc52
 
 carlosme
 Xiaomi vayu
@@ -9839,6 +9841,8 @@ Android MDTV5G
 54f57b6e5875ce6e
 rockchip rk322x_box
 19058341687ccb58
+Xiaomi oneday
+08fa5bbd5c43c8bd
 
 gergod +6
 Amlogic franklin
