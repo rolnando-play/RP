@@ -13682,6 +13682,8 @@ Xiaomi oneday
 64bb2426f3bfdabb
 rockchip rk322x_box
 abdcf5cc77f233fc
+dolphin dolphin_fvd_p1
+78c267833dd22b52
 
 guiye +9
 Amazon mantis
