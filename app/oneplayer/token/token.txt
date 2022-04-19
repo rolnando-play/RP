@@ -13680,6 +13680,8 @@ rockchip rk322x_box
 207a3d9bb69ac3aa
 Xiaomi oneday
 64bb2426f3bfdabb
+rockchip rk322x_box
+abdcf5cc77f233fc
 
 guiye +9
 Amazon mantis
