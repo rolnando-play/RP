@@ -11035,6 +11035,8 @@ Xiaomi oneday
 marcosal
 Xiaomi oneday
 2f817a46774534a7
+realme RE54ABL1
+00acf8602847a032
 
 clienteseis
 Allwinner android_tv_box
