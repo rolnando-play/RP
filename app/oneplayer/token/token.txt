@@ -2299,6 +2299,8 @@ Xiaomi aquaman
 45655297b964df3e
 Xiaomi sweet
 755da037ba87e86f
+Xiaomi aquaman
+bbedf3189f60cd36
 
 roroc
 Rockchip rk3328_box
@@ -11365,8 +11367,8 @@ samsung j7xelte
 8cf8ecf043571d48
 samsung a01q
 25b1071ca779cb3b
-samsung j7elte
-f2a9cc77359e446f
+samsung j7 velve
+a071a837bbcf8532
 
 rudifran
 HUAWEI HWJNY
@@ -13868,3 +13870,7 @@ Xiaomi merlin
 hugo._e
 Amazon mantis
 5e343c8766cdadf6
+Amazon mantis
+2f315e7daaa5d8e2
+Amazon mantis
+867820814d0437dc
