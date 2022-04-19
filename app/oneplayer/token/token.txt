@@ -13083,6 +13083,8 @@ Amlogic p281
 6086ae5ac6ac56b3
 Amlogic p281
 41aacfdf8f6695ed
+Allwinner dolphin-fvd-p1
+dab8d16c8fa561d
 
 luisvill
 rockchip rk322x_box
@@ -13744,3 +13746,9 @@ a86cd7ee9f66762c
 pedroja +18
 Android MDTV5G
 b86604f46371e47d
+
+riegoam
+OnePlus OnePlus7T
+61b594d9c3d6fd48
+OnePlus OnePlus7T
+61b594d9c3d6fd48
