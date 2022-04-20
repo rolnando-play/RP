@@ -8695,6 +8695,8 @@ rockchip rk322x_box
 286cc54ab3e6354d
 Xiaomi oneday
 68cf7cfc4991f567
+Amlogic p201
+caf579d7a4d6704e
 
 nucny
 Xiaomi aquaman
@@ -10881,6 +10883,8 @@ rockchip rk322x_box
 3433ae38c4981ace
 rockchip rk322x_box
 e26caed27f35a88c
+rockchip rk322x_box
+7a7bc8a1704d3ad2
 
 davalosru
 rockchip rk3328_box
