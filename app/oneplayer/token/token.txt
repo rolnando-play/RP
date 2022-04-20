@@ -7010,6 +7010,8 @@ rockchip rk3328_box
 795a9612b9430612
 rockchip rk3328_box
 9c2dbf9b721ec720
+rockchip rk3318
+80c8f7c212faa63f
 
 spelt
 HUAWEI HWSTK-HF
