@@ -386,6 +386,8 @@ PinguimTv p231
 36aca36e9646483b
 Amazon sheldon
 c9e62142683545a6
+Amlogic p201
+cbcea12dd7cb40ce
 
 AQuinonez
 S905W
@@ -6933,6 +6935,9 @@ samsung a11q
 2b1553ee00d026ed
 dolphin dolphin-fvd-p1
 a9f3753bc8ebead5
++3
+rockchip rk322x_box
+dd4a0d6719d33c27
 
 delasier +6 psc
 samsung a51
@@ -13881,6 +13886,8 @@ Android MDTV5G
 b86604f46371e47d
 Xiaomi dandelion
 021cdc2af820d8a0
+MTK cvt_mt5863_sa
+3deb4f4533339481
 
 riegoam
 OnePlus OnePlus7T
