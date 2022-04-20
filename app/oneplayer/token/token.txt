@@ -8476,6 +8476,8 @@ Xiaomi oneday
 3ffb6e7066e01c98
 Xiaomi oneday
 a206ca747129dc52
+samsung gta4lwifi
+a1c3540c4b2075ee
 
 carlosme
 Xiaomi vayu
@@ -13189,6 +13191,10 @@ Amlogic p281
 e3e596afaad3f7d0
 Amlogic p281
 3993eb39aaa608a6
+Amlogic p281
+6e81c5539392327e
+Amlogic p281
+6bc57b01cf43e4e5
 
 luisvill
 rockchip rk322x_box
