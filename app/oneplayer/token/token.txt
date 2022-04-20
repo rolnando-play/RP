@@ -13172,6 +13172,8 @@ Amlogic p281
 fc452fdf5fcca3c7
 Amlogic p281
 3cd63c4ead4d6221
+Amlogic p281
+e46bfbc8b797ed55
 
 luisvill
 rockchip rk322x_box
@@ -13804,6 +13806,8 @@ rockchip rk3328_box
 ae9ab66283258b93
 HUAWEI HWBLA
 996abff2a8d7205d
+HUAWEI HWMAR
+120da439354c89e7
 
 mariavbg
 Xiaomi pomelo
@@ -13936,3 +13940,7 @@ samsung a12
 vinotin
 Lenovo zippo
 8054d5b586474873
+
+agodel +6
+samsung b2q
+35b813261cc46e79
