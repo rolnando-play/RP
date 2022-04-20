@@ -4764,6 +4764,9 @@ Amlogic p201
 540080dfb036ecef
 Amlogic p201
 d931edf4f15ecb99
++18
+Android MDTV5G
+f11f1d6beec35168
 
 lisandra
 MTK cvt_mt5863_sa
