@@ -11182,6 +11182,8 @@ dolphin dolphin_fvd_p1
 88008365161ee188
 HUAWEI-P30-EdgarIS
 c837fb5660cea537
+Android MDTV5G
+df86713e424c2aae
 
 arevalosve
 Amazon sheldonp
