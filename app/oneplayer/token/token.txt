@@ -6779,6 +6779,8 @@ Xiaomi oneday
 ba90815006076da3
 Xiaomi oneday
 101d23a03b09ff61
+rockchip rk322x_box
+2d81dd0dcc441e70
 
 enriquelr
 Amazon sheldon
