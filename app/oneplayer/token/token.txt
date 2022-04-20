@@ -13702,6 +13702,8 @@ b2fbad36c5b2c7e2
 eluis1 +12
 Allwinner dolphin-fvd-p1
 4cadec0b677562e2
+rockchip rk3328_box
+e40f03874e2ee4e6
 
 aguayoza
 Xiaomi angelican
