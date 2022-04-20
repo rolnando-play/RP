@@ -10961,6 +10961,8 @@ rockchip rk3328_box
 sergiomen
 Amazon mantis
 9e15cf8bacf4f25
+Amazon mantis
+880a09b0c077e742
 
 nbalan
 MTK cvt_mt5863_sa
@@ -13820,6 +13822,8 @@ Google sabrina
 b047ebf8d48768e2
 Google sabrina
 55d830be7f6be1d9
+Xiaomi aquaman
+d79782674591c916
 
 fleitas.e
 Android MBOX
@@ -13968,7 +13972,11 @@ samsung a12
 vinotin
 Lenovo zippo
 8054d5b586474873
+Allwinner dolphin-fvd-p1
+8f3c1532d81ab8d0
 
 agodel +6
 samsung b2q
 35b813261cc46e79
+Xiaomi machuca
+6696e712476780a4
