@@ -11001,6 +11001,8 @@ rockchip rk322x_box
 a5a66b6b13497b5c
 Xiaomi aquaman
 47aabbd6082b1508
+Xiaomi aquaman
+7eeb19f150c8707c
 
 hheimb
 samsung a50
@@ -13538,6 +13540,8 @@ df0c97bf6d515bcf
 rodrigopa
 HUAWEI HWJNY
 5e01b7db0705358f
+rockchip MK
+7b001d36e3d3bde2
 
 dasro
 OnePlus OnePlus7T
