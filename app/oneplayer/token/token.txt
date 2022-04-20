@@ -10474,6 +10474,8 @@ Amlogic p281
 0bf97c0c97c443b0
 Amlogic p281
 c75fbbf6ba4542f3
+Amlogic p281
+b33e7a6473639bf6
 
 superchaos +9
 i7 petrel-p1
@@ -13183,6 +13185,8 @@ Amlogic p281
 6b354fff579b1149
 Amlogic p281
 e3e596afaad3f7d0
+Amlogic p281
+3993eb39aaa608a6
 
 luisvill
 rockchip rk322x_box
