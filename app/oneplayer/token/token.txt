@@ -12941,6 +12941,8 @@ samsung m31
 996d921a3ff63123
 Amazon mantis
 15f99cc3bce4573f
+Amazon mantis
+3586064fe6a26301
 
 ezequielfr +6
 Xiaomi vayu
@@ -13870,7 +13872,8 @@ Xiaomi vayu
 hoport
 Xiaomi merlin
 72a7a9caab843da3
-
+Allwinner dolphin-fvd-p1
+164f66b6f3f69c02
 
 hugo._e
 Amazon mantis
