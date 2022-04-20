@@ -6767,6 +6767,8 @@ rockchip rk322x_box
 5410090eb98ce915
 Xiaomi oneday
 ba90815006076da3
+Xiaomi oneday
+101d23a03b09ff61
 
 enriquelr
 Amazon sheldon
@@ -8686,6 +8688,8 @@ rockchip rk322x_box
 +3
 rockchip rk322x_box
 286cc54ab3e6354d
+Xiaomi oneday
+68cf7cfc4991f567
 
 nucny
 Xiaomi aquaman
