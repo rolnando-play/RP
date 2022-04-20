@@ -8531,7 +8531,7 @@ rockchip rk322x_box
 rockchip rk322x_box
 456b1735ff3de37f
 Android MDTV5G
-a215ac500bcc1235
+e12e213449a159f8
 rockchip rk322x_box
 f186ab91b2636027
 
@@ -9852,6 +9852,8 @@ rockchip rk322x_box
 19058341687ccb58
 Xiaomi oneday
 08fa5bbd5c43c8bd
+Android MDTV5G
+d84ffc8a405b8a51
 
 gergod +6
 Amlogic franklin
