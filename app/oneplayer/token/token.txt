@@ -4559,8 +4559,8 @@ Xiaomi oneday
 010e2ed8a8aec066
 
 rkrdo
-motorola odessa
-8a96cb529db27606
+Xiaomi vayu
+f2af25bd64857568
 Xiaomi oneday
 405d622656df7f68
 rockchip rk322x_box
