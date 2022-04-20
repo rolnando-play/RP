@@ -13923,3 +13923,11 @@ e97744aebb6b7c3b
 hsolo1
 samsung a10s
 431750e8b5b9e567
+
+jscrls
+samsung a12
+01bbdae59816514f
+
+vinotin
+Lenovo zippo
+8054d5b586474873
