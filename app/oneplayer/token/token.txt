@@ -13982,3 +13982,7 @@ samsung b2q
 35b813261cc46e79
 Xiaomi machuca
 6696e712476780a4
+
+luanapo
+Android MDTV5G
+ba8017df44a692f6
