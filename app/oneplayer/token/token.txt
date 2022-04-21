@@ -12466,6 +12466,8 @@ eb2d79bebbee8335
 +18
 askey sti6140d360
 aa35130a0107e68d
+askey sti6140d360
+e47245d5ed9f6c24
 
 ccardo
 samsung a12
@@ -14008,6 +14010,8 @@ ba8017df44a692f6
 josega9 +9
 samsung y2s
 c7275786b922fdc5
+SkyworthDigital LAS
+3761cf206abc8946
 
 santiagob +6
 Xiaomi raphael
@@ -14018,3 +14022,7 @@ c36f6f2d1cb7e000
 lsalazar
 samsung crownqltechn
 040a882b9f8f04e0
+
+py.este
+samsung b0q
+4093fcfa09f0c7b4d
