@@ -14072,3 +14072,7 @@ HUAWEI HWJKM-H
 5d84d34deba2d828
 rockchip rk322x_box
 4c6de1a00e571842
+
+sil_vio
+Xiaomi oneday
+e1b0ffda1f82a206
