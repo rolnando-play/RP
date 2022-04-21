@@ -13228,6 +13228,8 @@ Amlogic p281
 86533965bb95823
 Amlogic p281
 ebbe54412824078f
+Amlogic p281
+8c7c23a455fbdf48
 
 luisvill
 rockchip rk322x_box
@@ -13412,6 +13414,8 @@ Google sabrina
 fc57cf5bbf4d6fff
 Google sabrina
 74c883e58674fd91
+Android MDTV5G
+e31505df59c1c5f1
 
 altemb
 Xiaomi merlin
