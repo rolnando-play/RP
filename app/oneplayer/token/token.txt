@@ -6000,6 +6000,8 @@ Android MBOX
 +3
 rockchip rk322x_box
 a195f38769129ef8
+Android MBOX
+f5ab7d04f76bb2a6
 
 joiseg +6 psc
 Amazon sheldon
@@ -6789,6 +6791,8 @@ Xiaomi oneday
 101d23a03b09ff61
 rockchip rk322x_box
 2d81dd0dcc441e70
+FTROU eros-p1
+bbb652e753e25231
 
 enriquelr
 Amazon sheldon
@@ -12801,6 +12805,8 @@ Zplus Hi3798MV100
 696cd03801a37b4c
 Xiaomi oneday
 3a7a8e1051c06144
+COSHIP n9090_telmexott
+fdf450f87116ac59
 
 cesar_ro +9
 HUAWEI HWMAR
@@ -13293,6 +13299,8 @@ rockchip MK
 ae9c943c84491059
 MBOX dolphin-p1
 9febac56364b497e
+dolphin dolphin_fvd_p1
+b835283960ffe337
 
 aflei
 Amazon sheldonp
@@ -13448,6 +13456,8 @@ Amazon mantis
 d83dab74ea9bc192
 MBOX dolphin-p1
 2358cfec0ddbb837
+rockchip rk322x_box
+b3c6df7b6a8264d8
 
 gferra
 Xiaomi oneday
@@ -14054,3 +14064,9 @@ samsung b0q
 alexisga
 Android MDTV5G
 c7f308247a9b16af
+
+santiagolas
+HUAWEI HWJKM-H
+5d84d34deba2d828
+rockchip rk322x_box
+4c6de1a00e571842
