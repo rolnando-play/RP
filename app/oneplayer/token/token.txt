@@ -3295,6 +3295,8 @@ Amazon mantis
 +6
 Xiaomi once
 29761a27a43bbc77
+Xiaomi oneday
+f0e69caa16022ef2
 
 dr.ink
 rockchip rk322x_box
@@ -14092,3 +14094,7 @@ rockchip rk322x_box
 sil_vio
 Xiaomi oneday
 e1b0ffda1f82a206
+
+jp947 +18
+samsung o1s
+d10a2e96d85304d9
