@@ -388,6 +388,9 @@ Amazon sheldon
 c9e62142683545a6
 Amlogic p201
 cbcea12dd7cb40ce
++3
+Amazon sheldon
+1f1caf875d8a3a95
 
 AQuinonez
 S905W
@@ -11221,6 +11224,8 @@ HUAWEI-P30-EdgarIS
 c837fb5660cea537
 Android MDTV5G
 df86713e424c2aae
+Android MDTV5G
+c17d3c8ea7800271
 
 arevalosve
 Amazon sheldonp
@@ -13246,6 +13251,8 @@ Amlogic p281
 8c7c23a455fbdf48
 Amlogic p281
 c7c10bcf814876e7
+Amlogic p281
+82dc4d16cb68924b
 
 luisvill
 rockchip rk322x_box
@@ -14068,8 +14075,6 @@ Android MDTV5G
 c7f308247a9b16af
 
 santiagolas
-HUAWEI HWJKM-H
-5d84d34deba2d828
 rockchip rk322x_box
 4c6de1a00e571842
 
