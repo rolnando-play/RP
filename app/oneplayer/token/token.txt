@@ -6425,6 +6425,8 @@ CASTPAL p201
 ded3d341ba003318
 dolphin dolphin-fvd-p1
 a80e88a79e5501c8
+Allwinner dolphin-fvd-p1
+c66d5221bfa042f0
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10494,7 +10496,7 @@ Amlogic p281
 Amlogic p281
 c75fbbf6ba4542f3
 Amlogic p281
-b33e7a6473639bf6
+cab2c2c198ec01fa
 
 superchaos +9
 i7 petrel-p1
