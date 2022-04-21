@@ -13970,6 +13970,8 @@ e97744aebb6b7c3b
 hsolo1
 samsung a10s
 431750e8b5b9e567
+Allwinner H60
+ddda1787e2c823a6
 
 jscrls
 samsung a12
