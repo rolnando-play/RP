@@ -6220,8 +6220,8 @@ samsung a71
 6ef75a88c6ecc269
 Amazon sheldonp
 5760bf6164f5c124
-Google sabrina
-af6121b086a3f738
+Amazon sheldonp
+8a879c0829ed76f4
 Google sabrina
 f77a8853bbdedaf1
 rockchip rk322x_box
