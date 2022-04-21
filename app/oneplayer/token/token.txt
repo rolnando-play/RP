@@ -8948,6 +8948,8 @@ ae51d67fabb43cc7
 juanwe
 Amazon sheldonp
 e8734541f8ad1147
+Amazon mantis
+f2e738400d1b47aa
 
 aleto71
 rockchip rk322x_box
