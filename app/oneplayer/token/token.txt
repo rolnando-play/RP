@@ -9539,6 +9539,8 @@ MTK cvt_mt5863_sa
 b3246c497b0d10cd
 Xiaomi oneday
 008e2b1659061406
+Android MBOX
+283d2dfbb08b701a
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -9900,6 +9902,8 @@ Android MDTV5G
 d84ffc8a405b8a51
 Android MDTV5G
 f17d665ab7285637
+rockchip rk322x_box
+61809a734164b2f0
 
 gergod +6
 Amlogic franklin
@@ -13220,6 +13224,8 @@ Amlogic p281
 6e81c5539392327e
 Amlogic p281
 6bc57b01cf43e4e5
+Amlogic p281
+86533965bb95823
 
 luisvill
 rockchip rk322x_box
