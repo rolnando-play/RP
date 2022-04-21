@@ -13760,6 +13760,8 @@ Xiaomi joyeuse
 03a5bcb31839216a
 Xiaomi aquaman
 963c92fbf9587db8
+Amazon mantis
+a4eca4a23be3cd0
 
 miguel.an
 samsung j8y18lte
