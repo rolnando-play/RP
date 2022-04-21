@@ -7892,6 +7892,8 @@ Android MDTV5G
 b27757dabfc13831
 rockchip rk322x_box
 b7050d9e20020516
+Allwinner dolphin-fvd-p1
+faf83935a7f95715
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -13856,6 +13858,8 @@ HUAWEI HWBLA
 996abff2a8d7205d
 HUAWEI HWMAR
 120da439354c89e7
+Amazon kara
+d46f87497360837b
 
 mariavbg
 Xiaomi pomelo
@@ -13941,7 +13945,7 @@ abelvi
 Xiaomi venus
 8943d18eab3d40b6
 Google sabrina
-e1007cfc0fc0f443
+d5dd892ff1f8dc52
 
 miguel.so
 Xiaomi sweet
