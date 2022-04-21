@@ -14050,3 +14050,7 @@ samsung crownqltechn
 py.este
 samsung b0q
 4093fcfa09f0c7b4d
+
+alexisga
+Android MDTV5G
+c7f308247a9b16af
