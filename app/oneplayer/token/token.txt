@@ -13992,3 +13992,7 @@ Xiaomi machuca
 luanapo
 Android MDTV5G
 ba8017df44a692f6
+
+josega9 +9
+samsung y2s
+c7275786b922fdc5
