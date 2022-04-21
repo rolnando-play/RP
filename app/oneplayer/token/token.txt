@@ -5763,6 +5763,8 @@ HUAWEI HWEML
 143281170bf513f8
 Android MDTV5G
 1d6a9bd090cbb310
+HUAWEI HWBLA
+93044fe255f47979
 
 gerardo24
 Xiaomi curtana
@@ -13784,6 +13786,8 @@ samsung jackpot2lte
 a97c4f12aa9c8d9d
 Sony BRAVIA_ATV2
 8b8481f9c923c988
+OnePlus OnePlus5
+927b568d85d6e606
 
 juanro
 Xiaomi curtana
@@ -14060,6 +14064,8 @@ samsung y2s
 c7275786b922fdc5
 SkyworthDigital LAS
 3761cf206abc8946
+Amlogic p281
+ee14cd3455cb4fe2
 
 santiagob +6
 Xiaomi raphael
