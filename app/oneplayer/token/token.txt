@@ -7896,6 +7896,8 @@ rockchip rk322x_box
 b7050d9e20020516
 Allwinner dolphin-fvd-p1
 faf83935a7f95715
+rockchip rk322x_box
+3d3a4e78974d36ab
 
 iptv19 +6 psc
 rockchip rk322x_box
