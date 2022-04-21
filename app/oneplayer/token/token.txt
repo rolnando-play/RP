@@ -3812,6 +3812,9 @@ rockchip MK
 eef2d75bdcd7a647
 Xiaomi machuca
 a6bc0d9f2a19ae89
++6 psc
+Android MDTV5G
+2b4e9b6a3bc691d1
 
 oma19 +9
 samsung c2s
@@ -6432,6 +6435,8 @@ dolphin dolphin-fvd-p1
 a80e88a79e5501c8
 Allwinner dolphin-fvd-p1
 c66d5221bfa042f0
+rockchip rk322x_box
+3d6864835ed628d9
 
 gonzalezju +6
 HUAWEI HWYAL
