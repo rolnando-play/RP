@@ -14186,6 +14186,8 @@ rockchip rk322x_box
 sil_vio
 Xiaomi oneday
 e1b0ffda1f82a206
+Xiaomi oneday
+447826e4f43c5782
 
 jp947 +18
 Amazon sheldon
