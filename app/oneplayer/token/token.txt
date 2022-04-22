@@ -9582,6 +9582,8 @@ rockchip rk322x_box
 +18
 rockchip rk3328_box
 f7a1388aec4e013d
+samsung gtelwifi
+6a2b2e7407b23805
 
 danieljo
 Allwinner dolphin-fvd-p1
