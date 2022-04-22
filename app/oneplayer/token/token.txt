@@ -4784,6 +4784,8 @@ Android MDTV5G
 f11f1d6beec35168
 dolphin dolphin_fvd_p1
 2bd3e2d9f543ce04
+dolphin dolphin_fvd_p1
+56b110f262df12d1
 
 lisandra
 MTK cvt_mt5863_sa
