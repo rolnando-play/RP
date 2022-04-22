@@ -3880,6 +3880,9 @@ Xiaomi lavender
 652854e18380905b
 Xiaomi begonia
 824257e2bf1eb676
++3
+samsung z3q
+8e7c07c13d1c44ca
 
 pekho +9
 Google sabrina
@@ -8691,6 +8694,8 @@ rockchip rk322x_box
 65f8d651ebe6251b
 rockchip rk322x_box
 ab86de78f6b36fcf
+Xiaomi oneday
+6a25ac11b0acd6b6
 
 pjc0910 +9
 rockchip rk322x_box
@@ -12183,8 +12188,6 @@ garciaa1
 samsung a51
 ffe37300eba78dfe
 MTC seocho
-8a5bd37531f8cb5d
-MTC seocho
 e2307f7766668e3a
 
 soporte.no
@@ -14085,6 +14088,8 @@ Xiaomi raphael
 a9bca1dd53d7c94c
 Xiaomi oneday
 c36f6f2d1cb7e000
+Xiaomi vayu
+722e124643c485fe
 
 lsalazar
 samsung crownqltechn
@@ -14092,7 +14097,7 @@ samsung crownqltechn
 
 py.este
 samsung b0q
-4093fcfa09f0c7b4d
+4093fcfa09f0c7b4
 
 alexisga
 Android MDTV5G
