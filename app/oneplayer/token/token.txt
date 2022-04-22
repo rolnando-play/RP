@@ -7921,6 +7921,8 @@ rockchip rk322x_box
 3d3a4e78974d36ab
 rockchip rk322x_box
 a3413b37efd05eb5
+MBOX dolphin-p1
+da305dc6dbcbe6fe
 
 iptv19 +6 psc
 rockchip rk322x_box
