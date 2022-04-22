@@ -8604,6 +8604,11 @@ dolphin dolphin-fvd-p1
 1fcef5ad8dc3e57c
 Google titan-p1
 e3ca94566666f01e
+Android MDTV5G
+a08546f607a8a6d8
++3
+Android MDTV5G
+bc0032ea0bace90d
 
 rocapo
 dolphin dolphin-fvd-p1
