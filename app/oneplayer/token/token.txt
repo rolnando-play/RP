@@ -7919,6 +7919,8 @@ Allwinner dolphin-fvd-p1
 faf83935a7f95715
 rockchip rk322x_box
 3d3a4e78974d36ab
+rockchip rk322x_box
+a3413b37efd05eb5
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -13274,6 +13276,10 @@ Amlogic p281
 5554bbcb72ea555f
 Amlogic p281
 bfc78d21448188db
+Amlogic p281
+74adab33aec54174
+Amlogic p281
+95c0fcdedc130221
 
 luisvill
 rockchip rk322x_box
