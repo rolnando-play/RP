@@ -1160,6 +1160,8 @@ rockchip rk322x_box
 3fe6767b829a70c0
 rockchip rk322x_box
 25bb4191b024c8f3
+rockchip rk322x_box
+ec00093e5774ee4a
 
 rtomas
 d60a22d61c15d036
@@ -9602,6 +9604,8 @@ rockchip rk3328_box
 f7a1388aec4e013d
 samsung gtelwifi
 6a2b2e7407b23805
+MTK cvt_mt5863_sa
+8b3f7ea5f64b6b3e
 
 danieljo
 Allwinner dolphin-fvd-p1
