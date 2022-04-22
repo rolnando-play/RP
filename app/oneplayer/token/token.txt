@@ -467,6 +467,8 @@ Amlogic p281
 7226a0f814e723f8
 rockchip rk322x_box
 d23815a00fc3d2f8
+Xiaomi aquaman
+2cab639db8b6db20
 
 Wordtv20
 tx6 mini
