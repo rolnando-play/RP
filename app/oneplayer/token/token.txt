@@ -6989,6 +6989,8 @@ a9f3753bc8ebead5
 +3
 rockchip rk322x_box
 dd4a0d6719d33c27
+rockchip rk322x_box
+11d8dd2e9cd82b31
 
 delasier +6 psc
 samsung a51
@@ -9608,6 +9610,8 @@ samsung gtelwifi
 6a2b2e7407b23805
 MTK cvt_mt5863_sa
 8b3f7ea5f64b6b3e
+Amazon maverick
+2b1e3c9bb7839b15
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14194,3 +14198,7 @@ Xiaomi oneday
 jp947 +18
 Amazon sheldon
 e809ddb4f6565fef
+
+andresfl
+samsung a7y17lte
+b014b055fb3d2cfe
