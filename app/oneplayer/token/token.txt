@@ -13295,6 +13295,8 @@ Amlogic p281
 1cc17eca4138a228
 Amlogic p281
 c50dbecab59d68c0
+Amlogic p281
+ab2742f8f460911b
 
 luisvill
 rockchip rk322x_box
@@ -14123,6 +14125,8 @@ samsung b0q
 4093fcfa09f0c7b4
 rockchip rk322x_box
 80b314bc12c9ab3d
+samsung a52sxq
+596b7156b1d7c281
 
 alexisga
 Android MDTV5G
