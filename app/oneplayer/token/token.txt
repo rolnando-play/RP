@@ -6810,6 +6810,9 @@ rockchip rk322x_box
 2d81dd0dcc441e70
 FTROU eros-p1
 bbb652e753e25231
++6
+dolphin dolphin_fvd_p1
+28c0d848df018cbf
 
 enriquelr
 Amazon sheldon
