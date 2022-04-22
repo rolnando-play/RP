@@ -1153,6 +1153,9 @@ rockchip rk322x_box
 e84e5e0846e3f93b
 rockchip rk322x_box
 e369264e6f6235f9
++6
+rockchip rk322x_box
+f8a585510f0e98b5
 
 rtomas
 d60a22d61c15d036
