@@ -9574,6 +9574,8 @@ Xiaomi oneday
 008e2b1659061406
 Android MBOX
 283d2dfbb08b701a
+rockchip rk322x_box
+21fcb18a01f438ad
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -9939,6 +9941,8 @@ rockchip rk322x_box
 61809a734164b2f0
 rockchip MK
 ec1e27a03992abfc
+Amazon sheldon
+f1c186c00745a3db
 
 gergod +6
 Amlogic franklin
@@ -13286,7 +13290,7 @@ Amlogic p281
 74adab33aec54174
 Amlogic p281
 95c0fcdedc130221
-+8
++18
 Amlogic p281
 fa17f3196f910a1d
 Amlogic p281
@@ -13297,6 +13301,8 @@ Amlogic p281
 c50dbecab59d68c0
 Amlogic p281
 ab2742f8f460911b
+Amlogic p281
+b62d706cebcdf472
 
 luisvill
 rockchip rk322x_box
@@ -13354,6 +13360,11 @@ MBOX dolphin-p1
 9febac56364b497e
 dolphin dolphin_fvd_p1
 b835283960ffe337
++18
+Xiaomi aquaman
+0d5cf0db78ed5668
+rockchip rk3328_box
+3a1a9b648d9f3c4c
 
 aflei
 Amazon sheldonp
@@ -13763,6 +13774,8 @@ Amazon mantis
 c35b6f2fa380287
 Amazon mantis
 2dc6e45ceda5a143
+Amazon mantis
+234256562559d70c
 
 manfredkl
 Google titan-p1
