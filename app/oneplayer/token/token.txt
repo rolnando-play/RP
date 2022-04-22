@@ -14204,3 +14204,7 @@ e809ddb4f6565fef
 andresfl
 samsung a7y17lte
 b014b055fb3d2cfe
+
+venancioant
+samsung m11q
+651495876b6d0ced
