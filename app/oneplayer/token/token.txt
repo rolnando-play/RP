@@ -8698,6 +8698,8 @@ rockchip rk322x_box
 ab86de78f6b36fcf
 Xiaomi oneday
 6a25ac11b0acd6b6
+rockchip rk322x_box
+8284430b0848db17
 
 pjc0910 +9
 rockchip rk322x_box
