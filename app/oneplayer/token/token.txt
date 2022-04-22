@@ -2646,8 +2646,8 @@ rockchip rk322x_box
 atles
 Xiaomi aquaman
 dd21c387aad6a7c7
-MTK cvt_mt5863_sa
-a23d82471d1bbfd6
+Google sabrina
+248b32bc9735e510
 Xiaomi aquaman
 67d8bb8b6bc3aab1
 +6 psc
