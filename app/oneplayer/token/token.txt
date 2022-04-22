@@ -14019,6 +14019,8 @@ samsung a52q
 gonzalom
 samsung dream2lte
 f621a86ae75d39d3
+Xiaomi oneday
+e22a3ba6f37f0fb1
 
 abelvi
 Xiaomi venus
