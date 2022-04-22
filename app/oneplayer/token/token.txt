@@ -6455,6 +6455,8 @@ Allwinner dolphin-fvd-p1
 c66d5221bfa042f0
 rockchip rk322x_box
 3d6864835ed628d9
+rockchip rk322x_box
+d40937aea6c009e2
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -13970,6 +13972,8 @@ Google sabrina
 55d830be7f6be1d9
 Xiaomi aquaman
 d79782674591c916
+Xiaomi oneday
+6ff4d8cfe8eb5e9a
 
 fleitas.e
 Android MBOX
