@@ -1156,6 +1156,8 @@ e369264e6f6235f9
 +6
 rockchip rk322x_box
 f8a585510f0e98b5
+rockchip rk322x_box
+3fe6767b829a70c0
 
 rtomas
 d60a22d61c15d036
@@ -13421,6 +13423,8 @@ Amazon sheldon
 d05c4359bd0a1ad1
 Amazon sheldon
 0428fb78f248c2a3
+Xiaomi aquaman
+659e988ede66a7e4
 
 gpaiv
 HUAWEI HWEML
