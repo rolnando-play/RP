@@ -9576,6 +9576,9 @@ Android MBOX
 283d2dfbb08b701a
 rockchip rk322x_box
 21fcb18a01f438ad
++18
+rockchip rk3328_box
+f7a1388aec4e013d
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -10962,6 +10965,8 @@ rockchip rk322x_box
 e26caed27f35a88c
 rockchip rk322x_box
 7a7bc8a1704d3ad2
+rockchip rk322x_box
+5ba569458c3f1692
 
 davalosru
 rockchip rk3328_box
