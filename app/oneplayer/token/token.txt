@@ -11013,6 +11013,9 @@ rockchip rk322x_box
 7a7bc8a1704d3ad2
 rockchip rk322x_box
 5ba569458c3f1692
++3
+rockchip rk322x_box
+654dc52e0c28f7da
 
 davalosru
 rockchip rk3328_box
@@ -13368,6 +13371,8 @@ Amlogic p281
 92904a9154b7f44a
 Amlogic p281
 926a3ab9e1bc9ad6
+Amlogic p281
+fb746b6864047c9c
 
 luisvill
 rockchip rk322x_box
