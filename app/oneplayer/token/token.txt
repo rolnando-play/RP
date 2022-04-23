@@ -7952,6 +7952,8 @@ rockchip rk322x_box
 a3413b37efd05eb5
 MBOX dolphin-p1
 da305dc6dbcbe6fe
+dolphin dolphin-fvd-p1
+b095afbbe5b35591
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12623,6 +12625,8 @@ samsung c2s
 becc54b95d444765
 Google generic_x86_64
 041fa2557c695fec
+samsung a70q
+73a183ea3e74cd10
 
 djyuni
 Xiaomi tulip
@@ -13362,6 +13366,8 @@ Amlogic p281
 5395d8c9e8a4518a
 Amlogic p281
 92904a9154b7f44a
+Amlogic p281
+926a3ab9e1bc9ad6
 
 luisvill
 rockchip rk322x_box
