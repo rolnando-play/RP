@@ -9631,6 +9631,8 @@ Android MDTV5G
 45f4191bc2dcaf19
 dolphin SBQ-SM007
 99aec5f482054d6a
+Amazon mantis
+93e752dde6e0484b
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14265,3 +14267,7 @@ b014b055fb3d2cfe
 venancioant
 samsung m11q
 651495876b6d0ced
+
+pablomez
+Xiaomi oneday
+abd83fe9f3a8fb4b
