@@ -7002,6 +7002,8 @@ rockchip rk322x_box
 dd4a0d6719d33c27
 rockchip rk322x_box
 11d8dd2e9cd82b31
+rockchip rk3328_box
+7c7fd652ef734c22
 
 delasier +6 psc
 samsung a51
