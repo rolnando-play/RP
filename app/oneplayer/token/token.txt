@@ -9262,8 +9262,8 @@ MBOX dolphin-p1
 95e59c2cd24aef7a
 dolphin dolphin_fvd_p1
 e174f0839f4cde85
-Xiaomi aquaman
-a7ced31e01527bf2
+Xiaomi dipper
+4a8706124fc8ed39
 Xiaomi oneday
 db3ac6dc232cab43
 samsung a21s
