@@ -10188,6 +10188,8 @@ Amazon sheldonp
 c7c9ab2dfc0a092d
 Xiaomi whyred
 4c20ccbf4cf95832
+Amazon sheldonp
+fabde3d50f163795
 
 lechuguita
 Amazon mantis
@@ -13470,6 +13472,8 @@ rockchip rk322x_box
 1aa1862c22e48692
 Android MDTV5G
 8e33bcbd86c9ff8c
+MBOX dolphin-p1
+8f310143a84b3e16
 
 aflei
 Amazon sheldonp
