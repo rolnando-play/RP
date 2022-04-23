@@ -5054,6 +5054,8 @@ Google sabrina
 33719e2d44ee1144
 MBOX dolphin-p1
 dbacbc62762fc544
+Xiaomi oneday
+950871d0870f81ec
 
 psicov
 Xiaomi lavender
@@ -11146,6 +11148,10 @@ Xiaomi aquaman
 47aabbd6082b1508
 Xiaomi aquaman
 7eeb19f150c8707c
+Xiaomi aquaman
+bd08d96bb3b5364b
+Xiaomi aquaman
+64531c0696a21574
 
 hheimb
 samsung a50
@@ -13352,6 +13358,8 @@ Amlogic p281
 f1b619f1ec65a261
 Amlogic p281
 8546ed5acd2f5081
+Amlogic p281
+5395d8c9e8a4518a
 
 luisvill
 rockchip rk322x_box
