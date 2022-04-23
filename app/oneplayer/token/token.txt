@@ -13979,6 +13979,8 @@ rockchip rk3328_box
 e40f03874e2ee4e6
 rockchip rk322x_box
 900593ffaa659f9d
+Xiaomi oneday
+542784c037ea1979
 
 aguayoza
 Xiaomi angelican
