@@ -1162,6 +1162,8 @@ rockchip rk322x_box
 25bb4191b024c8f3
 rockchip rk322x_box
 ec00093e5774ee4a
+Allwinner dolphin-fvd-p1
+cdace168e07bead6
 
 rtomas
 d60a22d61c15d036
@@ -4796,6 +4798,8 @@ dolphin dolphin_fvd_p1
 2bd3e2d9f543ce04
 dolphin dolphin_fvd_p1
 56b110f262df12d1
+MBOX dolphin-p1
+0961f23cbe5c2cad
 
 lisandra
 MTK cvt_mt5863_sa
@@ -13344,6 +13348,10 @@ Amlogic p281
 ab2742f8f460911b
 Amlogic p281
 b62d706cebcdf472
+Amlogic p281
+f1b619f1ec65a261
+Amlogic p281
+8546ed5acd2f5081
 
 luisvill
 rockchip rk322x_box
@@ -13863,6 +13871,9 @@ rockchip rk322x_box
 3f4d56fa2c9a8fd5
 rockchip rk322x_box
 96101a3e2777f2bf
+rockchip rk322x_box
+31acfde7d0f2edf9
++18
 
 franco.ca
 KTC_8G ktc_8g
