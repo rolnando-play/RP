@@ -6839,6 +6839,8 @@ bbb652e753e25231
 +6
 dolphin dolphin_fvd_p1
 28c0d848df018cbf
+Google eros-p1
+f9e58266262a08db
 
 enriquelr
 Amazon sheldon
@@ -13395,6 +13397,9 @@ Amlogic p281
 e48e936f20cbb422
 Amlogic p281
 29ca78a0ed6c802f
++9
+Amlogic p281
+3e5585bfafe943d3
 
 luisvill
 rockchip rk322x_box
