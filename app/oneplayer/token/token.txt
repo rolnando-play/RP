@@ -13457,6 +13457,8 @@ rockchip rk3328_box
 3a1a9b648d9f3c4c
 rockchip rk322x_box
 1aa1862c22e48692
+Android MDTV5G
+8e33bcbd86c9ff8c
 
 aflei
 Amazon sheldonp
