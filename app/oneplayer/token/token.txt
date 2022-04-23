@@ -13387,6 +13387,8 @@ Amlogic p281
 d5701520d0d08df5
 Amlogic p281
 57ea21d1b6b3e70f
+Amlogic p281
+d5cbbab477f0f2df
 
 luisvill
 rockchip rk322x_box
@@ -13449,6 +13451,8 @@ Xiaomi aquaman
 0d5cf0db78ed5668
 rockchip rk3328_box
 3a1a9b648d9f3c4c
+rockchip rk322x_box
+1aa1862c22e48692
 
 aflei
 Amazon sheldonp
