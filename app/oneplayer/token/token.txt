@@ -3784,7 +3784,8 @@ TCL BeyondTV
 7d2e726f0a4a9e75
 Amazon tank
 ffd1e9f8ab8fbce9
-
+Xiaomi oneday
+16cfb5c228ffa298
 
 nefebo +6 psc
 Xiaomi raphael
@@ -8769,6 +8770,8 @@ SkyworthDigital LAS
 226aab2801009e2c
 SkyworthDigital LAS
 a31d495f06723354
+Xiaomi oneday
+16cfb5c228ffa298
 
 ragnar.lod
 Allwinner dolphin-fvd-p1
@@ -12238,7 +12241,7 @@ garciaa1
 samsung a51
 ffe37300eba78dfe
 MTC seocho
-e2307f7766668e3a
+2a58b2671109474e
 
 soporte.no
 Amlogic p212
