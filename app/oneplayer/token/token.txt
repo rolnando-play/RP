@@ -13393,6 +13393,8 @@ Amlogic p281
 d5cbbab477f0f2df
 Amlogic p281
 e48e936f20cbb422
+Amlogic p281
+29ca78a0ed6c802f
 
 luisvill
 rockchip rk322x_box
@@ -14275,3 +14277,7 @@ samsung m11q
 pablomez
 Xiaomi oneday
 abd83fe9f3a8fb4b
+
+ernesto21
+samsung a7y18lte
+f398e6cc0cf463fc
