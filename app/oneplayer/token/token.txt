@@ -14016,6 +14016,8 @@ Xiaomi angelican
 benjon
 samsung p3s
 ba7b7fccc1b2f3ba
+samsung a21s
+e893db8617d4e56c
 
 luis_gi
 Sony BRAVIA_ATV2
