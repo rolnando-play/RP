@@ -1166,6 +1166,11 @@ rockchip rk322x_box
 ec00093e5774ee4a
 Allwinner dolphin-fvd-p1
 cdace168e07bead6
+Rockchip rk3328_box
+2c99bb5d4cc7484b
++6
+Rockchip rk3328_box
+ce37dc396dd9583c
 
 rtomas
 d60a22d61c15d036
