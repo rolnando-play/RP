@@ -7403,13 +7403,13 @@ f400c031de02c878
 rockchip rk3328_box
 bdebfc65fe0e7de5
 Amlogic p282
-9a94a5e5bb86def9
-Amlogic p282
 418692eda390567a
 rockchip rk322x_box
 b018fed4161068d8
 rockchip rk322x_box
 bceafc9636d4f03d
+motorola channel
+ffda9075c92d7ba7
 
 jjuan
 Xiaomi aquaman
