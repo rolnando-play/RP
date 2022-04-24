@@ -14119,13 +14119,15 @@ rockchip rk322x_box
 rockchip rk322x_box
 af55426c99188543
 
-navigator
+navigator +6
 HUAWEI HWLYA
 88aeb72b3c0b1e34
 samsung a32
 3bac174a0d0c325b
 samsung a20
 a49b4db44bc36cab
+Xiaomi aquaman
+8c9b74d393ec0bde
 
 omarse
 rockchip rk322x_box
