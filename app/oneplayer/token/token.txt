@@ -10668,7 +10668,7 @@ ff512b7c3a753854
 Amlogic p281
 11c64c4b073d37d7
 Xiaomi dandelion
-862121894ac79127
+18568cb2172e113d
 
 waltervi
 rockchip rk322x_box
