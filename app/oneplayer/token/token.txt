@@ -10383,6 +10383,8 @@ rockchip rk322x_box
 bf740808ffe95fea
 Allwinner dolphin-fvd-p1
 555c44043036b720
+Android MDTV5G
+edab951dd3154ae8
 
 brandonmk
 Xiaomi begonia
