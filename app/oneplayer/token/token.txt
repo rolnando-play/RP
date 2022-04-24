@@ -14310,3 +14310,7 @@ rockchip rk322x_box
 a5af1e850a766a91
 rockchip rk322x_box
 286c363a0b9ed227
+
+roloca
+MTK cvt_mt5886_sa
+acba44ea1410c2f8
