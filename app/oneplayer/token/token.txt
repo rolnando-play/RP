@@ -14314,3 +14314,5 @@ rockchip rk322x_box
 roloca
 MTK cvt_mt5886_sa
 acba44ea1410c2f8
+samsung a12s
+f3620c2f1f1d9e50
