@@ -6480,6 +6480,8 @@ rockchip rk322x_box
 dbca9eab0e7549df
 Google sabrina
 af6121b086a3f738
+rockchip rk322x_box
+5308ce9f494aa1db
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -14353,3 +14355,7 @@ samsung a72q
 1a06d806c48e7578
 samsung a32
 a3a91fe3ebdc802a
+
+alfredocau
+TCL UnionTV
+5f8ac9d34054df38
