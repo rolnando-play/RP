@@ -1171,6 +1171,8 @@ Rockchip rk3328_box
 +6
 Rockchip rk3328_box
 ce37dc396dd9583c
+rockchip rk322x_box
+edae8a8db94a6876
 
 rtomas
 d60a22d61c15d036
