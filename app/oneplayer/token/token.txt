@@ -7979,6 +7979,8 @@ MBOX dolphin-p1
 da305dc6dbcbe6fe
 dolphin dolphin-fvd-p1
 b095afbbe5b35591
+rockchip rk322x_box
+99598439ee8b76f6
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -8559,6 +8561,8 @@ edcf13ce4d6809bc
 noriimpor
 Amazon sheldon
 c4cddabeb408f0a7
+Amazon sheldon
+a917c5c8fc9ae9b3
 
 humbertohs
 Xiaomi oneday
@@ -9285,8 +9289,8 @@ MBOX dolphin-p1
 95e59c2cd24aef7a
 dolphin dolphin_fvd_p1
 e174f0839f4cde85
-Xiaomi dipper
-4a8706124fc8ed39
+MTK cvt_mt5886_sa
+cff2ffb8bc11830b
 Xiaomi oneday
 db3ac6dc232cab43
 samsung a21s
@@ -9637,13 +9641,11 @@ MTK cvt_mt5863_sa
 b3246c497b0d10cd
 Xiaomi oneday
 008e2b1659061406
-Android MBOX
-283d2dfbb08b701a
 rockchip rk322x_box
 21fcb18a01f438ad
-+18
 rockchip rk3328_box
 f7a1388aec4e013d
++18
 samsung gtelwifi
 6a2b2e7407b23805
 MTK cvt_mt5863_sa
