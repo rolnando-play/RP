@@ -7422,11 +7422,13 @@ rockchip rk322x_box
 bceafc9636d4f03d
 motorola channel
 ffda9075c92d7ba7
-+
++12
 Xiaomi oneday
 f0f07e2908453ccc
 rockchip rk322x_box
 22da011934c72ee7
+rockchip rk322x_box
+514db7748356974
 
 jjuan
 Xiaomi aquaman
@@ -8563,6 +8565,8 @@ Amazon sheldon
 c4cddabeb408f0a7
 Amazon sheldon
 a917c5c8fc9ae9b3
+Amazon sheldon
+fc758af07f01372f
 
 humbertohs
 Xiaomi oneday
@@ -8769,6 +8773,8 @@ Xiaomi oneday
 6a25ac11b0acd6b6
 rockchip rk322x_box
 8284430b0848db17
+rockchip rk322x_box
+11ff7d2ecefe90c4
 
 pjc0910 +9
 rockchip rk322x_box
@@ -11114,6 +11120,8 @@ rockchip rk322x_box
 5afea713045a67dd
 dolphin SBQ-SM007
 cd407ef5f92ccb8d
+Amazon sheldon
+25e54c663d80f55b
 
 mpalac
 Xiaomi ginkgo
