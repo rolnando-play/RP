@@ -14347,3 +14347,9 @@ MTK cvt_mt5886_sa
 acba44ea1410c2f8
 samsung a12s
 f3620c2f1f1d9e50
+
+cperalt
+samsung a72q
+1a06d806c48e7578
+samsung a32
+a3a91fe3ebdc802a
