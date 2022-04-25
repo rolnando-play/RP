@@ -3838,8 +3838,7 @@ eef2d75bdcd7a647
 Xiaomi machuca
 a6bc0d9f2a19ae89
 +6 psc
-Android MDTV5G
-2b4e9b6a3bc691d1
+
 
 oma19 +9
 samsung c2s
@@ -3902,8 +3901,8 @@ Xiaomi lavender
 Xiaomi begonia
 824257e2bf1eb676
 +3
-samsung z3q
-8e7c07c13d1c44ca
+Google generic_x86_64
+821190a751b70c4f
 
 pekho +9
 Google sabrina
@@ -6850,6 +6849,10 @@ dolphin dolphin_fvd_p1
 28c0d848df018cbf
 Google eros-p1
 f9e58266262a08db
+Xiaomi aquaman
+1ded4c33b84adb59
+Xiaomi aquaman
+5634c5bc04541990
 
 enriquelr
 Amazon sheldon
@@ -7417,6 +7420,11 @@ rockchip rk322x_box
 bceafc9636d4f03d
 motorola channel
 ffda9075c92d7ba7
++
+motorola channel
+ffda9075c92d7ba7
+Xiaomi oneday
+f0f07e2908453ccc
 
 jjuan
 Xiaomi aquaman
