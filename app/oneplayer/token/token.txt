@@ -7423,10 +7423,10 @@ bceafc9636d4f03d
 motorola channel
 ffda9075c92d7ba7
 +
-motorola channel
-ffda9075c92d7ba7
 Xiaomi oneday
 f0f07e2908453ccc
+rockchip rk322x_box
+22da011934c72ee7
 
 jjuan
 Xiaomi aquaman
@@ -10023,6 +10023,8 @@ rockchip MK
 ec1e27a03992abfc
 Amazon sheldon
 f1c186c00745a3db
+Amlogic p281
+cf2a81fd94abe2fc
 
 gergod +6
 Amlogic franklin
