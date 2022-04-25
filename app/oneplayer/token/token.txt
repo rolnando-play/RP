@@ -11815,6 +11815,8 @@ MTK cvt_mt5863_sa
 2897c3065551219e
 Xiaomi vayu
 30ff49626f88e836
+Xiaomi oneday
+d51b6c4f6bfe0d45
 
 santiagoz
 Android MBOX
