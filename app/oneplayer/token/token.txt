@@ -10400,6 +10400,8 @@ Allwinner dolphin-fvd-p1
 555c44043036b720
 Android MDTV5G
 edab951dd3154ae8
+Android MDTV5G
+d2bb7ba37a020ffe
 
 brandonmk
 Xiaomi begonia
