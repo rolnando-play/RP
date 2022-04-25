@@ -9656,6 +9656,8 @@ dolphin SBQ-SM007
 99aec5f482054d6a
 Amazon mantis
 93e752dde6e0484b
+Xiaomi oneday
+0023d7a60e936ad1
 
 danieljo
 Allwinner dolphin-fvd-p1
