@@ -7990,6 +7990,8 @@ dolphin dolphin-fvd-p1
 b095afbbe5b35591
 rockchip rk322x_box
 99598439ee8b76f6
+Droidlogic franklin
+72e1e8f8ae4d3d27
 
 iptv19 +6 psc
 rockchip rk322x_box
