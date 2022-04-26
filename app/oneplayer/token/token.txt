@@ -6491,6 +6491,8 @@ rockchip rk322x_box
 463ded7d78aa4c1
 rockchip rk3328_box
 c3fef989f20d2f5e
+TCL UnionTV
+3caca4a5283064a8
 
 gonzalezju +6
 HUAWEI HWYAL
