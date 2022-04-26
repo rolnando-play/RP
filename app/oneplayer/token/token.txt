@@ -14339,6 +14339,8 @@ samsung a52sxq
 alexisga
 Android MDTV5G
 c7f308247a9b16af
+Xiaomi merlin
+e0c0f71aef22f761
 
 santiagolas
 rockchip rk322x_box
