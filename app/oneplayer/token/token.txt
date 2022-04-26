@@ -10225,6 +10225,9 @@ Amazon sheldonp
 fabde3d50f163795
 Amazon sheldonp
 ac6606a7e517430b
++6
+Amazon mantis
+404f16377fb6bacb
 
 lechuguita
 Amazon mantis
@@ -14193,6 +14196,8 @@ Xiaomi dandelion
 021cdc2af820d8a0
 MTK cvt_mt5863_sa
 3deb4f4533339481
+Hisilicon Hi3796MV100
+dbc454e3cadca710
 
 riegoam
 OnePlus OnePlus7T
