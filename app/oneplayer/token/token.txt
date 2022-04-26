@@ -6487,6 +6487,8 @@ rockchip rk322x_box
 5308ce9f494aa1db
 rockchip rk322x_box
 463ded7d78aa4c1
+rockchip rk3328_box
+c3fef989f20d2f5e
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -13541,6 +13543,8 @@ MBOX dolphin-p1
 8f310143a84b3e16
 dolphin dolphin-fvd-p1
 6ecf86ab2f99ed
+Xiaomi oneday
+9cb6208e9986abc2
 
 aflei
 Amazon sheldonp
