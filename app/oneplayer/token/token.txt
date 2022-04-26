@@ -11845,8 +11845,8 @@ samsung noblelte
 6d854584317d1768
 
 ricardoan
-MTK cvt_mt5863_sa
-2897c3065551219e
+Xiaomi oneday
+886ebfc2ae6fe227
 Xiaomi vayu
 30ff49626f88e836
 Xiaomi oneday
@@ -13569,6 +13569,8 @@ dolphin dolphin-fvd-p1
 6ecf86ab2f99ed
 Xiaomi oneday
 9cb6208e9986abc2
+Google titan-p1
+89945d3d12e591c1
 
 aflei
 Amazon sheldonp
@@ -14435,3 +14437,9 @@ samsung a32
 f0c0c80eea2143bc
 Android MDTV5G
 cb5028c792845f89
+
+ronald.r
+Amazon mantis
+a48ffd04dcee8cf4
+Amazon mantis
+a48ffd04dcee8cf4
