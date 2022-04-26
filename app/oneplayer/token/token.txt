@@ -5461,6 +5461,8 @@ rockchip rk322x_box
 2a1b35d0eee4a94b
 Amazon sheldon
 3b833db95acec763
+dolphin dolphin-fvd-p1
+15ba8ce51bc5511c
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -13967,6 +13969,8 @@ Amazon mantis
 2dc6e45ceda5a143
 Amazon mantis
 234256562559d70c
+Amazon mantis
+17d26935b4311bd8
 
 manfredkl
 Google titan-p1
