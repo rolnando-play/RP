@@ -6996,7 +6996,7 @@ d84c34679decf188
 rockchip rk322x_box
 5af62ab5dcc35622
 Amlogic p281
-935f35987351a9a8
+48fcf02b9c51c276
 +3
 Android MDTV5G
 62f98954209d0d57
