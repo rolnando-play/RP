@@ -7996,6 +7996,8 @@ Droidlogic franklin
 72e1e8f8ae4d3d27
 dolphin dolphin_fvd_p1
 ac627829da2a2dc
+MTK cvt_mt5863_sa
+ae0c8cb3d2e84397
 
 iptv19 +6 psc
 rockchip rk322x_box
