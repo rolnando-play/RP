@@ -14433,3 +14433,5 @@ f6c24c0b530c4b61
 franvil
 samsung a32
 f0c0c80eea2143bc
+Android MDTV5G
+cb5028c792845f89
