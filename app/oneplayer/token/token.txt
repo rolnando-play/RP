@@ -10910,6 +10910,8 @@ dolphin dolphin_fvd_p1
 +9
 dolphin dolphin_fvd_p1
 8cd2395d4174ca63
+dolphin dolphin_fvd_p1
+70f9ec81015498ef
 
 chavezqu
 HUAWEI HWMAR
@@ -14423,3 +14425,7 @@ TCL UnionTV
 5f8ac9d34054df38
 TCL UnionTV
 f6c24c0b530c4b61
+
+franvil
+samsung a32
+f0c0c80eea2143bc
