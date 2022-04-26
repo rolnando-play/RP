@@ -4423,6 +4423,9 @@ MBOX dolphin-p1
 e2d24109e7ee3779
 rockchip rk322x_box
 629b2dae71190f0c
+Allwinner dolphin-fvd-p1
+97541a6fc0a5d8a5
++6 psc
 
 aylenmon
 OnePlus OnePlus8TMO
