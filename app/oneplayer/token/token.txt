@@ -8839,6 +8839,9 @@ Xiaomi oneday
 68cf7cfc4991f567
 Amlogic p201
 caf579d7a4d6704e
++3
+Xiaomi oneday
+6970c0810a1b6b42
 
 nucny
 Xiaomi aquaman
@@ -12649,6 +12652,8 @@ askey sti6140d360
 aa35130a0107e68d
 askey sti6140d360
 e47245d5ed9f6c24
+askey sti6140d360
+91a232d3ca126fc3
 
 ccardo
 samsung a12
