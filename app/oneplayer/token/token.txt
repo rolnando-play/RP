@@ -7992,6 +7992,8 @@ rockchip rk322x_box
 99598439ee8b76f6
 Droidlogic franklin
 72e1e8f8ae4d3d27
+dolphin dolphin_fvd_p1
+ac627829da2a2dc
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -14362,6 +14364,8 @@ Xiaomi oneday
 e1b0ffda1f82a206
 Xiaomi oneday
 447826e4f43c5782
+Xiaomi aquaman
+1e5dbd95664e82dd
 
 jp947 +18
 Amazon sheldon
