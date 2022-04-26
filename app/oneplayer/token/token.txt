@@ -6485,6 +6485,8 @@ Google sabrina
 af6121b086a3f738
 rockchip rk322x_box
 5308ce9f494aa1db
+rockchip rk322x_box
+463ded7d78aa4c1
 
 gonzalezju +6
 HUAWEI HWYAL
