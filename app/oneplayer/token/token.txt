@@ -1672,6 +1672,10 @@ b112d173888af09e
 +10
 Android MDTV5G
 2f76db2a6078ced7
+Android MDTV5G
+59377f49b2c7a9a8
+Android MDTV5G
+6685144525b70ec7
 
 ruthgis
 S905W
@@ -6498,6 +6502,8 @@ rockchip rk3328_box
 c3fef989f20d2f5e
 TCL UnionTV
 3caca4a5283064a8
+rockchip rk322x_box
+f6d32ada5cc48725
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10069,6 +10075,10 @@ Amazon sheldon
 669e4d6b1f14e101
 rockchip rk322x_box
 2b5d944ef2814051
+rockchip rk322x_box
+3f68becb25df89d7
+rockchip rk322x_box
+e916374f600c624d
 
 gergod +6
 Amlogic franklin
@@ -11604,6 +11614,8 @@ Rockchip rk3328_box
 bfd026fba6a26f79
 Rockchip rk3328_box
 0a1e289891a60ae1
+Rockchip rk3328_box
+faf59d786e87ead7
 
 luiscalou
 Allwinner android_tv_box
@@ -13801,6 +13813,8 @@ rockchip rk322x_box
 df67269d8e4f3365
 dolphin dolphin-fvd-p1
 f5a3a5075e7db435
+samsung a31
+9f09888313a0458e
 
 everarn
 Xiaomi oneday
@@ -14229,6 +14243,8 @@ d46f87497360837b
 HUAWEI HWMAR
 635967f5db1b7e74
 +6
+OnePlus OnePlus3T
+5429b10b7e68a1f9
 
 mariavbg
 Xiaomi pomelo
