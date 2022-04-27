@@ -13552,6 +13552,8 @@ rockchip rk322x_box
 7f9a7e09aa21b556
 rockchip rk322x_box
 20008da7c36e097e
+Amlogic p281
+74676130b9c76c73
 
 luisvill
 rockchip rk322x_box
@@ -14367,6 +14369,8 @@ Amazon mantis
 dianah
 Xiaomi aquaman
 b0168b02d5a8f5fc
+Xiaomi aquaman
+1868e0c36ad46440
 
 dianacor +6
 Xiaomi chopin
