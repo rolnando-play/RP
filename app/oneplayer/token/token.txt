@@ -4438,6 +4438,11 @@ rockchip rk322x_box
 Allwinner dolphin-fvd-p1
 97541a6fc0a5d8a5
 +6 psc
+dolphin dolphin_fvd_p1
+ba647bb122ea11c5
+dolphin dolphin_fvd_p1
+949a04656e4c2a1
+
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -13574,6 +13579,22 @@ rockchip rk322x_box
 20008da7c36e097e
 Amlogic p281
 74676130b9c76c73
+Amlogic p281
+72064d98b5c6d530
+Amlogic p281
+d4c2bf2e40cdc133
+Amlogic p281
+c43e5927b3e19640
+Amlogic p281
+539a396ffe22bdbf
+Amlogic p281
+39d58bcc1770985a
+Amlogic p281
+1b4199e1af653e22
+Amlogic p281
+ae2cdefdbdc2b5f6
+Amlogic p281
+734b37944e88d5e7
 
 luisvill
 rockchip rk322x_box
