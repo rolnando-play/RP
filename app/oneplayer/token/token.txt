@@ -581,8 +581,8 @@ Amazon sheldonp
 56ebf47a12fc0ea8
 
 adolfo3
-rockchip rk322x_box
-85d1ab8fc7448b62
+Android MBOX
+7b86c1ce5b13fa8f
 r69
 f3508561635e94a9
 r89 pro
@@ -4595,6 +4595,8 @@ Xiaomi oneday
 3dceff9f4b217b35
 Xiaomi oneday
 010e2ed8a8aec066
+Xiaomi oneday
+4efae7448a8bc732
 
 rkrdo
 Xiaomi vayu
@@ -13518,6 +13520,17 @@ Amlogic p281
 f4b59f2ad3d40403
 Amlogic p281
 8f4ce99496654445
++18
+Amlogic p281
+3c18810b83fbd3b6
+Amlogic p281
+7f390143c9c168a8
+Amlogic p281
+6ed48293ff0d96ae
+rockchip rk322x_box
+7f9a7e09aa21b556
+rockchip rk322x_box
+20008da7c36e097e
 
 luisvill
 rockchip rk322x_box
