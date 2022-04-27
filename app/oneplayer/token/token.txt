@@ -12692,6 +12692,8 @@ askey sti6140d360
 e47245d5ed9f6c24
 askey sti6140d360
 91a232d3ca126fc3
+askey sti6140d360
+a34e0fa4c22dd85e
 
 ccardo
 samsung a12
