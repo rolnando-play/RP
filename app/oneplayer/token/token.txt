@@ -9456,6 +9456,8 @@ Allwinner dolphin-fvd-p1
 bf8af129c7e43db8
 PinguimTv p231
 4cdd97c876e23946
+streambus p212
+bec02830e857d0e5
 
 MTK cvt_mt5886_sa
 27bc3a46f709a4c1
