@@ -8668,8 +8668,8 @@ ad5e3a3b9e952b58
 dolphin SBQ-SM007
 6a9c963063622593
 +3
-rockchip rk322x_box
-feea16ee6b544cb9
+Android MDTV5G
+25dbba16925f2965
 Allwinner dolphin-fvd-p1
 f7b76f47c213cf8e
 MBOX dolphin-p1
@@ -11646,6 +11646,8 @@ Rockchip rk3328_box
 0a1e289891a60ae1
 Rockchip rk3328_box
 faf59d786e87ead7
+Rockchip rk3328_box
+2b9859f7a7af9e1b
 
 luiscalou
 Allwinner android_tv_box
