@@ -10943,6 +10943,8 @@ dolphin dolphin_fvd_p1
 6d1d0d24f4d4d0c2
 dolphin dolphin_fvd_p1
 288bd7cf579137d6
+dolphin dolphin_fvd_p1
+e3aa307937374861
 
 chavezqu
 HUAWEI HWMAR
@@ -11275,6 +11277,9 @@ Xiaomi aquaman
 bd08d96bb3b5364b
 Xiaomi aquaman
 64531c0696a21574
++6 psc
+Xiaomi aquaman
+037820c912e3dd23
 
 hheimb
 samsung a50
