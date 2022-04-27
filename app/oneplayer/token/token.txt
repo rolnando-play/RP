@@ -10064,6 +10064,8 @@ Amlogic p281
 cf2a81fd94abe2fc
 Amazon sheldon
 669e4d6b1f14e101
+rockchip rk322x_box
+2b5d944ef2814051
 
 gergod +6
 Amlogic franklin
