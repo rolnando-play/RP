@@ -11588,6 +11588,9 @@ rockchip rk3318_box
 f9b83f2cb564f327
 Rockchip rk3328_box
 165472b3c9900137
++12
+Rockchip rk3328_box
+30f53bec1d69f361
 
 luiscalou
 Allwinner android_tv_box
@@ -13502,6 +13505,10 @@ Amlogic p281
 b75fa7c6d3604e3
 Amlogic p281
 85317725a1c493b2
+Amlogic p281
+f4b59f2ad3d40403
+Amlogic p281
+8f4ce99496654445
 
 luisvill
 rockchip rk322x_box
