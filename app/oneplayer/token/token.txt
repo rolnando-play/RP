@@ -113,8 +113,8 @@ Xiaomi aquaman
 e37f236b2328152a
 
 derlysal - 6
-rockchip rk322x_box
-2583a6f08f95c3cb
+Amazon sheldon
+4fda9586a36b7ad4
 xiaomi
 2accc05f27d01dca
 Xiaomi aquaman
