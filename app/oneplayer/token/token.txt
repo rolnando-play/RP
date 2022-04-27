@@ -6504,6 +6504,8 @@ TCL UnionTV
 3caca4a5283064a8
 rockchip rk322x_box
 f6d32ada5cc48725
+rockchip rk322x_box
+23a3909a910549dd
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -13908,6 +13910,8 @@ SkyworthDigital YYT
 1049cb9600a4b9f3
 Xiaomi oneday
 5f6a16a658993c1f
+Xiaomi oneday
+e5c234f2ad47723f
 
 sebas.gi
 amazon mantis
@@ -14517,3 +14521,7 @@ Hisense xiaoyushan
 b27cacc0d2fbe6ed
 VS KD1
 3b13df9e531f9d81
+
+arojas.c +6
+Android MDTV5G
+b91deff77c8de475
