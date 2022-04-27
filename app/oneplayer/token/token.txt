@@ -6521,6 +6521,10 @@ rockchip rk322x_box
 f6d32ada5cc48725
 rockchip rk322x_box
 23a3909a910549dd
+rockchip rk322x_box
+d538b69641236a25
+rockchip rk322x_box
+a412c75b9a45914f
 
 gonzalezju +6
 HUAWEI HWYAL
