@@ -7031,6 +7031,9 @@ rockchip rk322x_box
 11d8dd2e9cd82b31
 rockchip rk3328_box
 7c7fd652ef734c22
++3
+Android MBOX
+5640ed5d7533c39
 
 delasier +6 psc
 samsung a51
