@@ -11482,8 +11482,8 @@ a82728d40c712d64
 meek_bo
 rockchip rk322x_box
 b3a12ae0aa8d645e
-samsung dreamlte
-4d640689f57a6eed
+samsung j8y18lte
+30c9d6b5ffcdf5f7
 Xiaomi oneday
 d4b0ce043fb82007
 
@@ -11591,6 +11591,10 @@ Rockchip rk3328_box
 +12
 Rockchip rk3328_box
 30f53bec1d69f361
+Texto: Rockchip rk3328_box
+124a4d3274353c6e
+Texto: Rockchip rk3328_box
+bfd026fba6a26f79
 
 luiscalou
 Allwinner android_tv_box
@@ -14195,6 +14199,9 @@ HUAWEI HWMAR
 120da439354c89e7
 Amazon kara
 d46f87497360837b
+HUAWEI HWMAR
+635967f5db1b7e74
++6
 
 mariavbg
 Xiaomi pomelo
@@ -14297,6 +14304,8 @@ HUAWEI HWSTK-HF
 edwinyl
 Xiaomi vayu
 0a498c80f2f2fa5d
+samsung star2qltechn
+92f4e9564657de3b
 
 hoport
 Xiaomi merlin
