@@ -2520,6 +2520,8 @@ Allwinner dolphin-fvd-p1
 juankk
 Allwinner dolphin-fvd-p1
 b57360762e2d3648
+askey sti6140d360
+c82f1e98d6da6eaa
 
 chocho
 Xiaomi tucana
@@ -7461,6 +7463,8 @@ rockchip rk322x_box
 22da011934c72ee7
 rockchip rk322x_box
 514db7748356974
+Android MDTV5G
+d76f0a635ecad2ff
 
 jjuan
 Xiaomi aquaman
@@ -10947,6 +10951,8 @@ dolphin dolphin_fvd_p1
 e3aa307937374861
 dolphin dolphin_fvd_p1
 7dc35d9cb05abb2a
+dolphin dolphin_fvd_p1
+70226ce0682fa14b
 
 chavezqu
 HUAWEI HWMAR
