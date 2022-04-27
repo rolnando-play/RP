@@ -11656,6 +11656,8 @@ Rockchip rk3328_box
 faf59d786e87ead7
 Rockchip rk3328_box
 2b9859f7a7af9e1b
+Rockchip rk3328_box
+03a34a2d89dadc2a
 
 luiscalou
 Allwinner android_tv_box
@@ -13684,6 +13686,8 @@ Xiaomi oneday
 9cb6208e9986abc2
 Google titan-p1
 89945d3d12e591c1
+rockchip rk322x_box
+d7aa30daf05bca1a
 
 aflei
 Amazon sheldonp
