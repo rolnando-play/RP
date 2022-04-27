@@ -4442,7 +4442,8 @@ dolphin dolphin_fvd_p1
 ba647bb122ea11c5
 dolphin dolphin_fvd_p1
 949a04656e4c2a1
-
+dolphin dolphin_fvd_p1
+b42e4c6666bb3e63
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -14090,6 +14091,8 @@ Amazon mantis
 17d26935b4311bd8
 Amazon sheldonp
 78a3f9abcaea239e
+Amazon mantis
+bf50665cee4b6047
 
 manfredkl
 Google titan-p1
