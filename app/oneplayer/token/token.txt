@@ -1669,6 +1669,9 @@ Amazon sheldon
 71f28f1da7259278
 rockchip rk322x_box
 b112d173888af09e
++10
+Android MDTV5G
+2f76db2a6078ced7
 
 ruthgis
 S905W
@@ -11595,10 +11598,12 @@ Rockchip rk3328_box
 +12
 Rockchip rk3328_box
 30f53bec1d69f361
-Texto: Rockchip rk3328_box
+Rockchip rk3328_box
 124a4d3274353c6e
-Texto: Rockchip rk3328_box
+Rockchip rk3328_box
 bfd026fba6a26f79
+Rockchip rk3328_box
+0a1e289891a60ae1
 
 luiscalou
 Allwinner android_tv_box
