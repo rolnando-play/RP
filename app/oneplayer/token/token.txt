@@ -14646,3 +14646,7 @@ samsung a10
 sualsan
 Xiaomi aquaman
 9e7d60fa8e03215a
+
+genesis30
+samsung a21s
+0e9ad8b43a6a1f4f
