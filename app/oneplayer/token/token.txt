@@ -12039,8 +12039,8 @@ TCL UnionTV
 efdd5216668cdc35
 TCL UnionTV
 1a008e204baf6b64
-samsung gta4lwifi
-e05df932fe986160
+SkyworthDigital YYT
+4cc337ced9da84ce
 
 cbaez +6
 Amazon kara
@@ -14692,6 +14692,8 @@ samsung a31
 luupa +6
 samsung t2s
 c0854a4c723b32a7
+Xiaomi oneday
+11e5b55bd830ecc7
 
 rolomar +6
 rockchip rk322x_box
