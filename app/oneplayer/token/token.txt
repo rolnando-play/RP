@@ -3108,6 +3108,9 @@ rockchip rk322x_box
 b92d7ebb8172585a
 rockchip rk322x_box
 d0492a89339a61e6
++6
+rockchip rk322x_box
+454bdd9b2b613055.
 
 aescobar9
 samsung y2s
