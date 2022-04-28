@@ -12777,6 +12777,8 @@ askey sti6140d360
 91a232d3ca126fc3
 askey sti6140d360
 a34e0fa4c22dd85e
+SEI Robotics SEI400TV
+6f5f045e87b6f642
 
 ccardo
 samsung a12
@@ -14666,6 +14668,8 @@ samsung a12
 globalte +5 psc
 MBOX dolphin-p1
 8063728bef14e107
+Xiaomi curtana
+18fdff24d13e1186
 
 garceteg9 +6
 samsung a31
