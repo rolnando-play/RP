@@ -3921,6 +3921,8 @@ Xiaomi begonia
 +3
 Google generic_x86_64
 821190a751b70c4f
+Xiaomi oneday
+f87a55cf9cacdc99
 
 pekho +9
 Google sabrina
