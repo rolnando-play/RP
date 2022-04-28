@@ -393,6 +393,9 @@ Amazon sheldon
 1f1caf875d8a3a95
 HUILIAN Hi3751V350
 d9826881384ec35b
+Amazon sheldon
+ca5fe6a178693d3a
++3
 
 AQuinonez
 S905W
@@ -14658,6 +14661,8 @@ dc5ecef238bbe321
 antoniacos
 samsung a10
 8a122449c3e34576
+Droidlogic p281
+503b6338ba4f3e95
 
 sualsan
 Xiaomi aquaman
