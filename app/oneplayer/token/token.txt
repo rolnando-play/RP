@@ -1678,6 +1678,8 @@ Android MDTV5G
 59377f49b2c7a9a8
 Android MDTV5G
 6685144525b70ec7
+Android MDTV5G
+d365d3be53f9ec5d
 
 ruthgis
 S905W
@@ -14233,6 +14235,8 @@ rockchip rk322x_box
 900593ffaa659f9d
 Xiaomi oneday
 542784c037ea1979
+Xiaomi aquaman
+076504027277b699
 
 aguayoza
 Xiaomi angelican
@@ -14594,6 +14598,10 @@ VS KD1
 arojas.c +6
 Android MDTV5G
 b91deff77c8de475
+Android MDTV5G
+a039163ed1fffb4c
+Android MDTV5G
+fea90542d9981587
 
 lugojor
 dolphin dolphin_fvd_p1
