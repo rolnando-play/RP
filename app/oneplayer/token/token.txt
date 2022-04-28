@@ -1682,6 +1682,8 @@ Android MDTV5G
 d365d3be53f9ec5d
 Hisilicon Hi3798MV200
 3e72b27de647f6b2
+rockchip rk322x_box
+242184ad38c068b6
 
 ruthgis
 S905W
@@ -11666,6 +11668,8 @@ Rockchip rk3328_box
 2b9859f7a7af9e1b
 Rockchip rk3328_box
 03a34a2d89dadc2a
+Rockchip rk3328_box
+d2bdda27e329251e
 
 luiscalou
 Allwinner android_tv_box
