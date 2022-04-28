@@ -13618,6 +13618,12 @@ Amlogic p281
 ae2cdefdbdc2b5f6
 Amlogic p281
 734b37944e88d5e7
+Amlogic p281
+46b74de07dc428d5
+Amlogic p281
+6d608c42cdbd0cb5
+Amlogic p281
+1c8061700ddb2414
 
 luisvill
 rockchip rk322x_box
@@ -14334,6 +14340,8 @@ Amazon sheldonp
 11966e1b46f29e10
 samsung a32
 d8e4c35a76226ea4
+Xiaomi curtana
+0a81f113eadf5bce
 
 jgillol
 Amazon mantis
@@ -14612,3 +14620,5 @@ dolphin dolphin_fvd_p1
 ruvepy
 HUAWEI HWMAR
 bf616c1e09f18380
+rockchip rk322x_box
+30cc67bd5321f36f
