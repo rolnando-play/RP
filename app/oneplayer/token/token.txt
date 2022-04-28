@@ -14624,3 +14624,7 @@ rockchip rk322x_box
 30cc67bd5321f36f
 rockchip rk322x_box
 dc5ecef238bbe321
+
+antoniacos
+samsung a10
+8a122449c3e34576
