@@ -10729,6 +10729,8 @@ Amlogic p281
 c75fbbf6ba4542f3
 Amlogic p281
 cab2c2c198ec01fa
+Amlogic p281
+12c3b2b51812b03f
 
 superchaos +9
 i7 petrel-p1
@@ -11670,6 +11672,8 @@ Rockchip rk3328_box
 03a34a2d89dadc2a
 Rockchip rk3328_box
 d2bdda27e329251e
+Rockchip rk3328_box
+a778ed1e6646d0df
 
 luiscalou
 Allwinner android_tv_box
