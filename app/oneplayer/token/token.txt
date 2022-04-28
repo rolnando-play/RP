@@ -3099,8 +3099,8 @@ rockchip rk322x_box
 205585d39c68ef0e
 Xiaomi curtana
 9dbcc262bab3c0f9
-samsung a12
-375875b9174890c1
+rockchip rk322x_box
+b92d7ebb8172585a
 rockchip rk322x_box
 d0492a89339a61e6
 
@@ -14618,6 +14618,8 @@ Android MDTV5G
 a039163ed1fffb4c
 Android MDTV5G
 fea90542d9981587
+Amlogic A95X_R2
+226080dd582577cc
 
 lugojor
 dolphin dolphin_fvd_p1
