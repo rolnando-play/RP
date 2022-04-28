@@ -7231,6 +7231,8 @@ b383bc729f0929da
 diegoen
 Xiaomi machuca
 9cf0a6ef62e7f590
+HUAWEI HWMAR
+114cdfc8d6cb28c3
 
 wdpr44
 rockchip rk322x_box
@@ -14656,3 +14658,5 @@ samsung a21s
 cesarcla
 samsung a12
 6c6511f7b04edbfa
+
+globalte +5 psc
