@@ -4458,6 +4458,8 @@ dolphin dolphin_fvd_p1
 fc200819fdda50ff
 dolphin dolphin_fvd_p1
 20f39d3b860a45ce
+samsung on7xelte
+1f5c081d9eeef9d6
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -11676,6 +11678,8 @@ Rockchip rk3328_box
 d2bdda27e329251e
 Rockchip rk3328_box
 a778ed1e6646d0df
+Rockchip rk3328_box
+f9b4ff77d19b7333
 
 luiscalou
 Allwinner android_tv_box
