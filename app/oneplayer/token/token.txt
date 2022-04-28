@@ -14622,3 +14622,5 @@ HUAWEI HWMAR
 bf616c1e09f18380
 rockchip rk322x_box
 30cc67bd5321f36f
+rockchip rk322x_box
+dc5ecef238bbe321
