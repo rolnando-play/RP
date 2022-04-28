@@ -1680,6 +1680,8 @@ Android MDTV5G
 6685144525b70ec7
 Android MDTV5G
 d365d3be53f9ec5d
+Hisilicon Hi3798MV200
+3e72b27de647f6b2
 
 ruthgis
 S905W
