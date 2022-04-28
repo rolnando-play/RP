@@ -14652,3 +14652,7 @@ Xiaomi aquaman
 genesis30
 samsung a21s
 0e9ad8b43a6a1f4f
+
+cesarcla
+samsung a12
+6c6511f7b04edbfa
