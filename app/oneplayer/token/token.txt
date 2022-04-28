@@ -14664,6 +14664,8 @@ samsung a12
 6c6511f7b04edbfa
 
 globalte +5 psc
+MBOX dolphin-p1
+8063728bef14e107
 
 garceteg9 +6
 samsung a31
