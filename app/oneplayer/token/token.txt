@@ -471,6 +471,8 @@ rockchip rk322x_box
 d23815a00fc3d2f8
 Xiaomi aquaman
 2cab639db8b6db20
+Gecen Tiger MXQPRO
+f29c9c8383ce210b
 
 Wordtv20
 tx6 mini
@@ -11680,6 +11682,8 @@ Rockchip rk3328_box
 a778ed1e6646d0df
 Rockchip rk3328_box
 f9b4ff77d19b7333
+Rockchip rk3328_box
+ce5cdad140b3d769
 
 luiscalou
 Allwinner android_tv_box
@@ -14674,3 +14678,7 @@ Xiaomi curtana
 garceteg9 +6
 samsung a31
 3548f6d9c1c9b1f5
+
+luupa +6
+samsung t2s
+c0854a4c723b32a7
