@@ -14606,3 +14606,7 @@ fea90542d9981587
 lugojor
 dolphin dolphin_fvd_p1
 74fb141b353042c9
+
+ruvepy
+HUAWEI HWMAR
+bf616c1e09f18380
