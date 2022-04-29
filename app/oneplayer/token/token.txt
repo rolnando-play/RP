@@ -14680,6 +14680,8 @@ rockchip rk322x_box
 286c363a0b9ed227
 MTK cvt_mt5863_sa
 b6f2d11bcee07ba4
+Android MDTV5G
+e2ef0c9766f67d59
 
 roloca
 MTK cvt_mt5886_sa
@@ -14766,6 +14768,8 @@ MBOX dolphin-p1
 8063728bef14e107
 Xiaomi curtana
 18fdff24d13e1186
+MBOX dolphin-p1
+a3e8426e4f930145
 
 garceteg9 +6
 samsung a31
