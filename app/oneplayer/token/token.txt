@@ -1693,6 +1693,8 @@ Hisilicon Hi3798MV200
 3e72b27de647f6b2
 rockchip rk322x_box
 242184ad38c068b6
+rockchip rk322x_box
+699039aae0caba4
 
 ruthgis
 S905W
@@ -2566,6 +2568,8 @@ Google titan-p1
 7237b0fc486aa55a
 rockchip rk322x_box
 aeca31ac0d36fa4
+rockchip rk322x_box
+e89670f70f7e7a2b
 
 schulzo
 HMD Global BGT_sprout
