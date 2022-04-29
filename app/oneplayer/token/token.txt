@@ -8391,6 +8391,8 @@ dolphin SBQ-SM007
 +12
 askey sti6140d360
 e19dddfbd062da3f
+askey sti6140d360
+407863482d1afbe2
 
 rr.23
 MTK cvt_mt5863_sa
