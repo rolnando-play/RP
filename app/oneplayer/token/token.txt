@@ -766,8 +766,8 @@ xiaomi tv stick
 b6b9c259dad6e591
 
 ferbar
-r69
-cfc0873edfc52299
+Xiaomi-TVBOX-Ferpe1   
+120da7945c625c11
 r69 2
 8cd92d3d465376c2
 SM-N970F
