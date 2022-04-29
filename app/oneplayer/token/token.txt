@@ -6550,6 +6550,8 @@ rockchip rk322x_box
 d538b69641236a25
 rockchip rk322x_box
 a412c75b9a45914f
+Xiaomi aquaman
+ac18e0c3e727b58a
 
 gonzalezju +6
 HUAWEI HWYAL
