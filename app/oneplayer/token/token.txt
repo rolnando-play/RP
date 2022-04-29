@@ -11696,6 +11696,8 @@ Rockchip rk3328_box
 f9b4ff77d19b7333
 Rockchip rk3328_box
 ce5cdad140b3d769
+Rockchip rk3328_box
+2afa674d5ebb9c18
 
 luiscalou
 Allwinner android_tv_box
@@ -12389,6 +12391,8 @@ dcba17000fcf88e1
 servicios_te
 dolphin dolphin-fvd-p1-Crechi
 46816d2b6fbc74d7
+R69-TVBOX-EdgarIS 
+a3a381a0a4288cd1
 
 benites.c
 Android MBOX
@@ -14091,8 +14095,8 @@ OnePlus OnePlus7T
 3054de10c987a201
 Google sabrina
 ea872f2d95ab30cc
-samsung dreamlte
-60822c7b6d884001
+Sony BRAVIA_ATV3_4K
+6ce092962e534d64
 
 vtorr +5 psc
 Xiaomi begonia
@@ -14682,6 +14686,8 @@ Xiaomi aquaman
 genesis30
 samsung a21s
 0e9ad8b43a6a1f4f
+dolphin dolphin_fvd_p1
+1375fc7dfb85787c
 
 cesarcla
 samsung a12
