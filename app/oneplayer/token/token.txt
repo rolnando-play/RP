@@ -398,6 +398,8 @@ ca5fe6a178693d3a
 +3
 rockchip rk322x_box
 b871d6cf07e32444
+Amazon mantis
+d689628e19027a04
 
 AQuinonez
 S905W
