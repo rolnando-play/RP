@@ -7262,6 +7262,8 @@ rockchip rk322x_box
 536fb0f3c957dad5
 rockchip rk322x_box
 ae7092a32d0ce915
+Android MDTV5G
+f3f40cb1c12d45df
 
 dropesan +6 psc
 dolphin dolphin-fvd-p1
@@ -13705,6 +13707,8 @@ dolphin dolphin_fvd_p1
 ec1976e677d0e787
 Amlogic p281
 23b2a95e24c50c9b
+Amlogic p281
+5e365cdc2f12a013
 
 luisvill
 rockchip rk322x_box
