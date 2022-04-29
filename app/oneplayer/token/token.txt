@@ -13703,6 +13703,8 @@ Amlogic p281
 c2ab392d53ab6b37
 dolphin dolphin_fvd_p1
 ec1976e677d0e787
+Amlogic p281
+23b2a95e24c50c9b
 
 luisvill
 rockchip rk322x_box
@@ -14773,3 +14775,13 @@ bcee495469d4697a
 fermani
 Xiaomi raphael
 cc6b2d125bc99ad1
+
+amilcar.m
+Allwinner dolphin-fvd-p1
+11e9abbc35be5be5
+
+rubenesc
+Xiaomi curtana
+9c7c84bc6002db0f
+Amlogic p212
+dece5a9919176a34
