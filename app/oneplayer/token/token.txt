@@ -4470,6 +4470,9 @@ dolphin dolphin_fvd_p1
 20f39d3b860a45ce
 samsung on7xelte
 1f5c081d9eeef9d6
++6 psc
+rockchip rk322x_box
+8c6eb19fdff7493c
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -8385,6 +8388,9 @@ Amlogic p212
 470b42313ef5678c
 dolphin SBQ-SM007
 982cb4fc00c620a9
++12
+askey sti6140d360
+e19dddfbd062da3f
 
 rr.23
 MTK cvt_mt5863_sa
@@ -8855,6 +8861,10 @@ rockchip rk322x_box
 8284430b0848db17
 rockchip rk322x_box
 11ff7d2ecefe90c4
+rockchip rk322x_box
+7c3ffdc345b749d7
+rockchip rk322x_box
+cccaeb82735a4758
 
 pjc0910 +9
 rockchip rk322x_box
