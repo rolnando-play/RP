@@ -14233,6 +14233,8 @@ rockchip rk322x_box
 rockchip rk322x_box
 428cce06bf7871c
 +18
+rockchip rk322x_box
+341964578de0c0f6
 
 franco.ca
 KTC_8G ktc_8g
