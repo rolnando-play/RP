@@ -6562,6 +6562,13 @@ rockchip rk322x_box
 64d74e941877a5cd
 rockchip rk322x_box
 54b657747a09cb96
++18
+rockchip rk322x_box
+f064a319217b9dfb
+rockchip rk322x_box
+8b6b3cb1643f8f5b
+Amazon mantis
+4a4748f13b750178
 
 gonzalezju +6
 HUAWEI HWYAL
