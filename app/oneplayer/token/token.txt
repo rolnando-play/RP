@@ -14642,6 +14642,8 @@ samsung a72q
 1a06d806c48e7578
 samsung a32
 a3a91fe3ebdc802a
+samsung a11q
+a90b18673c3711e0
 
 alfredocau
 TCL UnionTV
