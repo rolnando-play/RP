@@ -10148,6 +10148,8 @@ rockchip rk322x_box
 e916374f600c624d
 Amlogic p281
 41fcd4d331d25645
+Amazon sheldon
+3e528b213dd857b4
 
 gergod +6
 Amlogic franklin
