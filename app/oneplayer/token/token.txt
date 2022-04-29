@@ -14789,3 +14789,7 @@ Xiaomi curtana
 9c7c84bc6002db0f
 Amlogic p212
 dece5a9919176a34
+
+efrainti
+Funai guui
+b4938df129527075
