@@ -14704,6 +14704,8 @@ Xiaomi oneday
 11e5b55bd830ecc7
 Xiaomi oneday
 55be83ebad2c4a6e
+samsung t2s
+a38a0afc3263c1d4
 
 rolomar +6
 rockchip rk322x_box
