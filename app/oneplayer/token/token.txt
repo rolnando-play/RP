@@ -14710,3 +14710,7 @@ rockchip rk322x_box
 2e7798c91dc1235e
 Xiaomi oneday
 b24c165a0706aacf
+
+luisgua
+Xiaomi sweet
+71bf6c92a68cbe06
