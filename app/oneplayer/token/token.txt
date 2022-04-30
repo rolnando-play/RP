@@ -13979,6 +13979,8 @@ Amazon sheldon
 tvcentro
 rockchip rk322x_box
 3e14e35058ae2578
+rockchip rk322x_box
+a3028c78d0ae72ea
 
 angelca
 Amazon mantis
