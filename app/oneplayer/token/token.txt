@@ -408,10 +408,8 @@ S905W
 rodrigoes
 samsung a03
 4066c9635f9c6ddd
-Xiaomi biloba
-1160eb6ef881d17a
-samsung a21s
-f33c363646bf6dc0
+dolphin dolphin-fvd-p1
+27b66945791e421b
 
 marcelo.sa
 Redmi Note 8 Pro
