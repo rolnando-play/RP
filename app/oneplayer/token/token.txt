@@ -8105,6 +8105,8 @@ rockchip rk322x_box
 74a0d12ae0fa2d01
 rockchip rk322x_box
 b3e5aaf001181b18
+rockchip rk322x_box
+9b10511119411f55
 
 iptv19 +6 psc
 rockchip rk322x_box
