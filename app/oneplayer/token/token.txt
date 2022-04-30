@@ -6946,7 +6946,9 @@ Android MDTV5G
 ebf7ebcb54351ebc
 Android MDTV5G
 5727326c3b5bdee8
-
++6
+Android MDTV5G
+9c7a8dbe5a9f0b68
 
 enriquelr
 Amazon sheldon
@@ -14137,6 +14139,11 @@ SkyworthDigital YYT
 80db12c7684bcf5e
 SkyworthDigital YYT
 beef696ff34e782c
+Amazon mantis
+a03f4f67a08e062e
++9
+Amazon mantis
+a1adfba4ef87ec8d
 
 angeltum
 Allwinner dolphin-fvd-p1
