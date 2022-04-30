@@ -8113,6 +8113,8 @@ rockchip rk322x_box
 70bc6ae102e73424
 rockchip rk322x_box
 45d6c79f888d8435
+rockchip rk322x_box
+e3098f77c1037b81
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -13787,7 +13789,14 @@ Amlogic p281
 9a5caf90342204f9
 Amlogic p281
 13bfaa1e5d76db74
-
+Amlogic p281
+9a5caf90342204f9
+Amlogic p281
+13bfaa1e5d76db74
+Amlogic p281
+3f12b0fe59a06432
+Amlogic p281
+7791635f2bfa6a80
 
 luisvill
 rockchip rk322x_box
