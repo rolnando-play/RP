@@ -1695,6 +1695,8 @@ rockchip rk322x_box
 242184ad38c068b6
 rockchip rk322x_box
 699039aae0caba4
+Android MBOX
+97a15e08d85d45c4
 
 ruthgis
 S905W
@@ -6949,6 +6951,8 @@ Android MDTV5G
 +6
 Android MDTV5G
 9c7a8dbe5a9f0b68
+Android MDTV5G
+2684cce1317d0913
 
 enriquelr
 Amazon sheldon
@@ -14490,6 +14494,8 @@ rockchip rk322x_box
 9bcf4a4c8ad10f7d
 rockchip rk322x_box
 af55426c99188543
+Allwinner dolphin-fvd-p1
+60f55554bee92732
 
 navigator +6
 HUAWEI HWLYA
@@ -14846,3 +14852,7 @@ dece5a9919176a34
 efrainti
 Funai guui
 b4938df129527075
+
+paubloal
+realme RMX3081L1
+fac13dc21adfc3aa
