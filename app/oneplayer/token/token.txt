@@ -14831,6 +14831,8 @@ Amlogic A95X_R2
 lugojor
 dolphin dolphin_fvd_p1
 74fb141b353042c9
+HUAWEI HWSTK-HF
+d76b1f2e1ed28c2b
 
 ruvepy
 HUAWEI HWMAR
@@ -14862,7 +14864,7 @@ samsung a12
 
 globalte +5 psc
 MBOX dolphin-p1
-8063728bef14e107
+125548bfc7e1773f
 Xiaomi curtana
 18fdff24d13e1186
 MBOX dolphin-p1
