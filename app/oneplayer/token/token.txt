@@ -6955,6 +6955,8 @@ Android MDTV5G
 2684cce1317d0913
 rockchip rk322x_box
 52690972de1e0b9d
+AB PRIME_4K
+6840967d7cf02bfa
 
 enriquelr
 Amazon sheldon
@@ -8917,6 +8919,10 @@ rockchip rk322x_box
 7c3ffdc345b749d7
 rockchip rk322x_box
 cccaeb82735a4758
+rockchip rk322x_box
+80da8539ebe8f839
+rockchip rk322x_box
+58d9641da76164f9
 
 pjc0910 +9
 rockchip rk322x_box
@@ -13760,7 +13766,24 @@ Amlogic p281
 c40ea79348a1debc
 Amlogic p281
 83d133c36ddaf053
-+3
++18
+Amlogic p281
+f2907a16e9388292
+Amlogic p281
+64d588d9ccf3602e
+Amlogic p281
+379ed0bec8f8fb0d
+Amlogic p281
+c9f29d7dd5af46ec
+Amlogic p281
+fb5eb8d7728d5b57
+Amlogic p281
+fb15ed4dd24d3d31
+Amlogic p281
+8fb3d60bc01f657a
+Amlogic p281
+96976db652c08fe1
+
 
 luisvill
 rockchip rk322x_box
