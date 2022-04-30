@@ -9894,6 +9894,8 @@ Allwinner dolphin-fvd-p1
 8676df3a59a124c7
 SmartTV 10839
 e9280cc25ab1df29
+samsung a12
+e86b99cfd9773b0f
 
 angelpa btc
 rockchip rk322x_box
