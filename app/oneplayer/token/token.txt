@@ -6942,6 +6942,11 @@ Xiaomi aquaman
 1ded4c33b84adb59
 Xiaomi aquaman
 5634c5bc04541990
+Android MDTV5G
+ebf7ebcb54351ebc
+Android MDTV5G
+5727326c3b5bdee8
+
 
 enriquelr
 Amazon sheldon
@@ -13728,6 +13733,9 @@ Amlogic p281
 120b245a77696ceb
 Amlogic p281
 c40ea79348a1debc
+Amlogic p281
+83d133c36ddaf053
++3
 
 luisvill
 rockchip rk322x_box
@@ -14234,6 +14242,8 @@ Amazon mantis
 c5d495fcfc7cb3f2
 Amazon mantis
 e51904a128e8ac48
+Amazon sheldon
+2775eb02ced75cd7
 
 manfredkl
 Google titan-p1
@@ -14285,6 +14295,11 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 341964578de0c0f6
+Carlos Fabian Álvarez:
+rockchip rk322x_box
+dcb1242849accd1e
+rockchip rk322x_box
+7a948a6ed58c087b
 
 franco.ca
 KTC_8G ktc_8g
