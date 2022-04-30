@@ -6953,6 +6953,8 @@ Android MDTV5G
 9c7a8dbe5a9f0b68
 Android MDTV5G
 2684cce1317d0913
+rockchip rk322x_box
+52690972de1e0b9d
 
 enriquelr
 Amazon sheldon
@@ -8098,6 +8100,11 @@ dolphin dolphin_fvd_p1
 ac627829da2a2dc
 MTK cvt_mt5863_sa
 ae0c8cb3d2e84397
++18
+rockchip rk322x_box
+74a0d12ae0fa2d01
+rockchip rk322x_box
+b3e5aaf001181b18
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12457,6 +12464,7 @@ rockchip rk322x_box
 a1b453984dc96f16
 Allwinner dolphin-fvd-p1
 e22e8fdec8f0108
++3
 
 samben
 samsung r8q
