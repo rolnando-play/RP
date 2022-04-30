@@ -12465,6 +12465,8 @@ a1b453984dc96f16
 Allwinner dolphin-fvd-p1
 e22e8fdec8f0108
 +3
+rockchip rk322x_box
+4c7b8f791e96bba1
 
 samben
 samsung r8q
@@ -14860,6 +14862,8 @@ dece5a9919176a34
 efrainti
 Funai guui
 b4938df129527075
+Funai sindap
+f29beca476264cbc
 
 paubloal
 realme RMX3081L1
