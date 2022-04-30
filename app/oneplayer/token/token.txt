@@ -406,8 +406,8 @@ S905W
 355760360a1240c2.
 
 rodrigoes
-samsung j7velte
-ac19fc55a38c6cb1
+samsung a03
+4066c9635f9c6ddd
 Xiaomi biloba
 1160eb6ef881d17a
 samsung a21s
