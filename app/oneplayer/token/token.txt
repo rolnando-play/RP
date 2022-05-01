@@ -9920,6 +9920,8 @@ HUAWEI HWMAR
 4ecd63863545dc8a
 rockchip rk322x_box
 8ddd9e355799e01a
+dolphin dolphin_fvd_p1
+27a7fa1f661723b1
 
 fabrisa +6
 MTK cvt_mt5886_sa
