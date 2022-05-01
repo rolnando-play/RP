@@ -10212,6 +10212,9 @@ Amazon sheldon
 ee097196006791f8
 Amlogic p281
 b5993d5dbe70fec1
++18
+rockchip rk322x_box
+a8379cec1ec0a60c
 
 gergod +6
 Amlogic franklin
@@ -14350,6 +14353,8 @@ a4eca4a23be3cd0
 miguel.an
 samsung j8y18lte
 0d08a5498ba013a2
+Android MDTV5G
+4dc2a5cfd69872ba
 
 alvarezc +6
 rockchip rk322x_box
@@ -14931,3 +14936,8 @@ Amazon sheldon
 62aaae09a2bfe94b
 Amazon sheldon
 b6ccc9fa5525fb10
+
+
+todoen +6
+Xiaomi joyeuse
+e64bdcb56ef9d245
