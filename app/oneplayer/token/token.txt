@@ -13889,6 +13889,8 @@ Google titan-p1
 89945d3d12e591c1
 rockchip rk322x_box
 d7aa30daf05bca1a
+samsung a51
+df7a3f9c24f41277
 
 aflei
 Amazon sheldonp
