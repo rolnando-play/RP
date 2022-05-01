@@ -11457,6 +11457,8 @@ HUAWEI HWSTK-HF
 2bb82593f037206a
 Amlogic franklin
 00c2aea4e4ab9216
+Xiaomi camellian
+1e0502cb5bedcc65
 
 andrespc
 Xiaomi oneday
@@ -14515,6 +14517,8 @@ Xiaomi aquaman
 d79782674591c916
 Xiaomi oneday
 6ff4d8cfe8eb5e9a
+Google sabrina
+43f012c63b4b4627
 
 fleitas.e
 Android MBOX
