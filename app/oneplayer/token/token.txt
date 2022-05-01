@@ -8181,6 +8181,9 @@ rockchip rk322x_box
 22c44e84d65dfd4b
 rockchip rk322x_box
 bd89c76b38f6c266
++6 psc
+dolphin dolphin_fvd_p1
+8cb0555abe06f65aq
 
 j88be
 Google walleye
