@@ -10215,8 +10215,6 @@ b5993d5dbe70fec1
 +18
 rockchip rk322x_box
 a8379cec1ec0a60c
-rockchip rk322x_box
-a8379cec1ec0a60c
 
 gergod +6
 Amlogic franklin
@@ -14943,3 +14941,5 @@ b6ccc9fa5525fb10
 todoen +6
 Xiaomi joyeuse
 e64bdcb56ef9d245
+Xiaomi once
+b117931f9b6487aa
