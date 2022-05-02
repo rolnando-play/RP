@@ -8133,6 +8133,8 @@ rockchip rk322x_box
 e3098f77c1037b81
 Android MBOX
 b9105929322b848c
+rockchip rk322x_box
+8c4ebc0a93b695ea
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15033,3 +15035,5 @@ Amazon mantis
 28c34872a3646935
 Amazon mantis
 565b4e28fecd5124
+Amazon mantis
+453b987c8d4d71ad
