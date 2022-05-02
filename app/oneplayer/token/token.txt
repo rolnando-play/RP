@@ -9587,6 +9587,8 @@ Realtek rtd298x_tv038
 debe810eb0d50e3a
 Amazon sheldonp
 11fe5bc61d907664
+MediaTek mt5867
+d312c75dd223285c
 
 MTK cvt_mt5886_sa
 27bc3a46f709a4c1
