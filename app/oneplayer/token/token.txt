@@ -8821,6 +8821,8 @@ c615dd1c32c0b251
 +9 usdt
 dolphin dolphin-fvd-p1
 fa69b96faaa3ae18
+rockchip rk322x_box
+6ba6c6881a669c47
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -14235,6 +14237,10 @@ Amazon mantis
 a1adfba4ef87ec8d
 Amazon mantis
 ba85bf59f0ead12
+Amazon mantis
+727d8f7b013bb444
+Amazon mantis
+637a61557e685465
 
 angeltum
 Allwinner dolphin-fvd-p1
