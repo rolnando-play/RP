@@ -1695,6 +1695,8 @@ rockchip rk322x_box
 699039aae0caba4
 Android MBOX
 97a15e08d85d45c4
+Android MDTV5G
+7af6593fa9ebfc2a
 
 ruthgis
 S905W
@@ -11440,6 +11442,8 @@ Xiaomi aquaman
 +6 psc
 Xiaomi aquaman
 037820c912e3dd23
+Xiaomi aquaman
+c5626f6a22aac1b1
 
 hheimb
 samsung a50
@@ -13825,6 +13829,10 @@ Amlogic p281
 8f1c3cce74f91f0b
 Amlogic p281
 de1cb40ded8a7b15
+Amlogic p281
+f0fdb472a275c4c1
+Amlogic p281
+c962db33b0808e97
 
 luisvill
 rockchip rk322x_box
