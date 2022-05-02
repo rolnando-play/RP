@@ -1697,6 +1697,8 @@ Android MBOX
 97a15e08d85d45c4
 Android MDTV5G
 7af6593fa9ebfc2a
+rockchip rk322x_box
+43eacb019aa8cdb
 
 ruthgis
 S905W
@@ -2961,6 +2963,8 @@ Xiaomi lancelot
 c8452b9a1f7bbeeb
 Xiaomi ginkgo
 e1560e403f80425d
+samsung a22
+9014cce9782a0279
 
 alberme
 samsung a12s
@@ -4481,6 +4485,8 @@ samsung on7xelte
 +6 psc
 rockchip rk322x_box
 8c6eb19fdff7493c
+samsung beyond2q
+005bff8d7e4fc211
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -9381,8 +9387,6 @@ Xiaomi angelica
 germol
 Amlogic BC13
 21403fded9b81cae
-samsung a22
-ae217b84c2519dc9
 
 mabaros
 Amazon sheldon
@@ -13835,6 +13839,10 @@ Amlogic p281
 f0fdb472a275c4c1
 Amlogic p281
 c962db33b0808e97
+Amlogic p281
+c020d4854026f051
+Amlogic p281
+495686e1fca3cc9d
 
 luisvill
 rockchip rk322x_box
@@ -14990,3 +14998,11 @@ b117931f9b6487aa
 axelrou
 samsung greatqlteue
 84ab1e15833d9906
+samsung crownqltesq
+8e46b39ad49f3e2a
+
+miguelra
+HUAWEI HWDUB-Q
+b7ddea79fa656dab
+Realtek RealtekATV
+22b8bd516ca85f69
