@@ -6581,6 +6581,10 @@ askey sti6140d360
 f8b201af9a0dd4f2
 rockchip rk322x_box
 7ea45844e4d68455
+Xiaomi oneday
+869a10a3408ce95e
+Xiaomi oneday
+f115dcb950c7b466
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -6967,6 +6971,8 @@ rockchip rk322x_box
 52690972de1e0b9d
 AB PRIME_4K
 6840967d7cf02bfa
+streambus rk322x_box
+4ba47d728c9302db
 
 enriquelr
 Amazon sheldon
@@ -8125,6 +8131,8 @@ rockchip rk322x_box
 45d6c79f888d8435
 rockchip rk322x_box
 e3098f77c1037b81
+Android MBOX
+b9105929322b848c
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15009,3 +15017,5 @@ Realtek RealtekATV
 kiketo.or
 HUAWEI HWMAR
 58c9e952a20b64ec
+Amazon sheldonp
+02d15fa989589dce
