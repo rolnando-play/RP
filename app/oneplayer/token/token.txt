@@ -15029,6 +15029,8 @@ Amazon sheldonp
 erlabo
 Amazon sheldonp
 2b1d7cde78fe614f
+samsung d2s
+4617cf33325ca389
 
 ibarraf
 Amazon mantis
