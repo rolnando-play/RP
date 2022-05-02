@@ -15041,3 +15041,7 @@ Amazon mantis
 elfraybe +6
 Xiaomi curtana
 84f74104850772f0
+
+gerardoo
+Xiaomi laurel_sprout
+495ba6432055efc2
