@@ -8817,6 +8817,8 @@ unknown dolphin-fvd-p1
 Android MDTV5G
 c615dd1c32c0b251
 +9 usdt
+dolphin dolphin-fvd-p1
+fa69b96faaa3ae18
 
 rocapo
 dolphin dolphin-fvd-p1
