@@ -13931,6 +13931,8 @@ rockchip rk322x_box
 d7aa30daf05bca1a
 samsung a51
 df7a3f9c24f41277
+rockchip rk322x_box
+1194bb30c329294e
 
 aflei
 Amazon sheldonp
