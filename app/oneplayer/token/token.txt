@@ -6571,6 +6571,8 @@ Amazon mantis
 4a4748f13b750178
 askey sti6140d360
 f8b201af9a0dd4f2
+rockchip rk322x_box
+7ea45844e4d68455
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -9567,6 +9569,8 @@ Amazon tank
 6615f5237fad43f8
 Realtek rtd298x_tv038
 debe810eb0d50e3a
+Amazon sheldonp
+11fe5bc61d907664
 
 MTK cvt_mt5886_sa
 27bc3a46f709a4c1
@@ -13817,6 +13821,8 @@ Amlogic p281
 7791635f2bfa6a80
 Amlogic p281
 8f1c3cce74f91f0b
+Amlogic p281
+de1cb40ded8a7b15
 
 luisvill
 rockchip rk322x_box
@@ -14849,6 +14855,8 @@ Android MDTV5G
 fea90542d9981587
 Amlogic A95X_R2
 226080dd582577cc
+rockchip rk322x_box
+60cdc6d802ea5ed0
 
 lugojor
 dolphin dolphin_fvd_p1
@@ -14919,6 +14927,8 @@ Xiaomi sweet
 armanding5
 samsung p3s
 bcee495469d4697a
+samsung b0q
+06d5fe3131ac0445
 
 fermani
 Xiaomi raphael
