@@ -9022,8 +9022,8 @@ Xiaomi joyeuse
 bc9df4620d58d3df
 
 drope_v
-Xiaomi lavender
-abef339eb8fb88e3
+Xiaomi spes
+7e199117ab8cd7b4
 Xiaomi oneday
 d0cba37c4ce9a897
 
@@ -12824,6 +12824,8 @@ rockchip rk322x_box
 +6 psc
 rockchip rk322x_box
 c0804320beeb9013
+Xiaomi oneday
+fd4d4db526c02188
 
 gustavoda
 Amazon sheldonp
