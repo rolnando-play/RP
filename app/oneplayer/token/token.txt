@@ -15096,3 +15096,7 @@ Xiaomi laurel_sprout
 alopeza
 Xiaomi secret
 513f707e1e5eee72
+
+marconig
+Xiaomi ares
+fc8b82e5b036465b
