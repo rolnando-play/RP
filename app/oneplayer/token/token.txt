@@ -9815,8 +9815,8 @@ rockchip rk322x_box
 fd9e14455b50b261
 rockchip rk322x_box
 26307da8dc70305d
-rockchip rk322x_box
-947933d95ef91bc2
+Xiaomi aquaman
+4825d5fa27fc6318
 rockchip rk322x_box
 cff50863d1f3d49e
 Xiaomi oneday
