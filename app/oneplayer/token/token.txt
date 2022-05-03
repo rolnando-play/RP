@@ -10254,6 +10254,8 @@ b5993d5dbe70fec1
 +18
 rockchip rk322x_box
 a8379cec1ec0a60c
+rockchip rk322x_box
+dbcff3f6407d754a
 
 gergod +6
 Amlogic franklin
@@ -15061,6 +15063,8 @@ e6fbbaa74e9f2ad3
 elfraybe +6
 Xiaomi curtana
 84f74104850772f0
+rockchip rk322x_box
+f6a4eec398e539e0
 
 gerardoo
 Xiaomi laurel_sprout
