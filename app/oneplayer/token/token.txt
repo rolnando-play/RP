@@ -6113,6 +6113,8 @@ rockchip rk322x_box
 a195f38769129ef8
 Android MBOX
 f5ab7d04f76bb2a6
+Android MBOX
+841251585d196f72
 
 joiseg +6 psc
 Amazon sheldon
@@ -13967,6 +13969,8 @@ samsung a51
 df7a3f9c24f41277
 rockchip rk322x_box
 1194bb30c329294e
+rockchip rk322x_box
+e98e483b49e162e4
 
 aflei
 Amazon sheldonp
