@@ -3934,8 +3934,8 @@ Xiaomi aquaman
 b97068b2dcfef3ff
 Xiaomi oneday
 ebd16bc848a91388
-Xiaomi mido
-ca182441190b49e0
+Xiaomi vayu
+ecedd5f0306819f2
 MINIX NEO-X8H-PLUS
 495e0b9d312ace39
 Xiaomi lavender
