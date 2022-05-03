@@ -7558,6 +7558,8 @@ rockchip rk322x_box
 514db7748356974
 Android MDTV5G
 d76f0a635ecad2ff
+Android MDTV5G
+b3cf307250810ed3
 
 jjuan
 Xiaomi aquaman
@@ -11467,6 +11469,8 @@ Xiaomi aquaman
 037820c912e3dd23
 Xiaomi aquaman
 c5626f6a22aac1b1
+Xiaomi oneday
+fce7aaa4c6b54f19
 
 hheimb
 samsung a50
@@ -14710,6 +14714,8 @@ Xiaomi vayu
 0a498c80f2f2fa5d
 samsung star2qltechn
 92f4e9564657de3b
+Xiaomi joyeuse
+84916be744f41616
 
 hoport
 Xiaomi merlin
