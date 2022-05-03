@@ -10258,6 +10258,8 @@ rockchip rk322x_box
 a8379cec1ec0a60c
 rockchip rk322x_box
 dbcff3f6407d754a
+Xiaomi oneday
+5ab58fe479496c5a
 
 gergod +6
 Amlogic franklin
