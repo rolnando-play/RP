@@ -9591,6 +9591,8 @@ Amazon sheldonp
 11fe5bc61d907664
 MediaTek mt5867
 d312c75dd223285c
+Android MDTV5G
+e9038d3b443cc806
 
 MTK cvt_mt5886_sa
 27bc3a46f709a4c1
@@ -15036,6 +15038,8 @@ Amazon sheldonp
 2b1d7cde78fe614f
 samsung d2s
 4617cf33325ca389
+Amazon sheldonp
+e48a4a050cd7d209
 
 ibarraf
 Amazon mantis
