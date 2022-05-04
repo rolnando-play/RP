@@ -7513,8 +7513,7 @@ rockchip rk322x_box
 ad0ee6890a38a2ad
 Allwinner dolphin-fvd-p1
 1d96d168eaac5873
-MediaTek mt5867
-13c1ad79356f123f
+
 rockchip rk322x_box
 2907690e35f44708
 Android MBOX
@@ -8146,6 +8145,8 @@ Android MBOX
 b9105929322b848c
 rockchip rk322x_box
 8c4ebc0a93b695ea
+dolphin dolphin_fvd_p1
+ab394bf7e8e914c7
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15129,3 +15130,7 @@ SEI Robotics SEI500L
 2365ba3346d7e4bd
 SEI Robotics SEI500L
 a72da76d1ce9b265
+
+djyun
+TECNO MOBILE LIMITED TECNO-LE7
+3119008a5064edaa
