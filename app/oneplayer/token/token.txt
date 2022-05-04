@@ -1699,6 +1699,9 @@ Android MDTV5G
 7af6593fa9ebfc2a
 rockchip rk322x_box
 43eacb019aa8cdb
++10
+MTK cvt_mt5863_sa
+8d076f06bc81cd4b
 
 ruthgis
 S905W
@@ -8162,6 +8165,8 @@ rockchip rk322x_box
 8c4ebc0a93b695ea
 dolphin dolphin_fvd_p1
 ab394bf7e8e914c7
+MBX m201_512m
+b354767d156dbb0b
 
 iptv19 +6 psc
 rockchip rk322x_box
