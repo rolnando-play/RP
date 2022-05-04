@@ -8507,6 +8507,8 @@ askey sti6140d360
 ca77f3f2b85d71eb
 askey sti6140d360
 62730a5c7dbf487b
+MTK cvt_mt5863_sa
+2e68d561a9b6b08f
 
 rr.23
 MTK cvt_mt5863_sa
@@ -13335,6 +13337,8 @@ Xiaomi oneday
 3a7a8e1051c06144
 COSHIP n9090_telmexott
 fdf450f87116ac59
+Xiaomi vayu
+74853bd5b9b1139e
 
 cesar_ro +9
 HUAWEI HWMAR
