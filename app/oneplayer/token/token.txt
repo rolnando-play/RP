@@ -6598,6 +6598,10 @@ rockchip rk322x_box
 115eb72b9be1ae2a
 rockchip rk322x_box
 b76091f364873340
+rockchip rk322x_box
+2b5827d8af0a2052
+rockchip rk322x_box
+9e34d7102ae7c4a0
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -9880,6 +9884,8 @@ Xiaomi oneday
 +18
 Amazon mantis
 edb4309f0b581a6b
+Xiaomi oneday
+edadc67b7b964ca4
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13919,6 +13925,8 @@ Amlogic p281
 714c168cebdd81e
 Amlogic p281
 3361180ebaa7c8c9
+Amlogic p281
+7409604b916c17c2
 
 luisvill
 rockchip rk322x_box
