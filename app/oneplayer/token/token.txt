@@ -6602,6 +6602,8 @@ rockchip rk322x_box
 2b5827d8af0a2052
 rockchip rk322x_box
 9e34d7102ae7c4a0
+STREAMBUS p231
+9bc1651bb4d9a6c4
 
 gonzalezju +6
 HUAWEI HWYAL
