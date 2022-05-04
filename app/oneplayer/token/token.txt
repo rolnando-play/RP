@@ -8479,6 +8479,8 @@ askey sti6140d360
 407863482d1afbe2
 askey sti6140d360
 1dde6c7be84065c8
+askey sti6140d360
+ca77f3f2b85d71eb
 
 rr.23
 MTK cvt_mt5863_sa
