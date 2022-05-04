@@ -12897,6 +12897,8 @@ samsung a12
 92e2e4dfb775356b
 rockchip rk322x_box
 dbc3d4c11d2dacef
+rockchip rk322x_box
+3870e7c5b5b97fbb
 
 chino81
 SEI Robotics SEI400TV
