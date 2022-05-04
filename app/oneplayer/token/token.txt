@@ -6594,6 +6594,10 @@ Xiaomi oneday
 f115dcb950c7b466
 Xiaomi aquaman
 e389971a54753d95
+rockchip rk322x_box
+115eb72b9be1ae2a
+rockchip rk322x_box
+b76091f364873340
 
 gonzalezju +6
 HUAWEI HWYAL
