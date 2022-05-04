@@ -9910,6 +9910,8 @@ Amlogic p281
 cb931e65dd52393
 Xiaomi curtana
 0cede25b6cd9cde9
+Xiaomi aquaman
+d02cd51a6fa3ff64
 
 danieljo
 Allwinner dolphin-fvd-p1
