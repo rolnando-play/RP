@@ -8501,6 +8501,8 @@ askey sti6140d360
 1dde6c7be84065c8
 askey sti6140d360
 ca77f3f2b85d71eb
+askey sti6140d360
+62730a5c7dbf487b
 
 rr.23
 MTK cvt_mt5863_sa
@@ -9900,6 +9902,8 @@ Xiaomi oneday
 edadc67b7b964ca4
 Amlogic p281
 cb931e65dd52393
+Xiaomi curtana
+0cede25b6cd9cde9
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -15184,3 +15188,7 @@ TECNO MOBILE LIMITED TECNO-LE7
 biebsf usdt
 Amazon sheldon
 67ce27c21f027c0f
+
+armando.w
+Xiaomi ginkgo
+13d0841799b750ee
