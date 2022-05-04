@@ -15109,6 +15109,8 @@ Xiaomi laurel_sprout
 alopeza
 Xiaomi secret
 513f707e1e5eee72
+MEIGE Hi3751V350
+e11cc284e6f11822
 
 marconig
 Xiaomi ares
@@ -15119,3 +15121,9 @@ Google sabrina
 ecbbafb1881205d3
 rockchip TVBOX
 3618e0d8ebbb1ce4
+
+johancas
+SEI Robotics SEI500L
+2365ba3346d7e4bd
+SEI Robotics SEI500L
+a72da76d1ce9b265
