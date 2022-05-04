@@ -13979,6 +13979,8 @@ Amlogic p281
 dcf796c229b60456
 Amlogic p281
 4920027691dcc03a
+Amlogic p281
+cde96d24c77484fa
 
 luisvill
 rockchip rk322x_box
