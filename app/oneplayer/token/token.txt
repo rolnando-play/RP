@@ -6607,6 +6607,8 @@ rockchip rk322x_box
 9e34d7102ae7c4a0
 STREAMBUS p231
 9bc1651bb4d9a6c4
+rockchip rk322x_box
+92f62f93a6ff4bb9
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10730,6 +10732,9 @@ Hisense xiaoyushan
 joselov
 Android MDTV5G
 931bcf2e93701223
+rockchip rk322x_box
+574496afd8df516b
+
 
 owasm
 rockchip rk322x_box
@@ -13951,6 +13956,21 @@ Amlogic p281
 3361180ebaa7c8c9
 Amlogic p281
 7409604b916c17c2
++16 usdt
+Amlogic p281
+969700120a2e46
+Amlogic p281
+a8aa49af8bb2b617
+Amlogic p281
+bf7cd8c1c034e1a5
+Amlogic p281
+3749f9be8c6baa45
+Amlogic p281
+2f49cd7406636dcf
+Amlogic p281
+dcf796c229b60456
+Amlogic p281
+4920027691dcc03a
 
 luisvill
 rockchip rk322x_box
@@ -14480,6 +14500,8 @@ Amazon mantis
 e51904a128e8ac48
 Amazon sheldon
 2775eb02ced75cd7
+Amazon sheldon
+ffba98ed191d8cb4
 
 manfredkl
 Google titan-p1
@@ -15192,3 +15214,9 @@ Amazon sheldon
 armando.w
 Xiaomi ginkgo
 13d0841799b750ee
+Xiaomi lavender
+3f97637712dc9ed5
+
+carlitosca
+Xiaomi ares
+40538592d5f19f7e
