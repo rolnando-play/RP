@@ -13157,6 +13157,8 @@ samsung SCG02
 5b3afbc4af82ccf6
 rockchip rk322x_box
 202defa165baadbe
+Google titan-p1
+88eb40f5cb2ef1d7
 
 german_ga
 samsung f2q
@@ -14358,6 +14360,8 @@ Amazon mantis
 727d8f7b013bb444
 Amazon mantis
 637a61557e685465
+Amazon kara
+f150c7d5b5c3a301
 
 angeltum
 Allwinner dolphin-fvd-p1
