@@ -13394,6 +13394,8 @@ samsung beyond1
 e1352711f1518a85
 Xiaomi aquaman
 583583b0cd866be9
+dolphin dolphin-fvd-p1
+e41e9256bb9716a
 
 ger_go +6
 Allwinner dolphin-fvd-p1
