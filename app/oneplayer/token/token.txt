@@ -8329,7 +8329,7 @@ rockchip rk322x_box
 MTK cvt_mt5863_sa
 885fdc8a9dc6043a
 samsung a10s
-e5d0ad53a80f078a
+30cdf3acfd1d468b
 
 carmenve
 dolphin dolphin_fvd_p1
