@@ -11674,6 +11674,8 @@ Android MDTV5G
 f03e90d406fabadd
 Android MDTV5G
 770556205dd472d0
+rockchip rk322x_box
+438808e783bacf2
 
 arevalosve
 Amazon sheldonp
