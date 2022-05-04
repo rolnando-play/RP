@@ -6997,6 +6997,8 @@ AB PRIME_4K
 6840967d7cf02bfa
 streambus rk322x_box
 4ba47d728c9302db
+rockchip rk322x_box
+dc8db37c665c0e14
 
 enriquelr
 Amazon sheldon
@@ -14230,10 +14232,8 @@ realme RMX2170L1
 a1d748eacf42cdfc
 
 aduarte@
-MTK cvt_mt5886_sa
-4e24ca40eb35c427
-MBOX dolphin-p1
-35aab1df21ee6e92
+HUAWEI HWMAR
+ef474dea5338d6f3
 
 amado9 +6
 samsung a71
@@ -14502,6 +14502,8 @@ Amazon sheldon
 2775eb02ced75cd7
 Amazon sheldon
 ffba98ed191d8cb4
+Amazon sheldon
+96e99df63e86af6a
 
 manfredkl
 Google titan-p1
@@ -15210,6 +15212,8 @@ TECNO MOBILE LIMITED TECNO-LE7
 biebsf usdt
 Amazon sheldon
 67ce27c21f027c0f
+Google sabrina
+a8f6141d17133760
 
 armando.w
 Xiaomi ginkgo
@@ -15220,3 +15224,7 @@ Xiaomi lavender
 carlitosca
 Xiaomi ares
 40538592d5f19f7e
+Google sabrina
+866d4872052fc98e
+Google sabrina
+e14c7fa7d1bca948
