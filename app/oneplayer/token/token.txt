@@ -15075,6 +15075,8 @@ samsung greatqlteue
 84ab1e15833d9906
 samsung crownqltesq
 8e46b39ad49f3e2a
+HUAWEI HWSTK-HF
+5ef5b8a9edd61af6
 
 miguelra
 HUAWEI HWDUB-Q
