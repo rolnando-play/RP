@@ -10740,8 +10740,6 @@ Android MDTV5G
 931bcf2e93701223
 rockchip rk322x_box
 574496afd8df516b
-rockchip rk322x_box
-574496afd8df516b
 
 owasm
 rockchip rk322x_box
@@ -14513,6 +14511,8 @@ Amazon sheldon
 ffba98ed191d8cb4
 Amazon sheldon
 96e99df63e86af6a
+Amazon sheldon
+86c3a8470c7f62b0
 
 manfredkl
 Google titan-p1
