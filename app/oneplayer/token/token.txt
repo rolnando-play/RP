@@ -15248,3 +15248,7 @@ Google sabrina
 92f7a623224fcdd5
 TCL BeyondTV
 a158dd700a9eb705
+
+nilsonj
+samsung d2q
+0e4ca4194a3b6a0c
