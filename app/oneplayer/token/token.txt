@@ -7532,7 +7532,8 @@ rockchip rk322x_box
 ad0ee6890a38a2ad
 Allwinner dolphin-fvd-p1
 1d96d168eaac5873
-
+Android MDTV5G
+7e4938294915aeea
 rockchip rk322x_box
 2907690e35f44708
 Android MBOX
@@ -7587,6 +7588,8 @@ Android MDTV5G
 d76f0a635ecad2ff
 Android MDTV5G
 b3cf307250810ed3
+Android MDTV5G
+131f6e4b72eb0838
 
 jjuan
 Xiaomi aquaman
@@ -13965,7 +13968,7 @@ Amlogic p281
 3361180ebaa7c8c9
 Amlogic p281
 7409604b916c17c2
-+16 usdt
++15 usdt
 Amlogic p281
 969700120a2e46
 Amlogic p281
@@ -13982,6 +13985,7 @@ Amlogic p281
 4920027691dcc03a
 Amlogic p281
 cde96d24c77484fa
++15 usdt
 
 luisvill
 rockchip rk322x_box
@@ -14840,8 +14844,6 @@ Xiaomi vayu
 0a498c80f2f2fa5d
 samsung star2qltechn
 92f4e9564657de3b
-Xiaomi joyeuse
-84916be744f41616
 
 hoport
 Xiaomi merlin
@@ -15265,3 +15267,7 @@ Xiaomi oneday
 16de0585067867e3
 Amazon sheldon
 13e7c80272dd622a
+
+bnbd.
+Amazon sheldonp
+d38fdc32391ae2af
