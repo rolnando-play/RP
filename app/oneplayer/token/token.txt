@@ -9551,8 +9551,8 @@ Xiaomi oneday
 rockchip rk322x_box
 9392dc6363bd2c72
 +18
-Amlogic p281
-d115d5312bcce368
+MBOX dolphin-p1
+0c3488a3a3c7f032
 samsung a21s
 2e340232d317e59e
 MEIGE Hi3751V350
@@ -15259,3 +15259,7 @@ a158dd700a9eb705
 nilsonj
 samsung d2q
 0e4ca4194a3b6a0c
+
+002.lui +6
+Xiaomi oneday
+16de0585067867e3
