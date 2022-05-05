@@ -4883,6 +4883,8 @@ MBOX dolphin-p1
 0961f23cbe5c2cad
 Android MDTV5G
 e85d55a03a01785b
+Android MDTV5G
+9b630b812e661f91
 
 lisandra
 MTK cvt_mt5863_sa
