@@ -12581,6 +12581,8 @@ amlogic sw01
 501bd4e70d38cd10
 rockchip rk322x_box
 e66c994e072e0550
+Gecen Tiger MXQPRO
+86a9c083b0216b61
 
 matiasva
 samsung r8q
