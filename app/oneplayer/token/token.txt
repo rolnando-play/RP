@@ -14957,6 +14957,8 @@ d231453970ca75ca
 venancioant
 samsung m11q
 651495876b6d0ced
+rockchip rk322x_box
+30d5455f4781491
 
 pablomez
 Xiaomi oneday
