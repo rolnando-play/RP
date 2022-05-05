@@ -12979,8 +12979,8 @@ rockchip rk322x_box
 andres__1
 SDMC DV8547
 24aa0a65c7a87135
-Xiaomi vayu
-37491c54f6c009ce
+SDMC DV8547
+4f588ac090dcb9d3
 SDMC DV8547
 cfaf81b3256d1071
 
