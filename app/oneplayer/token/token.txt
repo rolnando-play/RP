@@ -4879,6 +4879,8 @@ dolphin dolphin_fvd_p1
 56b110f262df12d1
 MBOX dolphin-p1
 0961f23cbe5c2cad
+Android MDTV5G
+e85d55a03a01785b
 
 lisandra
 MTK cvt_mt5863_sa
