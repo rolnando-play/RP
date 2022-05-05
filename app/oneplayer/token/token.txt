@@ -14774,6 +14774,8 @@ rockchip rk322x_box
 26fd3cb86f1e0f5d
 rockchip rk322x_box
 b30ed27218c73f89
+Asus fugu
+68248a95a7e20e61
 
 danielro
 samsung a12u
