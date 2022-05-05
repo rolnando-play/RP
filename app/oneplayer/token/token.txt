@@ -2740,8 +2740,8 @@ dolphin dolphin_fvd_p1
 fc842ec572341fab
 
 guido091 - alexiscar
-samsung a10
-664825041b9b3109
+samsung a71
+b615668e4bf890de
 samsung hero2lte
 7b5ab4bd62b13e55
 Asus fugu
@@ -15263,3 +15263,5 @@ samsung d2q
 002.lui +6
 Xiaomi oneday
 16de0585067867e3
+Amazon sheldon
+13e7c80272dd622a
