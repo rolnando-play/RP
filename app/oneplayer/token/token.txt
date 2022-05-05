@@ -15197,6 +15197,8 @@ Xiaomi curtana
 84f74104850772f0
 rockchip rk322x_box
 f6a4eec398e539e0
+MTK cvt_mt5863_sa
+c8d894b62dc0d123
 
 gerardoo
 Xiaomi laurel_sprout
