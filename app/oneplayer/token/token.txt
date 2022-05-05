@@ -10740,7 +10740,8 @@ Android MDTV5G
 931bcf2e93701223
 rockchip rk322x_box
 574496afd8df516b
-
+rockchip rk322x_box
+574496afd8df516b
 
 owasm
 rockchip rk322x_box
