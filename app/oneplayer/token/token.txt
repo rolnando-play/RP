@@ -1702,6 +1702,8 @@ rockchip rk322x_box
 +10
 MTK cvt_mt5863_sa
 8d076f06bc81cd4b
+Android MDTV5G
+6fc9f82b2c9b1783
 
 ruthgis
 S905W
