@@ -393,13 +393,16 @@ Amazon sheldon
 1f1caf875d8a3a95
 HUILIAN Hi3751V350
 d9826881384ec35b
++3
 Amazon sheldon
 ca5fe6a178693d3a
-+3
 rockchip rk322x_box
 b871d6cf07e32444
 Amazon mantis
 d689628e19027a04
++3
+Android MBOX
+464ca8540dfcd61b
 
 AQuinonez
 S905W
@@ -15385,4 +15388,8 @@ b5da662d80054d40
 
 felipemull
 motorola caprip
-68e83ef8d66f4829 
+68e83ef8d66f4829
+
+pameger
+Xiaomi surya
+51dc3455578d229f
