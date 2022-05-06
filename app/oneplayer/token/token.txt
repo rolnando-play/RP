@@ -12659,6 +12659,8 @@ MTK cvt_mt5863_sa
 743ab4b454f49dd
 OnePlus OnePlus5
 8a3fe25ecacd9b48
+Google sabrina
+f8ce8a6423560071
 
 sebastiandi +18
 samsung gta4xlwifi
@@ -14000,6 +14002,14 @@ Amlogic p281
 4920027691dcc03a
 Amlogic p281
 cde96d24c77484fa
+Amlogic p281
+5dfddd4a11b935fd
+Amlogic p281
+c44461b952b73f6
+Amlogic p281
+2370a0b229bed5b3
+Amlogic p281
+ff083fb72e53d40d
 +15 usdt
 
 luisvill
@@ -15300,3 +15310,9 @@ Amazon sheldon
 311f025c9e0e0b71
 Xiaomi aquaman
 fa50bfafc91118b8
+
+chehae
+HUAWEI HWEML
+74350c269cb2f9fb
+Gecen Tiger MXQBAK
+a4101abceea3ad6a
