@@ -15365,3 +15365,5 @@ a4101abceea3ad6a
 edgarri
 realme RMX2063L1
 5aefdb6d7e98116f
+rockchip rk322x_box
+4e5737b52d584c47
