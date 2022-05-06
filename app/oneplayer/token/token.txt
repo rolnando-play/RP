@@ -10332,6 +10332,10 @@ Xiaomi oneday
 5ab58fe479496c5a
 Xiaomi oneday
 cf5f2f8f74cfe094
+rockchip rk322x_box
+c353b274f1679a78
+rockchip rk322x_box
+25e852661c5bb6c8
 
 gergod +6
 Amlogic franklin
@@ -11747,6 +11751,8 @@ dolphin dolphin_fvd_p1
 6298536ae976497f
 dolphin dolphin_fvd_p1
 25fad9aee033e600
+dolphin dolphin_fvd_p1
+21f4b0b64ba0cb60
 
 ga7ek
 Xiaomi aquaman
