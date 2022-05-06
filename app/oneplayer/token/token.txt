@@ -15062,6 +15062,8 @@ MTK cvt_mt5863_sa
 b6f2d11bcee07ba4
 Android MDTV5G
 e2ef0c9766f67d59
+rockchip rk3328_box
+76d95268d1a01b11
 
 roloca
 MTK cvt_mt5886_sa
@@ -15371,3 +15373,9 @@ rockchip rk322x_box
 tecnofo
 rockchip rk322x_box
 7b970be90167a594
+Xiaomi daisy_sprout
+b5da662d80054d40
+
+felipemull
+motorola caprip
+68e83ef8d66f4829 
