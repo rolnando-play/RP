@@ -5745,6 +5745,8 @@ rockchip rk322x_box
 c0d7d1d8e36f224d
 rockchip rk322x_box
 9ea175a7550c5854
+rockchip rk322x_box
+aafee1eb20613a77
 
 its.cm
 Amlogic p282
@@ -8196,6 +8198,8 @@ dolphin dolphin_fvd_p1
 ab394bf7e8e914c7
 MBX m201_512m
 b354767d156dbb0b
+rockchip rk322x_box
+12da6a53087165ec
 
 iptv19 +6 psc
 rockchip rk322x_box
