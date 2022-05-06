@@ -13088,7 +13088,7 @@ Xiaomi oneday
 
 carlosabram
 Xiaomi alioth
-4b433e8db2fba60b
+7377262c0c5aeff4
 samsung a12
 b5edb586bcb250f7
 OnePlus OnePlus5
