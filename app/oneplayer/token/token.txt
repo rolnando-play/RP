@@ -14475,6 +14475,8 @@ Amazon mantis
 637a61557e685465
 Amazon kara
 f150c7d5b5c3a301
+Xiaomi croods
+94c52f4b2bb361f1
 
 angeltum
 Allwinner dolphin-fvd-p1
