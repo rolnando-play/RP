@@ -1706,6 +1706,8 @@ Android MDTV5G
 6fc9f82b2c9b1783
 Android MDTV5G
 7004bc5b546015f8
+MTK cvt_mt5863_sa
+ad13594e6b60244a
 
 ruthgis
 S905W
@@ -15068,6 +15070,7 @@ Android MDTV5G
 e2ef0c9766f67d59
 rockchip rk3328_box
 76d95268d1a01b11
++6
 
 roloca
 MTK cvt_mt5886_sa
