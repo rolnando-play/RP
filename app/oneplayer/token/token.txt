@@ -15367,3 +15367,7 @@ realme RMX2063L1
 5aefdb6d7e98116f
 rockchip rk322x_box
 4e5737b52d584c47
+
+tecnofo
+rockchip rk322x_box
+7b970be90167a594
