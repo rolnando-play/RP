@@ -1704,6 +1704,8 @@ MTK cvt_mt5863_sa
 8d076f06bc81cd4b
 Android MDTV5G
 6fc9f82b2c9b1783
+Android MDTV5G
+7004bc5b546015f8
 
 ruthgis
 S905W
@@ -6615,6 +6617,8 @@ STREAMBUS p231
 9bc1651bb4d9a6c4
 rockchip rk322x_box
 92f62f93a6ff4bb9
+rockchip rk322x_box
+df753ba83a551b18
 
 gonzalezju +6
 HUAWEI HWYAL
