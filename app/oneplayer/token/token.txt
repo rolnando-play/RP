@@ -13219,8 +13219,8 @@ Xiaomi oneday
 727fe4febc072faa
 HUAWEI HWSNE
 b43a5f66c2e5a32c
-OnePlus OnePlus5
-7756d9d62117d431
+rockchip rk322x_box
+8840221d5b04d2e9
 
 begar +6
 SDMC DV8547
@@ -14617,11 +14617,12 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 341964578de0c0f6
-Carlos Fabian Álvarez:
 rockchip rk322x_box
 dcb1242849accd1e
 rockchip rk322x_box
 7a948a6ed58c087b
+rockchip rk322x_box
+2d7312b583b55a87
 
 franco.ca
 KTC_8G ktc_8g
