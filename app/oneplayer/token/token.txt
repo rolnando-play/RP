@@ -13517,6 +13517,8 @@ bbf6c105eeb87405
 victor.ma2
 rockchip rk322x_box
 91c13d0a22a4a18f
+rockchip rk322x_box
+2c68d75d1374aad3
 
 jbonill +6
 samsung d2s
