@@ -7628,6 +7628,8 @@ Android MDTV5G
 b3cf307250810ed3
 Android MDTV5G
 131f6e4b72eb0838
+rockchip rk322x_box
+810b8d5265bc494b
 
 jjuan
 Xiaomi aquaman
@@ -14547,6 +14549,8 @@ Amazon kara
 f150c7d5b5c3a301
 Xiaomi croods
 94c52f4b2bb361f1
+Amazon sheldon
+7641879e8e819413
 
 angeltum
 Allwinner dolphin-fvd-p1
@@ -15484,3 +15488,7 @@ rockchip rk322x_box
 lualfo
 Xiaomi aquaman
 0e2f42d6101d463a
+
+exodus +6
+Allwinner Transpeed_H616
+4c1c7e5df22635ff
