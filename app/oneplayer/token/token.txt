@@ -5652,7 +5652,7 @@ alanfr +9
 rockchip rk322x_box
 d8a13da0a536f942
 rockchip rk322x_box
-a272c683c49a073f
+eb1c8801215b2f8d
 Amazon mustang
 672214ab35b1b8c2
 Android MDTV5G
@@ -15441,6 +15441,8 @@ Xiaomi ginkgo
 13d0841799b750ee
 Xiaomi lavender
 3f97637712dc9ed5
+Allwinner dolphin-fvd-p1
+39a4f5a9e612ef78
 
 carlitosca
 Xiaomi ares
@@ -15471,6 +15473,8 @@ Xiaomi oneday
 16de0585067867e3
 Amazon sheldon
 13e7c80272dd622a
+Amazon sheldon
+34cc694778783912
 
 bnbd.
 Amazon sheldonp
