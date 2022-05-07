@@ -15441,3 +15441,7 @@ Xiaomi oneday
 leosam
 rockchip rk322x_box
 18a5e0f03ca3db40
+
+lualfo
+Xiaomi aquaman
+0e2f42d6101d463a
