@@ -8220,6 +8220,8 @@ rockchip rk322x_box
 12da6a53087165ec
 Realtek 393_2831P638_HKC_HD
 4b7364110ccfed4b
+rockchip rk322x_box
+989af82c5af84f12
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -14588,6 +14590,8 @@ Amazon sheldon
 7641879e8e819413
 Amazon sheldon
 19644f3932be1cff
+Amazon sheldon
+e7f47fa00e4c2e8e
 
 angeltum
 Allwinner dolphin-fvd-p1
