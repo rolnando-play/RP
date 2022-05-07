@@ -4511,8 +4511,8 @@ samsung on7xelte
 +6 psc
 rockchip rk322x_box
 8c6eb19fdff7493c
-samsung beyond2q
-005bff8d7e4fc211
+dolphin dolphin_fvd_p1
+3871abfc7d576c55
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -14094,6 +14094,27 @@ Amlogic p281
 b191773189ad1847
 Amlogic p281
 f5e616ed5702098c
+Amlogic p281
+43c6f8250dfca80c
+Amlogic p281
+aaab78d5d599655c
+Amlogic p281
+4dcb3ab146016ce6
+Amlogic p281
+89ccc98f45bbdc47
+Amlogic p281
+da3a328c3a05d406
++15 usdt
+Amlogic p281
+9774472d4f51784
+Amlogic p281
+9adace8a8cb1b0b2
+Amlogic p281
+62ca365c692e0f41
+Amlogic p281
+351218ddd709d301
+Amlogic p281
+940666f164d2c83b
 
 luisvill
 rockchip rk322x_box
@@ -15073,6 +15094,8 @@ Xiaomi aquaman
 jp947 +18
 Amazon sheldon
 e809ddb4f6565fef
+Amazon sheldon
+e128c4df8583f855
 
 andresfl
 Google sabrina
@@ -15443,6 +15466,10 @@ fc77e1a5670311e1
 daniel99 +6
 Xiaomi oneday
 1daac205297ce8cc
+Xiaomi sweet
+8523f3d850b11bf1 
+Xiaomi oneday
+6753893d1687c158
 
 leosam
 rockchip rk322x_box
