@@ -6636,6 +6636,8 @@ rockchip rk322x_box
 df753ba83a551b18
 rockchip rk322x_box
 49694dcfe0a4d2f7
+Google eros-p1
+b568290cca7e1b36
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -15425,3 +15427,11 @@ Xiaomi surya
 marcelogo
 Xiaomi joyeuse
 fc77e1a5670311e1
+
+daniel99 +6
+Xiaomi oneday
+1daac205297ce8cc
+
+leosam
+rockchip rk322x_box
+18a5e0f03ca3db40
