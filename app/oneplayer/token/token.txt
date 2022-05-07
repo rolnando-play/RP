@@ -1713,6 +1713,8 @@ MTK cvt_mt5863_sa
 ad13594e6b60244a
 rockchip rk322x_box
 e6104e79fad910b4
+rockchip rk3318
+e5cac611b80e24d2
 
 ruthgis
 S905W
@@ -8932,6 +8934,8 @@ rockchip rk322x_box
 6ba6c6881a669c47
 Android MDTV5G
 53c07341a27d615d
+Android MDTV5G
+b83492a0c6b0d097
 
 rocapo
 dolphin dolphin-fvd-p1
