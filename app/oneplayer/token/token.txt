@@ -15067,6 +15067,8 @@ Amazon mantis
 e97744aebb6b7c3b
 COSHIP n9090_telmexott
 84c330d25385aacb
+rockchip rk322x_box
+ed332651638af93a
 
 hsolo1
 samsung a10s
@@ -15405,6 +15407,8 @@ Xiaomi secret
 513f707e1e5eee72
 MEIGE Hi3751V350
 e11cc284e6f11822
+rockchip rk322x_box
+5817590f3e65da4d
 
 marconig
 Xiaomi ares
@@ -15529,6 +15533,8 @@ rockchip rk322x_box
 lualfo
 Xiaomi aquaman
 0e2f42d6101d463a
+Amazon mantis
+ce76d9b6d4868629
 
 exodus +6
 Allwinner Transpeed_H616
