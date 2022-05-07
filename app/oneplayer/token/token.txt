@@ -2130,6 +2130,10 @@ Amazon sheldon
 0d6e083a7641f233
 rockchip rk322x_box
 8a20e2fdf590ee06
+Amazon sheldon
+96d23178e281a7db
+Amazon sheldon
+2841e543557ff026
 
 ricar.fu
 HUAWEI HWMAR
