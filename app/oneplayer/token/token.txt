@@ -14551,6 +14551,8 @@ Xiaomi croods
 94c52f4b2bb361f1
 Amazon sheldon
 7641879e8e819413
+Amazon sheldon
+19644f3932be1cff
 
 angeltum
 Allwinner dolphin-fvd-p1
