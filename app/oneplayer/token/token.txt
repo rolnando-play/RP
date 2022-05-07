@@ -9965,6 +9965,8 @@ Xiaomi curtana
 0cede25b6cd9cde9
 Xiaomi aquaman
 d02cd51a6fa3ff64
+Amazon sheldon
+1a79719dbd3367c1
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13559,6 +13561,8 @@ Android MDTV5G
 bfda584e1c774303
 rockchip rk322x_box
 5a871fb09703d2a1
+rockchip rk322x_box
+5c9bf20f90fd3bb
 
 guido.be
 samsung dream2lte
