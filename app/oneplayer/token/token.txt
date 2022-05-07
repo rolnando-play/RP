@@ -7039,6 +7039,8 @@ samsung r1q
 71b9667260da646b
 Xiaomi aquaman
 a395a12b2332123c
+Android MDTV5G
+b0aa8ba85832ce43
 
 enriquelr
 Amazon sheldon
