@@ -8930,6 +8930,8 @@ dolphin dolphin-fvd-p1
 fa69b96faaa3ae18
 rockchip rk322x_box
 6ba6c6881a669c47
+Android MDTV5G
+53c07341a27d615d
 
 rocapo
 dolphin dolphin-fvd-p1
