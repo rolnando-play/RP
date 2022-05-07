@@ -6628,6 +6628,8 @@ rockchip rk322x_box
 92f62f93a6ff4bb9
 rockchip rk322x_box
 df753ba83a551b18
+rockchip rk322x_box
+49694dcfe0a4d2f7
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -10779,6 +10781,8 @@ Android MDTV5G
 931bcf2e93701223
 rockchip rk322x_box
 574496afd8df516b
+MBOX dolphin-p1
+f2236c0d41a704f8
 
 owasm
 rockchip rk322x_box
@@ -12939,6 +12943,8 @@ rockchip rk322x_box
 c0804320beeb9013
 Xiaomi oneday
 fd4d4db526c02188
+Xiaomi aquaman
+60f7aaaed543ed0a
 
 gustavoda
 Amazon sheldonp
