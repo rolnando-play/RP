@@ -8936,6 +8936,8 @@ Android MDTV5G
 53c07341a27d615d
 Android MDTV5G
 b83492a0c6b0d097
+rockchip rk322x_box
+941e22ffa05b9597
 
 rocapo
 dolphin dolphin-fvd-p1
