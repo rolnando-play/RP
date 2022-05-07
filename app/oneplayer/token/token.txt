@@ -8218,6 +8218,8 @@ MBX m201_512m
 b354767d156dbb0b
 rockchip rk322x_box
 12da6a53087165ec
+Realtek 393_2831P638_HKC_HD
+4b7364110ccfed4b
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -13267,8 +13269,8 @@ Google titan-p1
 german_ga
 samsung f2q
 09dff233b9e3aa54
-rockchip rk322x_box
-1ac63eb068e31b7c
+Google sabrina
+b8e9643129403f8d
 Android MDTV5G
 12a73e7e1e9286a1
 +3
@@ -13619,6 +13621,8 @@ rockchip rk322x_box
 56d2aa950a578529
 Amazon sheldon
 8658ad3d66b714eb
+Amazon mantis
+724662b9c6370c8b
 
 ndgc19
 samsung starqltechn
@@ -15494,3 +15498,7 @@ Xiaomi aquaman
 exodus +6
 Allwinner Transpeed_H616
 4c1c7e5df22635ff
+
+juniorsleo
+Xiaomi aquaman
+3362c96ae028086c
