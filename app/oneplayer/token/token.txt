@@ -1711,6 +1711,8 @@ Android MDTV5G
 7004bc5b546015f8
 MTK cvt_mt5863_sa
 ad13594e6b60244a
+rockchip rk322x_box
+e6104e79fad910b4
 
 ruthgis
 S905W
@@ -4900,6 +4902,8 @@ Android MDTV5G
 e85d55a03a01785b
 Android MDTV5G
 9b630b812e661f91
+MBOX dolphin-p1
+b027755638a983e5
 
 lisandra
 MTK cvt_mt5863_sa
