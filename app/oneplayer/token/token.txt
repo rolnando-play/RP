@@ -12770,6 +12770,8 @@ Amazon sheldon
 14b61e7202570f49
 Amazon sheldon
 df013174b29b8126
+Amazon mantis
+fe9ac9cd358971a
 
 josetrini
 Xiaomi machuca
@@ -14518,6 +14520,8 @@ HUAWEI HWJNY
 5e01b7db0705358f
 rockchip MK
 7b001d36e3d3bde2
+Xiaomi sunny
+8314522e1683e32a
 
 dasro
 OnePlus OnePlus7T
@@ -15401,6 +15405,8 @@ motorola caprip
 68e83ef8d66f4829
 Xiaomi aquaman
 e9b1e4a6626c46ba
+rockchip rk322x_box
+532c9f6f76467278
 
 pameger
 Xiaomi surya
