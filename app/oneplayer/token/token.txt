@@ -2134,6 +2134,8 @@ Amazon sheldon
 96d23178e281a7db
 Amazon sheldon
 2841e543557ff026
+Amazon sheldon
+5b3f8fff40905385
 
 ricar.fu
 HUAWEI HWMAR
@@ -13541,6 +13543,8 @@ MBOX dolphin-p1
 ef460f54eb7e5629
 Android MDTV5G
 bfda584e1c774303
+rockchip rk322x_box
+5a871fb09703d2a1
 
 guido.be
 samsung dream2lte
@@ -15417,3 +15421,7 @@ rockchip rk322x_box
 pameger
 Xiaomi surya
 51dc3455578d229f
+
+marcelogo
+Xiaomi joyeuse
+fc77e1a5670311e1
