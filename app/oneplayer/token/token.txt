@@ -14127,6 +14127,37 @@ Amlogic p281
 351218ddd709d301
 Amlogic p281
 940666f164d2c83b
+Amlogic p281
+43c6f8250dfca80c
+Amlogic p281
+aaab78d5d599655c
+Amlogic p281
+4dcb3ab146016ce6
+Amlogic p281
+89ccc98f45bbdc47
+Amlogic p281
+da3a328c3a05d406
+Amlogic p281
+9774472d4f51784
+Amlogic p281
+9adace8a8cb1b0b2
+Amlogic p281
+62ca365c692e0f41
+Amlogic p281
+351218ddd709d301
+Amlogic p281
+940666f164d2c83b
++15 usdt
+Amlogic p281
+3d4ce18da02680d1
+Amlogic p281
+75213d01414e2cde
+Amlogic p281
+50a29134fb1cd3fd
+Amlogic p281
+1b110efa96a9ddfc
+Amlogic p281
+1af6ffc9b8aa1ea4
 
 luisvill
 rockchip rk322x_box
@@ -15502,3 +15533,5 @@ Allwinner Transpeed_H616
 juniorsleo
 Xiaomi aquaman
 3362c96ae028086c
+Xiaomi aquaman
+8dfae0001ffb1ba8
