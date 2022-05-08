@@ -10018,7 +10018,7 @@ ea4efbd1c16428b
 Xiaomi lavender
 83d6c12bc3cea5d7
 dolphin dolphin_fvd_p1
-2db6e198a5c06da0
+b2e22d811569cdd6
 
 andyle
 rockchip rk322x_box
