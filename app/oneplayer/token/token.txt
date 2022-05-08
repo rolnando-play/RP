@@ -14262,6 +14262,8 @@ rockchip rk322x_box
 e98e483b49e162e4
 rockchip rk322x_box
 29b82f2553071db3
+dolphin dolphin-fvd-p1
+a771dbc48091e31f
 
 aflei
 Amazon sheldonp
@@ -15498,6 +15500,8 @@ a158dd700a9eb705
 nilsonj
 samsung d2q
 0e4ca4194a3b6a0c
+samsung a12u
+2f73a3b3e1bc5201
 
 002.lui +6
 Xiaomi oneday
