@@ -7725,6 +7725,8 @@ Xiaomi ginkgo
 fe445288c7fab64b
 Xiaomi dandelion
 1de3366c376a653c
+Xiaomi oneday
+77c157d4b3d30a6e
 
 pjc1309 +9
 samsung dream2lte
@@ -12762,6 +12764,8 @@ samsung a51
 ffe37300eba78dfe
 MTC seocho
 0206090c90092898
+MTC seocho
+70d9df21d56070f4
 
 soporte.no
 Amlogic p212
@@ -13549,6 +13553,8 @@ rockchip rk322x_box
 91c13d0a22a4a18f
 rockchip rk322x_box
 2c68d75d1374aad3
+rockchip rk322x_box
+f651cef52898075f
 
 jbonill +6
 samsung d2s
@@ -15553,3 +15559,11 @@ Xiaomi aquaman
 3362c96ae028086c
 Xiaomi aquaman
 8dfae0001ffb1ba8
+
+fernandoja
+Xiaomi oneday
+bd510d0b7575ffb7
+
+merelesdo
+samsung a32
+9f227bfd8d8d5bc4
