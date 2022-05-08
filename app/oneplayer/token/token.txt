@@ -15110,6 +15110,8 @@ samsung b2q
 35b813261cc46e79
 Xiaomi machuca
 6696e712476780a4
+Xiaomi oneday
+c16288d576bfa9dd
 
 luanapo
 Android MDTV5G
@@ -15576,3 +15578,7 @@ bd510d0b7575ffb7
 merelesdo
 samsung a32
 9f227bfd8d8d5bc4
+
+arcedel
+rockchip rk322x_box
+ca80c782d115aa50
