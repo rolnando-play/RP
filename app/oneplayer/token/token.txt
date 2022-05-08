@@ -15522,7 +15522,7 @@ motorola caprip
 Xiaomi aquaman
 e9b1e4a6626c46ba
 rockchip rk322x_box
-532c9f6f76467278
+532c9f6f7b467278
 
 pameger
 Xiaomi surya
