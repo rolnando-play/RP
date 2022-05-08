@@ -15416,6 +15416,8 @@ rockchip rk322x_box
 f6a4eec398e539e0
 MTK cvt_mt5863_sa
 c8d894b62dc0d123
+MTK cvt_mt5863_sa
+d3d521604eca64b
 
 gerardoo
 Xiaomi laurel_sprout
