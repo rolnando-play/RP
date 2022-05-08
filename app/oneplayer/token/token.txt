@@ -14808,6 +14808,8 @@ LGE alphalm
 b9f81dabc36fcbff
 samsung star2qlteue
 9850977bd69ef2ce
+Amazon stark
+155aae72ab5e22d3
 
 brunocon
 Xiaomi curtana
