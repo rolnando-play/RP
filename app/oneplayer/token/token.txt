@@ -4513,6 +4513,8 @@ rockchip rk322x_box
 8c6eb19fdff7493c
 dolphin dolphin_fvd_p1
 3871abfc7d576c55
+samsung gts7fewifi
+2f884e4ca31feff2
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -15598,3 +15600,7 @@ samsung a32
 arcedel
 rockchip rk322x_box
 ca80c782d115aa50
+
+guscor
+samsung a71
+6e11abd12da753cd
