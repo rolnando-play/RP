@@ -15436,6 +15436,8 @@ Google sabrina
 ecbbafb1881205d3
 rockchip TVBOX
 3618e0d8ebbb1ce4
+Google eros-p1
+5bbb428bf76f4360
 
 johancas
 SEI Robotics SEI500L
