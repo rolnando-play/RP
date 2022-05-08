@@ -12987,6 +12987,8 @@ Xiaomi oneday
 fd4d4db526c02188
 Xiaomi aquaman
 60f7aaaed543ed0a
+Android MDTV5G
+8de564894026baab
 
 gustavoda
 Amazon sheldonp
@@ -14170,6 +14172,12 @@ Amlogic p281
 1b110efa96a9ddfc
 Amlogic p281
 1af6ffc9b8aa1ea4
+Amlogic p281
+ad84073d632b9e35
+Amlogic p281
+1f01f77175d80611
+Amlogic p281
+3dbeb5d86d6ac010
 
 luisvill
 rockchip rk322x_box
