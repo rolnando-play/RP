@@ -7648,6 +7648,8 @@ Android MDTV5G
 131f6e4b72eb0838
 rockchip rk322x_box
 810b8d5265bc494b
+rockchip rk322x_box
+1f9437931f7f9a0f
 
 jjuan
 Xiaomi aquaman
@@ -8968,6 +8970,8 @@ Android MDTV5G
 b83492a0c6b0d097
 rockchip rk322x_box
 941e22ffa05b9597
+Android MDTV5G
+d3dafa6a79e142a3
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -14764,6 +14768,8 @@ Amazon mantis
 96d1070496207be4
 Amazon mantis
 1201c74683b8fdc7
+Amazon tank
+1d93302521c215fd
 
 manfredkl
 Google titan-p1
