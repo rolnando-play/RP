@@ -1305,6 +1305,8 @@ tv box
 bd7ef7ae170858f0
 telefono
 ea6df50a78b16cbf
+Amazon onyx
+8ea205555c0f4f95
 
 edu.bo
 LM-V405
@@ -12993,6 +12995,8 @@ Xiaomi aquaman
 60f7aaaed543ed0a
 Android MDTV5G
 8de564894026baab
+rockchip rk322x_box
+a520f53941204bdc
 
 gustavoda
 Amazon sheldonp
@@ -13499,6 +13503,8 @@ Xiaomi lavender
 938ab7484cb28265
 Amazon sheldonp
 2aafdc6274e7a944
+Amazon mantis
+8f6a37d3ec3f8789
 
 tico_
 Amazon mantis
@@ -15319,6 +15325,8 @@ samsung a31
 3548f6d9c1c9b1f5
 Amazon sheldon
 ec815005ddd9c2a4
+Google sabrina
+8c1703b613c901aa
 
 luupa +6
 samsung t2s
