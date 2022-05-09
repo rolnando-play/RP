@@ -14296,6 +14296,8 @@ rockchip rk322x_box
 29b82f2553071db3
 dolphin dolphin-fvd-p1
 a771dbc48091e31f
+Amazon sheldonp
+e41cdaf91d23c681
 
 aflei
 Amazon sheldonp
