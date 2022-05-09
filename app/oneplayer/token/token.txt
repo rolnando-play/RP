@@ -15658,3 +15658,9 @@ Xiaomi oneday
 martinza +6 usdt
 rockchip MK
 6a8364f83b42fd1c
+
+eliasmb
+rockchip rk322x_box
+9f09e4b9ac41da8e
+Xiaomi viva
+a304623d5366bff2
