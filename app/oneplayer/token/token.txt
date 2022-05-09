@@ -8570,6 +8570,8 @@ askey sti6140d360
 0bc679472c7c0ca0
 askey sti6140d360
 5c172493ffbfd5e5
+OnePlus OnePlus3T
+cc133e6d076e761e
 
 rr.23
 MTK cvt_mt5863_sa
@@ -15315,6 +15317,8 @@ a3e8426e4f930145
 garceteg9 +6
 samsung a31
 3548f6d9c1c9b1f5
+Amazon sheldon
+ec815005ddd9c2a4
 
 luupa +6
 samsung t2s
