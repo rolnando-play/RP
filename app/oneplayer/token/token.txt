@@ -8244,6 +8244,8 @@ Realtek 393_2831P638_HKC_HD
 4b7364110ccfed4b
 rockchip rk322x_box
 989af82c5af84f12
+rockchip rk322x_box
+d17fb0876c0e525c
 
 iptv19 +6 psc
 rockchip rk322x_box
