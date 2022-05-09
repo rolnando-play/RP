@@ -13587,6 +13587,8 @@ rockchip rk322x_box
 84b36c552426b214
 rockchip rk322x_box
 bbf6c105eeb87405
+rockchip rk322x_box
+7410924cb508fcdc
 
 victor.ma2
 rockchip rk322x_box
