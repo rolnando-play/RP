@@ -10009,6 +10009,8 @@ Xiaomi joyeuse
 9101563fbeecec17
 rockchip MK
 f3a6c279a5921837
+Xiaomi aquaman
+92e0089d357345eb
 
 danieljo
 Allwinner dolphin-fvd-p1
