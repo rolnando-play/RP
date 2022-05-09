@@ -6657,6 +6657,8 @@ rockchip rk322x_box
 49694dcfe0a4d2f7
 Google eros-p1
 b568290cca7e1b36
+Android MDTV5G
+65de5efe76bb7420
 
 gonzalezju +6
 HUAWEI HWYAL
