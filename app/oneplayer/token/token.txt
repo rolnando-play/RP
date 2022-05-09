@@ -11354,6 +11354,8 @@ samsung star2qltechn
 07eec4d95cdd51e1
 Google sabrina
 e3c1d6819bbf9814
+rockchip rk322x_box
+e4e6ef66d89b7ac3
 
 mfassa +6
 Amlogic p281
