@@ -7663,6 +7663,8 @@ Android MDTV5G
 141d97bdb68d398
 dolphin dolphin_fvd_p1
 9c13d28b1791ba0f
+samsung a51
+997943f174b9ff3a
 
 jjuan
 Xiaomi aquaman
@@ -8991,6 +8993,8 @@ Android MDTV5G
 d3dafa6a79e142a3
 Android MDTV5G
 cb7a3a67f5a60268
+Android MDTV5G
+8ca5b57a218b5b21
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -11525,6 +11529,8 @@ rockchip rk322x_box
 654dc52e0c28f7da
 rockchip rk322x_box
 6dcab334e92a0146
+Android MDTV5G
+eb4321ea4f061514
 
 davalosru
 rockchip rk3328_box
@@ -15757,3 +15763,7 @@ samsung b2q
 d752bb517462ae44
 Allwinner t3-p1
 34a61e4704675c35
+
+nuzzar +6
+Xiaomi renoir
+d1a05977362d95ad
