@@ -11879,6 +11879,8 @@ samsung a72q
 03ca78de817a2d1e
 samsung star2qltechn
 751692d1d2cc2b2f
+samsung d1
+159de9a854bfebc3
 
 rosaru
 Kara
