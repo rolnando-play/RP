@@ -10015,6 +10015,8 @@ rockchip MK
 f3a6c279a5921837
 Xiaomi aquaman
 92e0089d357345eb
+MBOX dolphin-p1
+197f65729f449b81
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14334,6 +14336,8 @@ a36f648edfd8769c
 mbiart
 samsung x1s
 9bdffa09e78e5a74
+amsung a21
+fed5c2ed742581c8
 
 aninav2
 Xiaomi lavender
@@ -15670,3 +15674,9 @@ rockchip rk322x_box
 9f09e4b9ac41da8e
 Xiaomi viva
 a304623d5366bff2
+
+kisuri
+Google sabrina
+6154f4bc0a7bd3c3
+Google sabrina
+a22ddd6f816a1810
