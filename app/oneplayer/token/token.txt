@@ -13055,7 +13055,7 @@ Android MDTV5G
 57b4224396e6be60
 rockchip rk322x_box
 587343a010ba06b2
-+6 psc
++5 psc
 rockchip rk322x_box
 c0804320beeb9013
 Xiaomi oneday
@@ -13066,6 +13066,9 @@ Android MDTV5G
 8de564894026baab
 rockchip rk322x_box
 a520f53941204bdc
++5 psc
+dolphin dolphin-fvd-p1
+e455500788099aa5
 
 gustavoda
 Amazon sheldonp
