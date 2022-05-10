@@ -10432,6 +10432,8 @@ Amazon sheldon
 4e0aa935816c2558
 rockchip rk322x_box
 cf99f3ddb6a578bc
+rockchip rk322x_box
+15d18ff9f29391ba
 
 gergod +6
 Amlogic franklin
@@ -11829,6 +11831,8 @@ Android MDTV5G
 770556205dd472d0
 rockchip rk322x_box
 438808e783bacf2
+Xiaomi oneday
+db7e2416af5186ef
 
 arevalosve
 Amazon sheldonp
@@ -14811,6 +14815,8 @@ Amazon tank
 +18
 Xiaomi oneday
 f908d30a9e773529
+Amazon mantis
+2be874088d6032d2
 
 manfredkl
 Google titan-p1
