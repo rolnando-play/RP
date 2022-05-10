@@ -8609,6 +8609,8 @@ askey sti6140d360
 5c172493ffbfd5e5
 OnePlus OnePlus3T
 cc133e6d076e761e
+CTVMODEL Hi3751V350
+623386af5adc87c9
 
 rr.23
 MTK cvt_mt5863_sa
@@ -15774,3 +15776,9 @@ Amazon sheldon
 nuzzar +6
 Xiaomi renoir
 d1a05977362d95ad
+
+ricardole
+MBOX dolphin-p1
+2e8ef0ccfb394540
+samsung a53x
+df0d827719673175
