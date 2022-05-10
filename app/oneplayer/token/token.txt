@@ -15733,3 +15733,5 @@ Realtek rtd298x_tv038
 uruso
 samsung b2q
 d752bb517462ae44
+Allwinner t3-p1
+34a61e4704675c35
