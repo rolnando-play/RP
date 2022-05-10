@@ -15768,6 +15768,8 @@ samsung b2q
 d752bb517462ae44
 Allwinner t3-p1
 34a61e4704675c35
+Amazon sheldon
+565f0bf786d0c3d4
 
 nuzzar +6
 Xiaomi renoir
