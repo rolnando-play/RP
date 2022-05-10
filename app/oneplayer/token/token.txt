@@ -10024,6 +10024,8 @@ Xiaomi aquaman
 92e0089d357345eb
 MBOX dolphin-p1
 197f65729f449b81
+rockchip rk322x_box
+165cfb515f888eb
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -10436,6 +10438,8 @@ rockchip rk322x_box
 15d18ff9f29391ba
 rockchip rk322x_box
 1aa272b78cd97425
+rockchip rk322x_box
+f92614111d7dea32
 
 gergod +6
 Amlogic franklin
