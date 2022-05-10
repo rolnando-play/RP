@@ -15691,3 +15691,7 @@ a22ddd6f816a1810
 richara
 Realtek rtd298x_tv038
 1bbc81ac32ed48b6
+
+uruso
+samsung b2q
+d752bb517462ae44
