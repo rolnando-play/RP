@@ -6659,6 +6659,9 @@ Google eros-p1
 b568290cca7e1b36
 Android MDTV5G
 65de5efe76bb7420
++18
+rockchip rk322x_box
+898d06cddf046bfa
 
 gonzalezju +6
 HUAWEI HWYAL
