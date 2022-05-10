@@ -8707,6 +8707,8 @@ rockchip rk322x_box
 6b1ae0d80331bf1a
 TCL BeyondTV
 6787744cd8b092f8
+rockchip rk322x_box
+b06a43089c8f8211
 
 nain
 motorola lake_n
