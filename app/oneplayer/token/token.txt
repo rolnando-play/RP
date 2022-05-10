@@ -6664,6 +6664,8 @@ Android MDTV5G
 +18
 rockchip rk322x_box
 898d06cddf046bfa
+rockchip rk322x_box
+b160f65379c4c0b5
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -14260,6 +14262,24 @@ Amlogic p281
 1c5bb97a52328fc9
 Amlogic p281
 b130d7906d1cdc51
+Amlogic p281
+b0c6e4b87bda68ed
+Amlogic p281
+8614dd1c0f40cd40
+Amlogic p281
+18329649bfdb5024
+Amlogic p281
+a3e02de6aca56e0c
+Amlogic p281
+a52587aa4361df10
+Amlogic p281
+2807ecc7a18fa9d
+Amlogic p281
+69a173a8cf3c67f1
+Amlogic p281
+a71723ffae56db1a
+Amlogic p281
+124f55459e7a8cf2
 
 luisvill
 rockchip rk322x_box
