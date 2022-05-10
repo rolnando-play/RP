@@ -15144,6 +15144,8 @@ Xiaomi aquaman
 dianacor +6
 Xiaomi chopin
 f292de036b80289d
+HONOR HNCMA-Q
+84ef450b6581321b
 
 nahile
 Amazon mantis
@@ -15590,6 +15592,8 @@ HUAWEI HWEML
 74350c269cb2f9fb
 Gecen Tiger MXQBAK
 a4101abceea3ad6a
+samsung android
+1b31a8a8e84d5700
 
 edgarri
 realme RMX2063L1
@@ -15680,3 +15684,7 @@ Google sabrina
 6154f4bc0a7bd3c3
 Google sabrina
 a22ddd6f816a1810
+
+richara
+Realtek rtd298x_tv038
+1bbc81ac32ed48b6
