@@ -8255,6 +8255,8 @@ rockchip rk322x_box
 989af82c5af84f12
 rockchip rk322x_box
 d17fb0876c0e525c
+rockchip rk322x_box
+17b325e5c4165c7b
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15464,6 +15466,8 @@ fac13dc21adfc3aa
 martinmen +6
 Amazon mantis
 abdb2a261e50266f
+Amazon mantis
+32137428dba0f113
 
 younow
 Amazon sheldon
