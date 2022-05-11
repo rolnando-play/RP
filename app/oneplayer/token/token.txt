@@ -10044,6 +10044,8 @@ rockchip rk322x_box
 165cfb515f888eb
 Android MDTV5G
 f06bd33ee9a309ac
+Dell Inc. x86
+327fabf52a9c4778
 
 danieljo
 Allwinner dolphin-fvd-p1
