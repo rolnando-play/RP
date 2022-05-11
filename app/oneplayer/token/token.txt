@@ -10052,6 +10052,8 @@ Android MDTV5G
 f06bd33ee9a309ac
 Dell Inc. x86
 327fabf52a9c4778
+Android MDTV5G
+732ccf88bae2f52a
 
 danieljo
 Allwinner dolphin-fvd-p1
