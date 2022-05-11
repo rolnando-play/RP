@@ -6670,6 +6670,10 @@ rockchip rk322x_box
 b160f65379c4c0b5
 dolphin dolphin-fvd-p1
 b8dd0ace73fe988a
+rockchip rk322x_box
+3c61dbdeaaecaf34
+rockchip rk322x_box
+1450a22b4bb73e09
 
 gonzalezju +6
 HUAWEI HWYAL
