@@ -100,6 +100,8 @@ unknown generic_x86
 63a757cf23b6412
 unknown generic_x86
 4d930c598f86a239
+Microsoft Corporation windows_x86_64
+2ed25e8eb683d90f
 +di
 askey sti6140d360
 11aa8a55e0e1dba9
