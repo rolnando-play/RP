@@ -565,7 +565,7 @@ cc01b7ef6ad68be5
 rockchip rk322x_box
 f5bc2f43fcda490f
 Amazon sheldon
-85cd3570690f5d1b
+916b31bc5c35690b
 
 ampi_h
 r69
@@ -6666,6 +6666,8 @@ rockchip rk322x_box
 898d06cddf046bfa
 rockchip rk322x_box
 b160f65379c4c0b5
+dolphin dolphin-fvd-p1
+b8dd0ace73fe988a
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -12106,8 +12108,8 @@ dolphin dolphin_fvd_p1
 263c7f2c97bdf5a
 
 alcidesga
-samsung j7xelte
-8cf8ecf043571d48
+j7 xelte
+a071a837bbcf8532
 samsung a01q
 25b1071ca779cb3b
 samsung j7velte
