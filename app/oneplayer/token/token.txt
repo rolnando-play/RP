@@ -10132,7 +10132,7 @@ angelpa btc
 rockchip rk322x_box
 426461193191175b
 samsung j7velte
-4be18b56b8c25944
+2bc4cde2ccf80526
 rockchip rk322x_box
 9de112f63294f10f
 
@@ -14311,6 +14311,17 @@ Amlogic p281
 a71723ffae56db1a
 Amlogic p281
 124f55459e7a8cf2
+Amlogic p281
+9035843eb6255e69
+Amlogic p281
+a791387774eca276
+Amlogic p281
+7eb1c750a5d75317
+Amlogic p281
+36e0601d305e865e
++15 usdt
+Amlogic p281
+ac24d227e048c735
 
 luisvill
 rockchip rk322x_box
