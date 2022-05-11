@@ -1719,6 +1719,8 @@ rockchip rk322x_box
 e6104e79fad910b4
 rockchip rk3318
 e5cac611b80e24d2
+Android MDTV5G
+3e045181904507d0
 
 ruthgis
 S905W
@@ -15868,3 +15870,7 @@ Xiaomi oneday
 tigomoney20
 Amlogic p281
 45aaaf27a1f8cd63
+
+Alexanderdelos
+samsung a31
+02bc3db448ade8df
