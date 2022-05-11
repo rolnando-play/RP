@@ -10040,6 +10040,8 @@ MBOX dolphin-p1
 197f65729f449b81
 rockchip rk322x_box
 165cfb515f888eb
+Android MDTV5G
+f06bd33ee9a309ac
 
 danieljo
 Allwinner dolphin-fvd-p1
