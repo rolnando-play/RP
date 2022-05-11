@@ -7074,6 +7074,8 @@ b0aa8ba85832ce43
 +6
 Xiaomi oneday
 dfb7a0aabeffc3e3
+Xiaomi oneday
+66f190928f60e4b8
 
 enriquelr
 Amazon sheldon
@@ -7826,6 +7828,10 @@ Google titan-p1
 b9c6da8b94b020d2
 Google titan-p1
 550a73fc89486bd2
+Google titan-p1
+81a9f84cd4c3fc2f
+Google titan-p1
+95ab1f7f949d8bdb
 
 derlisja
 Xiaomi oneday
@@ -14327,6 +14333,22 @@ Amlogic p281
 +15 usdt
 Amlogic p281
 ac24d227e048c735
+Amlogic p281
+529cf7b4fe0299c3
+Amlogic p281
+4aabe8d9c030060a
+Amlogic p281
+9db8e384ec3eff12
+Amlogic p281
+49699b583ddc4fb0
+Amlogic p281
+244393a763a259e3
+Amlogic p281
+c78956e8956a5ea4
+Amlogic p281
+319fe71f727d37c4
+Amlogic p281
+f3a8865a9a022254
 
 luisvill
 rockchip rk322x_box
@@ -15801,13 +15823,17 @@ richara
 Realtek rtd298x_tv038
 1bbc81ac32ed48b6
 
-uruso
+uruso +12
 samsung b2q
 d752bb517462ae44
 Allwinner t3-p1
 34a61e4704675c35
 Amazon sheldon
 565f0bf786d0c3d4
+Xiaomi aquaman
+48497eb25b3ebeee
+Amazon sheldonp
+81d8dd4c1d4aff84
 
 nuzzar +6
 Xiaomi renoir
