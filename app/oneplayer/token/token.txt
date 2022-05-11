@@ -8271,6 +8271,8 @@ rockchip rk322x_box
 d17fb0876c0e525c
 rockchip rk322x_box
 17b325e5c4165c7b
+rockchip rk322x_box
+ecaf0e8f89cd9ce4
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11553,6 +11555,9 @@ rockchip rk322x_box
 6dcab334e92a0146
 Android MDTV5G
 eb4321ea4f061514
++3
+dolphin dolphin-fvd-p1
+9f5bacdb4c57184a
 
 davalosru
 rockchip rk3328_box
