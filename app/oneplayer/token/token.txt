@@ -15767,6 +15767,8 @@ samsung a32
 arcedel
 rockchip rk322x_box
 ca80c782d115aa50
+samsung a50
+e2b74c3314b6089b
 
 guscor
 samsung a71
