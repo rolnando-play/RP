@@ -10470,6 +10470,8 @@ rockchip rk322x_box
 1aa272b78cd97425
 rockchip rk322x_box
 f92614111d7dea32
+Amlogic p281
+99ab16d411a5fd4f
 
 gergod +6
 Amlogic franklin
@@ -15814,3 +15816,7 @@ e5f4d6fb25f97b43
 luis99
 samsung a11q
 491cfc0bd9b6357a
+
+tigomoney20
+Amlogic p281
+45aaaf27a1f8cd63
