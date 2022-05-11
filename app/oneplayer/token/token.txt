@@ -14760,7 +14760,7 @@ eab650692db1c053
 
 jtorr
 Xiaomi machuca
-571453c53769032f
+29d29d7e29eb1cc0
 Amazon sheldon
 b2da7f39d70c0983
 Xiaomi oneday
@@ -15862,6 +15862,8 @@ e5f4d6fb25f97b43
 luis99
 samsung a11q
 491cfc0bd9b6357a
+Xiaomi oneday
+13ae0f39f3d31278
 
 tigomoney20
 Amlogic p281
