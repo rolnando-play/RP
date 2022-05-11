@@ -10068,6 +10068,8 @@ Android MDTV5G
 732ccf88bae2f52a
 Amazon trona
 bc285857a3b88808
+dolphin dolphin_fvd_p1
+c64b415c69ffb93f
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -15882,3 +15884,7 @@ samsung a31
 clipbu
 COSHIP n9090_telmexott
 67a7a0f86d0516ea
+
+adrian.al
+Allwinner dolphin-fvd-p1
+841ae51f8f40bc03
