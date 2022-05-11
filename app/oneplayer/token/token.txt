@@ -12108,8 +12108,8 @@ samsung j7xelte
 8cf8ecf043571d48
 samsung a01q
 25b1071ca779cb3b
-samsung j7 velve
-a071a837bbcf8532
+samsung j7velte
+3a33360bf55e8f80
 
 rudifran
 HUAWEI HWJNY
@@ -15776,6 +15776,8 @@ Amazon sheldon
 nuzzar +6
 Xiaomi renoir
 d1a05977362d95ad
+Google sabrina
+249c20c898272e56
 
 ricardole
 MBOX dolphin-p1
