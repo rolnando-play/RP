@@ -15904,3 +15904,7 @@ COSHIP n9090_telmexott
 adrian.al
 Allwinner dolphin-fvd-p1
 841ae51f8f40bc03
+
+rdperal +6
+SmartTV 10839
+f667ed5465b19bd3
