@@ -15948,3 +15948,7 @@ Allwinner dolphin-fvd-p1
 rdperal +6
 SmartTV 10839
 f667ed5465b19bd3
+
+jorgealva
+OnePlus OnePlus3T
+88d93db908920de3
