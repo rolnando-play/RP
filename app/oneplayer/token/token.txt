@@ -15396,6 +15396,8 @@ Xiaomi oneday
 c36f6f2d1cb7e000
 Xiaomi vayu
 722e124643c485fe
+Xiaomi nabu
+fe9d8a09ce46b210
 
 lsalazar
 samsung crownqltechn
