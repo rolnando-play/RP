@@ -1726,6 +1726,8 @@ Android MDTV5G
 3e045181904507d0
 Android MDTV5G
 27805b115b2d3db5
+Android MDTV5G
+a2bbfc97b96f8b2f
 
 ruthgis
 S905W
@@ -5189,6 +5191,8 @@ MBOX dolphin-p1
 dbacbc62762fc544
 Xiaomi oneday
 950871d0870f81ec
+Google sabrina
+63010c1f1e31fc25
 
 psicov
 Xiaomi lavender
@@ -9666,8 +9670,8 @@ MTK cvt_mt5886_sa
 cff2ffb8bc11830b
 Xiaomi oneday
 db3ac6dc232cab43
-samsung a21s
-f0c8a90857bcbc09
+HUAWEI HWSNE
+81f75f2c04acb809
 Android MDTV5G
 73044a1380e7cbd1
 Xiaomi oneday
