@@ -568,6 +568,9 @@ rockchip rk322x_box
 f5bc2f43fcda490f
 Amazon sheldon
 916b31bc5c35690b
+Xiaomi oneday
+9d54c0e90d433ca0
++3
 
 ampi_h
 r69
