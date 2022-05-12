@@ -7097,6 +7097,11 @@ MTK cvt_mt5863_sa
 47aff487b3e11b5
 MBOX dolphin-p1
 11fa47abe7c02896
+dolphin dolphin-fvd-p1
+558b3d274262620a
++6
+Android MDTV5G
+67b5753474d326a3
 
 enriquelr
 Amazon sheldon
