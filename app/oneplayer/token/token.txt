@@ -10077,6 +10077,9 @@ Amazon trona
 bc285857a3b88808
 dolphin dolphin_fvd_p1
 c64b415c69ffb93f
+Xiaomi oneday
+f0b5d8c9f9979de0
++18
 
 danieljo
 Allwinner dolphin-fvd-p1
