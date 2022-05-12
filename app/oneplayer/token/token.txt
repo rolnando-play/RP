@@ -4932,6 +4932,8 @@ Android MDTV5G
 9b630b812e661f91
 MBOX dolphin-p1
 b027755638a983e5
+rockchip rk322x_box
+d8dacb67117cf557
 
 lisandra
 MTK cvt_mt5863_sa
