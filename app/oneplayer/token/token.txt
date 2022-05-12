@@ -7099,7 +7099,7 @@ MBOX dolphin-p1
 11fa47abe7c02896
 dolphin dolphin-fvd-p1
 558b3d274262620a
-+6
++3
 Android MDTV5G
 67b5753474d326a3
 
@@ -12564,6 +12564,8 @@ Allwinner dolphin-fvd-p1
 57heber
 Sony BRAVIA_ATV3_4K
 bb41c0343abb3161
+Sony BRAVIA_ATV3_4K
+a2a6a03279c083d7
 
 hectorara
 Xiaomi vayu
