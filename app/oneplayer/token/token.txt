@@ -7078,6 +7078,10 @@ Xiaomi oneday
 dfb7a0aabeffc3e3
 Xiaomi oneday
 66f190928f60e4b8
+samsung j7velte
+006d4d08000a2a39
+MTK cvt_mt5863_sa
+47aff487b3e11b5
 
 enriquelr
 Amazon sheldon
@@ -14359,6 +14363,8 @@ Amlogic p281
 cc24476f8bd7a98c
 Amlogic p281
 de6bd33b82d491f9
+Amlogic p281
+c38f6e924cd0b873
 
 luisvill
 rockchip rk322x_box
