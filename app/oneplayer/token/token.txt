@@ -14511,6 +14511,8 @@ dolphin dolphin-fvd-p1
 a771dbc48091e31f
 Amazon sheldonp
 e41cdaf91d23c681
+Allwinner dolphin-fvd-p1
+29f30db3a53f4362
 
 aflei
 Amazon sheldonp
