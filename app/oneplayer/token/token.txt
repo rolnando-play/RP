@@ -15973,7 +15973,13 @@ f667ed5465b19bd3
 jorgealva
 OnePlus OnePlus3T
 88d93db908920de3
+MTK cvt_mt5886_sa
+ac5320b5f75e0fdc
 
 moralesro +6
 Xiaomi oneday
 55a01553ceac8e8d
+
+omar-ri +6
+rockchip rk322x_box
+3badb9e2720de77a
