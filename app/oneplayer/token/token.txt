@@ -1724,6 +1724,8 @@ rockchip rk3318
 e5cac611b80e24d2
 Android MDTV5G
 3e045181904507d0
+Android MDTV5G
+27805b115b2d3db5
 
 ruthgis
 S905W
@@ -14382,7 +14384,8 @@ Amlogic p281
 45be2fbc370fd4ca
 Amlogic p281
 fa4471bf0c8a21b9
-
+Amlogic p281
+be19a667c0899118
 
 luisvill
 rockchip rk322x_box
