@@ -14390,6 +14390,29 @@ Amlogic p281
 fa4471bf0c8a21b9
 Amlogic p281
 be19a667c0899118
+Ezequiel Frutos:
+Amlogic p281
+fa1906621147088a
+Amlogic p281
+8f780f66341af454
+Amlogic p281
+b2dcb58aa424368c
+Amlogic p281
+24f9ec193095c166
+Amlogic p281
+fc4b8ddc24ff0dfe
+Amlogic p281
+dca0e4ddcaa14bf5
+Amlogic p281
+b157d352032a8a98
+Amlogic p281
+eec02ce6389328f2
+Amlogic p281
+44336a3441553b9c
+Amlogic p281
+b98187d1b5ec8ba2
+Amlogic p281
+17f502abbc4ac7a3
 
 luisvill
 rockchip rk322x_box
