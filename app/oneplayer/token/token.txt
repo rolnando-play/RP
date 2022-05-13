@@ -13717,6 +13717,8 @@ Amazon sheldonp
 315fce6d5d7aefac
 Xiaomi aquaman
 fb2dbfdf88b6e5f4
+Android MBOX
+ecc6f25e940adb23
 
 ricardoro
 samsung beyond1
@@ -16044,6 +16046,8 @@ rockchip rk3328_box
 1f6a958ebe53ba05
 rockchip rk3328_box
 4b3f1e49a03cc51f
+Allwinner dolphin-fvd-p1
+e9b40b2d3cbf0645
 
 rulfi
 HUAWEI HWYAL
