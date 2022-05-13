@@ -13761,6 +13761,8 @@ rockchip rk322x_box
 +5 psc
 rockchip rk322x_box
 88be286124df47a9
+rockchip rk322x_box
+d63496eac3eba89e
 
 guido.be
 samsung dream2lte
