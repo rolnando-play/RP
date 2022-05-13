@@ -15382,7 +15382,7 @@ HUAWEI HWSTK-HF
 
 vinotin
 Lenovo zippo
-d0e1d616abbe8351
+0c40d60f1eaeaf97
 Allwinner dolphin-fvd-p1
 8f3c1532d81ab8d0
 
