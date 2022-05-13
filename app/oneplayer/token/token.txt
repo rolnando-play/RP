@@ -15547,6 +15547,8 @@ e2ef0c9766f67d59
 rockchip rk3328_box
 76d95268d1a01b11
 +6
+rockchip rk322x_box
+c304d555f9e70d8c
 
 roloca
 MTK cvt_mt5886_sa
