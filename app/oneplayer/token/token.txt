@@ -9159,6 +9159,9 @@ rockchip rk322x_box
 80da8539ebe8f839
 rockchip rk322x_box
 58d9641da76164f9
++9
+rockchip rk322x_box
+68565b0825152553
 
 pjc0910 +9
 rockchip rk322x_box
