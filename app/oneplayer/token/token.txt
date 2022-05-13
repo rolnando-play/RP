@@ -10541,6 +10541,8 @@ Amlogic p281
 99ab16d411a5fd4f
 Amlogic p201
 91d7074f4e1746af
+Android MDTV5G
+3107400855b81125
 
 gergod +6
 Amlogic franklin
