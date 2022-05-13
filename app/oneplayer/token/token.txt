@@ -15955,6 +15955,8 @@ Xiaomi oneday
 tigomoney20
 Amlogic p281
 45aaaf27a1f8cd63
+Amlogic p281
+ccd70ffc1b216f7e
 
 Alexanderdelos
 samsung a31
