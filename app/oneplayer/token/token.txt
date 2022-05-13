@@ -10715,6 +10715,8 @@ samsung a5y17lte
 c45c8c287e17e2a4
 motorola fijisc
 c344d380bd612e49
+motorola maltalsc
+0951cb728683613b
 
 gonzaloez
 Xiaomi surya
