@@ -10547,6 +10547,8 @@ Amlogic p201
 91d7074f4e1746af
 Android MDTV5G
 3107400855b81125
+dolphin dolphin-fvd-p1
+407b8d2201636ef4
 
 gergod +6
 Amlogic franklin
