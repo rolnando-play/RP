@@ -14774,6 +14774,8 @@ dolphin dolphin-fvd-p1
 f5a3a5075e7db435
 samsung a31
 9f09888313a0458e
+Allwinner dolphin-fvd-p1
+5f1442309fc043f2
 
 everarn
 Xiaomi oneday
