@@ -3961,6 +3961,9 @@ Xiaomi oneday
 fd464472d26d1672
 Xiaomi oneday
 92d4db5bc532daf7
+Xiaomi oneday
+b0a4ea85df8aefa0
++3
 
 juanin
 Allwinner petrel-p1
@@ -9620,6 +9623,8 @@ Amazon sheldon
 d6fd4571c06832ef
 Amazon sheldon
 33ee84c4f75ccf86
+Amazon sheldon
+c8e6c1f969ecd444
 
 arruaf +6
 rockchip rk322x_box
@@ -13708,6 +13713,8 @@ Google titan-p1
 0e966e0940c22254
 Amazon sheldonp
 315fce6d5d7aefac
+Xiaomi aquaman
+fb2dbfdf88b6e5f4
 
 ricardoro
 samsung beyond1
