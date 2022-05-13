@@ -7435,6 +7435,8 @@ Xiaomi machuca
 9cf0a6ef62e7f590
 HUAWEI HWMAR
 114cdfc8d6cb28c3
+Android MBOX
+1b4b2ac1e09ba9d5
 
 wdpr44
 rockchip rk322x_box
@@ -16037,7 +16039,11 @@ rockchip rk3328_box
 rulfi
 HUAWEI HWYAL
 67ce6362c5152c39
+Xiaomi lisa
+1a473101e7472736
 
 diego8ri
 rockchip rk322x_box
 897ad25e1ca0d756
+MTK cvt_mt5863_sa
+50d973daf569e249
