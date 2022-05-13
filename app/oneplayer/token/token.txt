@@ -10101,6 +10101,8 @@ e3decbee5ddff9b8
 +18
 Android MDTV5G
 bbbc65b3076eab26
+rockchip rk322x_box
+75a1e41ffcc4cff4
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -15975,6 +15977,8 @@ OnePlus OnePlus3T
 88d93db908920de3
 MTK cvt_mt5886_sa
 ac5320b5f75e0fdc
+Xiaomi oneday
+37c4e9c4d2a72886
 
 moralesro +6
 Xiaomi oneday
