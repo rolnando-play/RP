@@ -4547,6 +4547,8 @@ dolphin dolphin_fvd_p1
 3871abfc7d576c55
 samsung gts7fewifi
 2f884e4ca31feff2
+dolphin dolphin_fvd_p1
+fcf54164d8e55e3c
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -16060,3 +16062,7 @@ rockchip rk322x_box
 897ad25e1ca0d756
 MTK cvt_mt5863_sa
 50d973daf569e249
+
+leandro_a
+samsung b0q
+f994c8436244e559
