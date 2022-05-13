@@ -15993,3 +15993,5 @@ Xiaomi oneday
 omar-ri +6
 rockchip rk322x_box
 3badb9e2720de77a
+rockchip rk3328_box
+1f6a958ebe53ba05
