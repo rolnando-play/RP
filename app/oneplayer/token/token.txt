@@ -819,8 +819,8 @@ dolphin dolphin_fvd_p1
 5d9c6a594cfc187
 
 chamorr
-MIBOX4
-2f9f404b3aca6fb2
+Xiaomi oneday
+b37d8edf766e9ec5
 tx6s
 4d703b1b7ffc2a45
 Amlogic p281
@@ -8328,6 +8328,8 @@ rockchip rk322x_box
 ecaf0e8f89cd9ce4
 rockchip rk322x_box
 87bce82de80ed4b8
+MediaTek mt5867
+34861f95258b1327
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9066,6 +9068,8 @@ Android MDTV5G
 cb7a3a67f5a60268
 Android MDTV5G
 8ca5b57a218b5b21
+Android MDTV5G
+c60d45b168916345
 
 rocapo
 dolphin dolphin-fvd-p1
