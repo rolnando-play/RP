@@ -14581,6 +14581,8 @@ Amazon sheldonp
 e41cdaf91d23c681
 Allwinner dolphin-fvd-p1
 29f30db3a53f4362
+MTK cvt_mt5863_sa
+f4b99db6960846b2
 
 aflei
 Amazon sheldonp
