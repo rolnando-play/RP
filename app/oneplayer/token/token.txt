@@ -14503,6 +14503,28 @@ Amlogic p281
 a38ed001c854b15f
 Amlogic p281
 d63c668db97232bd
+Amlogic p281
+cf522cd05c17b990
+Amlogic p281
+192ef6e6fab428c5
+Amlogic p281
+943416077e06193c
+Amlogic p281
+5e2a71eb05ae7855
+Amlogic p281
+696a1efdfb25a831
+Amlogic p281
+565f60f1b6ee1a1a
+Amlogic p281
+db0848041172f192
++15 usdt
+Amlogic p281
+565f60f1b6ee1a1a
+Amlogic p281
+4ed303ef1f5c139
+Amlogic p281
+38bd56ed36d59ea0
+
 
 luisvill
 rockchip rk322x_box
@@ -14954,6 +14976,8 @@ Xiaomi croods
 c12fcd883d0efe33
 Xiaomi oneday
 6a7b42bb902f5235
+Xiaomi croods
+ae75b8c203b7eeec
 
 angeltum
 Allwinner dolphin-fvd-p1
