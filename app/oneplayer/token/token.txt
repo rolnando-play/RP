@@ -15080,6 +15080,8 @@ Xiaomi oneday
 f908d30a9e773529
 Amazon mantis
 2be874088d6032d2
+Amazon mantis
+5cc8e19a2a3e02c4
 
 manfredkl
 Google titan-p1
