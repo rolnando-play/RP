@@ -7239,6 +7239,8 @@ Xiaomi oneday
 +3
 Xiaomi sweet
 51a0ae0437b27deb
+Xiaomi oneday
+a9d831b9b030489a
 
 mitvbox +6
 MBOX dolphin-p1
@@ -8864,8 +8866,8 @@ COSHIP n9090_telmexott
 1295b91e514a79de
 Xiaomi amelie
 af231e07c8effe08
-Xiaomi laurel_sprout
-40bae9b471e490a9
+dolphin dolphin_fvd_p1
+762cf712a3252b0d
 +3
 Amazon mantis
 89d82be7c509b57f
