@@ -13402,6 +13402,8 @@ Amazon sheldonp
 74441f9720860d29
 Google sabrina
 dcff37ada90f7381
+Amazon mantis
+b35cac1ced7d679
 
 cuentaone2 +5 psc
 Amazon tank
@@ -15133,6 +15135,8 @@ rockchip rk322x_box
 2d7312b583b55a87
 rockchip rk322x_box
 d320875fe0e7050b
+IFRE S.A. SMARTWAY_T3
+2fa15f26d446e815
 
 franco.ca
 KTC_8G ktc_8g
