@@ -16096,3 +16096,11 @@ f994c8436244e559
 rme50 +6 ltc
 dolphin dolphin_fvd_p1
 5c0c764c7a81224e
+
+margoa
+Xiaomi galahad
+13a2bb60c8bcd686
+
+marcosma
+HUAWEI HWELE
+85ee9e57aa584150
