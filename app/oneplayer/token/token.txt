@@ -14620,6 +14620,8 @@ Allwinner dolphin-fvd-p1
 29f30db3a53f4362
 MTK cvt_mt5863_sa
 f4b99db6960846b2
+MediaTek mt5867
+93bad855a1df96d7
 
 aflei
 Amazon sheldonp
