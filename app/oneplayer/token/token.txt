@@ -16036,6 +16036,8 @@ rockchip rk322x_box
 9f09e4b9ac41da8e
 Xiaomi viva
 a304623d5366bff2
+rockchip rk322x_box
+c19c9d2f7368a29d
 
 kisuri
 Google sabrina
