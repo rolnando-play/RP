@@ -9244,6 +9244,10 @@ caf579d7a4d6704e
 +3
 Xiaomi oneday
 6970c0810a1b6b42
+rockchip rk322x_box
+23dae4e2f0381f8e
+rockchip rk322x_box
+4be37a0f5bb7ce93
 
 nucny
 Xiaomi aquaman
@@ -14937,6 +14941,8 @@ Xiaomi vayu
 476e4cfc41c39252
 Google sabrina
 380c03ed03357a38
+Xiaomi vayu
+c4a00fc78d693d7d
 
 arguello.h
 HUAWEI HWFIG-H
