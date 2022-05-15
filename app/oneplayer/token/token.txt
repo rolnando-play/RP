@@ -16157,3 +16157,7 @@ samsung a30s
 marcosman
 HUAWEI HWNEN-Q
 0f023fd52a8b2b70
+
+anibalro
+Xiaomi merlinnfc
+06287d2bf6bd2f04
