@@ -16176,6 +16176,8 @@ rockchip rk322x_box
 3a97032b695e2a32
 rockchip rk322x_box
 c146f92e32c27f0b
+rockchip rk322x_box
+95b5cf17b662a1eb
 
 marcosman
 HUAWEI HWNEN-Q
