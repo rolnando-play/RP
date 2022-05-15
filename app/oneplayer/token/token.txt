@@ -12495,6 +12495,8 @@ Sony BRAVIA_VH2
 053d54fc2e7b8828
 Hisense xiaoyushan
 5eef4e680832e017
+Xiaomi aquaman
+8535e045506a9c9c
 
 silvioal
 Amazon kara
