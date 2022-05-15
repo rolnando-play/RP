@@ -14529,7 +14529,16 @@ Amlogic p281
 4ed303ef1f5c139
 Amlogic p281
 38bd56ed36d59ea0
-
+samsung a12s
+5ea8ae66dac03ccf
+Amlogic p281
+e930ed1a596a36c5
+Amlogic p281
+ca1678220bcda5c8
+Amlogic p281
+3b3eeaeb49ff3973
+Amlogic p281
+a783d3141630759e
 
 luisvill
 rockchip rk322x_box
@@ -16163,6 +16172,10 @@ samsung a30s
 7f09560d61db2d61
 dolphin dolphin_fvd_p1
 f82a9fcb2ecd6968
+rockchip rk322x_box
+3a97032b695e2a32
+rockchip rk322x_box
+c146f92e32c27f0b
 
 marcosman
 HUAWEI HWNEN-Q
