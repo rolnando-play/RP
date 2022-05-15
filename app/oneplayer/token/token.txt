@@ -15622,7 +15622,7 @@ rockchip rk3328_box
 76d95268d1a01b11
 +6
 rockchip rk322x_box
-c304d555f9e70d8c
+3a0d547650948e9b
 
 roloca
 MTK cvt_mt5886_sa
@@ -16192,3 +16192,5 @@ HUAWEI HWNEN-Q
 anibalro
 Xiaomi merlinnfc
 06287d2bf6bd2f04
+rockchip rk312x
+e2cdd5a3bbd13f28
