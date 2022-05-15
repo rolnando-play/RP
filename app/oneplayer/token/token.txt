@@ -14622,6 +14622,8 @@ MTK cvt_mt5863_sa
 f4b99db6960846b2
 MediaTek mt5867
 93bad855a1df96d7
+Xiaomi oneday
+da02f111ac26d3ed
 
 aflei
 Amazon sheldonp
@@ -15821,6 +15823,8 @@ MTK cvt_mt5863_sa
 c8d894b62dc0d123
 MTK cvt_mt5863_sa
 d3d521604eca64b
+SDMC DV8547
+6b02d538b0be528c
 
 gerardoo
 Xiaomi laurel_sprout
@@ -16153,6 +16157,8 @@ b571da3040050790
 alejandrovi +6
 samsung a30s
 7f09560d61db2d61
+dolphin dolphin_fvd_p1
+f82a9fcb2ecd6968
 
 marcosman
 HUAWEI HWNEN-Q
