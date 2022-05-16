@@ -410,6 +410,8 @@ f3a11e2249203433
 Allwinner G2plus
 407d52b3f6c37f83
 +3
+Amazon sheldon
+068cb6d4bef2dd84
 
 AQuinonez
 S905W
