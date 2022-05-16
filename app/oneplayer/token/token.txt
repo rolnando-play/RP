@@ -11186,6 +11186,8 @@ Amlogic p281
 cab2c2c198ec01fa
 Amlogic p281
 12c3b2b51812b03f
+Amlogic p281
+952fff871bdf04b5
 
 superchaos +9
 i7 petrel-p1
