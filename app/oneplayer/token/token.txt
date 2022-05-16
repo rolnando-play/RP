@@ -407,6 +407,9 @@ Android MBOX
 464ca8540dfcd61b
 Amazon sheldon
 f3a11e2249203433
+Allwinner G2plus
+407d52b3f6c37f83
++3
 
 AQuinonez
 S905W
@@ -15153,6 +15156,8 @@ Amazon mantis
 2be874088d6032d2
 Amazon mantis
 5cc8e19a2a3e02c4
+Amazon mantis
+2f889794711a1538
 
 manfredkl
 Google titan-p1
@@ -16231,3 +16236,7 @@ samsung a71
 6fe9f950b489c65b
 samsung a51
 6ad1d8feab4bfb1f
+
+rodriber
+rockchip MK
+29b9f7cbd91ba5de
