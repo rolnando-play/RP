@@ -16014,6 +16014,8 @@ bd510d0b7575ffb7
 merelesdo
 samsung a32
 9f227bfd8d8d5bc4
+motorola nio
+82776ca1f4caa889
 
 arcedel
 rockchip rk322x_box
