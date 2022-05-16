@@ -1730,6 +1730,8 @@ Android MDTV5G
 27805b115b2d3db5
 Android MDTV5G
 a2bbfc97b96f8b2f
+MBOX dolphin-p1
+7f5f9d7c9a69f1d0
 
 ruthgis
 S905W
@@ -14557,6 +14559,10 @@ Amlogic p281
 7c927e268e965e4b
 Amlogic p281
 d71033da23f2a3a1
+Amlogic p281
+b9ff22b2fb494e2f
+Amlogic p281
+9f5cf665239bfa4d
 
 luisvill
 rockchip rk322x_box
