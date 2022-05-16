@@ -15679,6 +15679,8 @@ rockchip rk322x_box
 3a0d547650948e9b
 Android MDTV5G
 63600c5d49c1cd58
+TCL BeyondTV
+0076fe138e455949
 
 roloca
 MTK cvt_mt5886_sa
