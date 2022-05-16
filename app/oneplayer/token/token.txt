@@ -16249,3 +16249,7 @@ rockchip MK
 mistick +12
 Xiaomi aquaman
 21165af9d391e183
+Xiaomi aquaman
+61cdd39c21ecdf2b
+Xiaomi aquaman
+1f1d3e4e0b99d55a
