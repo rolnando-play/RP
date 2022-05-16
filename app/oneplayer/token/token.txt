@@ -16240,3 +16240,7 @@ samsung a51
 rodriber
 rockchip MK
 29b9f7cbd91ba5de
+
+mistick +12
+Xiaomi aquaman
+21165af9d391e183
