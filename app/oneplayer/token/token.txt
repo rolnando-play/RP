@@ -6707,6 +6707,8 @@ rockchip rk322x_box
 1450a22b4bb73e09
 Android MDTV5G
 1c73078327e86ac
+rockchip rk322x_box
+b17232b4294e4292
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -14663,8 +14665,11 @@ MTK cvt_mt5863_sa
 f4b99db6960846b2
 MediaTek mt5867
 93bad855a1df96d7
++6
 Xiaomi oneday
 da02f111ac26d3ed
+Amazon tank
+c73124295880ae23
 
 aflei
 Amazon sheldonp
