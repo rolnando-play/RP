@@ -7274,7 +7274,7 @@ rockchip rk322x_box
 dolphin dolphin-fvd-p1
 58f9093989fb11a5
 samsung a11q
-2b1553ee00d026ed
+9e5eb673353b9314
 dolphin dolphin-fvd-p1
 a9f3753bc8ebead5
 +3
@@ -15205,6 +15205,8 @@ rockchip rk322x_box
 d320875fe0e7050b
 IFRE S.A. SMARTWAY_T3
 2fa15f26d446e815
+rockchip rk322x_box
+3b2bf32da09a1c0d
 
 franco.ca
 KTC_8G ktc_8g
