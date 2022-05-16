@@ -8332,6 +8332,9 @@ rockchip rk322x_box
 87bce82de80ed4b8
 MediaTek mt5867
 34861f95258b1327
++18
+Amlogic p281
+24ca00dfd70b1750
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15645,6 +15648,8 @@ rockchip rk3328_box
 +6
 rockchip rk322x_box
 3a0d547650948e9b
+Android MDTV5G
+63600c5d49c1cd58
 
 roloca
 MTK cvt_mt5886_sa
