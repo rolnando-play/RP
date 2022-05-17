@@ -4951,6 +4951,8 @@ MBOX dolphin-p1
 b027755638a983e5
 rockchip rk322x_box
 d8dacb67117cf557
+rockchip rk322x_box
+cf0f3ad84c5dda2f
 
 lisandra
 MTK cvt_mt5863_sa
@@ -6425,7 +6427,7 @@ samsung a71
 Amazon sheldonp
 5760bf6164f5c124
 Amazon sheldonp
-8a879c0829ed76f4
+9fd5db25fff1623b
 Google sabrina
 f77a8853bbdedaf1
 rockchip rk322x_box
@@ -7735,6 +7737,9 @@ dolphin dolphin_fvd_p1
 9c13d28b1791ba0f
 samsung a51
 997943f174b9ff3a
++12
+Android MDTV5G
+48f7bb085661374e
 
 jjuan
 Xiaomi aquaman
@@ -8348,6 +8353,8 @@ Amlogic p281
 24ca00dfd70b1750
 rockchip rk322x_box
 aa7a5037ec62851a
+rockchip rk322x_box
+524277a1659153a0
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -10583,6 +10590,8 @@ Android MDTV5G
 3107400855b81125
 dolphin dolphin-fvd-p1
 407b8d2201636ef4
+Xiaomi oneday
+c2208dd4d3f9269c
 
 gergod +6
 Amlogic franklin
@@ -12488,8 +12497,7 @@ dolphin dolphin_fvd_p1
 5c14fb7340f6d774
 Hisilicon Hi3751V350
 62b6f2109947b448
-rockchip rk322x_box
-7ebd0a52054e920e
+
 AOC sofia3gr
 a2f67cda7a99a14b
 Xiaomi aquaman
@@ -14598,6 +14606,24 @@ Amlogic p281
 1743d273a8aa581b
 Amlogic p281
 ae3b4c0ab0438124
+Amlogic p281
+8b4a274b30a06a4
+Amlogic p281
+35860f29c1f65894
+Amlogic p281
+9e2abc84afc2a872
+Amlogic p281
+39bf297858cfbdd0
+Amlogic p281
+e305dd4abc3d4ab2
+Amlogic p281
+fae42eafcda5ff9d
+Amlogic p281
+3506cccbf01dac5e
+Amlogic p281
+36eaf61205c85a73
+Amlogic p281
+e4cc7e81c4affd24
 
 luisvill
 rockchip rk322x_box
