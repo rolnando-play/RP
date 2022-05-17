@@ -16216,6 +16216,8 @@ MTK cvt_mt5863_sa
 leandro_a
 samsung b0q
 f994c8436244e559
+amlogic p200_2G
+41c8defa91478a9a
 
 rme50 +6 ltc
 dolphin dolphin_fvd_p1
