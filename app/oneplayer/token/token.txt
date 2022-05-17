@@ -10599,6 +10599,8 @@ Xiaomi oneday
 c2208dd4d3f9269c
 Allwinner dolphin-fvd-p1
 e0f094fc3be02206
+Amlogic p281
+2d3d0858b284fed6
 
 gergod +6
 Amlogic franklin
