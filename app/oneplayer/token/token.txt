@@ -7287,7 +7287,7 @@ dolphin dolphin-fvd-p1
 samsung a11q
 9e5eb673353b9314
 dolphin dolphin-fvd-p1
-a9f3753bc8ebead5
+3f2148bb279e6d1
 +3
 rockchip rk322x_box
 dd4a0d6719d33c27
@@ -10155,6 +10155,8 @@ rockchip rk322x_box
 75a1e41ffcc4cff4
 Amazon sheldon
 b18476f652b2f9cf
+MBOX dolphin-p1
+c2b516b84e89eb28
 
 danieljo
 Allwinner dolphin-fvd-p1
