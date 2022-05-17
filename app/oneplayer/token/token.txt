@@ -15194,6 +15194,8 @@ Amazon mantis
 5cc8e19a2a3e02c4
 Amazon mantis
 2f889794711a1538
+Amazon sheldon
+abba0143ce3d7e0b
 
 manfredkl
 Google titan-p1
