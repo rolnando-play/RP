@@ -8357,6 +8357,8 @@ rockchip rk322x_box
 524277a1659153a0
 rockchip rk322x_box
 3cf517e1542aaec2
+Android MDTV5G
+7a8ba5ac0d608e67
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12928,6 +12930,9 @@ dolphin dolphin-fvd-p1-Crechi
 46816d2b6fbc74d7
 R69-TVBOX-EdgarIS 
 a3a381a0a4288cd1
++6
+Xiaomi TVBox-JBoga1
+15f2f658e5d5af52
 
 benites.c
 Android MBOX
@@ -13239,6 +13244,8 @@ dolphin dolphin-fvd-p1
 e455500788099aa5
 Amazon sheldon
 e831b709cb13a0fa
+rockchip rk322x_box
+ccc8d3a79cb6a2c6
 
 gustavoda
 Amazon sheldonp
@@ -13360,6 +13367,8 @@ askey sti6140d360
 a34e0fa4c22dd85e
 SEI Robotics SEI400TV
 6f5f045e87b6f642
+SEI Robotics SEI400TV
+852391ef62d7c12e
 
 ccardo
 samsung a12
@@ -14736,6 +14745,10 @@ rockchip rk322x_box
 dec457a8bd76e427
 dolphin SBQ-SM007
 2089f001b4291565
+rockchip rk322x_box
+51798427288081d6
+rockchip rk322x_box
+720639920c47ab32
 
 aflei
 Amazon sheldonp
