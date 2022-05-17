@@ -5452,6 +5452,8 @@ Google eros-p1
 30ae416211a49011
 Android MDTV5G
 bd91fa29552c42ac
+M043 SmartTV
+94d631d58433e3ab
 
 brriana +9
 Xiaomi aquaman
@@ -16212,6 +16214,10 @@ f994c8436244e559
 rme50 +6 ltc
 dolphin dolphin_fvd_p1
 5c0c764c7a81224e
+bignox nox
+2ad3c02708c5d4c6
+dolphin dolphin_fvd_p1
+fcb97d8dadf85c25
 
 margoa
 Xiaomi galahad
