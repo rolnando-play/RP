@@ -14590,6 +14590,8 @@ Amlogic p281
 ae2a2cb8059d891
 Amlogic p281
 1743d273a8aa581b
+Amlogic p281
+ae3b4c0ab0438124
 
 luisvill
 rockchip rk322x_box
@@ -15560,6 +15562,8 @@ samsung a10s
 431750e8b5b9e567
 Allwinner H60
 ddda1787e2c823a6
+samsung a52sxq
+8c3fcbdafd4e66bf
 
 jscrls
 samsung a12
@@ -16220,6 +16224,8 @@ bignox nox
 2ad3c02708c5d4c6
 dolphin dolphin_fvd_p1
 fcb97d8dadf85c25
+rockchip rk322x_box
+df0186ec899b8684
 
 margoa
 Xiaomi galahad
