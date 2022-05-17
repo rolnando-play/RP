@@ -8355,6 +8355,8 @@ rockchip rk322x_box
 aa7a5037ec62851a
 rockchip rk322x_box
 524277a1659153a0
+rockchip rk322x_box
+3cf517e1542aaec2
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11991,8 +11993,8 @@ Xiaomi aquaman
 17b7db9df20a0073
 dolphin dolphin_fvd_p1
 88008365161ee188
-HUAWEI-P30-EdgarIS
-c837fb5660cea537
+Xiaomi TVBox-FGom
+77447a16a4e9ffba
 Android MDTV5G
 df86713e424c2aae
 Android MDTV5G
