@@ -15734,6 +15734,8 @@ samsung m11q
 651495876b6d0ced
 rockchip rk322x_box
 30d5455f4781491
+samsung a21s
+ace2420e51ab703e
 
 pablomez
 Xiaomi oneday
