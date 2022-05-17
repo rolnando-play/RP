@@ -9101,6 +9101,9 @@ Android MDTV5G
 8ca5b57a218b5b21
 Android MDTV5G
 c60d45b168916345
++9 usdt 
+Allwinner dolphin-fvd-p1
+e005c7a962c62293
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -11497,6 +11500,8 @@ dolphin dolphin_fvd_p1
 1b508b6ee0812f67
 dolphin dolphin_fvd_p1
 76d9dd11321d4d05
+dolphin dolphin_fvd_p1
+94a5136375b1e220
 
 chavezqu
 HUAWEI HWMAR
@@ -15836,6 +15841,8 @@ samsung a21s
 0e9ad8b43a6a1f4f
 dolphin dolphin_fvd_p1
 1375fc7dfb85787c
+samsung a20s
+08524653eaa89239
 
 cesarcla
 samsung a12
