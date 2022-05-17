@@ -8344,6 +8344,8 @@ MediaTek mt5867
 +18
 Amlogic p281
 24ca00dfd70b1750
+rockchip rk322x_box
+aa7a5037ec62851a
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15651,7 +15653,7 @@ fe754d576d810057
 Google sabrina
 b7d12fc2ce933338
 samsung a52q
-d231453970ca75ca
+4e6cfc225d646550
 
 venancioant
 samsung m11q
