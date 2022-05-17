@@ -8359,6 +8359,8 @@ rockchip rk322x_box
 3cf517e1542aaec2
 Android MDTV5G
 7a8ba5ac0d608e67
+Android MDTV5G
+abed462facd77c0a
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -14741,9 +14743,9 @@ MTK cvt_mt5863_sa
 f4b99db6960846b2
 MediaTek mt5867
 93bad855a1df96d7
-+6
 Xiaomi oneday
 da02f111ac26d3ed
++6
 Amazon tank
 c73124295880ae23
 rockchip rk322x_box
@@ -14754,6 +14756,8 @@ rockchip rk322x_box
 51798427288081d6
 rockchip rk322x_box
 720639920c47ab32
+rockchip rk322x_box
+22d0bdd3243b10
 
 aflei
 Amazon sheldonp
