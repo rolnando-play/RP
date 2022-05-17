@@ -9275,6 +9275,9 @@ rockchip rk322x_box
 23dae4e2f0381f8e
 rockchip rk322x_box
 4be37a0f5bb7ce93
++3
+rockchip rk322x_box
+f64678cb2c404c55
 
 nucny
 Xiaomi aquaman
@@ -10594,6 +10597,8 @@ dolphin dolphin-fvd-p1
 407b8d2201636ef4
 Xiaomi oneday
 c2208dd4d3f9269c
+Allwinner dolphin-fvd-p1
+e0f094fc3be02206
 
 gergod +6
 Amlogic franklin
@@ -15224,6 +15229,8 @@ Amazon mantis
 2f889794711a1538
 Amazon sheldon
 abba0143ce3d7e0b
+Amazon sheldon
+194ac223f14c5b8f
 
 manfredkl
 Google titan-p1
