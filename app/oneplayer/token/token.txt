@@ -6713,6 +6713,8 @@ Android MDTV5G
 1c73078327e86ac
 rockchip rk322x_box
 b17232b4294e4292
+rockchip rk322x_box
+d33461efe2872c0b
 
 gonzalezju +6
 HUAWEI HWYAL
