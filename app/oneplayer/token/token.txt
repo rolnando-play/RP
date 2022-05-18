@@ -7136,6 +7136,9 @@ Xiaomi oneday
 a48479512a54f0a4
 Amlogic p201
 de2c0cd7ecdc1be3
++3
+Google cupid-p1
+d7b0e85adce8b103
 
 enriquelr
 Amazon sheldon
