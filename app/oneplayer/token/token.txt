@@ -7145,6 +7145,8 @@ Xiaomi oneday
 24deac1cf05f387d
 Xiaomi oneday
 457e384110d3ed39
+rockchip MXQ PRO
+55dd321d92cea962
 
 enriquelr
 Amazon sheldon
