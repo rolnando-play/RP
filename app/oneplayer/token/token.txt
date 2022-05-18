@@ -7136,7 +7136,7 @@ Xiaomi oneday
 a48479512a54f0a4
 Amlogic p201
 de2c0cd7ecdc1be3
-+3
++6
 Google cupid-p1
 d7b0e85adce8b103
 
@@ -7751,6 +7751,8 @@ rockchip rk322x_box
 807308717e241ee5
 dolphin dolphin_fvd_p1
 342604d491d491ea
+Amlogic p281
+1a5c9caca06c387b
 
 jjuan
 Xiaomi aquaman
@@ -12941,6 +12943,8 @@ Gecen Tiger MXQPRO
 86a9c083b0216b61
 dolphin dolphin_fvd_p1
 fad5bd3731edc383
+Amlogic p281
+6078a9372616598b
 
 matiasva
 samsung r8q
