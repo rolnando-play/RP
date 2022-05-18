@@ -7151,6 +7151,8 @@ Xiaomi oneday
 457e384110d3ed39
 rockchip MXQ PRO
 55dd321d92cea962
+dolphin dolphin_fvd_p1
+c1ef29142f111d66
 
 enriquelr
 Amazon sheldon
@@ -14757,6 +14759,8 @@ Amlogic p281
 122d29ece63603af
 Amlogic p281
 c77d8eeae77d4836
+Amlogic p281
+e6c38500804cacbd
 
 luisvill
 rockchip rk322x_box
