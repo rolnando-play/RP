@@ -11514,6 +11514,8 @@ dolphin dolphin_fvd_p1
 76d9dd11321d4d05
 dolphin dolphin_fvd_p1
 94a5136375b1e220
+dolphin dolphin_fvd_p1
+1757a4736b0badc0
 
 chavezqu
 HUAWEI HWMAR
@@ -11714,6 +11716,8 @@ dolphin dolphin-fvd-p1
 9f5bacdb4c57184a
 Android MDTV5G
 bec74c40f146b0ae
+rockchip rk322x_box
+13f24783728518d0
 
 davalosru
 rockchip rk3328_box
@@ -16412,3 +16416,7 @@ bbea5c37c10024a4
 jemma
 Xiaomi aquaman
 45848bd4460a3b68
+
+sebaseli
+Xiaomi aquaman
+306638e592647130
