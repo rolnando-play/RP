@@ -7777,6 +7777,8 @@ rockchip rk322x_box
 5364d060d43a3bc1
 dolphin dolphin_fvd_p1
 26df9483aaac4a82
+MTK cvt_mt5863_sa
+50029a310ebf2f48
 
 jjuan
 Xiaomi aquaman
