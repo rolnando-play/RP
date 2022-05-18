@@ -11712,6 +11712,8 @@ eb4321ea4f061514
 +3
 dolphin dolphin-fvd-p1
 9f5bacdb4c57184a
+Android MDTV5G
+bec74c40f146b0ae
 
 davalosru
 rockchip rk3328_box
@@ -15276,6 +15278,8 @@ Amazon sheldon
 abba0143ce3d7e0b
 Amazon sheldon
 194ac223f14c5b8f
+Amazon mantis
+dc1d395b8498b902
 
 manfredkl
 Google titan-p1
