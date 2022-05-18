@@ -7757,6 +7757,10 @@ Amlogic p281
 1a5c9caca06c387b
 dolphin dolphin-fvd-p1
 78b7e62fc1a73b2f
+Allwinner dolphin-fvd-p1
+76bb017bd45c3ea6
+Allwinner dolphin-fvd-p1
+d927971494acfc20
 
 jjuan
 Xiaomi aquaman
@@ -8380,6 +8384,8 @@ Android MDTV5G
 7a8ba5ac0d608e67
 Android MDTV5G
 abed462facd77c0a
+rockchip rk322x_box
+bb98901b78c5fee8
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9699,6 +9705,9 @@ Amazon sheldon
 33ee84c4f75ccf86
 Amazon sheldon
 c8e6c1f969ecd444
++3
+Amazon sheldon
+d00c99623e1848bd
 
 arruaf +6
 rockchip rk322x_box
@@ -13381,6 +13390,8 @@ samsung o1s
 518171fd51d0c717
 Amazon douglas
 47fe822240f66588
+alps 8227L_demo
+4332b7a2b1dcf335
 
 stickspro +9
 askey sti6140d360
