@@ -16473,6 +16473,8 @@ samsung a71
 a96da82bec7f4c75
 OnePlus OnePlus5
 bbea5c37c10024a4
+rockchip rk322x_box
+344af14292210845
 
 jemma
 Xiaomi aquaman
