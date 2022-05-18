@@ -16523,6 +16523,8 @@ rockchip rk322x_box
 jemma
 Xiaomi aquaman
 45848bd4460a3b68
+Xiaomi aquaman
+cfd81ffe8ba05bec
 
 sebaseli
 Xiaomi aquaman
