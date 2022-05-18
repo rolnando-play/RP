@@ -7153,6 +7153,8 @@ rockchip MXQ PRO
 55dd321d92cea962
 dolphin dolphin_fvd_p1
 c1ef29142f111d66
+Allwinner dolphin-fvd-p1
+3ebfc86af51dd153
 
 enriquelr
 Amazon sheldon
@@ -13328,6 +13330,8 @@ rockchip rk322x_box
 ccc8d3a79cb6a2c6
 Xiaomi oneday
 f3a761c5267751aa
+MediaTek m7332_sa
+b5a266003ba55bb1
 
 gustavoda
 Amazon sheldonp
