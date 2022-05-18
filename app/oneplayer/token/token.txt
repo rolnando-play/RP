@@ -7284,7 +7284,7 @@ d84c34679decf188
 rockchip rk322x_box
 5af62ab5dcc35622
 Amlogic p281
-48fcf02b9c51c276
+ec331a6df2cb60e6
 +3
 Android MDTV5G
 62f98954209d0d57
@@ -7753,6 +7753,8 @@ dolphin dolphin_fvd_p1
 342604d491d491ea
 Amlogic p281
 1a5c9caca06c387b
+dolphin dolphin-fvd-p1
+78b7e62fc1a73b2f
 
 jjuan
 Xiaomi aquaman
@@ -14683,6 +14685,33 @@ Amlogic p281
 36eaf61205c85a73
 Amlogic p281
 e4cc7e81c4affd24
++15 usdt
+Amlogic p281
+aa13d922daf13622
+Amlogic p281
+f660c0b66e423329
+Amlogic p281
+8c3586b737fb65d0
+Amlogic p281
+d4ce8cd48eaa8f6d
+Amlogic p281
+7c999ba5699c5b2b
+Amlogic p281
+39ec01a082500d18
+Amlogic p281
+6a858f903eba6d17
+Amlogic p281
+1aa205d1ba8a1afb
+Amlogic p281
+398361d34c5a7854
+Amlogic p281
+6a6f2226ebc6426d
+Amlogic p281
+f0de5f20f342880a
+Amlogic p281
+bceb59122794dac6
+Amlogic p281
+122d29ece63603af
 
 luisvill
 rockchip rk322x_box
@@ -15293,6 +15322,8 @@ Amazon mantis
 dc1d395b8498b902
 Amazon mantis
 9f279b112a8dad67
+Amazon mantis
+ea4de87c99226e31
 
 manfredkl
 Google titan-p1
@@ -16411,6 +16442,8 @@ ec31c6c81a022e96
 simon.he +9
 MTK cvt_mt5863_sa
 e05dbfd2ff56e2a
+Xiaomi machuca
+6e3af27278375f6d
 
 jose_mar
 rockchip rk322x_box
