@@ -7785,6 +7785,9 @@ MTK cvt_mt5863_sa
 50029a310ebf2f48
 rockchip rk3328_box
 3f138a90ee284600
++
+rockchip rk322x_box
+776c85686a78fcec
 
 jjuan
 Xiaomi aquaman
@@ -16533,3 +16536,9 @@ Xiaomi aquaman
 admeza
 samsung a21s
 c093a16dd173e024
+
+ramiral
+Xiaomi vayu
+a2a49449521778c1
+rockchip rk3328_box
+d239cf2c206f720c
