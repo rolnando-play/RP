@@ -7742,6 +7742,8 @@ Android MDTV5G
 48f7bb085661374e
 rockchip rk322x_box
 807308717e241ee5
+dolphin dolphin_fvd_p1
+342604d491d491ea
 
 jjuan
 Xiaomi aquaman
@@ -8434,6 +8436,8 @@ dolphin dolphin_fvd_p1
 8cb0555abe06f65a
 Google titan-p1
 607efce18d8c5d9b
+Allwinner dolphin-fvd-p1
+a83201733d2e7591
 
 j88be
 Google walleye
@@ -10182,6 +10186,8 @@ Amazon sheldon
 b18476f652b2f9cf
 MBOX dolphin-p1
 c2b516b84e89eb28
+rockchip rk322x_box
+2ae25b921945e32c
 
 danieljo
 Allwinner dolphin-fvd-p1
