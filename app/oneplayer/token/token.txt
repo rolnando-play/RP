@@ -5614,6 +5614,8 @@ Amazon sheldon
 3b833db95acec763
 dolphin dolphin-fvd-p1
 15ba8ce51bc5511c
+Amazon sheldon
+35fe48c9442bb805
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -7771,6 +7773,8 @@ rockchip rk322x_box
 1eacf7065221eb23
 rockchip rk322x_box
 5364d060d43a3bc1
+dolphin dolphin_fvd_p1
+26df9483aaac4a82
 
 jjuan
 Xiaomi aquaman
@@ -9522,6 +9526,8 @@ Amazon sheldonp
 1053ebf70f25b845
 Xiaomi aquaman
 bdf2f670e130b97f
+Amazon sheldonp
+8df3a9178951b1b1
 
 claudiodan
 Xiaomi oneday
@@ -13310,6 +13316,8 @@ Amazon sheldon
 e831b709cb13a0fa
 rockchip rk322x_box
 ccc8d3a79cb6a2c6
+Xiaomi oneday
+f3a761c5267751aa
 
 gustavoda
 Amazon sheldonp
@@ -16373,6 +16381,8 @@ rockchip rk3328_box
 4b3f1e49a03cc51f
 Allwinner dolphin-fvd-p1
 e9b40b2d3cbf0645
+Allwinner dolphin-fvd-p1
+2c4825a1cd22233e
 
 rulfi
 HUAWEI HWYAL
