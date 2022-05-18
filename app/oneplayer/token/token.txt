@@ -7942,6 +7942,8 @@ Android MDTV5G
 967d0d0d170ac603
 samsung a50
 3f28cba2a48f81ed
+Google generic_x86_64
+92ac049ae00da0c1
 
 edulapc
 Amazon sheldon
