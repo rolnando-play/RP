@@ -4953,6 +4953,8 @@ rockchip rk322x_box
 d8dacb67117cf557
 rockchip rk322x_box
 cf0f3ad84c5dda2f
+CVTE CVTE_MSD338_512M_PB802
+1e45310670109660
 
 lisandra
 MTK cvt_mt5863_sa
