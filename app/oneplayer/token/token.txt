@@ -7779,6 +7779,8 @@ dolphin dolphin_fvd_p1
 26df9483aaac4a82
 MTK cvt_mt5863_sa
 50029a310ebf2f48
+rockchip rk3328_box
+3f138a90ee284600
 
 jjuan
 Xiaomi aquaman
@@ -10232,6 +10234,8 @@ MBOX dolphin-p1
 c2b516b84e89eb28
 rockchip rk322x_box
 2ae25b921945e32c
+Realtek rtd298x_tv038
+1a056bfff1bed3a9
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14751,6 +14755,8 @@ Amlogic p281
 bceb59122794dac6
 Amlogic p281
 122d29ece63603af
+Amlogic p281
+c77d8eeae77d4836
 
 luisvill
 rockchip rk322x_box
@@ -16311,6 +16317,8 @@ Xiaomi aquaman
 48497eb25b3ebeee
 Amazon sheldonp
 81d8dd4c1d4aff84
+Amazon sheldon
+ef16beafcf3b204b
 
 nuzzar +6
 Xiaomi renoir
@@ -16511,3 +16519,7 @@ Xiaomi aquaman
 sebaseli
 Xiaomi aquaman
 306638e592647130
+
+admeza
+samsung a21s
+c093a16dd173e024
