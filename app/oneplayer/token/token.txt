@@ -16542,3 +16542,5 @@ Xiaomi vayu
 a2a49449521778c1
 rockchip rk3328_box
 d239cf2c206f720c
+Xiaomi viva
+612b1b22f653651a
