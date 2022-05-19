@@ -16671,3 +16671,7 @@ SDMC DV8547
 4dad8034d2971fe9
 TCL UnionTV
 4e78e19209ea1b0b
+
+rpedroz
+rockchip rk322x_box
+5afb3bd94d932f2f
