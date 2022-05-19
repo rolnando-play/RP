@@ -16570,7 +16570,8 @@ Xiaomi viva
 roviedo9
 samsung r1q
 fce8212fac03ecd2
-
+rockchip rk322x_box
+6286fa71a875ed81
 
 aribor
 HMD Global YDU
