@@ -16558,6 +16558,8 @@ Xiaomi aquaman
 hbarr
 Amlogic p281
 ec31c6c81a022e96
+rockchip MK
+d86be98d73b57a79
 
 simon.he +9
 MTK cvt_mt5863_sa
