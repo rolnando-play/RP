@@ -7166,6 +7166,9 @@ dolphin dolphin_fvd_p1
 c1ef29142f111d66
 Allwinner dolphin-fvd-p1
 3ebfc86af51dd153
++6
+MBOX dolphin-p1
+403a1b81a0f4d04b
 
 enriquelr
 Amazon sheldon
@@ -10270,6 +10273,8 @@ dolphin dolphin-fvd-p1
 3403c9162c80b837
 Amazon sheldon
 beadea32eaf8d577
+Allwinner dolphin-fvd-p1
+64ecc4535be29f79
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14964,6 +14969,9 @@ rockchip rk322x_box
 720639920c47ab32
 rockchip rk322x_box
 22d0bdd3243b10
++6
+Amazon sheldonp
+e4dbce9f197d0df0
 
 aflei
 Amazon sheldonp
