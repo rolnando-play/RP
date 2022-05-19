@@ -7790,6 +7790,8 @@ rockchip rk3328_box
 +
 rockchip rk322x_box
 776c85686a78fcec
+Android MDTV5G
+50eed2b0a36a67cd
 
 jjuan
 Xiaomi aquaman
@@ -16550,3 +16552,7 @@ rockchip rk3328_box
 d239cf2c206f720c
 Xiaomi viva
 612b1b22f653651a
+
+roviedo9
+samsung r1q
+fce8212fac03ecd2
