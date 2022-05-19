@@ -5947,8 +5947,8 @@ a7bccaebe72051b6
 oscarmi
 Amazon sheldonp
 b183149c026f8fe2
-Amlogic p281
-5dcf17434295405f
+Xiaomi aquaman
+d5a0841609078f9a
 dolphin dolphin-fvd-p1
 7dcfaadd39d1902e
 
