@@ -14791,6 +14791,33 @@ Amlogic p281
 c77d8eeae77d4836
 Amlogic p281
 e6c38500804cacbd
++15 usdt
+Amlogic p281
+ed90c09d93d25b5e
+Amlogic p281
+f6a9d2a5d8a7e406
+Amlogic p281
+a86d56ed942a07a4
+Amlogic p281
+22d25b3f030ee98d
+Amlogic p281
+3fe12c6c1a224447
+Amlogic p281
+b0c0560586a8d134
+Amlogic p281
+ca54a04ef2e580b8
+Amlogic p281
+4d3ce3615d8d3341
+Amlogic p281
+963cb53a924af0a8
+Amlogic p281
+426d434be104c998
+Amlogic p281
+579ad90be5cddcd0
+Amlogic p281
+2ce5f7778fb907c9
+rockchip rk322x_box
+f138f6151f0c48ff
 
 luisvill
 rockchip rk322x_box
@@ -15190,6 +15217,8 @@ Xiaomi oneday
 5f6a16a658993c1f
 Xiaomi oneday
 e5c234f2ad47723f
+Xiaomi aquaman
+a1d6a1cd1ac36801
 
 sebas.gi
 amazon mantis
