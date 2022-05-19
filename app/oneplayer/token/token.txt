@@ -7796,6 +7796,8 @@ Google eros-p1
 e7dd61a8daf4ae89
 Android MBOX
 855295d722c49048
+Android MBOX
+13acdee11e505979
 
 jjuan
 Xiaomi aquaman
@@ -10255,6 +10257,8 @@ rockchip rk322x_box
 2ae25b921945e32c
 Realtek rtd298x_tv038
 1a056bfff1bed3a9
+dolphin dolphin-fvd-p1
+3403c9162c80b837
 
 danieljo
 Allwinner dolphin-fvd-p1
