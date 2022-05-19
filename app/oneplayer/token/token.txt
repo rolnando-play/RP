@@ -10687,6 +10687,9 @@ Allwinner dolphin-fvd-p1
 e0f094fc3be02206
 Amlogic p281
 2d3d0858b284fed6
++18
+Amlogic p281
+baddb28a4ec946c5
 
 gergod +6
 Amlogic franklin
@@ -16579,4 +16582,4 @@ HMD Global YDU
 
 soporte@ah
 MediaTeck mt5867
-a7c60846b6c919c
+a7c60846b6c919c1
