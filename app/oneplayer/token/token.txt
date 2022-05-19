@@ -7792,6 +7792,10 @@ rockchip rk322x_box
 776c85686a78fcec
 Android MDTV5G
 50eed2b0a36a67cd
+Google eros-p1
+e7dd61a8daf4ae89
+Android MBOX
+855295d722c49048
 
 jjuan
 Xiaomi aquaman
@@ -9545,6 +9549,10 @@ Xiaomi aquaman
 bdf2f670e130b97f
 Amazon sheldonp
 8df3a9178951b1b1
+Amazon sheldonp
+8b0937c3763df4e4
+Amazon sheldonp
+f89c388dfc555477
 
 claudiodan
 Xiaomi oneday
@@ -13292,6 +13300,8 @@ HUAWEI HWJKM-H
 de8bdf7b4e537558
 rockchip rk322x_box
 9d0c647ba4475eef
+HMD Global IRS
+0d2ae9dd8cd0dd3a
 
 funcion20 +6 psc
 Android MDTV5G
