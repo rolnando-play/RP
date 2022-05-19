@@ -10266,6 +10266,8 @@ Realtek rtd298x_tv038
 1a056bfff1bed3a9
 dolphin dolphin-fvd-p1
 3403c9162c80b837
+Amazon sheldon
+beadea32eaf8d577
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13497,6 +13499,8 @@ SEI Robotics SEI400TV
 22fc01027340e089
 askey sti6140d360
 f5d20a9cfb4b65a1
+SEI Robotics SEI400TV
+ba89b4b525546c55
 
 ccardo
 samsung a12
@@ -14828,6 +14832,25 @@ Amlogic p281
 2ce5f7778fb907c9
 rockchip rk322x_box
 f138f6151f0c48ff
+Amlogic p281
+3bb775a904566c47
+Amlogic p281
+11a97b1b25d3c6a7
++15 usdt
+Amlogic p281
+8d1243790dd80a72
+Amlogic p281
+29a052dadcb90bd7
+Amlogic p281
+de154e3b6e63a528
+Amlogic p281
+60a5ff621f3ededb
+Amlogic p281
+86249f7c6f3ed206
+Amlogic p281
+2965905f75eb3971
+Amlogic p281
+7b4ac0aff2a2b85b
 
 luisvill
 rockchip rk322x_box
