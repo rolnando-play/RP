@@ -12898,6 +12898,8 @@ samsung a50
 4e7def22ca6e7283
 HUAWEI HWJKM-H
 9dc3507009904c97
+Amazon kara
+12d2866a7fb9562d
 
 zmaur
 samsung p3s
