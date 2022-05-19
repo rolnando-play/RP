@@ -15796,6 +15796,8 @@ SkyworthDigital LAS
 3761cf206abc8946
 Amlogic p281
 ee14cd3455cb4fe2
+rockchip rk3328_box
+dc6cdd0944c78606
 
 santiagob +6
 Xiaomi raphael
