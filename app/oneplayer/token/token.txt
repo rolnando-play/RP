@@ -13365,6 +13365,9 @@ Xiaomi oneday
 f3a761c5267751aa
 MediaTek m7332_sa
 b5a266003ba55bb1
++5 psc
+rockchip rk322x_box
+fbeef7615f263012
 
 gustavoda
 Amazon sheldonp
