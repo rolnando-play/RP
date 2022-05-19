@@ -4748,6 +4748,8 @@ rockchip rk322x_box
 +3
 rockchip rk322x_box
 17bada9e698108f1
+rockchip rk322x_box
+efdfe59a591befd3
 
 endrigo
 samsung m31
@@ -15224,6 +15226,8 @@ Xiaomi oneday
 e5c234f2ad47723f
 Xiaomi aquaman
 a1d6a1cd1ac36801
+Xiaomi aquaman
+71ac7c2d69d63638
 
 sebas.gi
 amazon mantis
@@ -16571,6 +16575,8 @@ MTK cvt_mt5863_sa
 e05dbfd2ff56e2a
 Xiaomi machuca
 6e3af27278375f6d
+MBOX dolphin-p1
+3e899f611ee54d02
 
 jose_mar
 rockchip rk322x_box
