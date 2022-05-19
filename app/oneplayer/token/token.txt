@@ -11663,6 +11663,8 @@ rockchip rk322x_box
 1703659ec7babc4f
 rockchip rk322x_box
 f81c86a88dc8e972
+Allwinner dolphin-fvd-p1
+af65a8707d34a87a
 
 ivanari
 rockchip rk322x_box
