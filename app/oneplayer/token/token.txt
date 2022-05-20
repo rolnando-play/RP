@@ -11821,6 +11821,9 @@ Android MDTV5G
 bec74c40f146b0ae
 rockchip rk322x_box
 13f24783728518d0
++3
+Android MDTV5G
+1370a91dad5a4e2
 
 davalosru
 rockchip rk3328_box
