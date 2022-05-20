@@ -3420,6 +3420,8 @@ Xiaomi oneday
 f0e69caa16022ef2
 Xiaomi aquaman
 2cc9bb6f07c4d64d
+Xiaomi aquaman
+2f2a85b5d043d009
 
 dr.ink
 rockchip rk322x_box
@@ -6738,6 +6740,8 @@ askey sti6140d360
 fa5764a9518bd2fa
 rockchip rk322x_box
 1e337cceaccf79fe
+Google walleye
+f69426474ea8edd9
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -13917,8 +13921,8 @@ MBX m201_512m
 523655c008bf3699
 
 grao9
-OnePlus OnePlus7T
-dfaabdd49eb95309
+Amazon sheldonp
+e3e83bf100f637e4
 Xiaomi oneday
 03d40b165e223027
 Amazon kara
@@ -14864,6 +14868,14 @@ Amlogic p281
 2965905f75eb3971
 Amlogic p281
 7b4ac0aff2a2b85b
+rockchip rk322x_box
+e191c56a630b2b4b
+Amlogic p281
+c3b57cc30b782d8c
+Allwinner dolphin-fvd-p1
+f0edeecfa4448caf
+rockchip rk3328_box
+c2482dcdedcd413c
 
 luisvill
 rockchip rk322x_box
@@ -15775,6 +15787,8 @@ MTK cvt_mt5863_sa
 3deb4f4533339481
 Hisilicon Hi3796MV100
 dbc454e3cadca710
+Android MDTV5G
+fdb2deb5c06a2299
 
 riegoam
 OnePlus OnePlus7T
