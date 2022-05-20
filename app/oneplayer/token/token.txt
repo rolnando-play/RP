@@ -16712,6 +16712,8 @@ Xiaomi aquaman
 admeza
 samsung a21s
 c093a16dd173e024
+samsung o1s
+cbbe696c0f46b3c3
 
 ramiral
 Xiaomi vayu
