@@ -16711,3 +16711,7 @@ rockchip rk322x_box
 5afb3bd94d932f2f
 rockchip rk322x_box
 41b943d5c0485b84
+
+egsali +6
+samsung x1s
+c65ba00561b6a625
