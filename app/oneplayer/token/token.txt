@@ -7190,6 +7190,8 @@ Android MDTV5G
 8f3a4b46a08a5601
 rockchip rk322x_box
 cd9402dd04139e27
+Android MDTV5G
+f6f3691ea676aab
 
 enriquelr
 Amazon sheldon
@@ -16740,6 +16742,10 @@ rockchip rk322x_box
 egsali +6
 samsung x1s
 c65ba00561b6a625
+SEI Robotics HND
+9edded21b5a610ee
+SEI Robotics HND
+a3d02e686c9fb18f
 
 jagusti +12
 rockchip rk322x_box
