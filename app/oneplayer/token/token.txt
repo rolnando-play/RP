@@ -5830,6 +5830,8 @@ aec7c0f1f60a3d01
 +9
 rockchip rk322x_box
 a5811dfaa6644e36
+rockchip rk322x_box
+56cb3fe7d80b546
 
 its.cm
 Amlogic p282
@@ -8528,7 +8530,7 @@ dolphin dolphin_fvd_p1
 Google titan-p1
 607efce18d8c5d9b
 Allwinner dolphin-fvd-p1
-a83201733d2e7591
+4b10e4257407b7e5
 
 j88be
 Google walleye
