@@ -14874,6 +14874,8 @@ Allwinner dolphin-fvd-p1
 f0edeecfa4448caf
 rockchip rk3328_box
 c2482dcdedcd413c
+rockchip rk322x_box
+8bbf049cda322041
 
 luisvill
 rockchip rk322x_box
@@ -15564,6 +15566,8 @@ IFRE S.A. SMARTWAY_T3
 2fa15f26d446e815
 rockchip rk322x_box
 3b2bf32da09a1c0d
+rockchip rk322x_box
+ae89e17ed91842fa
 
 franco.ca
 KTC_8G ktc_8g
