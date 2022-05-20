@@ -16740,3 +16740,11 @@ rockchip rk322x_box
 egsali +6
 samsung x1s
 c65ba00561b6a625
+
+jagusti +12
+rockchip rk322x_box
+bd6baa94f5d65e7a
+
+scohen +10 psc
+Allwinner dolphin-fvd-p1
+8ab28f39ece7eaf8
