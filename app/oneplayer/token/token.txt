@@ -16771,3 +16771,7 @@ samsung beyond2
 6ca9db0c740f280a
 Sony BRAVIA_ATV3_4K
 89fba7f31f3b864a
+
+jorgelu
+rockchip rk322x_box
+172220e412648caf
