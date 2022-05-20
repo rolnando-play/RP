@@ -7179,6 +7179,8 @@ MBOX dolphin-p1
 403a1b81a0f4d04b
 Allwinner dolphin-fvd-p1
 9df0f2cb1202f7c1
+rockchip rk322x_box
+dc9b4364175aba6e
 
 enriquelr
 Amazon sheldon
@@ -9043,16 +9045,8 @@ samsung a52q
 miguelmin +6
 HUAWEI HWSTK-HF
 3a80c687f39c600b
-HUAWEI HWSTK-HF
-11dcfbbeb5bba361
-Xiaomi tulip
-64a0de7a0e82ac31
-samsung a02
-df07c0c4c320c04d
 SDMC DV8547
 a4972dc1b62bb546
-Xiaomi courbet
-edcf13ce4d6809bc
 
 noriimpor
 Amazon sheldon
@@ -15288,6 +15282,8 @@ Xiaomi aquaman
 a1d6a1cd1ac36801
 Xiaomi aquaman
 71ac7c2d69d63638
+Xiaomi aquaman
+0bd7f414eeacac05
 
 sebas.gi
 amazon mantis
