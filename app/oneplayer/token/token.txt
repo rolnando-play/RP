@@ -7186,6 +7186,8 @@ rockchip rk322x_box
 dc9b4364175aba6e
 Android MDTV5G
 8f3a4b46a08a5601
+rockchip rk322x_box
+cd9402dd04139e27
 
 enriquelr
 Amazon sheldon
@@ -15510,6 +15512,10 @@ Amazon mantis
 224e54771fca95cb
 Amazon mantis
 de0e6ab9f64244f9
+Amazon mantis
+fde310913f0e7c5a
+Amazon mantis
+fd44f18595f815b9
 
 manfredkl
 Google titan-p1
