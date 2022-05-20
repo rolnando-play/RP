@@ -7192,6 +7192,9 @@ rockchip rk322x_box
 cd9402dd04139e27
 Android MDTV5G
 f6f3691ea676aab
++6
+Android MDTV5G
+d1954e61c389ea2b
 
 enriquelr
 Amazon sheldon
