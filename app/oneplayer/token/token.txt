@@ -3418,6 +3418,8 @@ Xiaomi once
 29761a27a43bbc77
 Xiaomi oneday
 f0e69caa16022ef2
+Xiaomi aquaman
+2cc9bb6f07c4d64d
 
 dr.ink
 rockchip rk322x_box
