@@ -7181,6 +7181,8 @@ Allwinner dolphin-fvd-p1
 9df0f2cb1202f7c1
 rockchip rk322x_box
 dc9b4364175aba6e
+Android MDTV5G
+8f3a4b46a08a5601
 
 enriquelr
 Amazon sheldon
