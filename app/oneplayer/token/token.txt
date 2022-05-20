@@ -7197,6 +7197,8 @@ Android MDTV5G
 d1954e61c389ea2b
 Android MDTV5G
 2d7205a05320dbac
+rockchip rk3328_box
+7fefcf36628d90b6
 
 enriquelr
 Amazon sheldon
