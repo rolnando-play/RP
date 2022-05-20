@@ -16757,6 +16757,8 @@ a3d02e686c9fb18f
 jagusti +12
 rockchip rk322x_box
 bd6baa94f5d65e7a
+rockchip rk322x_box
+5c693911c957d520
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
