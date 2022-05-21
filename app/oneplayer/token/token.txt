@@ -15048,6 +15048,8 @@ rockchip rk322x_box
 +6
 Amazon sheldonp
 e4dbce9f197d0df0
+Amazon tank
+52232a26de1aa59e
 
 aflei
 Amazon sheldonp
@@ -16841,3 +16843,7 @@ Amlogic p281
 3c22345f631fcdcc
 Allwinner dolphin-fvd-p1
 7d93ac3bb7541e4
+
+delvallesa
+Xiaomi oneday
+ea7f91f0124f5345
