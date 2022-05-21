@@ -1739,6 +1739,11 @@ Android MDTV5G
 a2bbfc97b96f8b2f
 MBOX dolphin-p1
 7f5f9d7c9a69f1d0
++10
+Android MDTV5G
+c6853340394a6fc2
+Android MDTV5G
+43a52d62b44e289f
 
 ruthgis
 S905W
@@ -16802,6 +16807,8 @@ rockchip rk322x_box
 angel_
 Android MBOX
 504f1db90e0032f8
+Android MDTV5G
+8207fb5f4988f302
 
 obaez1
 Xiaomi oneday
