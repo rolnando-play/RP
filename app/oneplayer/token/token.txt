@@ -6756,6 +6756,8 @@ rockchip rk322x_box
 1e337cceaccf79fe
 Google walleye
 f69426474ea8edd9
+rockchip rk322x_box
+e9ffc19d494691f8
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -8478,6 +8480,10 @@ rockchip rk322x_box
 bb98901b78c5fee8
 Android MDTV5G
 205fd12051aeaa9b
+Android MDTV5G
+6b3936bb4d20bf83
+Android MDTV5G
+64729ca55d4ac6a1
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -14924,6 +14930,10 @@ rockchip rk3328_box
 c2482dcdedcd413c
 rockchip rk322x_box
 8bbf049cda322041
+Amlogic p281
+3a287516c2be0ed5
+Amlogic p281
+caa1c1021ceb6499
 
 luisvill
 rockchip rk322x_box
@@ -15789,6 +15799,8 @@ HUAWEI HWMAR
 +6
 OnePlus OnePlus3T
 5429b10b7e68a1f9
+Android MBOX
+45983d18c0bd0b76
 
 mariavbg
 Xiaomi pomelo
