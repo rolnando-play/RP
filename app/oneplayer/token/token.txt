@@ -13138,8 +13138,8 @@ bf2c9733a0dcbe35
 jochol
 samsung t2s
 d4933812b25e3406
-Amazon mantis
-6d6019e0c988cc88
+Amazon kara
+599147e5d83b9e17
 
 noes64
 Xiaomi ginkgo
@@ -15869,6 +15869,8 @@ Hisilicon Hi3796MV100
 dbc454e3cadca710
 Android MDTV5G
 fdb2deb5c06a2299
+Android MDTV5G
+7db6ffa4cecb4e57
 
 riegoam
 OnePlus OnePlus7T
