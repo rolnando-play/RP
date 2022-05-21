@@ -4562,6 +4562,8 @@ samsung gts7fewifi
 2f884e4ca31feff2
 dolphin dolphin_fvd_p1
 fcf54164d8e55e3c
+rockchip rk322x_box
+d068b08a83b4196e
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -16796,3 +16798,7 @@ rockchip rk322x_box
 angel_
 Android MBOX
 504f1db90e0032f8
+
+obaez1
+Xiaomi oneday
+7ea99143e413e1f5
