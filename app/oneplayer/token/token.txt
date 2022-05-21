@@ -16806,3 +16806,7 @@ Xiaomi oneday
 galenaoan
 samsung beyond0
 bed50b1fe515cd57
+Amlogic p281
+3c22345f631fcdcc
+Allwinner dolphin-fvd-p1
+7d93ac3bb7541e4
