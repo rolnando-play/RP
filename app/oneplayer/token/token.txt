@@ -7212,6 +7212,8 @@ rockchip rk322x_box
 37b708e9a0f8d75a
 rockchip rk3328_box
 bb63575894f5e45b
+Android MBOX
+af32e9ee3ecf442a
 
 enriquelr
 Amazon sheldon
@@ -14938,6 +14940,15 @@ Amlogic p281
 3a287516c2be0ed5
 Amlogic p281
 caa1c1021ceb6499
+Amlogic p281
+e2fc5fbef7970247
+Amlogic p281
+b054d55e3227c1e7
++15 usdt
+Amlogic p281
+b054d55e3227c1e7
+Amlogic p281
+f495490880aaa020
 
 luisvill
 rockchip rk322x_box
@@ -16834,6 +16845,8 @@ Sony BRAVIA_ATV3_4K
 jorgelu
 rockchip rk322x_box
 172220e412648caf
+Xiaomi oneday
+e801f60dc56f1b55
 
 angel_
 Android MBOX
