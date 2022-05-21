@@ -4185,8 +4185,8 @@ b5e78fe5c19759b0
 alex.mej +6
 Xiaomi laurus
 ae456d3a14b22507
-Xiaomi curtana
-f65a55e7d486cc4d
+TCL BeyondTV
+fd9493d666c3c58e
 TCL BeyondTV
 9128da5beb2aabd1
 Xiaomi oneday
