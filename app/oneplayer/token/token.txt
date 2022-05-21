@@ -8834,6 +8834,8 @@ OnePlus OnePlus3T
 cc133e6d076e761e
 CTVMODEL Hi3751V350
 623386af5adc87c9
+askey stephen
+5738ca527a3f20bf
 
 rr.23
 MTK cvt_mt5863_sa
