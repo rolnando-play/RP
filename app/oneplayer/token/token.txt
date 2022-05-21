@@ -8484,6 +8484,8 @@ Android MDTV5G
 6b3936bb4d20bf83
 Android MDTV5G
 64729ca55d4ac6a1
+dolphin dolphin_fvd_p1
+2efbad1faea4358f
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -15148,6 +15150,9 @@ Amazon tank
 604ad18f212b32c0
 rockchip rk322x_box
 2e070cd23ecd8a99
++6
+SDMC DV8547
+e46719c9dcdcce5b
 
 jakelinca
 motorola hanoip
@@ -15642,6 +15647,8 @@ rockchip rk322x_box
 3b2bf32da09a1c0d
 rockchip rk322x_box
 ae89e17ed91842fa
+Amlogic p281
+87956adf26977733
 
 franco.ca
 KTC_8G ktc_8g
@@ -16224,6 +16231,8 @@ samsung b0q
 fermani
 Xiaomi raphael
 cc6b2d125bc99ad1
+Google sabrina
+41ab87d2d261e2d9
 
 amilcar.m
 Allwinner dolphin-fvd-p1
