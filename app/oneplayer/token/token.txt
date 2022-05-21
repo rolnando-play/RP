@@ -7199,6 +7199,8 @@ Android MDTV5G
 2d7205a05320dbac
 rockchip rk3328_box
 7fefcf36628d90b6
+rockchip rk322x_box
+37b708e9a0f8d75a
 
 enriquelr
 Amazon sheldon
@@ -11200,6 +11202,8 @@ Samsung a31
 78d0bcd6b55cc9ba
 rockchip rk3328_box
 30c231188882be5b
+Xiaomi oneday
+c0220b40700d509c
 
 pjc2211 +9
 dolphin dolphin_fvd_p1
@@ -16576,6 +16580,8 @@ Allwinner dolphin-fvd-p1
 e9b40b2d3cbf0645
 Allwinner dolphin-fvd-p1
 2c4825a1cd22233e
+HongXin hx_s905x
+46181e4ae5108560
 
 rulfi
 HUAWEI HWYAL
@@ -16784,3 +16790,7 @@ Sony BRAVIA_ATV3_4K
 jorgelu
 rockchip rk322x_box
 172220e412648caf
+
+angel_
+Android MBOX
+504f1db90e0032f8
