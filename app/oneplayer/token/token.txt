@@ -7214,6 +7214,9 @@ rockchip rk3328_box
 bb63575894f5e45b
 Android MBOX
 af32e9ee3ecf442a
++6
+Android MDTV5G
+5601938614096beb
 
 enriquelr
 Amazon sheldon
@@ -10331,6 +10334,8 @@ Xiaomi oneday
 89329c7d45f4a74e
 Android MDTV5G
 bb170f12c460de1f
+dolphin dolphin_fvd_p1
+fb95018e08fecc2e
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -16832,6 +16837,8 @@ rockchip rk322x_box
 bd6baa94f5d65e7a
 rockchip rk322x_box
 5c693911c957d520
+Android MDTV5G
+5ecca6aaee9a5155
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
