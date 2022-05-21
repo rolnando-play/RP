@@ -16641,6 +16641,8 @@ df0186ec899b8684
 margoa
 Xiaomi galahad
 13a2bb60c8bcd686
+rockchip rk322x_box
+a9151096f1938154
 
 marcosma
 HUAWEI HWELE
