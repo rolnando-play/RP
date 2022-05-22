@@ -16559,6 +16559,8 @@ Xiaomi oneday
 martinza +6 usdt
 rockchip MK
 6a8364f83b42fd1c
+dolphin dolphin_fvd_p1
+b0c455e13a1149e7
 
 eliasmb
 rockchip rk322x_box
@@ -16910,8 +16912,10 @@ danipay
 HUAWEI HWEML
 4ac17b9e6812c9f7
 
-sebamend
+sebamend +6
 Amazon mantis
 dc0e4686ad57ef85
 Asus fugu
 83bc4c5f02056057
+Amazon sheldon
+a5cff55acd4c10c9
