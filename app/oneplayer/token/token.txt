@@ -15001,6 +15001,8 @@ Amlogic p281
 b4ad96b920ac940
 Amlogic p281
 1472797178b62835
+Amlogic p281
+fe91ed72c4118a97
 
 luisvill
 rockchip rk322x_box
@@ -16940,6 +16942,8 @@ ea7f91f0124f5345
 danipay
 HUAWEI HWEML
 4ac17b9e6812c9f7
+samsung o1s
+8ec5b3da7c9c93cd
 
 sebamend +6
 Amazon mantis
@@ -16952,3 +16956,5 @@ a5cff55acd4c10c9
 euvecip
 rockchip rk322x_box
 fd3eb1617d17327b
+Allwinner dolphin-fvd-p1
+3051cf4b4847e724
