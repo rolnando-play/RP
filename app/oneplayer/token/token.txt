@@ -13362,6 +13362,8 @@ ea5b50e72fd3a338
 ferminsa
 samsung a70q
 cd8348ec622e57b1
+samsung SCG02
+ecb2a2b686a2a600
 
 pkuro +6
 HUAWEI HWYAL
@@ -15180,6 +15182,13 @@ Xiaomi aquaman
 2b05b3a6f4dc4a25
 Xiaomi joyeuse
 5f96f40d2c528315
++6
+samsung gta8
+6fcde0586d778507
+samsung gta7lite
+cedfee9544997035
+samsung a53x
+370e99e017203a5c
 
 anmora +6
 OnePlus OnePlus8T
