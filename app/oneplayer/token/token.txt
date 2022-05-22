@@ -788,7 +788,7 @@ Xiaomi-TVBOX-Ferpe1
 r69 2
 8cd92d3d465376c2
 SM-N970F
-928820ec98a808ec
+d28fe669bb9c887a
 samsung a12s
 5141aca421d6636c
 Allwinner dolphin-fvd-p1
@@ -14967,6 +14967,8 @@ Amlogic p281
 7912bb25cfbfd1fe
 Amlogic p281
 580ae59305b8832b
+Amlogic p281
+6f84f2e62b098d27
 
 luisvill
 rockchip rk322x_box
