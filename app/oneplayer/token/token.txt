@@ -14979,6 +14979,8 @@ Amlogic p281
 9d3c0e84d69d43a7
 Amlogic p281
 61ab9527ee9b887c
+Amlogic p281
+7c065d750f3604ed
 
 luisvill
 rockchip rk322x_box
@@ -16907,3 +16909,9 @@ ea7f91f0124f5345
 danipay
 HUAWEI HWEML
 4ac17b9e6812c9f7
+
+sebamend
+Amazon mantis
+dc0e4686ad57ef85
+Asus fugu
+83bc4c5f02056057
