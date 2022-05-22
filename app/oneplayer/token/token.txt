@@ -16972,3 +16972,5 @@ Xiaomi aquaman
 strifeze
 samsung starqltechn
 82f91a57bcee799b
+rockchip rk322x_box
+23991d334eefb0c
