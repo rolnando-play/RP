@@ -1,6 +1,8 @@
 adm
 Google redfin
 458d8cc8b6b04f62
+unknown generic_x86
+2abbe7a6af092b68
 askey sti6140d360
 93f9ddd606792879
 OnePlus OnePlusN10
