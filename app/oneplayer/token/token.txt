@@ -7870,6 +7870,8 @@ rockchip rk322x_box
 f3797f8239645b1a
 dolphin dolphin_fvd_p1
 8f1f9102082b4d9c
+Google eros-p1
+ede795b0de2730e3
 
 jjuan
 Xiaomi aquaman
@@ -15936,6 +15938,8 @@ samsung a12u
 armandore
 Amazon tank
 a86cd7ee9f66762c
+Xiaomi aquaman
+95f71247d9090357
 
 pedroja +18
 Android MDTV5G
@@ -16944,3 +16948,7 @@ Asus fugu
 83bc4c5f02056057
 Amazon sheldon
 a5cff55acd4c10c9
+
+euvecip
+rockchip rk322x_box
+fd3eb1617d17327b
