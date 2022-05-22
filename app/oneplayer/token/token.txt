@@ -4014,8 +4014,8 @@ Xiaomi lavender
 Xiaomi begonia
 824257e2bf1eb676
 +3
-Google generic_x86_64
-821190a751b70c4f
+AZW p281
+70b30e90dcb25fed
 Xiaomi oneday
 f87a55cf9cacdc99
 
@@ -14985,6 +14985,8 @@ Amlogic p281
 7c065d750f3604ed
 Amlogic p281
 fae7cf02842fd3ab
+Amlogic p281
+b4ad96b920ac940
 
 luisvill
 rockchip rk322x_box
