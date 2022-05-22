@@ -10901,6 +10901,8 @@ Sony BRAVIA_ATV3_4K
 86ca061b65211798
 Sony BRAVIA_VU1
 9589136f9e44dfa0
+Hisense xiaoyushan
+1a7e9c6916794f27
 
 cabri
 Allwinner dolphin-fvd-p1
@@ -16527,7 +16529,7 @@ daniel99 +6
 Xiaomi oneday
 1daac205297ce8cc
 Xiaomi sweet
-8523f3d850b11bf1 
+8523f3d850b11bf1 
 Xiaomi oneday
 6753893d1687c158
 
