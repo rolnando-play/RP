@@ -10344,6 +10344,8 @@ Android MDTV5G
 bb170f12c460de1f
 dolphin dolphin_fvd_p1
 fb95018e08fecc2e
+rockchip rk322x_box
+be1685c7ee0a4817
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14975,6 +14977,8 @@ Amlogic p281
 6f84f2e62b098d27
 Amlogic p281
 9d3c0e84d69d43a7
+Amlogic p281
+61ab9527ee9b887c
 
 luisvill
 rockchip rk322x_box
