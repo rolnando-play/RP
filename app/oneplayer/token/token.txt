@@ -16962,3 +16962,7 @@ Allwinner dolphin-fvd-p1
 alexort
 Xiaomi vayu
 1429bafb758f2082
+
+hernanver
+Xiaomi monet
+8458e61eb004f62a
