@@ -16899,3 +16899,7 @@ Allwinner dolphin-fvd-p1
 delvallesa
 Xiaomi oneday
 ea7f91f0124f5345
+
+danipay
+HUAWEI HWEML
+4ac17b9e6812c9f7
