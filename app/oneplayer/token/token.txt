@@ -7217,6 +7217,8 @@ af32e9ee3ecf442a
 +6
 Android MDTV5G
 5601938614096beb
+rockchip rk322x_box
+2d065d79f83f55ea
 
 enriquelr
 Amazon sheldon
@@ -14969,6 +14971,8 @@ Amlogic p281
 580ae59305b8832b
 Amlogic p281
 6f84f2e62b098d27
+Amlogic p281
+9d3c0e84d69d43a7
 
 luisvill
 rockchip rk322x_box
