@@ -15733,6 +15733,8 @@ rockchip rk322x_box
 ae89e17ed91842fa
 Amlogic p281
 87956adf26977733
+Amlogic p281
+c4d4056d9a21de7a
 
 franco.ca
 KTC_8G ktc_8g
@@ -16996,3 +16998,7 @@ samsung c2s
 hernanver
 Xiaomi monet
 8458e61eb004f62a
+
+jamh_7 +6
+OPPO OP4B80L1
+78cd7e2a58efdc2f
