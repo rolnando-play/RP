@@ -10817,6 +10817,8 @@ Amlogic p281
 9255d7501f7c3a7
 Xiaomi aquaman
 eae67274f113a298
+rockchip rk322x_box
+2f10047393be2306
 
 gergod +6
 Amlogic franklin
