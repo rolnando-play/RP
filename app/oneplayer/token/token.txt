@@ -7882,6 +7882,10 @@ Amlogic p201
 96076939974239db
 dolphin dolphin_fvd_p1
 c6f327adb52867de
+rockchip rk322x_box
+64d5f38d4ef88af8
+rockchip rk322x_box
+2c786b74cb2463e0
 
 jjuan
 Xiaomi aquaman
