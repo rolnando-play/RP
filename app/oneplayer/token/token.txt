@@ -15735,6 +15735,8 @@ Amlogic p281
 87956adf26977733
 Amlogic p281
 c4d4056d9a21de7a
+Amlogic p281
+68169d1b7accb665
 
 franco.ca
 KTC_8G ktc_8g
@@ -17002,3 +17004,7 @@ Xiaomi monet
 jamh_7 +6
 OPPO OP4B80L1
 78cd7e2a58efdc2f
+
+fdaniel
+Amazon mantis
+af35850e7bcb3278
