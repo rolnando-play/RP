@@ -15047,6 +15047,8 @@ Amlogic p281
 7ee6fad1e04d696a
 Amlogic p281
 7296f0bdcd6f635e
+Amlogic p281
+c21db702c260dde0
 
 luisvill
 rockchip rk322x_box
@@ -17048,3 +17050,7 @@ af35850e7bcb3278
 juanpabloes
 rockchip rk3328_box
 edae1f692f659d58
+
+rafpow
+samsung p3s
+83118d81c824609f
