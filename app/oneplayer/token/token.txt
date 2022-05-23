@@ -4598,6 +4598,8 @@ Amazon mantis
 267bf7cc27bc62c2
 askey sti6140d360
 f1f46e39e10efe0a
+askey sti6140d360
+731acef983a0378b
 
 rigole1
 TCL BeyondTV
