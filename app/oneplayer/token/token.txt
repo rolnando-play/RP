@@ -4592,6 +4592,8 @@ Amazon mantis
 +18
 Amazon mantis
 267bf7cc27bc62c2
+askey sti6140d360
+f1f46e39e10efe0a
 
 rigole1
 TCL BeyondTV
