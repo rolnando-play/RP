@@ -10815,6 +10815,8 @@ Amlogic p281
 8a76dcd7fa17aa40
 Amlogic p281
 9255d7501f7c3a7
+Xiaomi aquaman
+eae67274f113a298
 
 gergod +6
 Amlogic franklin
