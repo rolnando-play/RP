@@ -16980,3 +16980,15 @@ samsung starqltechn
 82f91a57bcee799b
 rockchip rk322x_box
 23991d334eefb0c
+
+karinpe
+rockchip rk322x_box
+890cc84671a50e34
+rockchip rk322x_box
+5a4641a9be939c98
+samsung c2s
+779ed2b6b2ba4fc0
+
+hernanver
+Xiaomi monet
+8458e61eb004f62a
