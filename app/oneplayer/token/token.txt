@@ -7876,6 +7876,8 @@ dolphin dolphin_fvd_p1
 8f1f9102082b4d9c
 Google eros-p1
 ede795b0de2730e3
+Amlogic p201
+96076939974239db
 
 jjuan
 Xiaomi aquaman
@@ -13128,6 +13130,9 @@ dolphin dolphin_fvd_p1
 fad5bd3731edc383
 Amlogic p281
 6078a9372616598b
++18
+dolphin dolphin_fvd_p1
+18c4b355e039357d
 
 matiasva
 samsung r8q
