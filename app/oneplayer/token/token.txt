@@ -17014,6 +17014,8 @@ rockchip rk322x_box
 fd3eb1617d17327b
 Allwinner dolphin-fvd-p1
 3051cf4b4847e724
+dolphin dolphin_fvd_p1
+9bd40649d9c22010
 
 alexort
 Xiaomi vayu
