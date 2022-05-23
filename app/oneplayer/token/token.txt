@@ -16930,6 +16930,8 @@ rockchip rk322x_box
 172220e412648caf
 Xiaomi oneday
 e801f60dc56f1b55
+samsung a50
+df7840dd64b057eb
 
 angel_
 Android MBOX
