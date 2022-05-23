@@ -1750,6 +1750,8 @@ Android MDTV5G
 c6853340394a6fc2
 Android MDTV5G
 43a52d62b44e289f
+SmartTV 10839
+9c6f5c20f11e513a
 
 ruthgis
 S905W
