@@ -1362,6 +1362,8 @@ tv box
 02073bcda40ff7cf
 samsung aosp
 15ec37d300116f87
+rockchip rk3328_box
+41870bc712eb2d9a
 
 a43ea 10 + 10
 tv box
