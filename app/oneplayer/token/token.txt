@@ -6776,6 +6776,8 @@ Google walleye
 f69426474ea8edd9
 rockchip rk322x_box
 e9ffc19d494691f8
+askey sti6140d360
+b92ddbb63b5ce5a7
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -15049,6 +15051,8 @@ Amlogic p281
 7296f0bdcd6f635e
 Amlogic p281
 c21db702c260dde0
+Amlogic p281
+c6545e2ee50b9546
 
 luisvill
 rockchip rk322x_box
@@ -17054,3 +17058,5 @@ edae1f692f659d58
 rafpow
 samsung p3s
 83118d81c824609f
+Google sabrina
+692ca0a6399d66f1
