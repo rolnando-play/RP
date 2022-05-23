@@ -4577,6 +4577,8 @@ dolphin dolphin_fvd_p1
 fcf54164d8e55e3c
 rockchip rk322x_box
 d068b08a83b4196e
+dolphin dolphin_fvd_p1
+5aec4da6937c4868
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -7233,6 +7235,8 @@ Android MDTV5G
 5601938614096beb
 rockchip rk322x_box
 2d065d79f83f55ea
+Amlogic p201
+b7558ef0f817d988
 
 enriquelr
 Amazon sheldon
@@ -13494,6 +13498,8 @@ b5a266003ba55bb1
 +5 psc
 rockchip rk322x_box
 fbeef7615f263012
+Hisilicon Hi3751V350
+da5b3b17b0d7e310
 
 gustavoda
 Amazon sheldonp
@@ -13651,6 +13657,8 @@ Xiaomi venus
 c4ae44d2d1dbcd01
 Google sabrina
 6f3e4e9c43055890
+SkyworthDigital YYT
+0eac11aac8ce1751
 
 enproce
 Expressluck yeongdeungpo
@@ -15030,6 +15038,13 @@ Amlogic p281
 ad435a8578dfe7d0
 Amlogic p281
 b7b3e02c2d545688
++15 usdt
+Amlogic p281
+ff09084eb01e3664
+Amlogic p281
+7ee6fad1e04d696a
+Amlogic p281
+7296f0bdcd6f635e
 
 luisvill
 rockchip rk322x_box
@@ -17027,3 +17042,7 @@ OPPO OP4B80L1
 fdaniel
 Amazon mantis
 af35850e7bcb3278
+
+juanpabloes
+rockchip rk3328_box
+edae1f692f659d58
