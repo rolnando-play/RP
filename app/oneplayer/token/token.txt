@@ -4775,6 +4775,8 @@ rockchip rk322x_box
 17bada9e698108f1
 rockchip rk322x_box
 efdfe59a591befd3
+rockchip rk322x_box
+e38f43e7ce96a7c8
 
 endrigo
 samsung m31
