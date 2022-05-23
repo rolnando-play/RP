@@ -7880,6 +7880,8 @@ Google eros-p1
 ede795b0de2730e3
 Amlogic p201
 96076939974239db
+dolphin dolphin_fvd_p1
+c6f327adb52867de
 
 jjuan
 Xiaomi aquaman
