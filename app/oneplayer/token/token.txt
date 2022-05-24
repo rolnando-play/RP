@@ -10416,6 +10416,8 @@ rockchip rk322x_box
 86dc73a25143ac70
 Hisilicon Hi3751V350
 45052f89735936f7
+dolphin dolphin_fvd_p1
+40a6d99cd633576c
 +18
 
 danieljo
@@ -15134,6 +15136,8 @@ Amlogic p281
 beb1e752126bf01a
 Amlogic p281
 a126cf3f39c21f69
+Amlogic p281
+d7dd09cdc6fd0913
 
 luisvill
 rockchip rk322x_box
@@ -17203,3 +17207,7 @@ Xiaomi vayu
 elpablo6
 Xiaomi oneday
 c90cd53d88edec5e
+
+luciauro +9
+Xiaomi vayu
+ba3271d48adba5df
