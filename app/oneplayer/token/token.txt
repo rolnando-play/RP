@@ -10380,6 +10380,8 @@ rockchip rk322x_box
 be1685c7ee0a4817
 rockchip rk3318
 0834d23db364ae39
+rockchip rk322x_box
+86dc73a25143ac70
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12512,7 +12514,7 @@ a071a837bbcf8532
 samsung a01q
 25b1071ca779cb3b
 samsung j7velte
-3a33360bf55e8f80
+c78e08ae8001c211
 
 rudifran
 HUAWEI HWJNY
