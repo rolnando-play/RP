@@ -290,8 +290,8 @@ c5b5b20579b6a9a0
 +6 psc
 dolphin dolphin-fvd-p1
 4896ecada118bacc
-rockchip rk322x_box
-5937030a1542873f
+PinguimTv p231
+1b39465950a925fa
 Amazon sheldon
 b996d0d5dda72edc
 rockchip rk322x_box
@@ -418,8 +418,6 @@ Allwinner G2plus
 +3
 Amazon sheldon
 068cb6d4bef2dd84
-rockchip rk322x_box
-5937030a1542873f
 
 AQuinonez
 S905W
