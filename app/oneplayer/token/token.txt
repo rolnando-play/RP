@@ -8885,6 +8885,9 @@ askey stephen
 5738ca527a3f20bf
 askey stephen
 c76fb2caa7e19706
++
+rockchip rk322x_box
+e85441fc24ce3363
 
 rr.23
 MTK cvt_mt5863_sa
