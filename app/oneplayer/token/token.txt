@@ -10399,6 +10399,9 @@ rockchip rk3318
 0834d23db364ae39
 rockchip rk322x_box
 86dc73a25143ac70
+Hisilicon Hi3751V350
+45052f89735936f7
++18
 
 danieljo
 Allwinner dolphin-fvd-p1
