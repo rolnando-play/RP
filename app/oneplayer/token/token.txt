@@ -1754,6 +1754,8 @@ Android MDTV5G
 43a52d62b44e289f
 SmartTV 10839
 9c6f5c20f11e513a
+rockchip rk322x_box
+639a4479728fbedd
 
 ruthgis
 S905W
@@ -6788,6 +6790,8 @@ askey sti6140d360
 b92ddbb63b5ce5a7
 Android MDTV5G
 78ed4a83aa0de10
+Google titan-p1
+599715d95cdadc70
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -17135,6 +17139,8 @@ rockchip rk322x_box
 l.m_ra eth
 Xiaomi camellian
 34a1a49834d5357f
+Xiaomi oneday
+365aa57f3f6c38bf
 
 eduad
 rockchip rk322x_box
