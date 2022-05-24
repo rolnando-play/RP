@@ -17182,3 +17182,7 @@ Google sabrina
 b290b221ce742de1
 samsung d1
 4f793dd7ac53cb65
+
+f.artu +6
+Xiaomi vayu
+44bc2dfcab24305d
