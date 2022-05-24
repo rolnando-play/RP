@@ -7251,6 +7251,8 @@ Amlogic p201
 b7558ef0f817d988
 dolphin dolphin_fvd_p1
 eb2383658359d1db
+Xiaomi oneday
+4604f7f610758c94
 
 enriquelr
 Amazon sheldon
@@ -9870,6 +9872,8 @@ c8e6c1f969ecd444
 +3
 Amazon sheldon
 d00c99623e1848bd
+Amazon sheldon
+86549abcc338b630
 
 arruaf +6
 rockchip rk322x_box
