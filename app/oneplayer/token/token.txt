@@ -10845,6 +10845,8 @@ rockchip rk322x_box
 2f10047393be2306
 rockchip rk322x_box
 3cf967a33777f479
+dolphin dolphin_fvd_p1
+927e426aa2fbf61d
 
 gergod +6
 Amlogic franklin
@@ -13537,6 +13539,8 @@ rockchip rk322x_box
 fbeef7615f263012
 Hisilicon Hi3751V350
 da5b3b17b0d7e310
+Xiaomi aquaman
+9c66275c4eba4d6f
 
 gustavoda
 Amazon sheldonp
@@ -15102,6 +15106,10 @@ Amlogic p281
 f0154a3f1f6d0b10
 Amlogic p281
 87d58381d890e39f
+Amlogic p281
+52b92bc1b022c65c
+Amlogic p281
+47e1706c6b053ed5
 
 luisvill
 rockchip rk322x_box
@@ -17139,6 +17147,8 @@ Xiaomi oneday
 a644c7894567861a
 Xiaomi oneday
 af3dc83bb24e2078
+Amazon tank
+36627399be0f11fa
 
 jeem10 +6
 NVIDIA Hi3798MV200
