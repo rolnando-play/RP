@@ -17132,3 +17132,7 @@ TCL UnionTV
 jonathanar
 Xiaomi oneday
 a644c7894567861a
+
+jeem10 +6
+NVIDIA Hi3798MV200
+17defe48ae0fd2c3
