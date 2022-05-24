@@ -15127,6 +15127,11 @@ Amlogic p281
 52b92bc1b022c65c
 Amlogic p281
 47e1706c6b053ed5
++15 usdt
+Amlogic p281
+beb1e752126bf01a
+Amlogic p281
+a126cf3f39c21f69
 
 luisvill
 rockchip rk322x_box
@@ -15782,6 +15787,8 @@ Amazon mantis
 fd44f18595f815b9
 Amazon sheldon
 4198f63659667681
+Xiaomi machuca
+d141f447e1503aed
 
 manfredkl
 Google titan-p1
