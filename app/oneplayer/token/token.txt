@@ -4585,6 +4585,9 @@ rockchip rk322x_box
 d068b08a83b4196e
 dolphin dolphin_fvd_p1
 5aec4da6937c4868
++6 psc
+Amlogic p281
+af507f6f7b5e980a
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -11533,18 +11536,16 @@ TCL BeyondTV
 8eceef683554dff1
 
 arnaldo.ra +6
-Amlogic p281
-993345b1438c02d7
 HUAWEI HWMAR
 2619ad26ddb73dac
 Xiaomi tucana
 71690693123b2825
-Amlogic p281
-ff512b7c3a753854
-Amlogic p281
-11c64c4b073d37d7
 Xiaomi dandelion
 18568cb2172e113d
+Xiaomi oneday
+17ef4fb98b86a65f
+Xiaomi oneday
+4aaefcbdfa3000d7
 
 waltervi
 rockchip rk322x_box
