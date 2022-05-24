@@ -4993,6 +4993,8 @@ rockchip rk322x_box
 cf0f3ad84c5dda2f
 CVTE CVTE_MSD338_512M_PB802
 1e45310670109660
+rockchip rk322x_box
+beeba36dffa02466
 
 lisandra
 MTK cvt_mt5863_sa
@@ -10847,6 +10849,8 @@ rockchip rk322x_box
 3cf967a33777f479
 dolphin dolphin_fvd_p1
 927e426aa2fbf61d
+Amlogic p281
+f024bde2750c1c82
 
 gergod +6
 Amlogic franklin
@@ -15224,6 +15228,8 @@ Amazon sheldonp
 e4dbce9f197d0df0
 Amazon tank
 52232a26de1aa59e
+Android MDTV5G
+93af72b994440121
 
 aflei
 Amazon sheldonp
