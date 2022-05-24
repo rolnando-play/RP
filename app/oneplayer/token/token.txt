@@ -5650,6 +5650,8 @@ dolphin dolphin-fvd-p1
 15ba8ce51bc5511c
 Amazon sheldon
 35fe48c9442bb805
+Amlogic p281
+df890a3a399b08e3
 
 cuentatv
 Allwinner dolphin-fvd-p1
