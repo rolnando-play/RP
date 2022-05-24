@@ -17199,3 +17199,7 @@ samsung d1
 f.artu +6
 Xiaomi vayu
 44bc2dfcab24305d
+
+elpablo6
+Xiaomi oneday
+c90cd53d88edec5e
