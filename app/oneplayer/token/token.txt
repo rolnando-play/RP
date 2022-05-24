@@ -7241,6 +7241,8 @@ rockchip rk322x_box
 2d065d79f83f55ea
 Amlogic p201
 b7558ef0f817d988
+dolphin dolphin_fvd_p1
+eb2383658359d1db
 
 enriquelr
 Amazon sheldon
@@ -14226,7 +14228,7 @@ Xiaomi aquaman
 samsung a10
 517fcf00b4dedc30
 dolphin dolphin-fvd-p1
-ab8dc4f2edc13bf9
+71cc7be0dbcdc565
 
 josy25
 Xiaomi secret
