@@ -11939,6 +11939,9 @@ rockchip rk322x_box
 +3
 Android MDTV5G
 1370a91dad5a4e2
+Android MDTV5G
+f9951c141ce9c9b2
++3
 
 davalosru
 rockchip rk3328_box
@@ -17095,3 +17098,11 @@ rockchip rk322x_box
 l.m_ra eth
 Xiaomi camellian
 34a1a49834d5357f
+
+eduad
+rockchip rk322x_box
+9ec5877bdb354320
+
+nicolasro
+TPV PH0M_EA_T32
+3e677ec434c6728a
