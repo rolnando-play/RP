@@ -8549,6 +8549,10 @@ dolphin dolphin_fvd_p1
 2efbad1faea4358f
 Android MDTV5G
 f799ad84a6abafb7
+rockchip rk322x_box
+84c5195e22ca73
+rockchip rk322x_box
+29b0eb973862de4a
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -16430,6 +16434,8 @@ Xiaomi raphael
 cc6b2d125bc99ad1
 Google sabrina
 41ab87d2d261e2d9
+SkyworthDigital YYT
+30ec698602a4a369
 
 amilcar.m
 Allwinner dolphin-fvd-p1
