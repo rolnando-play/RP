@@ -15097,6 +15097,8 @@ Amlogic p281
 e4ee0d2822042787
 Amlogic p281
 f0154a3f1f6d0b10
+Amlogic p281
+87d58381d890e39f
 
 luisvill
 rockchip rk322x_box
@@ -17132,7 +17134,15 @@ TCL UnionTV
 jonathanar
 Xiaomi oneday
 a644c7894567861a
+Xiaomi oneday
+af3dc83bb24e2078
 
 jeem10 +6
 NVIDIA Hi3798MV200
 17defe48ae0fd2c3
+
+nicolasgon ADA
+Google sabrina
+b290b221ce742de1
+samsung d1
+4f793dd7ac53cb65
