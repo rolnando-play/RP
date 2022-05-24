@@ -16441,13 +16441,15 @@ bcee495469d4697a
 samsung b0q
 06d5fe3131ac0445
 
-fermani
+fermani +6
 Xiaomi raphael
 cc6b2d125bc99ad1
 Google sabrina
 41ab87d2d261e2d9
 SkyworthDigital YYT
 30ec698602a4a369
+SkyworthDigital YYT
+76a15e3dc53bdeb3
 
 amilcar.m
 Allwinner dolphin-fvd-p1
