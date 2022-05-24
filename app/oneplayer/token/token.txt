@@ -8533,6 +8533,8 @@ Android MDTV5G
 64729ca55d4ac6a1
 dolphin dolphin_fvd_p1
 2efbad1faea4358f
+Android MDTV5G
+f799ad84a6abafb7
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -17083,3 +17085,7 @@ samsung p3s
 83118d81c824609f
 Google sabrina
 692ca0a6399d66f1
+
+pjcarn
+rockchip rk322x_box
+3c84769cf03e14f0
