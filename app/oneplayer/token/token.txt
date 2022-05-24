@@ -7262,6 +7262,8 @@ dolphin dolphin_fvd_p1
 eb2383658359d1db
 Xiaomi oneday
 4604f7f610758c94
+Android MDTV5G
+27b804564f556b07
 
 enriquelr
 Amazon sheldon
@@ -17041,6 +17043,8 @@ rockchip rk322x_box
 5c693911c957d520
 Android MDTV5G
 5ecca6aaee9a5155
+rockchip rk312x
+8442c06e2f76e3cd
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
