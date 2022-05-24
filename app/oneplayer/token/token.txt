@@ -6947,8 +6947,8 @@ samsung a20
 1d8ad63276ddb357
 FTROU eros-p1
 1d4f6958b456fc99
-Android MBOX
-48ddddb2d26863ff
+rockchip rk3328_box
+bc55893338a0e735
 rockchip rk322x_box
 6acf9bf1b46df478
 dolphin dolphin_fvd_p1
