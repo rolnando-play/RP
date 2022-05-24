@@ -17118,3 +17118,5 @@ rockchip rk322x_box
 nicolasro
 TPV PH0M_EA_T32
 3e677ec434c6728a
+TCL UnionTV
+1ea1392a049d7013
