@@ -17242,6 +17242,8 @@ Xiaomi vayu
 ba3271d48adba5df
 rockchip rk322x_box
 7a1fc535206fb2c4
+OnePlus OnePlus5
+736291f9fe402047
 
 udeant
 HUAWEI HWVOG
