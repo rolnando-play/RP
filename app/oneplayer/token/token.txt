@@ -9157,6 +9157,8 @@ rockchip rk3328_box
 8d0cc2891b5338d3
 Allwinner dolphin-fvd-p1
 89e6d195378c505b
+Google sabrina
+43071aaea181e94e
 
 carlosrau
 rockchip rk322x_box
