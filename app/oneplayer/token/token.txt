@@ -17233,3 +17233,7 @@ Xiaomi vayu
 ba3271d48adba5df
 rockchip rk322x_box
 7a1fc535206fb2c4
+
+udeant
+HUAWEI HWVOG
+5feee7fd7191af49
