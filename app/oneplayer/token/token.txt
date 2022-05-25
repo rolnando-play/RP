@@ -17260,6 +17260,8 @@ HUAWEI HWVOG
 joelito.r
 HUAWEI HWEML
 900830fd14f174f9
+Android MDTV5G
+2ce4d70ccc187bae
 
 gabyca
 motorola sofiar
