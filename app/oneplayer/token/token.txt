@@ -1759,6 +1759,8 @@ SmartTV 10839
 9c6f5c20f11e513a
 rockchip rk322x_box
 639a4479728fbedd
+rockchip rk322x_box
+ffb6cea8c74a4af4
 
 ruthgis
 S905W
