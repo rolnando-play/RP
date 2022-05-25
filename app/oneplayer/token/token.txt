@@ -15144,6 +15144,10 @@ Amlogic p281
 f3dc557b381c98c2
 Amlogic p281
 f8bc270590937d0a
+Amlogic p281
+b316b8e65340dae2
+Amlogic p281
+7695e3c22bb879b0
 
 luisvill
 rockchip rk322x_box
@@ -16973,6 +16977,8 @@ MBOX dolphin-p1
 8c9ac448e0f32ba9
 MBOX dolphin-p1
 3d074fc9386d5fcd
+Xiaomi machuca
+9d2e48279539f254
 
 jose_mar
 rockchip rk322x_box
@@ -17039,6 +17045,8 @@ rockchip rk322x_box
 5afb3bd94d932f2f
 rockchip rk322x_box
 41b943d5c0485b84
+dolphin dolphin-fvd-p1
+25b047e079a17a75
 
 egsali +6
 samsung x1s
