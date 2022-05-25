@@ -420,6 +420,9 @@ Allwinner G2plus
 +3
 Amazon sheldon
 068cb6d4bef2dd84
+rockchip rk322x_box
+5937030a1542873f
++3
 
 AQuinonez
 S905W
