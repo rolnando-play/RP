@@ -15140,6 +15140,10 @@ Amlogic p281
 a126cf3f39c21f69
 Amlogic p281
 d7dd09cdc6fd0913
+Amlogic p281
+f3dc557b381c98c2
+Amlogic p281
+f8bc270590937d0a
 
 luisvill
 rockchip rk322x_box
@@ -17177,6 +17181,8 @@ Xiaomi oneday
 eduad
 rockchip rk322x_box
 9ec5877bdb354320
+COSHIP n9090_telmexott
+f2f64f58e7b8af3e
 
 nicolasro
 TPV PH0M_EA_T32
@@ -17207,6 +17213,8 @@ samsung d1
 f.artu +6
 Xiaomi vayu
 44bc2dfcab24305d
+Amazon tank
+5a0a1bb5fb168b7e
 
 elpablo6
 Xiaomi oneday
@@ -17215,3 +17223,5 @@ c90cd53d88edec5e
 luciauro +9
 Xiaomi vayu
 ba3271d48adba5df
+rockchip rk322x_box
+7a1fc535206fb2c4
