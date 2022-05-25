@@ -17134,6 +17134,8 @@ rockchip rk312x
 scohen +10 psc
 Allwinner dolphin-fvd-p1
 8ab28f39ece7eaf8
+MTK cvt_mt5886_sa
+23aaade19257691a
 
 jesuskin
 samsung beyond2
