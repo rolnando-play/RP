@@ -10462,6 +10462,8 @@ Hisilicon Hi3751V350
 dolphin dolphin_fvd_p1
 40a6d99cd633576c
 +18
+dolphin dolphin_fvd_p1
+54d5d02673d65bb3
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13605,6 +13607,8 @@ Hisilicon Hi3751V350
 da5b3b17b0d7e310
 Xiaomi aquaman
 9c66275c4eba4d6f
+Amazon tank
+3b8361386152068a
 
 gustavoda
 Amazon sheldonp
