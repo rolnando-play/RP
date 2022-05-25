@@ -7945,6 +7945,8 @@ rockchip rk322x_box
 +
 rockchip rk322x_box
 b1ac340acaf0a378
+Allwinner dolphin-fvd-p1
+f3888146df85b1d2
 
 jjuan
 Xiaomi aquaman
