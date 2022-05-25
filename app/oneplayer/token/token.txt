@@ -3999,6 +3999,8 @@ Xiaomi oneday
 Xiaomi oneday
 b0a4ea85df8aefa0
 +3
+Xiaomi oneday
+2134c9105023cf52
 
 juanin
 Allwinner petrel-p1
@@ -17244,3 +17246,13 @@ rockchip rk322x_box
 udeant
 HUAWEI HWVOG
 5feee7fd7191af49
+
+joelito.r
+HUAWEI HWEML
+900830fd14f174f9
+
+gabyca
+motorola sofiar
+28a55da84fb08a9f
+Skyworth globe_sa
+1e859553938bae26
