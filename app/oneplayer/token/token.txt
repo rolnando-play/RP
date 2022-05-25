@@ -7290,6 +7290,8 @@ dolphin dolphin_fvd_p1
 cafec5953c198fd
 Xiaomi oneday
 3ca85f1ed26b2ba2
+Xiaomi machuca
+21639cddd52d6264
 
 enriquelr
 Amazon sheldon
@@ -10471,6 +10473,8 @@ dolphin dolphin_fvd_p1
 +18
 dolphin dolphin_fvd_p1
 54d5d02673d65bb3
+dolphin dolphin-fvd-p1
+5004212e96b2aa57
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -17358,3 +17362,7 @@ Android MDTV5G
 729cee44a42f0f86
 Android MDTV5G
 3fc8589688f71019
+
+georgece
+Amlogic p281
+52b0869bab469539
