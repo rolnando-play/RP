@@ -9335,6 +9335,8 @@ Allwinner dolphin-fvd-p1
 e005c7a962c62293
 Allwinner dolphin-fvd-p1
 7d36b5bfc48032e9
+BTV p212
+150b534bdfae1b14
 
 rocapo
 dolphin dolphin-fvd-p1
