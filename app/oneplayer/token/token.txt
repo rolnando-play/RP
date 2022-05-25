@@ -10121,8 +10121,8 @@ Amazon sheldon
 1862e5721188951b
 samsung a50
 60086c57c6c5fd9e
-Xiaomi lavender
-1c637329ac3080e4
+samsung a30s
+fa5899aa5d9fbda8
 MBOX dolphin-p1
 d9da2ad601d9d0c4
 rockchip rk3318
@@ -10378,6 +10378,8 @@ Android MDTV5G
 732ccf88bae2f52a
 Amazon trona
 bc285857a3b88808
+dolphin dolphin-fvd-p1
+5731f2cef40d230
 
 Xiaomi oneday
 f0b5d8c9f9979de0
@@ -10888,12 +10890,8 @@ Xiaomi oneday
 018e71f22229b260
 
 fierapro
-Xiaomi ginkgo
-05851afe545e844a
-Hisilicon Hi3796MV100
-a805abeba957ae13
-Hisilicon Hi3796MV100
-6a36d78a35aa13d7
+samsung a21s
+124c926d14c36eae
 
 gonzalochu
 TCL BeyondTV
@@ -15990,6 +15988,8 @@ motorola kane_sprout
 678edc3d9f4d5764
 rockchip rk322x_box
 59bfdc948ade5ff4
+motorola beckham
+96fea503ece66acc
 
 ramirezb +6
 rockchip rk322x_box
