@@ -5005,6 +5005,8 @@ CVTE CVTE_MSD338_512M_PB802
 1e45310670109660
 rockchip rk322x_box
 beeba36dffa02466
+rockchip rk322x_box
+42747e8cb4c3886b
 
 lisandra
 MTK cvt_mt5863_sa
@@ -7272,6 +7274,8 @@ Android MDTV5G
 +9
 Xiaomi oneday
 6b109a9a0bd26028
+dolphin dolphin_fvd_p1
+cafec5953c198fd
 
 enriquelr
 Amazon sheldon
