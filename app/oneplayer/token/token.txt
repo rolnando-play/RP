@@ -13362,8 +13362,8 @@ rockchip rk3328_box
 3d73cd2a9a58492b
 Amazon sheldon
 fa0b5bcbd390f5ab
-OnePlus OnePlus5
-20ff346cca210531
+samsung aosp
+28000f4c0ef515f5
 Amazon sheldon
 14b61e7202570f49
 Amazon sheldon
