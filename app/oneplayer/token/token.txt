@@ -17229,6 +17229,8 @@ rockchip rk322x_box
 9ec5877bdb354320
 COSHIP n9090_telmexott
 f2f64f58e7b8af3e
+COSHIP n9090_telmexott
+9fbde27657b74e2d
 
 nicolasro
 TPV PH0M_EA_T32
