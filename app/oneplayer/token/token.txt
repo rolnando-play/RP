@@ -17366,3 +17366,9 @@ Android MDTV5G
 georgece
 Amlogic p281
 52b0869bab469539
+
+mariaram
+samsung a30s
+c4afd97892b46fc0
+samsung a12
+56eafa41da1bdc7d
