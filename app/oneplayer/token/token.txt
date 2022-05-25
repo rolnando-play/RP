@@ -5672,6 +5672,9 @@ Amazon sheldon
 35fe48c9442bb805
 Amlogic p281
 df890a3a399b08e3
++6
+rockchip rk322x_box
+45884a07cf522d3a
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -15184,6 +15187,8 @@ Amlogic p281
 89ffc9b7ff46466b
 Amlogic p281
 880c65a756181cb9
+Amlogic p281
+df692a7c860cf5ec
 
 luisvill
 rockchip rk322x_box
