@@ -6809,6 +6809,8 @@ Google titan-p1
 599715d95cdadc70
 Android MDTV5G
 80bbefbf5df8bbed
+streambus rk322x_box
+3b238cb57464cac9
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -7938,6 +7940,9 @@ rockchip rk322x_box
 64d5f38d4ef88af8
 rockchip rk322x_box
 2c786b74cb2463e0
++
+rockchip rk322x_box
+b1ac340acaf0a378
 
 jjuan
 Xiaomi aquaman
@@ -8579,6 +8584,8 @@ rockchip rk322x_box
 29b0eb973862de4a
 rockchip rk3328_box
 35934d5ca2642a37
+MBOX dolphin-p1
+d42beda11015740c
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9326,6 +9333,8 @@ c60d45b168916345
 +9 usdt 
 Allwinner dolphin-fvd-p1
 e005c7a962c62293
+Allwinner dolphin-fvd-p1
+7d36b5bfc48032e9
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -15192,6 +15201,8 @@ Amlogic p281
 df692a7c860cf5ec
 Amlogic p281
 dfb0fd7adadee5da
+Amlogic p281
+9e0ea228a825eea7
 
 luisvill
 rockchip rk322x_box
