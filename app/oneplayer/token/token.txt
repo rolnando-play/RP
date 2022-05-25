@@ -6802,6 +6802,8 @@ Android MDTV5G
 78ed4a83aa0de10
 Google titan-p1
 599715d95cdadc70
+Android MDTV5G
+80bbefbf5df8bbed
 
 gonzalezju +6
 HUAWEI HWYAL
