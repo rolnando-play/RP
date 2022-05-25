@@ -7285,6 +7285,8 @@ Xiaomi oneday
 6b109a9a0bd26028
 dolphin dolphin_fvd_p1
 cafec5953c198fd
+Xiaomi oneday
+3ca85f1ed26b2ba2
 
 enriquelr
 Amazon sheldon
