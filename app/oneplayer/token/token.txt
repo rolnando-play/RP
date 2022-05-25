@@ -11982,6 +11982,8 @@ Android MDTV5G
 1370a91dad5a4e2
 Android MDTV5G
 f9951c141ce9c9b2
+Android MDTV5G
+152d791a0ed7181d
 +3
 
 davalosru
@@ -17248,6 +17250,8 @@ rockchip rk322x_box
 7a1fc535206fb2c4
 OnePlus OnePlus5
 736291f9fe402047
+HUAWEI HWJKM-H
+03fa7543ce18a3ca
 
 udeant
 HUAWEI HWVOG
