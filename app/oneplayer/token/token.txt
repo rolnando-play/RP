@@ -6811,6 +6811,9 @@ Android MDTV5G
 80bbefbf5df8bbed
 streambus rk322x_box
 3b238cb57464cac9
++18
+Android MDTV5G
+8af2bd358fbc0e57
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -15215,6 +15218,11 @@ Amlogic p281
 dfb0fd7adadee5da
 Amlogic p281
 9e0ea228a825eea7
++15 usdt
+Amlogic p281
+dfb0fd7adadee5da
+Amlogic p281
+8311e6132ac40588
 
 luisvill
 rockchip rk322x_box
@@ -17340,3 +17348,7 @@ HUAWEI HWSNE
 lomaqu +6
 Android MDTV5G
 a14278ee4f20f96b
+Android MDTV5G
+1ebb76686ba1a9f9
+Android MDTV5G
+e055372a917d6dd4
