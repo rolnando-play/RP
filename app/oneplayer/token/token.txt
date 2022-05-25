@@ -16990,6 +16990,8 @@ MBOX dolphin-p1
 3d074fc9386d5fcd
 Xiaomi machuca
 9d2e48279539f254
+Xiaomi croods
+b0328d5e8078c5d2
 
 jose_mar
 rockchip rk322x_box
