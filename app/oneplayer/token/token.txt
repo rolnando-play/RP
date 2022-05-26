@@ -7303,6 +7303,8 @@ Xiaomi machuca
 21639cddd52d6264
 rockchip rk322x_box
 68bf8b437d47e922
+rockchip rk322x_box
+e47e3f852f22847d
 
 enriquelr
 Amazon sheldon
@@ -17421,6 +17423,8 @@ samsung o1s
 alfro2
 Gecen Tiger foreverg
 c1e6d532a272a928
+Gecen Tiger foreverg
+bc56b840557736f6
 
 migue_7
 Google sabrina
