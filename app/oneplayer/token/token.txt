@@ -17387,3 +17387,7 @@ samsung a30s
 c4afd97892b46fc0
 samsung a12
 56eafa41da1bdc7d
+
+angelpan
+rockchip rk322x_box
+384960d39a05cadb
