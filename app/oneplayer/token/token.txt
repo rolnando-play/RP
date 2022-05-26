@@ -3086,6 +3086,8 @@ samsung star2lte
 ef200fbf39ca6b32
 Skyworth globe_sa
 5a88097e99b36f5b
+Skyworth globe_sa
+bced1d7ae44d326a
 
 williangu
 samsung a72q
