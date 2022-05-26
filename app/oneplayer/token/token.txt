@@ -15347,6 +15347,8 @@ Android MDTV5G
 93af72b994440121
 askey sti6140d360
 f01103ba90816bb1
+Amlogic p201
+38120d328e3716e8
 
 aflei
 Amazon sheldonp
@@ -17332,6 +17334,8 @@ OnePlus OnePlus5
 736291f9fe402047
 HUAWEI HWJKM-H
 03fa7543ce18a3ca
+rockchip rk3328_box
+d7069e721a5ae478
 
 udeant
 HUAWEI HWVOG
