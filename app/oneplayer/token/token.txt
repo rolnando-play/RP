@@ -7305,6 +7305,8 @@ rockchip rk322x_box
 68bf8b437d47e922
 rockchip rk322x_box
 e47e3f852f22847d
+rockchip rk322x_box
+37015837295226f
 
 enriquelr
 Amazon sheldon
@@ -17429,3 +17431,9 @@ bc56b840557736f6
 migue_7
 Google sabrina
 58b2c71f492555d5
+
+franciscora +6
+samsung star2qltesq
+14958735b9bf1282
+Xiaomi oneday
+bdcf6465a1b19f94
