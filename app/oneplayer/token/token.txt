@@ -3317,6 +3317,8 @@ Android MDTV5G
 983d34463e15ec3
 Xiaomi oneday
 a85b22fd30ddf122
+Xiaomi oneday
+5011c6d938151f91
 
 guillermofer
 samsung a30
