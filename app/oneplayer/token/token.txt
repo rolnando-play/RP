@@ -17455,3 +17455,7 @@ rockchip rk322x_box
 69ead1884d16ed0f
 i7 petrel-p1
 d15dcd2ce6078339
+
+ricardo070 +18
+samsung r7
+7f0db2677f53bb1b
