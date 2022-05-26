@@ -17352,6 +17352,8 @@ Skyworth globe_sa
 raul@ra
 HUAWEI HWSNE
 24f48e41d39e74f4
+Hisense hamamatsucho
+8605974d634a45d2
 
 lomaqu +6
 Android MDTV5G
