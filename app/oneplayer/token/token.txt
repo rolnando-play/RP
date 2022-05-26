@@ -7309,6 +7309,8 @@ rockchip rk322x_box
 e47e3f852f22847d
 rockchip rk322x_box
 37015837295226f
+Gecen Tiger foreverg
+eb1e97c139220cdf
 
 enriquelr
 Amazon sheldon
@@ -10500,6 +10502,8 @@ dolphin dolphin-fvd-p1
 5004212e96b2aa57
 rockchip rk3328_box
 3f96acc22c47d3a2
+Allwinner dolphin-fvd-p1
+58541b666ccfde17
 
 danieljo
 Allwinner dolphin-fvd-p1
