@@ -422,6 +422,8 @@ Amazon sheldon
 068cb6d4bef2dd84
 rockchip rk322x_box
 5937030a1542873f
+Amazon sheldon
+0d926386d4eda37d
 +3
 
 AQuinonez
@@ -10947,6 +10949,8 @@ Amlogic p281
 f024bde2750c1c82
 Amazon sheldon
 3a15ab98afc6d062
+rockchip rk322x_box
+de1d4b35bb832f2d
 
 gergod +6
 Amlogic franklin
