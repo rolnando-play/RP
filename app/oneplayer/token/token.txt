@@ -9371,6 +9371,8 @@ Android MDTV5G
 1f7b51ceabb634
 samsung star2lte
 3ff46a2049a96313
+Android MDTV5G
+c636e2c61f220118
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -17093,6 +17095,8 @@ Amlogic p281
 ec31c6c81a022e96
 rockchip MK
 d86be98d73b57a79
+dolphin dolphin-fvd-p1
+8bbd06fface1474d
 
 simon.he +9
 MTK cvt_mt5863_sa
@@ -17451,6 +17455,8 @@ Gecen Tiger foreverg
 c1e6d532a272a928
 Gecen Tiger foreverg
 bc56b840557736f6
+dolphin dolphin_fvd_p1
+d125fa73936f9ae8
 
 migue_7
 Google sabrina
