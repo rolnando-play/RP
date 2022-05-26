@@ -6821,6 +6821,8 @@ streambus rk322x_box
 +18
 Android MDTV5G
 8af2bd358fbc0e57
+rockchip MK
+c9d763252b7c702a
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -7299,6 +7301,8 @@ Xiaomi oneday
 3ca85f1ed26b2ba2
 Xiaomi machuca
 21639cddd52d6264
+rockchip rk322x_box
+68bf8b437d47e922
 
 enriquelr
 Amazon sheldon
