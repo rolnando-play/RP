@@ -9363,6 +9363,8 @@ Allwinner dolphin-fvd-p1
 7d36b5bfc48032e9
 BTV p212
 150b534bdfae1b14
+Android MDTV5G
+1f7b51ceabb634
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -17341,6 +17343,8 @@ Google sabrina
 b290b221ce742de1
 samsung d1
 4f793dd7ac53cb65
+TCL UnionTV
+75627f7572358177
 
 f.artu +6
 Xiaomi vayu
@@ -17443,3 +17447,5 @@ samsung greatlte
 7abdd4550b75282a
 rockchip rk322x_box
 69ead1884d16ed0f
+i7 petrel-p1
+d15dcd2ce6078339
