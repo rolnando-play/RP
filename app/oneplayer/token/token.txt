@@ -17519,3 +17519,5 @@ Allwinner dolphin-fvd-p1
 btz.ma
 Xiaomi davinci
 31b3aeb941e91f43
+samsung z3q
+fc3d03d14f332e00
