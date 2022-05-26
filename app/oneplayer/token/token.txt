@@ -1763,6 +1763,8 @@ rockchip rk322x_box
 639a4479728fbedd
 rockchip rk322x_box
 ffb6cea8c74a4af4
+Android MDTV5G
+62d68108bf4e1cd8
 
 ruthgis
 S905W
@@ -7311,6 +7313,8 @@ rockchip rk322x_box
 37015837295226f
 Gecen Tiger foreverg
 eb1e97c139220cdf
+Gecen Tiger foreverg
+b837d759f0327a5a
 
 enriquelr
 Amazon sheldon
@@ -13601,6 +13605,8 @@ rockchip rk322x_box
 9d0c647ba4475eef
 HMD Global IRS
 0d2ae9dd8cd0dd3a
+dolphin dolphin_fvd_p1
+a8a3192334406ed9
 
 funcion20 +6 psc
 Android MDTV5G
@@ -17495,3 +17501,7 @@ Xiaomi ginkgo
 joservb2
 Google titan-p1
 5135fe0849eee7c6
+
+juankps+6 BCH
+dolphin dolphin_fvd_p1
+9577d268f68c6a3f
