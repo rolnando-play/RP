@@ -17223,6 +17223,8 @@ Android MDTV5G
 5ecca6aaee9a5155
 rockchip rk312x
 8442c06e2f76e3cd
+OnePlus OnePlus5
+7601ff16584d868d
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
