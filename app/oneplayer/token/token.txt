@@ -9365,6 +9365,8 @@ BTV p212
 150b534bdfae1b14
 Android MDTV5G
 1f7b51ceabb634
+samsung star2lte
+3ff46a2049a96313
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -15256,6 +15258,8 @@ dolphin dolphin_fvd_p1
 a19bcfced84559e3
 Amlogic p281
 adbb5820ff8a0873
+Amlogic p281
+8b5443e10fcd1c9b
 
 luisvill
 rockchip rk322x_box
@@ -16863,8 +16867,6 @@ Xiaomi oneday
 6b46bf6ce85922a8
 
 martinza +6 usdt
-rockchip MK
-6a8364f83b42fd1c
 dolphin dolphin_fvd_p1
 b0c455e13a1149e7
 
