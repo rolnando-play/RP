@@ -136,8 +136,8 @@ Google titan-p1
 mdt
 b72a5fe6c7289861
 +3
-rockchip rk322x_box
-1e2ce0363789f593
+Android MDTV5G
+91c0cb3ffa851bc8
 Xiaomi aquaman
 b45c390f18407761
 rockchip rk322x_box
@@ -10959,6 +10959,8 @@ rockchip rk322x_box
 de1d4b35bb832f2d
 Amlogic p281
 77dcb59b4f4be5bf
+dolphin dolphin_fvd_p1
+d4278426b69240e4
 
 gergod +6
 Amlogic franklin
@@ -15787,6 +15789,8 @@ Xiaomi croods
 ae75b8c203b7eeec
 rockchip rk322x_box
 885667094cd73ca2
+samsung a51
+e8f386659edd10ef
 
 angeltum
 Allwinner dolphin-fvd-p1
