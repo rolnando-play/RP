@@ -10510,6 +10510,8 @@ rockchip rk3328_box
 3f96acc22c47d3a2
 Allwinner dolphin-fvd-p1
 58541b666ccfde17
+Amazon sheldon
+788457434d37a863
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -17507,3 +17509,7 @@ Google titan-p1
 juankps+6 BCH
 dolphin dolphin_fvd_p1
 9577d268f68c6a3f
+
+manu.i +6
+Allwinner dolphin-fvd-p1
+638fd73978583973
