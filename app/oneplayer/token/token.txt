@@ -7972,6 +7972,8 @@ Amazon sheldonp
 25e017f881fa369b
 rockchip rk322x_box
 12f6ea9c6d36569f
+Amazon sheldon
+1989af7b615bf884
 
 valdeztv
 rockchip rk322x_box
@@ -17399,3 +17401,7 @@ rockchip rk322x_box
 rabanota
 Xiaomi oneday
 5cc471dbac57ab61
+
+fred.26
+samsung o1s
+4dbf9e1bd36009f8
