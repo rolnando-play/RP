@@ -6823,6 +6823,8 @@ Android MDTV5G
 8af2bd358fbc0e57
 rockchip MK
 c9d763252b7c702a
+rockchip MK
+e491896cdcd9ea4a
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -15374,6 +15376,8 @@ askey sti6140d360
 f01103ba90816bb1
 Amlogic p201
 38120d328e3716e8
+rockchip rk322x_box
+6400bd4caef91298
 
 aflei
 Amazon sheldonp
@@ -17421,6 +17425,10 @@ rockchip rk322x_box
 rabanota
 Xiaomi oneday
 5cc471dbac57ab61
+rockchip rk322x_box
+17865e700b94e8fc
+rockchip rk322x_box
+17865e700b94e8fc
 
 fred.26
 samsung o1s
