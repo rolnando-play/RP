@@ -3311,8 +3311,6 @@ rockchip rk3328_box
 derliscan
 Android MDTV5G
 983d34463e15ec3
-MBX m201_512m
-74112d1803a922d3
 Xiaomi oneday
 a85b22fd30ddf122
 
