@@ -13696,6 +13696,9 @@ Amazon tank
 3b8361386152068a
 rockchip rk322x_box
 285ea0a4822a8968
++5 psc
+Allwinner dolphin-fvd-p1
+eac07b565207e39c
 
 gustavoda
 Amazon sheldonp
