@@ -17581,6 +17581,8 @@ dolphin dolphin_fvd_p1
 manu.i +6
 Allwinner dolphin-fvd-p1
 638fd73978583973
+rockchip rk322x_box
+62087ebd2f89fd30
 
 btz.ma
 Xiaomi davinci
