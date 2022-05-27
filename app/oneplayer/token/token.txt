@@ -8984,6 +8984,8 @@ rockchip rk322x_box
 e85441fc24ce3363
 dolphin dolphin-fvd-p1
 cd54d28901abfa7e
+askey stephen
+b457ac62e776713c
 
 rr.23
 MTK cvt_mt5863_sa
@@ -11653,6 +11655,8 @@ Xiaomi oneday
 17ef4fb98b86a65f
 Xiaomi oneday
 4aaefcbdfa3000d7
+Xiaomi oneday
+cb0e1f53c1493a29
 
 waltervi
 rockchip rk322x_box
@@ -13320,8 +13324,6 @@ samsung r8q
 2da89565911e9a5e
 Xiaomi oneday
 408ffb37de73027f
-rockchip rk322x_box
-5631f7013a86dd52
 
 gustavocol
 Amazon sheldon
@@ -16843,6 +16845,8 @@ rockchip rk322x_box
 pameger
 Xiaomi surya
 51dc3455578d229f
+Xiaomi oneday
+191a6f4c0b4f8f41
 
 marcelogo
 Xiaomi joyeuse
@@ -17507,6 +17511,8 @@ d15dcd2ce6078339
 ricardo070 +18
 samsung r7
 7f0db2677f53bb1b
+HUAWEI HWYAL
+920bdab1fa7f8f7c
 
 guidog.
 Xiaomi ginkgo
@@ -17533,3 +17539,7 @@ fc3d03d14f332e00
 enriqueme
 rockchip rk322x_box
 7256fe353fc1ecb3
+
+cd-cab
+samsung a02
+53092ce648cc8d22
