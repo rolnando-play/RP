@@ -1820,6 +1820,8 @@ ae01f07bf7c99cee
 HMD Global WVR_sprout
 88fb6a228201f1a5
 +6
+Xiaomi vayu
+c94388830f2f5534
 
 seraqu
 Allwinner dolphin-fvd-p1
@@ -17580,6 +17582,8 @@ HUAWEI HWYAL
 guidog.
 Xiaomi ginkgo
 4197fb11c59e6901
+Amazon mantis
+96c57b29519cf545
 
 joservb2
 Google titan-p1
