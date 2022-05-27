@@ -15420,6 +15420,9 @@ Amlogic p201
 38120d328e3716e8
 rockchip rk322x_box
 6400bd4caef91298
++18
+Allwinner dolphin-fvd-p1
+46ed02ce4fad7901
 
 aflei
 Amazon sheldonp
@@ -16034,6 +16037,8 @@ Amlogic p281
 c4d4056d9a21de7a
 Amlogic p281
 68169d1b7accb665
+Amlogic p281
+9c49ed1d1c31b8fc
 
 franco.ca
 KTC_8G ktc_8g
@@ -17342,6 +17347,8 @@ Xiaomi monet
 jamh_7 +6
 OPPO OP4B80L1
 78cd7e2a58efdc2f
+Xiaomi aquaman
+a3f3dc649a57be1d
 
 fdaniel
 Amazon mantis
