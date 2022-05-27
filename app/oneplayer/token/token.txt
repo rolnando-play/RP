@@ -14247,6 +14247,8 @@ Xiaomi aquaman
 fb2dbfdf88b6e5f4
 Android MBOX
 ecc6f25e940adb23
+motorola caprip
+9dfa0a701e56b546
 
 ricardoro
 samsung beyond1
