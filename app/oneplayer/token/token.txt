@@ -1824,6 +1824,8 @@ HMD Global WVR_sprout
 seraqu
 Allwinner dolphin-fvd-p1
 54d003c08614da03
+Xiaomi oneday
+97667c217affb669
 
 jotajota
 HUAWEI HWELE
