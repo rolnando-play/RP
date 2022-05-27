@@ -7320,6 +7320,8 @@ b837d759f0327a5a
 +6
 XiaXiaomi aquaman
 23dac744edc886d1
+dolphin dolphin_fvd_p1
+cd0de85fa18da6e3
 
 enriquelr
 Amazon sheldon
@@ -9381,8 +9383,8 @@ BTV p212
 150b534bdfae1b14
 Android MDTV5G
 1f7b51ceabb634
-samsung star2lte
-3ff46a2049a96313
+samsung z3q
+6fa1f550f5d6f115
 Android MDTV5G
 c636e2c61f220118
 
@@ -17215,6 +17217,9 @@ rockchip rk322x_box
 41b943d5c0485b84
 dolphin dolphin-fvd-p1
 25b047e079a17a75
++6
+dolphin dolphin_fvd_p1
+783bccdabcd9eebf
 
 egsali +6
 samsung x1s
