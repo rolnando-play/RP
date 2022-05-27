@@ -17586,3 +17586,5 @@ Amlogic p282
 slcell7 +18
 samsung a71
 441b40b326e11d67
+rockchip rk322x_box
+ddb22782b5a3c341
