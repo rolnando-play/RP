@@ -5689,6 +5689,8 @@ df890a3a399b08e3
 +6
 rockchip rk322x_box
 45884a07cf522d3a
+rockchip rk322x_box
+fd75320951dd38ea
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -7685,6 +7687,8 @@ f2719644e38bacde
 +6 psc
 rockchip rk322x_box
 57a3ab84eda47361
+Android MDTV5G
+19286c6151bae689
 
 victorcor
 rockchip rk322x_box
@@ -15336,6 +15340,9 @@ Amlogic p281
 72c114150438cc51
 Amlogic p281
 ee1150531ee0245c
++15 usdt
+Amlogic p281
+c13f3952899c7c64
 
 luisvill
 rockchip rk322x_box
@@ -15461,6 +15468,8 @@ rockchip rk322x_box
 +18
 Allwinner dolphin-fvd-p1
 46ed02ce4fad7901
+rockchip rk322x_box
+b3f04439348280f9
 
 aflei
 Amazon sheldonp
