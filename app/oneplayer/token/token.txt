@@ -8979,7 +8979,8 @@ c76fb2caa7e19706
 +6
 rockchip rk322x_box
 e85441fc24ce3363
-
+dolphin dolphin-fvd-p1
+cd54d28901abfa7e
 
 rr.23
 MTK cvt_mt5863_sa
