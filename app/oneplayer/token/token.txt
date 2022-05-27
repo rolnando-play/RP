@@ -13679,6 +13679,8 @@ Xiaomi aquaman
 9c66275c4eba4d6f
 Amazon tank
 3b8361386152068a
+rockchip rk322x_box
+285ea0a4822a8968
 
 gustavoda
 Amazon sheldonp
