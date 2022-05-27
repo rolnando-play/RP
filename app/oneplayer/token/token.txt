@@ -11975,6 +11975,8 @@ rockchip rk322x_box
 f81c86a88dc8e972
 Allwinner dolphin-fvd-p1
 af65a8707d34a87a
+Amazon sheldon
+5bd9dd50dd1d2768
 
 ivanari
 rockchip rk322x_box
@@ -17563,3 +17565,9 @@ rockchip rk322x_box
 cd-cab
 samsung a02
 53092ce648cc8d22
+
+samuli
+Xiaomi aquaman
+f2f8468d14f0c734
+Amlogic p282
+565ad3b6e52d363f
