@@ -1819,6 +1819,7 @@ HMD Global WVR_sprout
 ae01f07bf7c99cee
 HMD Global WVR_sprout
 88fb6a228201f1a5
++6
 
 seraqu
 Allwinner dolphin-fvd-p1
@@ -17579,3 +17580,7 @@ Xiaomi aquaman
 f2f8468d14f0c734
 Amlogic p282
 565ad3b6e52d363f
+
+slcell7 +18
+samsung a71
+441b40b326e11d67
