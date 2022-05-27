@@ -3217,6 +3217,8 @@ rockchip rk322x_box
 454bdd9b2b613055
 samsung a12s
 fe7d0d99d86dca60
+dolphin dolphin_fvd_p1
+9e777ba27ea0d001
 
 aescobar9
 samsung y2s
