@@ -7324,6 +7324,10 @@ Xiaomi aquaman
 bb68ec69fa08810c
 dolphin dolphin_fvd_p1
 cd0de85fa18da6e3
+samsung a12s
+1fbe8dcb8b464031
+Xiaomi oneday
+4bcd92865564fda8
 
 enriquelr
 Amazon sheldon
@@ -9780,6 +9784,8 @@ Amazon sheldonp
 8b0937c3763df4e4
 Amazon sheldonp
 f89c388dfc555477
+Amazon sheldonp
+c6529b8fd798ba28
 
 claudiodan
 Xiaomi oneday
