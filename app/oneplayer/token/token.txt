@@ -17481,6 +17481,8 @@ rockchip rk322x_box
 fred.26
 samsung o1s
 4dbf9e1bd36009f8
+Xiaomi aquaman
+61da9e836a3e3ad4
 
 alfro2
 Gecen Tiger foreverg
