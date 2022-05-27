@@ -17612,6 +17612,8 @@ Xiaomi aquaman
 f2f8468d14f0c734
 Amlogic p282
 565ad3b6e52d363f
+Xiaomi aquaman
+838fce1ca3da6910
 
 slcell7 +18
 samsung a71
