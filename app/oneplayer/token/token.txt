@@ -17607,3 +17607,9 @@ samsung a71
 441b40b326e11d67
 rockchip rk322x_box
 ddb22782b5a3c341
+
+carlos@g
+samsung b2q
+0fe6206cde56f12d
+Xiaomi aquaman
+d1bedb7fbf597935
