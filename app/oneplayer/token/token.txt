@@ -14275,6 +14275,8 @@ Android MBOX
 ecc6f25e940adb23
 motorola caprip
 9dfa0a701e56b546
+MBX m201_512m
+af552dcfbe2d0608
 
 ricardoro
 samsung beyond1
