@@ -13606,8 +13606,8 @@ rockchip rk322x_box
 fe731be934d1991a
 
 andyke
-LENOVO TB-X505L
-858c9120fd3f365c
+HUAWEI HWANE
+fee3b1392480f54b
 Amazon mantis
 f33e5524d664bbda
 Xiaomi oneday
@@ -17882,3 +17882,7 @@ Xiaomi oneday
 2e882884443c7282
 samsung z3q
 b945bb960081dd74
+
+bogadora
+Xiaomi vayu
+800bb1a81bb0f34e
