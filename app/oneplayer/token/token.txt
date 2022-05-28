@@ -7356,6 +7356,8 @@ Android MBOX
 5ac616fae51a5c1f
 dolphin dolphin_fvd_p1
 bca2f09da5964697
+rockchip rk322x_box
+32e296d9e50848a5
 
 enriquelr
 Amazon sheldon
@@ -17349,6 +17351,8 @@ Google titan-p1
 fde9e3c4798ab176
 Google titan-p1
 0af85b69f9d49e94
+Google titan-p1
+131d38f0ab7e471c
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
