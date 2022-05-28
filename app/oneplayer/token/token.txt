@@ -3467,6 +3467,8 @@ rockchip rk322x_box
 60d0d4b85476951b
 rockchip rk3328_box
 85d0343e3ef804fd
+rockchip rk322x_box
+190779f0db494fe4
 
 guillermodu x6
 Xiaomi surya
@@ -7347,6 +7349,11 @@ rockchip rk322x_box
 ccc3e8949a01c2b1
 Amlogic p282
 6a20b95d880a0437
++12
+Android MBOX
+5ac616fae51a5c1f
+dolphin dolphin_fvd_p1
+bca2f09da5964697
 
 enriquelr
 Amazon sheldon
@@ -15508,6 +15515,8 @@ rockchip rk322x_box
 b3f04439348280f9
 rockchip rk322x_box
 b8163d1428d91cfb
+Xiaomi aquaman
+d454537af67800b8
 
 aflei
 Amazon sheldonp
@@ -17291,6 +17300,8 @@ HMD Global YDU
 soporte@ah
 MediaTeck mt5867
 a7c60846b6c919c1
+rockchip MK
+65d72732405aefd4
 
 mendozaov
 Amazon sheldonp
@@ -17334,6 +17345,8 @@ OnePlus OnePlus5
 7601ff16584d868d
 Google titan-p1
 fde9e3c4798ab176
+Google titan-p1
+0af85b69f9d49e94
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
