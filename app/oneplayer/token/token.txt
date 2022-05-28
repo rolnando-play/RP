@@ -7343,6 +7343,8 @@ Xiaomi oneday
 4bcd92865564fda8
 rockchip rk322x_box
 ccc3e8949a01c2b1
+Amlogic p282
+6a20b95d880a0437
 
 enriquelr
 Amazon sheldon
