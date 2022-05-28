@@ -3227,6 +3227,8 @@ samsung a12s
 fe7d0d99d86dca60
 dolphin dolphin_fvd_p1
 9e777ba27ea0d001
+rockchip rk322x_box
+c7ed7e731d320090
 
 aescobar9
 samsung y2s
@@ -6854,6 +6856,10 @@ rockchip MK
 e491896cdcd9ea4a
 Android MBOX
 78e8e2f1ab9b4d71
+rockchip MK
+1b2cebba02b379b5
+rockchip MK
+21a0c92b3892786
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -7370,6 +7376,14 @@ Amlogic p201
 6246d5634c9e8146
 Allwinner dolphin-fvd-p1
 8354c2d7743dc633
+rockchip MK
+22b69696e6bbaa56
+Android MDTV5G
+ffac7a947c7236d6
+Android MDTV5G
+7ba06498bc2a158e
+Android MDTV5G
+ef6569559f470534
 
 enriquelr
 Amazon sheldon
@@ -10592,6 +10606,8 @@ Amazon sheldon
 788457434d37a863
 rockchip rk322x_box
 ffda72cfe73241cf
+Hisilicon CVTE_Hi3751V320_512M
+b148cb95fe544a31
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -16797,6 +16813,8 @@ b24c165a0706aacf
 luisgua
 Xiaomi sweet
 71bf6c92a68cbe06
+Amazon maverick
+93500abce80e3ebe
 
 armanding5
 samsung p3s
