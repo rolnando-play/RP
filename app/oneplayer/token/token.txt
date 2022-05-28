@@ -9822,6 +9822,8 @@ Amazon sheldonp
 c6529b8fd798ba28
 rockchip rk322x_box
 bce6f077e69e634f
+Android MBOX
+bec0f3cb1669d297
 
 claudiodan
 Xiaomi oneday
@@ -15664,6 +15666,8 @@ be7bfaa9d929adbb
 +3
 GOBox gobox
 ee0b82ff79941945
+dolphin dolphin_fvd_p1
+a127ddb574b44378
 
 maurica +6
 HUAWEI HWVOG
