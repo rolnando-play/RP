@@ -17826,3 +17826,7 @@ samsung a12s
 baa408a19fe3900a
 rockchip rk322x_box
 f80e8c45002a4d74
+
+chelo. +9
+samsung q2q
+2bd7df94be3b5ff3
