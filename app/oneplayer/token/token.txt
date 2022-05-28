@@ -8030,6 +8030,8 @@ Allwinner dolphin-fvd-p1
 f3888146df85b1d2
 Android MDTV5G
 af3005809c7ede63
+MTK cvt_mt5863_sa
+7c5ed6e68015d03d
 
 jjuan
 Xiaomi aquaman
@@ -16408,6 +16410,8 @@ OnePlus OnePlus7T
 61b594d9c3d6fd48
 Xiaomi oneday
 0518853f40eadfa9
+Google sabrina
+a8dad90ac5ef5b1d
 
 carlos19
 Amlogic X96W
@@ -16630,6 +16634,10 @@ HUAWEI HWELE
 +6
 HUAWEI HWELE
 fa67f62d62d8e70c
+Allwinner dolphin-fvd-p1
+5c26e36e3ec803ce
+Xiaomi ginkgo 
+24f5c89cd9d1827d
 
 roloca
 MTK cvt_mt5886_sa
@@ -17392,6 +17400,8 @@ Google titan-p1
 131d38f0ab7e471c
 Allwinner dolphin-fvd-p1
 8d0135c4987701
+Google walleye
+edfef462b73506b9
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
