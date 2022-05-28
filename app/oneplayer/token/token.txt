@@ -8701,6 +8701,9 @@ rockchip rk322x_box
 a1dba97d91bbe469
 rockchip rk322x_box
 efb4c81e7f278016
++18
+MTK cvt_mt5863_sa
+4c03c5a1b46cf1a7
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -8774,6 +8777,8 @@ Google titan-p1
 607efce18d8c5d9b
 Allwinner dolphin-fvd-p1
 4b10e4257407b7e5
+rockchip rk322x_box
+4980218b2e359674
 
 j88be
 Google walleye
