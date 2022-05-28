@@ -7386,6 +7386,9 @@ Android MDTV5G
 ef6569559f470534
 rockchip rk322x_box
 ae3bc1567742b47e
++
+MTK cvt_mt5863_sa
+7e6200cbfa72da4b
 
 enriquelr
 Amazon sheldon
@@ -15486,6 +15489,8 @@ Amlogic p281
 2ad22cf43c437924
 Amlogic p281
 839e5363bd3e7ac2
+Amlogic p281
+c60d64b111d86e98
 
 luisvill
 rockchip rk322x_box
@@ -17119,6 +17124,8 @@ rockchip rk322x_box
 ca80c782d115aa50
 samsung a50
 e2b74c3314b6089b
+MBOX dolphin-p1
+7f831e9289bae8e7
 
 guscor
 samsung a71
@@ -17815,6 +17822,8 @@ rockchip rk322x_box
 ddb22782b5a3c341
 dolphin dolphin_fvd_p1
 65ddecd65164a3e4
+rockchip rk322x_box
+803ccc4c1607c576
 
 carlos@g
 samsung b2q
