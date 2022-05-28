@@ -17693,3 +17693,7 @@ MBOX dolphin-p1
 celestekris
 ZTE P963F60
 dfdae7fc9ea9dca0
+
+benitezpa
+samsung a12s
+baa408a19fe3900a
