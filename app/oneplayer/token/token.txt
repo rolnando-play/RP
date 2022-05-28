@@ -425,6 +425,8 @@ rockchip rk322x_box
 Amazon sheldon
 0d926386d4eda37d
 +3
+rockchip rk322x_box
+bb959ab03d97fc90
 
 AQuinonez
 S905W
@@ -7362,6 +7364,8 @@ rockchip rk322x_box
 25d63a75799a7dcf
 rockchip rk322x_box
 11f4ea391d232c8d
+Amlogic p201
+6246d5634c9e8146
 
 enriquelr
 Amazon sheldon
@@ -8673,6 +8677,8 @@ MBOX dolphin-p1
 d42beda11015740c
 rockchip rk322x_box
 a1dba97d91bbe469
+rockchip rk322x_box
+efb4c81e7f278016
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11041,6 +11047,8 @@ Google titan-p1
 806a2c696914f53e
 rockchip rk3318
 8c80ce3639cd29a1
+Amlogic p281
+4b803d799b11b653
 
 gergod +6
 Amlogic franklin
@@ -13394,6 +13402,8 @@ samsung r8q
 2da89565911e9a5e
 Xiaomi oneday
 408ffb37de73027f
+rockchip rk322x_box
+a1fea8904968186c
 
 gustavocol
 Amazon sheldon
@@ -15406,6 +15416,8 @@ Amlogic p281
 6dd3c0ec6c51cb3
 Amlogic p281
 a269e01d4ded3632
+Amlogic p281
+2ad22cf43c437924
 
 luisvill
 rockchip rk322x_box
