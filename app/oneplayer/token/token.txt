@@ -1765,6 +1765,8 @@ rockchip rk322x_box
 ffb6cea8c74a4af4
 Android MDTV5G
 62d68108bf4e1cd8
+Android MDTV5G
+2ae7c08b5c542df
 
 ruthgis
 S905W
