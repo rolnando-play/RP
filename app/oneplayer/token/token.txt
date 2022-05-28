@@ -16597,6 +16597,8 @@ TCL BeyondTV
 0076fe138e455949
 Xiaomi oneday
 1bae778548b26265
+rockchip rockchip006
+e09fa9bfbfcb3bc7
 
 roloca
 MTK cvt_mt5886_sa
