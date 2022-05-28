@@ -4040,7 +4040,7 @@ b97068b2dcfef3ff
 Xiaomi oneday
 ebd16bc848a91388
 Xiaomi vayu
-ecedd5f0306819f2
+5d0685a4b949a194
 MINIX NEO-X8H-PLUS
 495e0b9d312ace39
 Xiaomi lavender
@@ -7341,6 +7341,8 @@ samsung a12s
 1fbe8dcb8b464031
 Xiaomi oneday
 4bcd92865564fda8
+rockchip rk322x_box
+ccc3e8949a01c2b1
 
 enriquelr
 Amazon sheldon
@@ -9803,6 +9805,8 @@ Amazon sheldonp
 f89c388dfc555477
 Amazon sheldonp
 c6529b8fd798ba28
+rockchip rk322x_box
+bce6f077e69e634f
 
 claudiodan
 Xiaomi oneday
@@ -15357,6 +15361,20 @@ ee1150531ee0245c
 +15 usdt
 Amlogic p281
 c13f3952899c7c64
+Amlogic p281
+deae1d61ba6ecf4f
+Amlogic p281
+cbb5bf37b538255d
+Amlogic p281
+dd0475f7126050e3
+Amlogic p281
+cf2d0b65b2ecaabe
+Amlogic p281
+d6168cab0cae02e9
+Amlogic p281
+6dd3c0ec6c51cb3
+Amlogic p281
+a269e01d4ded3632
 
 luisvill
 rockchip rk322x_box
@@ -17121,6 +17139,8 @@ dolphin dolphin_fvd_p1
 fcb97d8dadf85c25
 rockchip rk322x_box
 df0186ec899b8684
+rockchip rk3328_box
+8e6cc4576e149fdb
 
 margoa
 Xiaomi galahad
