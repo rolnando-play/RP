@@ -590,6 +590,8 @@ Amazon sheldon
 916b31bc5c35690b
 Xiaomi oneday
 9d54c0e90d433ca0
+rockchip rk322x_box
+cbc4e2e0c4638855
 +3
 
 ampi_h
