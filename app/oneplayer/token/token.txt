@@ -6300,6 +6300,8 @@ Android MBOX
 58c428f0d2990cf1
 rockchip MK
 d9d4cdb9f54dd604
+rockchip rk322x_box
+5301f69349da50b7
 
 joiseg +6 psc
 Amazon sheldon
@@ -10545,6 +10547,8 @@ Allwinner dolphin-fvd-p1
 58541b666ccfde17
 Amazon sheldon
 788457434d37a863
+rockchip rk322x_box
+ffda72cfe73241cf
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -15478,6 +15482,8 @@ Allwinner dolphin-fvd-p1
 46ed02ce4fad7901
 rockchip rk322x_box
 b3f04439348280f9
+rockchip rk322x_box
+b8163d1428d91cfb
 
 aflei
 Amazon sheldonp
@@ -17640,3 +17646,5 @@ d1bedb7fbf597935
 velaztiquilu
 MBOX dolphin-p1
 e2a20c7ab4377c76
+MBOX dolphin-p1
+926872c7d10607d2
