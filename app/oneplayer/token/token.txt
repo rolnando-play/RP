@@ -16601,6 +16601,8 @@ Xiaomi oneday
 1bae778548b26265
 rockchip rockchip006
 e09fa9bfbfcb3bc7
+HUAWEI HWELE
+5761e5df89f3b16f
 
 roloca
 MTK cvt_mt5886_sa
