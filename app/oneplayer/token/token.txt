@@ -9461,6 +9461,8 @@ samsung z3q
 6fa1f550f5d6f115
 Android MDTV5G
 c636e2c61f220118
+rockchip MK
+98b1ccdcc52cccd0
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -17776,6 +17778,8 @@ Allwinner dolphin-fvd-p1
 638fd73978583973
 rockchip rk322x_box
 62087ebd2f89fd30
+HMD Global ROGA_sprout
+0448eeee59194848
 
 btz.ma
 Xiaomi davinci
@@ -17832,3 +17836,11 @@ f80e8c45002a4d74
 chelo. +9
 samsung q2q
 2bd7df94be3b5ff3
+
+franciscoro
+samsung starqltechn
+ef6aeb71b9adb82d
+
+nett +6
+Xiaomi oneday
+255f04e2d732ccb9
