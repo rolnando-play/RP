@@ -13740,6 +13740,8 @@ rockchip rk322x_box
 +5 psc
 Allwinner dolphin-fvd-p1
 eac07b565207e39c
+Android MBOX
+f5b8823ebff9b2a0
 
 gustavoda
 Amazon sheldonp
