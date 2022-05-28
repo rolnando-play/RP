@@ -7384,6 +7384,8 @@ Android MDTV5G
 7ba06498bc2a158e
 Android MDTV5G
 ef6569559f470534
+rockchip rk322x_box
+ae3bc1567742b47e
 
 enriquelr
 Amazon sheldon
@@ -17750,6 +17752,8 @@ samsung r7
 7f0db2677f53bb1b
 HUAWEI HWYAL
 920bdab1fa7f8f7c
+Xiaomi merlin
+8d34081f03765c60
 
 guidog.
 Xiaomi ginkgo
