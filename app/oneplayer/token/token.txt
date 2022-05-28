@@ -14404,6 +14404,8 @@ samsung dreamlte
 cbf7e56c43eef69c
 Amlogic p281
 d5cd90a07f7382f6
+HUAWEI HWSTK-HF
+92591ca59cf3f866
 
 tvboxp +5 psc
 MBOX dolphin-p1
