@@ -12638,6 +12638,8 @@ Xiaomi surya
 5659831c95068da2
 Google sabrina
 a0d6dc07243e77d9
+realme RMX3261
+dd29d0e01e051c21
 
 candid
 Amazon sheldon
