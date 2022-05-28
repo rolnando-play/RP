@@ -9549,6 +9549,8 @@ rockchip rk322x_box
 68565b0825152553
 rockchip rk322x_box
 3c2058f3ca6e52df
+Android MDTV5G
+a856cdf19cd8aeb1
 
 pjc0910 +9
 rockchip rk322x_box
@@ -16613,6 +16615,9 @@ rockchip rockchip006
 e09fa9bfbfcb3bc7
 HUAWEI HWELE
 5761e5df89f3b16f
++6
+HUAWEI HWELE
+fa67f62d62d8e70c
 
 roloca
 MTK cvt_mt5886_sa
