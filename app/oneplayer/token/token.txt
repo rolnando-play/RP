@@ -9840,6 +9840,8 @@ rockchip rk322x_box
 bce6f077e69e634f
 Android MBOX
 bec0f3cb1669d297
+Amazon sheldonp
+2e07364ca45fbcdb
 
 claudiodan
 Xiaomi oneday
@@ -17374,6 +17376,10 @@ dolphin dolphin-fvd-p1
 +6
 dolphin dolphin_fvd_p1
 783bccdabcd9eebf
+OnePlus OnePlus5
+252c7e0e754cc844
+rockchip rk3328_box
+eaef84344aa3d82e
 
 egsali +6
 samsung x1s
