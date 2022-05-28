@@ -9070,6 +9070,8 @@ dolphin dolphin-fvd-p1
 cd54d28901abfa7e
 askey stephen
 b457ac62e776713c
+askey stephen
+4b3657bc13a1de78
 
 rr.23
 MTK cvt_mt5863_sa
@@ -15622,6 +15624,8 @@ rockchip rk322x_box
 b8163d1428d91cfb
 Xiaomi aquaman
 d454537af67800b8
+Xiaomi oneday
+53c1224b404560a8
 
 aflei
 Amazon sheldonp
