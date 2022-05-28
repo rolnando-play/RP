@@ -16151,6 +16151,8 @@ Amazon sheldon
 4198f63659667681
 Xiaomi machuca
 d141f447e1503aed
+Amazon sheldonp
+3db460c015287d8a
 
 manfredkl
 Google titan-p1
