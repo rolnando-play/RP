@@ -7391,6 +7391,8 @@ ae3bc1567742b47e
 +
 MTK cvt_mt5863_sa
 7e6200cbfa72da4b
+dolphin SBQ-SM007
+1141b4d267f2be40
 
 enriquelr
 Amazon sheldon
@@ -17874,3 +17876,7 @@ ef6aeb71b9adb82d
 nett +6
 Xiaomi oneday
 255f04e2d732ccb9
+
+neuwes
+Xiaomi oneday
+2e882884443c7282
