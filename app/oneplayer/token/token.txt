@@ -17636,3 +17636,7 @@ samsung b2q
 0fe6206cde56f12d
 Xiaomi aquaman
 d1bedb7fbf597935
+
+velaztiquilu
+MBOX dolphin-p1
+e2a20c7ab4377c76
