@@ -7360,6 +7360,8 @@ rockchip rk322x_box
 32e296d9e50848a5
 rockchip rk322x_box
 25d63a75799a7dcf
+rockchip rk322x_box
+11f4ea391d232c8d
 
 enriquelr
 Amazon sheldon
@@ -11031,6 +11033,12 @@ dolphin dolphin_fvd_p1
 d4278426b69240e4
 MBOX dolphin-p1
 c358ddc96226edaa
+Google titan-p1
+234efbb6745f171c
+Google titan-p1
+806a2c696914f53e
+rockchip rk3318
+8c80ce3639cd29a1
 
 gergod +6
 Amlogic franklin
