@@ -17353,6 +17353,8 @@ Google titan-p1
 0af85b69f9d49e94
 Google titan-p1
 131d38f0ab7e471c
+Allwinner dolphin-fvd-p1
+8d0135c4987701
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
@@ -17703,3 +17705,5 @@ dfdae7fc9ea9dca0
 benitezpa
 samsung a12s
 baa408a19fe3900a
+rockchip rk322x_box
+f80e8c45002a4d74
