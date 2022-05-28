@@ -4745,6 +4745,8 @@ rockchip rk3328_box
 f9ce0da11f442a47
 rockchip rk3328_box
 a55713b51481d7e2
+Amazon sheldon
+4998f6799d2b0f7a
 
 180agro
 rockchip rk322x_box
@@ -10622,6 +10624,8 @@ rockchip rk322x_box
 ffda72cfe73241cf
 Hisilicon CVTE_Hi3751V320_512M
 b148cb95fe544a31
+rockchip rk322x_box
+6bd577c7b9f9116e
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -17675,7 +17679,9 @@ HUAWEI HWJKM-H
 03fa7543ce18a3ca
 rockchip rk3328_box
 d7069e721a5ae478
-
+rockchip rk322x_box
+5d59cff4bd907b8d
+ 
 udeant
 HUAWEI HWVOG
 5feee7fd7191af49
