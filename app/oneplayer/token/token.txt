@@ -7368,6 +7368,8 @@ rockchip rk322x_box
 11f4ea391d232c8d
 Amlogic p201
 6246d5634c9e8146
+Allwinner dolphin-fvd-p1
+8354c2d7743dc633
 
 enriquelr
 Amazon sheldon
@@ -15424,6 +15426,8 @@ Amlogic p281
 a269e01d4ded3632
 Amlogic p281
 2ad22cf43c437924
+Amlogic p281
+839e5363bd3e7ac2
 
 luisvill
 rockchip rk322x_box
@@ -17740,6 +17744,8 @@ samsung a71
 441b40b326e11d67
 rockchip rk322x_box
 ddb22782b5a3c341
+dolphin dolphin_fvd_p1
+65ddecd65164a3e4
 
 carlos@g
 samsung b2q
