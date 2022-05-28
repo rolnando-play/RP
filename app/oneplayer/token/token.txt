@@ -5697,6 +5697,8 @@ rockchip rk322x_box
 45884a07cf522d3a
 rockchip rk322x_box
 fd75320951dd38ea
+Android MDTV5G
+f901150007b51702
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -17330,6 +17332,8 @@ rockchip rk312x
 8442c06e2f76e3cd
 OnePlus OnePlus5
 7601ff16584d868d
+Google titan-p1
+fde9e3c4798ab176
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
