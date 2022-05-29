@@ -4212,6 +4212,8 @@ faeb07aad44ecad3
 diegoe
 samsung p3s
 1e6aab01347b26f5
+TCL C06
+e79ea4a7e6f89a8f
 
 cristianma +6 psc
 HUAWEI HWDRA-MG
