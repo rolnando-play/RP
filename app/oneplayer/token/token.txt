@@ -9599,6 +9599,8 @@ rockchip rk322x_box
 3c2058f3ca6e52df
 Android MDTV5G
 a856cdf19cd8aeb1
+Android MDTV5G
+5578d102db95beab
 
 pjc0910 +9
 rockchip rk322x_box
@@ -17781,6 +17783,8 @@ d125fa73936f9ae8
 +6
 Gecen Tiger foreverg
 8c5b3fddf78c337f
+Gecen Tiger foreverg
+a1a53106063ab5aa
 
 migue_7
 Google sabrina
@@ -17931,6 +17935,8 @@ dolphin dolphin_fvd_p1
 f98a6b0796383762
 rockchip rk322x_box
 98e3928dc91d045b
+MBOX dolphin-p1
+edac2f8b3ef813c7
 
 cadavid
 Sony BRAVIA_ATV2
