@@ -17949,6 +17949,8 @@ rockchip rk322x_box
 98e3928dc91d045b
 MBOX dolphin-p1
 edac2f8b3ef813c7
+MTK cvt_mt5863_sa
+c3ff794ab52401e2
 
 cadavid
 Sony BRAVIA_ATV2
