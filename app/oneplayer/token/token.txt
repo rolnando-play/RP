@@ -4214,6 +4214,8 @@ samsung p3s
 1e6aab01347b26f5
 TCL C06
 e79ea4a7e6f89a8f
+VS KM6
+08ce6479d461e533
 
 cristianma +6 psc
 HUAWEI HWDRA-MG
@@ -15508,6 +15510,8 @@ Amlogic p281
 839e5363bd3e7ac2
 Amlogic p281
 c60d64b111d86e98
+dolphin dolphin_fvd_p1
+88fd2c40cb5e0aa5
 
 luisvill
 rockchip rk322x_box
@@ -17939,3 +17943,9 @@ Xiaomi curtana
 0a309055fa8514c0
 HXY BISON
 f2756d2f8295907a
+OPPO OP4B79L1
+2ed904f77c34bf1e
+
+antonipu
+Gecen Tiger foreverg
+d1df49a41b3ae99b
