@@ -15524,6 +15524,10 @@ dolphin dolphin-fvd-p1
 631e9c6a959773f5
 Amlogic p281
 9d3e66ba996c11ba
+Amlogic p281
+b4bd8fd8e5f5f54d
+Amlogic p281
+893753e7d2185f0a
 
 luisvill
 rockchip rk322x_box
@@ -17969,3 +17973,5 @@ d1df49a41b3ae99b
 djsamm
 Xiaomi aquaman
 63aaa37994414a99
+Amazon sheldon
+3db819f65becc492
