@@ -17907,3 +17907,5 @@ Hisense xiaoyushan
 cdenisfe
 Android MDTV5G
 ce8abf7bc5f09638
+Xiaomi begonia
+f6e6467235c9cc31
