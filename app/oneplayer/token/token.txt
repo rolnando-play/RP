@@ -17894,3 +17894,7 @@ Xiaomi vayu
 a262f25f5fe9e5f4
 Hisense xiaoyushan
 9991d4f195959b5d
+
+cdenisfe
+Android MDTV5G
+ce8abf7bc5f09638
