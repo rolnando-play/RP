@@ -11093,6 +11093,9 @@ rockchip rk3318
 8c80ce3639cd29a1
 Amlogic p281
 4b803d799b11b653
++18
+Google titan-p1
+63efd42224bf8403
 
 gergod +6
 Amlogic franklin
@@ -15851,6 +15854,8 @@ samsung a31
 9f09888313a0458e
 Allwinner dolphin-fvd-p1
 5f1442309fc043f2
+Xiaomi croods
+0b03b6ca77ebc1d0
 
 everarn
 Xiaomi oneday
@@ -17669,6 +17674,10 @@ Amazon tank
 5a0a1bb5fb168b7e
 Xiaomi aquaman
 822e749a9e3eeff5
+Amazon sheldon
+0e8f1a5263f6003a
+rockchip rk322x_box
+486ffebda218dca6
 
 elpablo6
 Xiaomi oneday
