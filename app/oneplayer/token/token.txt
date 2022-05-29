@@ -15522,6 +15522,8 @@ dolphin dolphin_fvd_p1
 88fd2c40cb5e0aa5
 dolphin dolphin-fvd-p1
 631e9c6a959773f5
+Amlogic p281
+9d3e66ba996c11ba
 
 luisvill
 rockchip rk322x_box
@@ -16611,7 +16613,7 @@ HUAWEI HWSTK-HF
 
 vinotin
 Lenovo zippo
-0c40d60f1eaeaf97
+010f2744b9051167
 Allwinner dolphin-fvd-p1
 8f3c1532d81ab8d0
 
