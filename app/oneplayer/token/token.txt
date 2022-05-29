@@ -6970,7 +6970,7 @@ samsung a5y17lte
 ed1d44cac74cd477
 +9
 MTK cvt_mt5863_sa
-ac69fbbbb177bcd4
+f7ddfd32b3dc5334
 Allwinner dolphin-fvd-p1
 604994cf6073c40c
 rockchip rk322x_box
@@ -17777,6 +17777,8 @@ Gecen Tiger foreverg
 migue_7
 Google sabrina
 58b2c71f492555d5
+Amazon mantis
+5c5d5606c71f3926
 
 franciscora +6
 samsung star2qltesq
