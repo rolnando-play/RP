@@ -17917,3 +17917,7 @@ f98a6b0796383762
 cadavid
 Sony BRAVIA_ATV2
 b004a6ee1749433b
+
+davidco
+Xiaomi begonia
+f69a14fdec043981
