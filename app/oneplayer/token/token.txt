@@ -17923,6 +17923,8 @@ rockchip rk322x_box
 cadavid
 Sony BRAVIA_ATV2
 b004a6ee1749433b
+Xiaomi oneday
+e63ac082225c064c
 
 davidco
 Xiaomi begonia
