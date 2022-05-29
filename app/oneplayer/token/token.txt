@@ -4067,6 +4067,8 @@ fc33687a76a33efe
 +6
 askey sti6140d360
 2f4be3abfefd18f5
+Amlogic p281
+ad874f74b724a0be
 
 pekho +9
 Google sabrina
@@ -9601,6 +9603,8 @@ Android MDTV5G
 a856cdf19cd8aeb1
 Android MDTV5G
 5578d102db95beab
+Android MDTV5G
+d0ac4ae32ad23977
 
 pjc0910 +9
 rockchip rk322x_box
