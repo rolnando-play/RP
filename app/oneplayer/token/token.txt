@@ -10632,6 +10632,8 @@ Hisilicon CVTE_Hi3751V320_512M
 b148cb95fe544a31
 rockchip rk322x_box
 6bd577c7b9f9116e
+Android MBOX
+a22f1f95d76fdb5f
 
 danieljo
 Allwinner dolphin-fvd-p1
