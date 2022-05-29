@@ -17907,6 +17907,8 @@ samsung q2q
 2bd7df94be3b5ff3
 Gecen Tiger foreverg
 26ecdaea9b5fc6b
+Xiaomi ginkgo
+4168f3e2ab5c3304
 
 franciscoro
 samsung starqltechn
