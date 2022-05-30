@@ -6885,6 +6885,8 @@ rockchip MK
 cee781eb0e10f6be
 Amlogic p281
 d2b32450ea8c78d2
+rockchip MK
+93671bc298092c29
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -17644,11 +17646,11 @@ obaez1
 Xiaomi oneday
 7ea99143e413e1f5
 
-galenaoan
+galeanoan
 samsung beyond0
 bed50b1fe515cd57
 Amlogic p281
-3c22345f631fcdcc
+b5a9f50560081599
 Allwinner dolphin-fvd-p1
 7d93ac3bb7541e4
 
