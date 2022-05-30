@@ -12562,6 +12562,8 @@ Xiaomi oneday
 db7e2416af5186ef
 (MBOX dolphin-p1
 b2f2d283bdeaaeb0
+rockchip rk322x_box
+7b0f70cab33416a0
 
 arevalosve
 Amazon sheldonp
