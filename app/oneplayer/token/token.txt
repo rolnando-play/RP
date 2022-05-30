@@ -9928,6 +9928,8 @@ Amazon sheldonp
 +18
 rockchip rk322x_box
 681828fb33d1dacb
+Amazon sheldon
+ad7dbfb4a217b7a5
 
 claudiodan
 Xiaomi oneday
@@ -18000,6 +18002,8 @@ Gecen Tiger foreverg
 26ecdaea9b5fc6b
 Xiaomi ginkgo
 4168f3e2ab5c3304
+Gecen Tiger foreverg
+36d378704eb45725
 
 franciscoro
 samsung starqltechn
