@@ -6883,6 +6883,8 @@ rockchip MK
 21a0c92b3892786
 rockchip MK
 cee781eb0e10f6be
+Amlogic p281
+d2b32450ea8c78d2
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -9923,6 +9925,9 @@ Android MBOX
 bec0f3cb1669d297
 Amazon sheldonp
 2e07364ca45fbcdb
++18
+rockchip rk322x_box
+681828fb33d1dacb
 
 claudiodan
 Xiaomi oneday
@@ -13102,7 +13107,7 @@ Xiaomi aquaman
 rockchip rk322x_box
 f3abecde8eb1b07f
 Android MDTV5G
-f9a6a121a9ffc088
+66d54b35cc0386c
 MBOX dolphin-p1
 b946be0f7a7383a6
 rockchip rk322x_box
