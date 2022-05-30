@@ -1220,6 +1220,8 @@ rockchip rk322x_box
 76e2e9fd300afb6c
 rockchip rk322x_box
 5b8b231596e34e33
+rockchip rk322x_box
+dab38fe99406cd28
 
 rtomas
 d60a22d61c15d036
@@ -2212,6 +2214,8 @@ Amazon sheldon
 96d79951e7a0d396
 Amazon sheldon
 fd9a41938c3309fe
+Android MBOX
+8b51786bd9c9072
 
 ricar.fu
 HUAWEI HWMAR
@@ -7419,6 +7423,8 @@ rockchip rk322x_box
 30421f690682687b
 MTK cvt_mt5863_sa
 7b42b0bfa0e4eaa
+rockchip rk322x_box
+d626d77f81e53a64
 
 enriquelr
 Amazon sheldon
@@ -8085,6 +8091,8 @@ Android MDTV5G
 af3005809c7ede63
 MTK cvt_mt5863_sa
 7c5ed6e68015d03d
+rockchip rk322x_box
+e943a7a3efbef496
 
 jjuan
 Xiaomi aquaman
@@ -10660,6 +10668,8 @@ rockchip rk322x_box
 6bd577c7b9f9116e
 Android MBOX
 a22f1f95d76fdb5f
+Amazon mantis
+d1c4dc5ee9ae6c68
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18050,3 +18060,7 @@ b55c775747d6e133
 wilfrio.m
 motorola potter_n
 7922607531aace34
+
+tungus
+Pixel Core Hi3798MV200
+66644c767c8ac3ba
