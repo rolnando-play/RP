@@ -1218,6 +1218,8 @@ samsung a12s
 3c92ef43c33f108c
 rockchip rk322x_box
 76e2e9fd300afb6c
+rockchip rk322x_box
+5b8b231596e34e33
 
 rtomas
 d60a22d61c15d036
@@ -7408,6 +7410,8 @@ rockchip rk322x_box
 3e8f2e09b2c34000
  rockchip MK
 32018674a15d7b21
+TECNO MOBILE LIMITED TECNO-CE7j
+f1823e21237d6cd3
 
 enriquelr
 Amazon sheldon
@@ -18020,3 +18024,7 @@ db6fbd830a96b5a9
 blasrav
 motorola odessa
 293aeace59dc6490
+
+mathiasle
+Amazon sheldon
+9c4d8edaeadcd490
