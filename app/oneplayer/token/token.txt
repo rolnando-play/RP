@@ -17855,6 +17855,8 @@ Gecen Tiger foreverg
 8c5b3fddf78c337f
 Gecen Tiger foreverg
 a1a53106063ab5aa
+rockchip rk322x_box
+3330e164c84587ad
 
 migue_7
 Google sabrina
@@ -18073,3 +18075,7 @@ motorola potter_n
 tungus
 Pixel Core Hi3798MV200
 66644c767c8ac3ba
+
+sreami
+Amlogic p281
+5dcf17434295405f
