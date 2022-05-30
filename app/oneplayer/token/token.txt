@@ -7412,6 +7412,10 @@ rockchip rk322x_box
 32018674a15d7b21
 TECNO MOBILE LIMITED TECNO-CE7j
 f1823e21237d6cd3
+rockchip rk322x_box
+54362c0f368041a2
+ rockchip rk322x_box
+6fe960a2ddc447cf
 
 enriquelr
 Amazon sheldon
@@ -17874,6 +17878,8 @@ dolphin dolphin_fvd_p1
 9577d268f68c6a3f
 Google walleye
 252ab55ff33ff915
+Google walleye
+b9fbb495e6c996e1
 
 manu.i +6
 Allwinner dolphin-fvd-p1
