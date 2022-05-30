@@ -5208,6 +5208,8 @@ Xiaomi joyeuse
 1873281c2b500dd5
 motorola kane_sprout
 a3c0b710af22ad92
+samsung a02
+deebadff77a58c21
 
 falope
 Amlogic p281
