@@ -7403,7 +7403,6 @@ MTK cvt_mt5863_sa
 7e6200cbfa72da4b
 dolphin SBQ-SM007
 1141b4d267f2be40
-JUNIOR GONZALEZ:
 Android MX9PRO
 89dfa07e8bf0de81
 rockchip rk322x_box
@@ -7416,6 +7415,10 @@ rockchip rk322x_box
 54362c0f368041a2
  rockchip rk322x_box
 6fe960a2ddc447cf
+rockchip rk322x_box
+30421f690682687b
+MTK cvt_mt5863_sa
+7b42b0bfa0e4eaa
 
 enriquelr
 Amazon sheldon
@@ -10634,7 +10637,8 @@ rockchip rk3318
 0834d23db364ae39
 rockchip rk322x_box
 86dc73a25143ac70
-
+rockchip MK
+7df2d39b1a8c4e5c
 dolphin dolphin_fvd_p1
 40a6d99cd633576c
 +18
@@ -17880,6 +17884,8 @@ Google walleye
 252ab55ff33ff915
 Google walleye
 b9fbb495e6c996e1
+Google walleye
+dd952ddc081d6dc6
 
 manu.i +6
 Allwinner dolphin-fvd-p1
