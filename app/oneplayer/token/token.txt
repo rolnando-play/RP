@@ -1846,7 +1846,7 @@ seraqu
 Allwinner dolphin-fvd-p1
 54d003c08614da03
 Xiaomi oneday
-97667c217affb669
+5d05dee3010291ff
 
 jotajota
 HUAWEI HWELE
