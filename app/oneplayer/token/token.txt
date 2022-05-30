@@ -13098,16 +13098,14 @@ dolphin dolphin_fvd_p1
 5c14fb7340f6d774
 Hisilicon Hi3751V350
 62b6f2109947b448
-
 AOC sofia3gr
 a2f67cda7a99a14b
 Xiaomi aquaman
 56be73c41f13ed09
+
 +6 psc
 rockchip rk322x_box
 f3abecde8eb1b07f
-Android MDTV5G
-66d54b35cc0386c
 MBOX dolphin-p1
 b946be0f7a7383a6
 rockchip rk322x_box
@@ -13873,6 +13871,8 @@ Allwinner dolphin-fvd-p1
 eac07b565207e39c
 Android MBOX
 f5b8823ebff9b2a0
+Android MDTV5G
+66d54b35cc0386c
 
 gustavoda
 Amazon sheldonp
