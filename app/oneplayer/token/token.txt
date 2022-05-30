@@ -6876,6 +6876,8 @@ rockchip MK
 1b2cebba02b379b5
 rockchip MK
 21a0c92b3892786
+rockchip MK
+cee781eb0e10f6be
 
 gonzalezju +6
 HUAWEI HWYAL
