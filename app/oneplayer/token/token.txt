@@ -8747,6 +8747,8 @@ efb4c81e7f278016
 +18
 MTK cvt_mt5863_sa
 4c03c5a1b46cf1a7
+rockchip rk322x_box
+cf334e7229766551
 
 iptv19 +6 psc
 rockchip rk322x_box
