@@ -18091,3 +18091,5 @@ Pixel Core Hi3798MV200
 sreami
 Amlogic p281
 5dcf17434295405f
+rockchip rk322x_box
+588d98c12be2f2fd
