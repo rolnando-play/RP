@@ -1216,6 +1216,8 @@ rockchip rk322x_box
 edae8a8db94a6876
 samsung a12s
 3c92ef43c33f108c
+rockchip rk322x_box
+76e2e9fd300afb6c
 
 rtomas
 d60a22d61c15d036
