@@ -15590,6 +15590,8 @@ Amlogic p281
 48b370e29c0288c1
 Amlogic p281
 bab13d2f780ba424
+,Amlogic p281
+26e16f5f5f884994
 
 luisvill
 rockchip rk322x_box
@@ -16278,6 +16280,8 @@ Xiaomi machuca
 d141f447e1503aed
 Amazon sheldonp
 3db460c015287d8a
+Amazon mantis
+6490c9837289e49a
 
 manfredkl
 Google titan-p1
@@ -18093,3 +18097,7 @@ Amlogic p281
 5dcf17434295405f
 rockchip rk322x_box
 588d98c12be2f2fd
+
+ermelu
+HUAWEI HWAQM-H
+aa7c4ae029227607
