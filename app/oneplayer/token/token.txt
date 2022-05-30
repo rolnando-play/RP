@@ -18106,3 +18106,5 @@ rockchip rk322x_box
 ermelu
 HUAWEI HWAQM-H
 aa7c4ae029227607
+MTK cvt_mt5863_sa
+10abf6f4c41be77b
