@@ -16781,6 +16781,8 @@ Allwinner dolphin-fvd-p1
 5c26e36e3ec803ce
 Xiaomi ginkgo 
 24f5c89cd9d1827d
+dolphin dolphin_fvd_p1
+e85e36a671251dee
 
 roloca
 MTK cvt_mt5886_sa
