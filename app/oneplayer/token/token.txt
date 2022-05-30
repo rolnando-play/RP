@@ -11147,6 +11147,8 @@ Amlogic p281
 +18
 Google titan-p1
 63efd42224bf8403
+rockchip rk322x_box
+d6e6cd161869c874
 
 gergod +6
 Amlogic franklin
@@ -15582,6 +15584,10 @@ Amlogic p281
 b6f63981e6dbe316
 Amlogic p281
 b37f585caf4da7f9
+Amlogic p281
+e12734944515210d
+Amlogic p281
+48b370e29c0288c1
 
 luisvill
 rockchip rk322x_box
