@@ -7394,11 +7394,18 @@ Android MDTV5G
 ef6569559f470534
 rockchip rk322x_box
 ae3bc1567742b47e
-+
++12
 MTK cvt_mt5863_sa
 7e6200cbfa72da4b
 dolphin SBQ-SM007
 1141b4d267f2be40
+JUNIOR GONZALEZ:
+Android MX9PRO
+89dfa07e8bf0de81
+rockchip rk322x_box
+3e8f2e09b2c34000
+ rockchip MK
+32018674a15d7b21
 
 enriquelr
 Amazon sheldon
