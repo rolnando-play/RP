@@ -1784,6 +1784,8 @@ Android MDTV5G
 62d68108bf4e1cd8
 Android MDTV5G
 2ae7c08b5c542df
+Android MDTV5G
+5b9cae608cdc57d9
 
 ruthgis
 S905W
@@ -16342,6 +16344,8 @@ Amazon sheldonp
 3db460c015287d8a
 Amazon mantis
 6490c9837289e49a
+Amazon mantis
+28eb869e4299e3
 
 manfredkl
 Google titan-p1
@@ -18209,3 +18213,7 @@ samsung m11q
 carlosgra
 Xiaomi tucana
 19ba2e15f1011de2
+
+williamro +9
+MTK cvt_mt5863_sa
+606d2feebf740d15
