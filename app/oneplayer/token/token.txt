@@ -6347,6 +6347,9 @@ rockchip MK
 d9d4cdb9f54dd604
 rockchip rk322x_box
 5301f69349da50b7
++3
+MBOX dolphin-p1
+03191af57c17ba62
 
 joiseg +6 psc
 Amazon sheldon
@@ -11187,6 +11190,8 @@ Google titan-p1
 63efd42224bf8403
 rockchip rk322x_box
 d6e6cd161869c874
+Amazon sheldon
+4abec952b98f5a02
 
 gergod +6
 Amlogic franklin
@@ -16020,6 +16025,8 @@ samsung hero2lte
 ba919eb7c1528fd8
 samsung a23
 ed4d42a8b26126bb
+HUAWEI HWYAL
+cace7da438d9a4ed
 
 gamepla
 Xiaomi joyeuse
