@@ -4644,6 +4644,8 @@ dolphin dolphin_fvd_p1
 +6 psc
 Amlogic p281
 af507f6f7b5e980a
+dolphin dolphin-fvd-p1
+be88a9ef09320cdb
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -14234,6 +14236,8 @@ Amazon sheldonp
 03fbf15d5c1ac3a8
 samsung a12
 8065abad238898bc
+Amazon sheldon
+c7e6ac152a2a696f
 
 canal11
 samsung a50
@@ -18109,9 +18113,11 @@ lomoro DOGE
 motorola beckham
 b55c775747d6e133
 
-wilfrio.m
+wilfrido.m
 motorola potter_n
 7922607531aace34
+rockchip rk322x_box
+5a4d55b734671983
 
 tungus
 Pixel Core Hi3798MV200
@@ -18130,3 +18136,7 @@ MTK cvt_mt5863_sa
 10abf6f4c41be77b
 Amlogic p281
 cd815a46ff1fa0cd
+
+cardozoi
+MTK cvt_mt5863_sa
+f89cd53f3e748a84
