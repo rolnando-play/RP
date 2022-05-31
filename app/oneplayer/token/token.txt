@@ -15624,6 +15624,8 @@ Amlogic p281
 da6bcfa73bed3d39
 rockchip rk322x_box
 65cd24425c636023
+Amlogic p281
+b748727e39a31975
 
 luisvill
 rockchip rk322x_box
@@ -17939,6 +17941,8 @@ HUAWEI HWYAL
 920bdab1fa7f8f7c
 Xiaomi merlin
 8d34081f03765c60
+samsung a12
+e127a6cc514148e8
 
 guidog.
 Xiaomi ginkgo
