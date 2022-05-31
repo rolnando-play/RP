@@ -1974,8 +1974,8 @@ BTV p212
 2545a03813b1403e
 
 guigod1
-samsung crownlte
-fd526680799f6b92
+Xiaomi oneday
+9a9fd3b78396d02c
 samsung d2s
 b44155eac26b1aa9
 rockchip rk3328_box
@@ -8108,6 +8108,8 @@ MTK cvt_mt5863_sa
 7c5ed6e68015d03d
 rockchip rk322x_box
 e943a7a3efbef496
+Amazon sheldonp
+a625f2d96ecda362
 
 jjuan
 Xiaomi aquaman
@@ -10692,6 +10694,8 @@ Android MBOX
 a22f1f95d76fdb5f
 Amazon mantis
 d1c4dc5ee9ae6c68
+rockchip rk322x_box
+8d23f0c2fc3b780e
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14238,6 +14242,9 @@ samsung a12
 8065abad238898bc
 Amazon sheldon
 c7e6ac152a2a696f
++6
+Amazon sheldon
+402a1a1646ea7d0c
 
 canal11
 samsung a50
@@ -18140,3 +18147,7 @@ cd815a46ff1fa0cd
 cardozoi
 MTK cvt_mt5863_sa
 f89cd53f3e748a84
+
+carlos_bo +6
+samsung a01q
+ebe8d1be57f7f018
