@@ -15661,6 +15661,8 @@ Amlogic p281
 d5ef6f441fdb9ebe
 Amlogic p281
 a434de0866943cd0
+Amlogic p281
+853f2185977759dd
 
 luisvill
 rockchip rk322x_box
@@ -18236,3 +18238,5 @@ cabce20e443df00f
 djgustav +5 psc
 Android MDTV5G
 ce3f427c65d3866b
+rockchip rk322x_box
+c302549441e72c67
