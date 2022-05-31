@@ -8775,6 +8775,8 @@ MTK cvt_mt5863_sa
 4c03c5a1b46cf1a7
 rockchip rk322x_box
 cf334e7229766551
+rockchip rk322x_box
+f5751b6a35a4b5e0
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -18027,6 +18029,8 @@ dolphin dolphin_fvd_p1
 65ddecd65164a3e4
 rockchip rk322x_box
 803ccc4c1607c576
+rockchip rk322x_box
+ee772bd751936c6f
 
 carlos@g
 samsung b2q
