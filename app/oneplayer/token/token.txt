@@ -18262,3 +18262,7 @@ rockchip rk322x_box
 c302549441e72c67
 Xiaomi aquaman
 52198d6adee8edb0
+
+robus14 +6
+samsung a70q
+fb1abce4dd043dd2
