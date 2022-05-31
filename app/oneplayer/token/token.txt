@@ -8299,11 +8299,11 @@ b106d6ed034d10f5
 
 redi8 +6
 OnePlus OnePlus7T
-fae98028175b3810
+bfbff8357ab11202
 rockchip rk322x_box
 ed4ed7fee36a5f8c
-samsung a11q
-8b20690287289570
+samsung a12
+ad7f2d29df500b0d
 Android MDTV5G
 967d0d0d170ac603
 samsung a50
@@ -18182,3 +18182,5 @@ dd133d5b277646a0
 vicentelo
 Xiaomi oneday
 1dd74d33c85d00e5
+Xiaomi oneday
+cb57cbe9a08cac48
