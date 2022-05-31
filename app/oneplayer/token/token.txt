@@ -9535,6 +9535,8 @@ Android MDTV5G
 c636e2c61f220118
 rockchip MK
 98b1ccdcc52cccd0
+rockchip rk322x_box
+c30730cd1fd0ae1
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -13892,6 +13894,8 @@ Android MDTV5G
 66d54b35cc0386c
 MBOX dolphin-p1
 0870ceb448c5e9f3
+Google eros-p1
+d4209e51dca13923
 
 gustavoda
 Amazon sheldonp
