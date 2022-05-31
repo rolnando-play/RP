@@ -1786,6 +1786,8 @@ Android MDTV5G
 2ae7c08b5c542df
 Android MDTV5G
 5b9cae608cdc57d9
+Allwinner dolphin-fvd-p1
+5b4a65439a27d4e4
 
 ruthgis
 S905W
