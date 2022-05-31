@@ -8121,6 +8121,8 @@ rockchip rk322x_box
 e943a7a3efbef496
 Amazon sheldonp
 a625f2d96ecda362
+Android MDTV5G
+be60d27cf82b6fa
 
 jjuan
 Xiaomi aquaman
