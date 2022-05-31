@@ -18215,6 +18215,9 @@ MTK cvt_mt5863_sa
 10abf6f4c41be77b
 Amlogic p281
 cd815a46ff1fa0cd
++9
+rockchip rk3328_box
+7cca81c86c49ef92
 
 cardozoi
 MTK cvt_mt5863_sa
