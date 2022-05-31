@@ -18230,6 +18230,8 @@ Xiaomi tucana
 williamro +9
 MTK cvt_mt5863_sa
 606d2feebf740d15
+MTK cvt_mt5863_sa
+cabce20e443df00f
 
 djgustav +5 psc
 Android MDTV5G
