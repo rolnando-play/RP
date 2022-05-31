@@ -15639,6 +15639,11 @@ rockchip rk322x_box
 65cd24425c636023
 Amlogic p281
 b748727e39a31975
++15 usdt
+Amlogic p281
+8bcbad1e243fc188
+Amlogic p281
+d5ef6f441fdb9ebe
 
 luisvill
 rockchip rk322x_box
@@ -18179,8 +18184,14 @@ ebe8d1be57f7f018
 Xiaomi aquaman
 dd133d5b277646a0
 
-vicentelo
+vicentelo +18
 Xiaomi oneday
 1dd74d33c85d00e5
 Xiaomi oneday
 cb57cbe9a08cac48
+Xiaomi oneday
+35a4454d0d0b82e4
+
+juanmal
+Google sabrina
+755874c0e241a6ff
