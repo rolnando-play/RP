@@ -18230,6 +18230,8 @@ cd815a46ff1fa0cd
 +9
 rockchip rk3328_box
 7cca81c86c49ef92
+Xiaomi begonia
+5eb9fd63e90dbab6
 
 cardozoi
 MTK cvt_mt5863_sa
