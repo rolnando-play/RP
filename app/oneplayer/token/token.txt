@@ -2227,6 +2227,9 @@ Amazon sheldon
 fd9a41938c3309fe
 Android MBOX
 8b51786bd9c9072
++6
+MTK cvt_mt5863_sa
+1be08ed890cbb445
 
 ricar.fu
 HUAWEI HWMAR
@@ -15663,6 +15666,8 @@ Amlogic p281
 a434de0866943cd0
 Amlogic p281
 853f2185977759dd
+Amlogic p281
+cb0d02770d0c9ad6
 
 luisvill
 rockchip rk322x_box
@@ -18052,6 +18057,8 @@ rockchip rk322x_box
 ee772bd751936c6f
 Gecen Tiger foreverg
 787f86f1667a797b
+Gecen Tiger foreverg
+a01aae7ee1738aae
 
 carlos@g
 samsung b2q
