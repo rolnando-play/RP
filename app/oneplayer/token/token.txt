@@ -1841,6 +1841,8 @@ HMD Global WVR_sprout
 +6
 Xiaomi vayu
 c94388830f2f5534
+dolphin dolphin_fvd_p1
+dcb74148c898b45b
 
 seraqu
 Allwinner dolphin-fvd-p1
