@@ -6891,6 +6891,10 @@ Amlogic p281
 d2b32450ea8c78d2
 rockchip MK
 93671bc298092c29
+rockchip MK
+a1363d92eb947de1
+rockchip MK
+4b7f0be6192b51b1
 
 gonzalezju +6
 HUAWEI HWYAL
