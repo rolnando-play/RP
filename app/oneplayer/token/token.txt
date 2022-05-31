@@ -7440,6 +7440,8 @@ MTK cvt_mt5863_sa
 7b42b0bfa0e4eaa
 rockchip rk322x_box
 d626d77f81e53a64
+rockchip rk322x_box
+bd918451dfe31c65
 
 enriquelr
 Amazon sheldon
