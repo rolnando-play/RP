@@ -10687,8 +10687,6 @@ rockchip rk3328_box
 3f96acc22c47d3a2
 Allwinner dolphin-fvd-p1
 58541b666ccfde17
-Amazon sheldon
-788457434d37a863
 rockchip rk322x_box
 ffda72cfe73241cf
 Hisilicon CVTE_Hi3751V320_512M
@@ -18168,3 +18166,7 @@ samsung a01q
 ebe8d1be57f7f018
 Xiaomi aquaman
 dd133d5b277646a0
+
+vicentelo
+Xiaomi oneday
+1dd74d33c85d00e5
