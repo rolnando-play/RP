@@ -17447,6 +17447,8 @@ MBOX dolphin-p1
 +3
 rockchip rk322x_box
 cde5a061d720ceae
+rockchip rk322x_box
+6141f949742b7329
 
 guscor
 samsung a71
@@ -18143,6 +18145,9 @@ Google walleye
 e50dd9deb166dead
 Google walleye
 34fd874d335f2728
++9 bch
+rockchip rk322x_box
+e99fcb296c510f1d
 
 manu.i +6
 Allwinner dolphin-fvd-p1
@@ -18426,3 +18431,7 @@ Xiaomi vayu
 115cef096c96b4c8
 Xiaomi oneday
 b19e68e14005d5ff
+
+carlosbra
+rockchip rk322x_box
+fcb6f31a80075ce5
