@@ -9583,6 +9583,9 @@ rockchip rk322x_box
 c30730cd1fd0ae1
 rockchip rk322x_box
 d67ef22de95a99da
++9 usdt
+dolphin dolphin_fvd_p1
+37d02632e2ccdc29
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -9999,6 +10002,8 @@ Amazon sheldonp
 623c5012ae1e03bc
 Amazon sheldonp
 8335924b82c0221b
+MBOX dolphin-p1
+5f7e22b5595b9e0d
 
 claudiodan
 Xiaomi oneday
@@ -18389,6 +18394,8 @@ Xiaomi aquaman
 robus14 +6
 samsung a70q
 fb1abce4dd043dd2
+Amlogic p282
+83fb3ff15ffbd00e
 
 axeliza
 MStar Semiconductor, Inc. cranberry
