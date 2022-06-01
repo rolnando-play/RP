@@ -18296,3 +18296,7 @@ fb1abce4dd043dd2
 axeliza
 MStar Semiconductor, Inc. cranberry
 87b66497ae5f8b64
+
+adonayes
+TCL BeyondTV
+e3a8e0324fcf7d06
