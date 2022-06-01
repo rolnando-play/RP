@@ -18304,3 +18304,9 @@ MStar Semiconductor, Inc. cranberry
 adonayes
 TCL BeyondTV
 e3a8e0324fcf7d06
+samsung a52sxq
+d5aeed13b5f4da0a
+
+victorman
+rockchip rk322x_box
+cecf610a349cdaeb
