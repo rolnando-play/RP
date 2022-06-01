@@ -8797,10 +8797,6 @@ rockchip rk322x_box
 cf334e7229766551
 rockchip rk322x_box
 f5751b6a35a4b5e0
-rockchip rk322x_box
-80b3e080aa815326
-rockchip rk322x_box
-5e4df730ae4ee5d6
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -8977,8 +8973,6 @@ MTK cvt_mt5863_sa
 885fdc8a9dc6043a
 samsung a33x
 8f4f8c00ad9839b9
-Android MBOX
-f32d9986af0ea44e
 
 carmenve
 dolphin dolphin_fvd_p1
@@ -9571,8 +9565,6 @@ rockchip MK
 98b1ccdcc52cccd0
 rockchip rk322x_box
 c30730cd1fd0ae1
-rockchip rk322x_box
-d67ef22de95a99da
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -9981,14 +9973,6 @@ rockchip rk322x_box
 681828fb33d1dacb
 Amazon sheldon
 ad7dbfb4a217b7a5
-Amazon sheldonp
-6aaa026e5a57d0b0
-Amazon sheldonp
-7f186d881a42a094
-Amazon sheldonp
-623c5012ae1e03bc
-Amazon sheldonp
-8335924b82c0221b
 
 claudiodan
 Xiaomi oneday
@@ -18336,7 +18320,3 @@ d5aeed13b5f4da0a
 victorman
 rockchip rk322x_box
 cecf610a349cdaeb
-
-luisito35
-Xiaomi vayu
-115cef096c96b4c8
