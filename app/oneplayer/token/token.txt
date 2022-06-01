@@ -18389,6 +18389,8 @@ samsung m11q
 carlosgra
 Xiaomi tucana
 19ba2e15f1011de2
+dolphin dolphin_fvd_p1
+32bd68c5f0c309e1
 
 williamro +9
 MTK cvt_mt5863_sa
