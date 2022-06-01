@@ -16465,6 +16465,8 @@ Amazon mantis
 +18
 Amazon sheldonp
 66aa1f65b6cdaf25
+rockchip rk3318
+c2bf22747be6465a
 
 manfredkl
 Google titan-p1
