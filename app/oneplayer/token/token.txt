@@ -11632,6 +11632,8 @@ Android MDTV5G
 aa144f8c66d9a78b
 Android MDTV5G
 b3e7e42cf721b13e
+rockchip rk322x_box
+e1b3f43b059b98f3
 
 brandonmk
 Xiaomi begonia
@@ -17005,6 +17007,8 @@ dolphin dolphin_fvd_p1
 e85e36a671251dee
 Android MDTV5G
 d6557f0921aebdde
+Android MDTV5G
+f1f26651b590adae
 
 roloca
 MTK cvt_mt5886_sa
