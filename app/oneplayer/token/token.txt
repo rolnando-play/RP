@@ -17442,6 +17442,9 @@ samsung a50
 e2b74c3314b6089b
 MBOX dolphin-p1
 7f831e9289bae8e7
++3
+rockchip rk322x_box
+cde5a061d720ceae
 
 guscor
 samsung a71
