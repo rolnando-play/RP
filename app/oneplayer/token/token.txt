@@ -5747,6 +5747,8 @@ rockchip rk322x_box
 fd75320951dd38ea
 Android MDTV5G
 f901150007b51702
+rockchip rk322x_box
+7b85ffdced367656
 
 cuentatv
 Allwinner dolphin-fvd-p1
