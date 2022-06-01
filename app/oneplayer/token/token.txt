@@ -6357,6 +6357,8 @@ rockchip rk322x_box
 +3
 MBOX dolphin-p1
 03191af57c17ba62
+rockchip rk322x_box
+3a601018cc9d7eed
 
 joiseg +6 psc
 Amazon sheldon
