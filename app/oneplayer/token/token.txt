@@ -8973,6 +8973,8 @@ MTK cvt_mt5863_sa
 885fdc8a9dc6043a
 samsung a33x
 8f4f8c00ad9839b9
+Android MBOX
+f32d9986af0ea44e
 
 carmenve
 dolphin dolphin_fvd_p1
