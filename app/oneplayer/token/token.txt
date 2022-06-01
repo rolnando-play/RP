@@ -11637,7 +11637,7 @@ d2bb7ba37a020ffe
 Android MDTV5G
 4a718c901bca0645
 rockchip rk322x_box
-9cb5b611ae5a38e6
+3156b20952e242e3
 Android MDTV5G
 c136ddaa3a564d27
 Android MDTV5G
