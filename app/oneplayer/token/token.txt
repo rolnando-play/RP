@@ -15694,6 +15694,8 @@ Amlogic p281
 c566b2440fead22a
 Android MDTV5G
 87988cdcb96e4aec
+Android MDTV5G
+752c0321444daa5
 
 luisvill
 rockchip rk322x_box
