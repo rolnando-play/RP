@@ -8803,6 +8803,8 @@ rockchip rk322x_box
 80b3e080aa815326
 rockchip rk322x_box
 5e4df730ae4ee5d6
+HongXin hx_s905x
+ec2bf54085d01946
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11613,6 +11615,9 @@ Android MDTV5G
 edab951dd3154ae8
 Android MDTV5G
 d2bb7ba37a020ffe
++10
+Android MDTV5G
+4a718c901bca0645
 
 brandonmk
 Xiaomi begonia
@@ -17727,6 +17732,8 @@ rockchip rk3328_box
 eaef84344aa3d82e
 Xiaomi oneday
 f840819c44f3156f
+rockchip rk322x_box
+67655beef496b327
 
 egsali +6
 samsung x1s
