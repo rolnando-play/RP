@@ -7473,6 +7473,8 @@ Android MDTV5G
 c56e71d588630520
 dolphin dolphin_fvd_p1
 c7ba9aece9a12aa
+rockchip rk322x_box
+5a61e42da0f8b842
 
 enriquelr
 Amazon sheldon
