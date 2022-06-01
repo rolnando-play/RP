@@ -6357,8 +6357,6 @@ rockchip rk322x_box
 +3
 MBOX dolphin-p1
 03191af57c17ba62
-rockchip rk322x_box
-3a601018cc9d7eed
 
 joiseg +6 psc
 Amazon sheldon
@@ -9565,8 +9563,6 @@ rockchip MK
 98b1ccdcc52cccd0
 rockchip rk322x_box
 c30730cd1fd0ae1
-rockchip rk322x_box
-d67ef22de95a99da
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -9975,14 +9971,6 @@ rockchip rk322x_box
 681828fb33d1dacb
 Amazon sheldon
 ad7dbfb4a217b7a5
-Amazon sheldonp
-6aaa026e5a57d0b0
-Amazon sheldonp
-7f186d881a42a094
-Amazon sheldonp
-623c5012ae1e03bc
-Amazon sheldonp
-8335924b82c0221b
 
 claudiodan
 Xiaomi oneday
@@ -18276,8 +18264,6 @@ samsung a01q
 ebe8d1be57f7f018
 Xiaomi aquaman
 dd133d5b277646a0
-Amlogic p281
-92e3a19a45fd9979
 
 vicentelo +18
 Xiaomi oneday
