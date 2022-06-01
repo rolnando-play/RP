@@ -15788,6 +15788,15 @@ Amlogic p281
 cb763ff913f1189
 Amlogic p281
 b9e270033ba72bf1
++15 usdt
+Amlogic p281
+4c4a2ad4a2b96efc
+Amlogic p281
+ac4c28f6a3bb0f8a
+Amlogic p281
+1497f4e8d00d7dab
+Amlogic p281
+d25b45371f5e7443
 
 luisvill
 rockchip rk322x_box
@@ -18158,6 +18167,8 @@ Google walleye
 +9 bch
 rockchip rk322x_box
 e99fcb296c510f1d
+rockchip rk322x_box
+c5e3133050db1618
 
 manu.i +6
 Allwinner dolphin-fvd-p1
