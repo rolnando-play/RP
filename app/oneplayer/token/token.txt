@@ -15692,6 +15692,8 @@ Amlogic p281
 5b95e742b550ad5d
 Amlogic p281
 c566b2440fead22a
+Android MDTV5G
+87988cdcb96e4aec
 
 luisvill
 rockchip rk322x_box
@@ -18240,6 +18242,8 @@ Xiaomi begonia
 5eb9fd63e90dbab6
 samsung gtowifi
 3390ce0e3594358a
+Amlogic p281
+df66d33adb24e05a
 
 cardozoi
 MTK cvt_mt5863_sa
