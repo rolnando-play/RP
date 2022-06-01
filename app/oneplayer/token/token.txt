@@ -1788,6 +1788,8 @@ Android MDTV5G
 5b9cae608cdc57d9
 Allwinner dolphin-fvd-p1
 5b4a65439a27d4e4
+rockchip rk322x_box
+1de29b065faf785
 
 ruthgis
 S905W
@@ -11626,6 +11628,8 @@ Android MDTV5G
 c136ddaa3a564d27
 Android MDTV5G
 aa144f8c66d9a78b
+Android MDTV5G
+b3e7e42cf721b13e
 
 brandonmk
 Xiaomi begonia
