@@ -9404,6 +9404,8 @@ Allwinner dolphin-fvd-p1
 89e6d195378c505b
 Google sabrina
 43071aaea181e94e
+Google sabrina
+1cbf5e6a81c9b4a8
 
 carlosrau
 rockchip rk322x_box
@@ -16448,6 +16450,9 @@ Amazon mantis
 6490c9837289e49a
 Amazon mantis
 28eb869e4299e32
++18
+Amazon sheldonp
+66aa1f65b6cdaf25
 
 manfredkl
 Google titan-p1
@@ -16992,6 +16997,8 @@ Xiaomi ginkgo
 24f5c89cd9d1827d
 dolphin dolphin_fvd_p1
 e85e36a671251dee
+Android MDTV5G
+d6557f0921aebdde
 
 roloca
 MTK cvt_mt5886_sa
