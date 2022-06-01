@@ -4235,13 +4235,15 @@ ed2b802892f5f8f4
 Xiaomi curtana
 faeb07aad44ecad3
 
-diegoe
+diegoe1 +9
 samsung p3s
 1e6aab01347b26f5
 TCL C06
 e79ea4a7e6f89a8f
 VS KM6
 08ce6479d461e533
+Xiaomi oneday
+1409b56ce613b07c
 
 cristianma +6 psc
 HUAWEI HWDRA-MG
