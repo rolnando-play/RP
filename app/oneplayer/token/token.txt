@@ -9565,6 +9565,8 @@ rockchip MK
 98b1ccdcc52cccd0
 rockchip rk322x_box
 c30730cd1fd0ae1
+rockchip rk322x_box
+d67ef22de95a99da
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -9973,6 +9975,14 @@ rockchip rk322x_box
 681828fb33d1dacb
 Amazon sheldon
 ad7dbfb4a217b7a5
+Amazon sheldonp
+6aaa026e5a57d0b0
+Amazon sheldonp
+7f186d881a42a094
+Amazon sheldonp
+623c5012ae1e03bc
+Amazon sheldonp
+8335924b82c0221b
 
 claudiodan
 Xiaomi oneday
