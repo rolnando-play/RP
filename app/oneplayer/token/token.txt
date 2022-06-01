@@ -18288,3 +18288,7 @@ Xiaomi aquaman
 robus14 +6
 samsung a70q
 fb1abce4dd043dd2
+
+axeliza
+MStar Semiconductor, Inc. cranberry
+87b66497ae5f8b64
