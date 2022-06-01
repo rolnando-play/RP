@@ -10769,6 +10769,8 @@ rockchip rk322x_box
 8d23f0c2fc3b780e
 Amazon sheldon
 465c15956ae5c505
+askey sti6140d360
+0603ccca91d91419
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18458,3 +18460,7 @@ b19e68e14005d5ff
 carlosbra
 rockchip rk322x_box
 fcb6f31a80075ce5
+
+lorele +6
+Amazon sheldonp
+4930e27df4651bb4
