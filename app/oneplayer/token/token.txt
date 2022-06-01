@@ -7475,6 +7475,8 @@ dolphin dolphin_fvd_p1
 c7ba9aece9a12aa
 rockchip rk322x_box
 5a61e42da0f8b842
+rockchip rk322x_box
+ed502f91c08c711b
 
 enriquelr
 Amazon sheldon
