@@ -9565,8 +9565,6 @@ rockchip MK
 98b1ccdcc52cccd0
 rockchip rk322x_box
 c30730cd1fd0ae1
-rockchip rk322x_box
-d67ef22de95a99da
 
 rocapo
 dolphin dolphin-fvd-p1
