@@ -7463,6 +7463,8 @@ bd918451dfe31c65
 +6
 Android MDTV5G
 c56e71d588630520
+dolphin dolphin_fvd_p1
+c7ba9aece9a12aa
 
 enriquelr
 Amazon sheldon
@@ -9551,8 +9553,8 @@ BTV p212
 150b534bdfae1b14
 Android MDTV5G
 1f7b51ceabb634
-samsung z3q
-6fa1f550f5d6f115
+dolphin dolphin_fvd_p1
+84cc696bc7f0fae
 Android MDTV5G
 c636e2c61f220118
 rockchip MK
