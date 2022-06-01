@@ -11622,6 +11622,8 @@ rockchip rk322x_box
 9cb5b611ae5a38e6
 Android MDTV5G
 c136ddaa3a564d27
+Android MDTV5G
+aa144f8c66d9a78b
 
 brandonmk
 Xiaomi begonia
