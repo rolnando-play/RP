@@ -11229,6 +11229,8 @@ Amazon sheldon
 4abec952b98f5a02
 Allwinner dolphin-fvd-p1
 4f88b9aa904a8232
+Amlogic p281
+1220721f33d87cff
 
 gergod +6
 Amlogic franklin
