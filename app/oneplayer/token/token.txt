@@ -18138,6 +18138,8 @@ Xiaomi oneday
 c5ac3391325426c8
 Xiaomi oneday
 07fd9e24ebc7e208
+rockchip rk322x_box
+e3a48dbb201ffab6
 
 carlos@g
 samsung b2q
