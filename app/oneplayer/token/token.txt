@@ -18232,6 +18232,8 @@ rockchip rk3328_box
 7cca81c86c49ef92
 Xiaomi begonia
 5eb9fd63e90dbab6
+samsung gtowifi
+3390ce0e3594358a
 
 cardozoi
 MTK cvt_mt5863_sa
