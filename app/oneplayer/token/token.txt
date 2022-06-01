@@ -17219,6 +17219,8 @@ MTK cvt_mt5863_sa
 d3d521604eca64b
 SDMC DV8547
 6b02d538b0be528c
+SDMC DV8547
+052ba4bc41e9afff
 
 gerardoo
 Xiaomi laurel_sprout
