@@ -18330,3 +18330,7 @@ d5aeed13b5f4da0a
 victorman
 rockchip rk322x_box
 cecf610a349cdaeb
+
+luisito35
+Xiaomi vayu
+115cef096c96b4c8
