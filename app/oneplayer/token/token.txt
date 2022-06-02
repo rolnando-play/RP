@@ -7483,6 +7483,9 @@ samsung a11q
 049e5dcad2037909
 Allwinner dolphin-fvd-p1
 d64a35549c8528b7
++3
+FTROU eros-p1
+6a24cc796f1a133d
 
 enriquelr
 Amazon sheldon
