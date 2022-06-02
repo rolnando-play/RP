@@ -7485,8 +7485,8 @@ rockchip rk322x_box
 5a61e42da0f8b842
 rockchip rk322x_box
 ed502f91c08c711b
-samsung a11q
-049e5dcad2037909
+dolphin SBQ-SM007
+90366a412af056a7
 Allwinner dolphin-fvd-p1
 d64a35549c8528b7
 +3
@@ -14380,8 +14380,8 @@ Amazon sheldon
 402a1a1646ea7d0c
 
 canal11
-samsung a50
-209f5f007f25cfd4
+samsung a53x
+7272bf3bef66214c
 amlogic sw01
 fb494a46b0ae32a7
 rockchip rk322x_box
