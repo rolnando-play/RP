@@ -18537,3 +18537,7 @@ Amazon mantis
 f8affb0feeb477f0
 Amazon tank
 dde094f827eff4c3
+
+victorman
+Amlogic p281
+a96327a826080136
