@@ -7477,6 +7477,10 @@ rockchip rk322x_box
 5a61e42da0f8b842
 rockchip rk322x_box
 ed502f91c08c711b
+samsung a11q
+049e5dcad2037909
+Allwinner dolphin-fvd-p1
+d64a35549c8528b7
 
 enriquelr
 Amazon sheldon
@@ -14031,6 +14035,8 @@ Xiaomi oneday
 a6f256efa126ebb3
 samsung a10s
 b75463cdd021e48b
+asus aosp
+f0aa604920dbdadb
 
 diegoigr
 samsung a50
