@@ -9744,6 +9744,8 @@ Android MDTV5G
 5578d102db95beab
 Android MDTV5G
 d0ac4ae32ad23977
+Android MDTV5G
+69b03bb35833aca6
 
 pjc0910 +9
 rockchip rk322x_box
@@ -10735,7 +10737,6 @@ rockchip rk322x_box
 d27013a2dc1aeb9a
 samsung j6lte
 fcdd77d222a28ac7
-
 Xiaomi oneday
 f0b5d8c9f9979de0
 MediaTek mt5867
@@ -10775,9 +10776,9 @@ rockchip rk322x_box
 86dc73a25143ac70
 rockchip MK
 7df2d39b1a8c4e5c
++18
 dolphin dolphin_fvd_p1
 40a6d99cd633576c
-+18
 dolphin dolphin_fvd_p1
 54d5d02673d65bb3
 dolphin dolphin-fvd-p1
