@@ -8168,6 +8168,8 @@ Android MDTV5G
 15224a9c15fec191
 Android MDTV5G
 3dcf77c762d80a1a
+rockchip rk322x_box
+89cbe062985a37f0
 
 jjuan
 Xiaomi aquaman
@@ -16537,6 +16539,8 @@ Amazon sheldonp
 66aa1f65b6cdaf25
 rockchip rk3318
 c2bf22747be6465a
+Amazon mantis
+650abe920cda305c
 
 manfredkl
 Google titan-p1
