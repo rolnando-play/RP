@@ -10803,6 +10803,8 @@ Amazon sheldon
 465c15956ae5c505
 askey sti6140d360
 0603ccca91d91419
+samsung a23
+58e3c9971adae6c4
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14162,6 +14164,8 @@ SEI Robotics SEI400TV
 1a53b3a87cc37d70
 SEI Robotics SEI400TV
 c666169b6c045c10
+SEI Robotics SEI400TV
+f84cb76b75efc5f4
 
 ccardo
 samsung a12
