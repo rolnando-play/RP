@@ -6584,7 +6584,7 @@ samsung a71
 Amazon sheldonp
 5760bf6164f5c124
 Amazon sheldonp
-9fd5db25fff1623b
+2353f97218c4efd6
 Google sabrina
 f77a8853bbdedaf1
 rockchip rk322x_box
@@ -11660,6 +11660,8 @@ rockchip rk322x_box
 e1b3f43b059b98f3
 Android MDTV5G
 136ae952f9bef02d
+rockchip rk322x_box
+2aafede9268bc088
 
 brandonmk
 Xiaomi begonia
@@ -17744,6 +17746,8 @@ Xiaomi machuca
 9d2e48279539f254
 Xiaomi croods
 b0328d5e8078c5d2
+Xiaomi oneday
+80b66aba330d4627
 
 jose_mar
 rockchip rk322x_box
