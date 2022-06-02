@@ -15866,6 +15866,8 @@ Amlogic p281
 392d58e18df0d2ed
 dolphin dolphin_fvd_p1
 426793435fc0f576
+Amlogic p281
+cbc3f56e34616e2f
 
 luisvill
 rockchip rk322x_box
