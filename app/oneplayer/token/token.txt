@@ -10814,6 +10814,9 @@ askey sti6140d360
 0603ccca91d91419
 samsung a23
 58e3c9971adae6c4
+rockchip rk322x_box
+a67da42f71f01f20
++
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18583,3 +18586,9 @@ MBX m201_512m
 fc7b2d4aabed0fe
 MBOX dolphin-p1
 861cc5add7c438ba
+
+lunacar +6
+samsung dreamlte
+8f9c38cce4280595
+TCL BeyondTV
+7a213d8198a1106b
