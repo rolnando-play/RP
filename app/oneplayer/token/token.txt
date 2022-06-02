@@ -7507,6 +7507,8 @@ Xiaomi oneday
 c0cf791c79901e51
 Allwinner dolphin-fvd-p1
 8a658491f5d89e6a
+Allwinner dolphin-fvd-p1
+85c988e6193ef13a
 
 enriquelr
 Amazon sheldon
