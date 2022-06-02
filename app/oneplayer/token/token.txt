@@ -17455,6 +17455,8 @@ Xiaomi aquaman
 bnbd.
 Amazon sheldonp
 d38fdc32391ae2af
+samsung o1s
+f4e4e6c520d0727d
 
 luisblas +6
 Xiaomi courbet
