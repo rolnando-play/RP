@@ -7501,6 +7501,8 @@ Gecen Tiger foreverg
 +6
 rockchip rk322x_box
 d780a83252264118
+Gecen Tiger MXQPRO
+e071cd1cdc862938
 
 enriquelr
 Amazon sheldon
