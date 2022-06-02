@@ -13732,11 +13732,13 @@ MTC seocho
 MTC seocho
 70d9df21d56070f4
 
-soporte.no
+soporte.no +6
 Amlogic p212
 75633406c93a8022
 rockchip rk322x_box
 51db03419face6a7
+Amlogic p281
+cab70dc4d4fe1898
 
 juanleom
 Xiaomi oneday
@@ -18490,3 +18492,5 @@ Amazon tank
 45d408e65a67cf4d
 Amazon mantis
 f8affb0feeb477f0
+Amazon tank
+dde094f827eff4c3
