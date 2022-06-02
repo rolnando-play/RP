@@ -12554,6 +12554,8 @@ Google titan-p1
 b37de1df0849c1ad
 Xiaomi oneday
 4c6fcd83e64bb318
+OnePlus OnePlus5
+0f37ab3cf1f9e91b
 
 hheimb
 samsung a50
