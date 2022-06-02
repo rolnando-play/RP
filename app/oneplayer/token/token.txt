@@ -8153,6 +8153,8 @@ Android MDTV5G
 be60d27cf82b6fa
 Android MDTV5G
 15224a9c15fec191
+Android MDTV5G
+3dcf77c762d80a1a
 
 jjuan
 Xiaomi aquaman
@@ -15801,6 +15803,14 @@ Amlogic p281
 1497f4e8d00d7dab
 Amlogic p281
 d25b45371f5e7443
+rockchip rk322x_box
+15f6da8f2e55ae8d
+rockchip rk322x_box
+de62ca1e4c7b9cc5
+dolphin dolphin_fvd_p1
+b5d5e5de56df484e
+Amlogic p281
+8ce037931d1f68c1
 
 luisvill
 rockchip rk322x_box
