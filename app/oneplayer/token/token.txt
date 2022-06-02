@@ -11693,6 +11693,8 @@ Android MDTV5G
 136ae952f9bef02d
 rockchip rk322x_box
 2aafede9268bc088
+rockchip rk322x_box
+edc86af4ee6738f1
 
 brandonmk
 Xiaomi begonia
@@ -15860,6 +15862,10 @@ Amlogic p281
 3862428442d78a90
 Amlogic p281
 e84c4752e48ab5ae
+Amlogic p281
+392d58e18df0d2ed
+dolphin dolphin_fvd_p1
+426793435fc0f576
 
 luisvill
 rockchip rk322x_box
@@ -18336,7 +18342,9 @@ Gecen Tiger foreverg
 36d378704eb45725
 Amlogic p281
 1d807da8fb62eeb7
-
+rockchip rk322x_box
+79f3989b9c51cb16
+ 
 franciscoro
 samsung starqltechn
 ef6aeb71b9adb82d
