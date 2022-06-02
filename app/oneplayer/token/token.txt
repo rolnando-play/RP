@@ -18596,3 +18596,7 @@ samsung dreamlte
 8f9c38cce4280595
 TCL BeyondTV
 7a213d8198a1106b
+
+sebas20
+motorola corfur
+94472c79d1b7b1c0
