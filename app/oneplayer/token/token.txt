@@ -9612,6 +9612,8 @@ d67ef22de95a99da
 +9 usdt
 dolphin dolphin_fvd_p1
 37d02632e2ccdc29
+dolphin dolphin_fvd_p1
+3d8bb5d1422d1f68
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -16541,6 +16543,8 @@ rockchip rk3318
 c2bf22747be6465a
 Amazon mantis
 650abe920cda305c
+Amazon mantis
+f78736bdb32e440c
 
 manfredkl
 Google titan-p1
