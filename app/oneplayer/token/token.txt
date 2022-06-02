@@ -7503,6 +7503,10 @@ rockchip rk322x_box
 d780a83252264118
 Gecen Tiger MXQPRO
 e071cd1cdc862938
+Xiaomi oneday
+c0cf791c79901e51
+Allwinner dolphin-fvd-p1
+8a658491f5d89e6a
 
 enriquelr
 Amazon sheldon
@@ -15868,6 +15872,10 @@ dolphin dolphin_fvd_p1
 426793435fc0f576
 Amlogic p281
 cbc3f56e34616e2f
+dolphin dolphin_fvd_p1
+e82bf5931c7311c0
+Amlogic p281
+934245c042a2ebdc
 
 luisvill
 rockchip rk322x_box
