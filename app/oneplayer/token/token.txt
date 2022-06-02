@@ -15811,6 +15811,8 @@ dolphin dolphin_fvd_p1
 b5d5e5de56df484e
 Amlogic p281
 8ce037931d1f68c1
+Amlogic p281
+3862428442d78a90
 
 luisvill
 rockchip rk322x_box
@@ -18434,6 +18436,8 @@ MTK cvt_mt5863_sa
 cabce20e443df00f
 Xiaomi aquaman
 f6d82e3e4dc32bbb
+samsung aosp
+0f8de2be8137a0ea
 
 djgustav +5 psc
 Android MDTV5G
@@ -18478,3 +18482,5 @@ Amazon sheldonp
 4930e27df4651bb4
 Amazon tank
 45d408e65a67cf4d
+Amazon mantis
+f8affb0feeb477f0
