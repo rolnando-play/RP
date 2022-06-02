@@ -4663,6 +4663,8 @@ dolphin dolphin-fvd-p1
 be88a9ef09320cdb
 Realtek smart_tv
 c033945007e3a216
+dolphin dolphin_fvd_p1
+a3b533c234b52b6a
 
 aylenmon
 OnePlus OnePlus8TMO
