@@ -18333,6 +18333,8 @@ e63ac082225c064c
 davidco
 Xiaomi begonia
 f69a14fdec043981
+LENOVO X306F
+ace7532b1ea81b38
 
 morel.e
 Xiaomi curtana
