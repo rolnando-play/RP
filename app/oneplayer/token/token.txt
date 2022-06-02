@@ -18238,6 +18238,8 @@ rockchip rk322x_box
 62087ebd2f89fd30
 HMD Global ROGA_sprout
 0448eeee59194848
+MBOX dolphin-p1
+91d2f3ef622972c9
 
 btz.ma
 Xiaomi davinci
