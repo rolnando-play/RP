@@ -4665,6 +4665,8 @@ Realtek smart_tv
 c033945007e3a216
 dolphin dolphin_fvd_p1
 a3b533c234b52b6a
+Amazon mantis
+1dc083c2446981c7
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -9220,6 +9222,9 @@ askey stephen
 b457ac62e776713c
 askey stephen
 4b3657bc13a1de78
+dolphin dolphin-fvd-p1
+55477a3a948b0d03
++
 
 rr.23
 MTK cvt_mt5863_sa
@@ -18617,6 +18622,8 @@ MBX m201_512m
 fc7b2d4aabed0fe
 MBOX dolphin-p1
 861cc5add7c438ba
+rockchip rk322x_box
+a5066cfa3e8c694a
 
 lunacar +6
 samsung dreamlte
