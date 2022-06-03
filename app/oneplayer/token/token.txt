@@ -5759,6 +5759,8 @@ Android MDTV5G
 f901150007b51702
 rockchip rk322x_box
 7b85ffdced367656
+Android MDTV5G
+2820f04b0cb91c74
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -6935,6 +6937,8 @@ dolphin dolphin-fvd-p1
 b6b3c9e0c6732e4a
 rockchip rk322x_box
 a0c5492b24c07e35
+rockchip MK
+e49f445a0c730b08
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -8861,6 +8865,8 @@ rockchip rk322x_box
 5e4df730ae4ee5d6
 HongXin hx_s905x
 ec2bf54085d01946
+Allwinner dolphin-fvd-p1
+ddd12842b81ed3a4
 
 iptv19 +6 psc
 rockchip rk322x_box
