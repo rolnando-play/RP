@@ -18607,3 +18607,5 @@ TCL BeyondTV
 sebas20
 motorola corfur
 94472c79d1b7b1c0
+samsung a21s
+4ed83e21c8355443
