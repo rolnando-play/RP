@@ -11297,6 +11297,8 @@ Allwinner dolphin-fvd-p1
 4f88b9aa904a8232
 Amlogic p281
 1220721f33d87cff
+rockchip rk322x_box
+eda07c5cb7e6b57f
 
 gergod +6
 Amlogic franklin
@@ -18454,6 +18456,8 @@ db6fbd830a96b5a9
 blasrav
 motorola odessa
 293aeace59dc6490
+Xiaomi umi
+e3be3abc1e0179ef
 
 mathiasle
 Amazon sheldon
@@ -18609,3 +18613,7 @@ motorola corfur
 94472c79d1b7b1c0
 samsung a21s
 4ed83e21c8355443
+
+hofmanen
+samsung a7y18lte
+4bf78b3b5f2dd77b
