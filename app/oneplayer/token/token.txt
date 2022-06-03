@@ -5451,6 +5451,8 @@ rockchip rk322x_box
 d6601a62f00085bc
 rockchip rk322x_box
 11831d2452b5ae75
+Xiaomi oneday
+3fad419dc3a60642
 
 britezat
 dolphin dolphin_fvd_p1
