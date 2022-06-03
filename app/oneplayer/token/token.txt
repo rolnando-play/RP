@@ -11340,6 +11340,8 @@ rockchip rk322x_box
 eda07c5cb7e6b57f
 rockchip rk322x_box
 85616e022b6f8ca1
+rockchip rk322x_box
+2fe02ed61c999fe6
 
 gergod +6
 Amlogic franklin
@@ -18699,6 +18701,8 @@ Xiaomi vayu
 115cef096c96b4c8
 Xiaomi oneday
 b19e68e14005d5ff
+MBX m201_512m
+b45b3a07c7ec3ab
 +12
 
 carlosbra
