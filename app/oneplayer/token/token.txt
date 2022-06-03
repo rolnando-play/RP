@@ -10860,6 +10860,8 @@ samsung a72q
 1384a1425885294c
 Xiaomi merlin
 bf2a606ef32adbbf
+dolphin SBQ-SM007
+dab64f426e022a59
 
 danieljo
 Allwinner dolphin-fvd-p1
