@@ -17386,6 +17386,8 @@ rockchip rk322x_box
 2e7798c91dc1235e
 Xiaomi oneday
 b24c165a0706aacf
+Gecen Tiger MXQPRO
+2fe9fa319eb4c895
 
 luisgua
 Xiaomi sweet
