@@ -9662,6 +9662,8 @@ dolphin dolphin_fvd_p1
 3d8bb5d1422d1f68
 Allwinner dolphin-fvd-p1
 40a39eba03169a3c
+rockchip MK
+e544c30971ae9003
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -14076,6 +14078,9 @@ MBOX dolphin-p1
 0870ceb448c5e9f3
 Google eros-p1
 d4209e51dca13923
++5 psc
+rockchip rk322x_box
+4dde58264377dec1
 
 gustavoda
 Amazon sheldonp
