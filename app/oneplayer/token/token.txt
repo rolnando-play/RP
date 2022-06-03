@@ -10785,8 +10785,8 @@ dolphin dolphin_fvd_p1
 fb95018e08fecc2e
 rockchip rk322x_box
 be1685c7ee0a4817
-rockchip rk3318
-0834d23db364ae39
+Xiaomi aquaman
+dad5b1b760f71a3a
 rockchip rk322x_box
 86dc73a25143ac70
 rockchip MK
@@ -16029,6 +16029,8 @@ Amazon sheldon
 05b39b6c25326795
 Amazon kara
 cc2f645ff8421efa
+Xiaomi once
+c4ae95b9e09c1ec2
 
 aflei
 Amazon sheldonp
