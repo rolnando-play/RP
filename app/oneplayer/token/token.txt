@@ -9635,6 +9635,8 @@ dolphin dolphin_fvd_p1
 37d02632e2ccdc29
 dolphin dolphin_fvd_p1
 3d8bb5d1422d1f68
+Allwinner dolphin-fvd-p1
+40a39eba03169a3c
 
 rocapo
 dolphin dolphin-fvd-p1
