@@ -7529,6 +7529,9 @@ Allwinner dolphin-fvd-p1
 85c988e6193ef13a
 rockchip rk322x_box
 bbc7f30c1c5c0ca7
++6
+Allwinner dolphin-fvd-p1
+54487247c973318f
 
 enriquelr
 Amazon sheldon
