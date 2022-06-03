@@ -5968,6 +5968,8 @@ rockchip rk322x_box
 a5811dfaa6644e36
 rockchip rk322x_box
 56cb3fe7d80b546
+rockchip rk322x_box
+a0ddeac77b007ff4
 
 its.cm
 Amlogic p282
@@ -17721,6 +17723,8 @@ Amazon sheldon
 ef16beafcf3b204b
 Amazon sheldon
 b2188d44aac122f1
+Amazon sheldon
+f67ff86bddedace8
 
 nuzzar +6
 Xiaomi renoir
