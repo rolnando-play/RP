@@ -2884,6 +2884,8 @@ Xiaomi aquaman
 d5e7d047d654f3c6
 samsung a51
 5729cd35eb190b9d
+Xiaomi aquaman
+e112f7da59f9641d
 
 mgwei
 MBOX dolphin-p1
