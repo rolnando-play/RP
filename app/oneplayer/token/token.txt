@@ -9224,7 +9224,11 @@ askey stephen
 4b3657bc13a1de78
 dolphin dolphin-fvd-p1
 55477a3a948b0d03
+rockchip rk322x_box
+b36a2f1cb5cfecb9
 +
+dolphin SBQ-SM007
+8272035b22d1e9cf
 
 rr.23
 MTK cvt_mt5863_sa
