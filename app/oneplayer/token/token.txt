@@ -6929,6 +6929,8 @@ rockchip MK
 c01ae37d6eacc33c
 rockchip MK
 eb51bc7af5addeed
+dolphin dolphin-fvd-p1
+b6b3c9e0c6732e4a
 
 gonzalezju +6
 HUAWEI HWYAL
