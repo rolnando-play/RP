@@ -17228,6 +17228,8 @@ f1f26651b590adae
 +6
 Allwinner dolphin-fvd-p1
 5980e811d46f22bf
+Android MDTV5G
+e7a3b8d95270b9da
 
 roloca
 MTK cvt_mt5886_sa
