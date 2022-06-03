@@ -16638,6 +16638,8 @@ Amazon mantis
 650abe920cda305c
 Amazon mantis
 f78736bdb32e440c
+Amazon kara
+ae75fbcce9adfe65
 
 manfredkl
 Google titan-p1
@@ -17186,6 +17188,9 @@ Android MDTV5G
 d6557f0921aebdde
 Android MDTV5G
 f1f26651b590adae
++6
+Allwinner dolphin-fvd-p1
+5980e811d46f22bf
 
 roloca
 MTK cvt_mt5886_sa
