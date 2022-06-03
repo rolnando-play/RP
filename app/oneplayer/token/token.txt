@@ -15892,6 +15892,16 @@ Amlogic p281
 31386edf612bd888
 dolphin dolphin_fvd_p1
 c3ec756fe3c79440
+Amlogic p281
+6cb11cae9ff72f18
+Amlogic p281
+b59eaeb80a0a9483
+Amlogic p281
+9677a71b8f6c87d
+Amlogic p281
+9c3de21ddbd940cf
+Amlogic p281
+9c3de21ddbd940cf
 
 luisvill
 rockchip rk322x_box
@@ -16031,6 +16041,8 @@ Amazon kara
 cc2f645ff8421efa
 Xiaomi once
 c4ae95b9e09c1ec2
+rockchip rk322x_box
+b39551c7fddd1ff5
 
 aflei
 Amazon sheldonp
@@ -18424,6 +18436,8 @@ Sony BRAVIA_ATV2
 b004a6ee1749433b
 Xiaomi oneday
 e63ac082225c064c
+Xiaomi aquaman
+ae69c547daf7c6d5
 
 davidco
 Xiaomi begonia
