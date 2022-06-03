@@ -11334,6 +11334,8 @@ Amlogic p281
 1220721f33d87cff
 rockchip rk322x_box
 eda07c5cb7e6b57f
+rockchip rk322x_box
+85616e022b6f8ca1
 
 gergod +6
 Amlogic franklin
@@ -18736,3 +18738,7 @@ samsung a21s
 hofmanen
 samsung a7y18lte
 4bf78b3b5f2dd77b
+
+amilcar7
+Amazon sheldonp
+0a890fbecb40670c
