@@ -6931,6 +6931,8 @@ rockchip MK
 eb51bc7af5addeed
 dolphin dolphin-fvd-p1
 b6b3c9e0c6732e4a
+rockchip rk322x_box
+a0c5492b24c07e35
 
 gonzalezju +6
 HUAWEI HWYAL
@@ -18635,6 +18637,7 @@ Xiaomi vayu
 115cef096c96b4c8
 Xiaomi oneday
 b19e68e14005d5ff
++12
 
 carlosbra
 rockchip rk322x_box
