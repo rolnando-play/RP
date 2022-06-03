@@ -5085,6 +5085,8 @@ rockchip rk322x_box
 beeba36dffa02466
 rockchip rk322x_box
 42747e8cb4c3886b
+rockchip rk322x_box
+d2fb1fbe66fb103
 
 lisandra
 MTK cvt_mt5863_sa
@@ -10845,7 +10847,11 @@ samsung a23
 58e3c9971adae6c4
 rockchip rk322x_box
 a67da42f71f01f20
-+
++18
+samsung a72q
+1384a1425885294c
+Xiaomi merlin
+bf2a606ef32adbbf
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18488,7 +18494,9 @@ Xiaomi vayu
 
 diegocar
 Xiaomi vayu
-a262f25f5fe9e5f4
+9a458b4cbd39fa52
+OnePlus OnePlus5
+1c4ef816340b7ff0
 Hisense xiaoyushan
 9991d4f195959b5d
 
