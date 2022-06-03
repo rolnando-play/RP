@@ -18454,8 +18454,6 @@ Amazon mantis
 db6fbd830a96b5a9
 
 blasrav
-motorola odessa
-293aeace59dc6490
 Xiaomi umi
 e3be3abc1e0179ef
 
