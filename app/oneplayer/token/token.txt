@@ -16066,6 +16066,8 @@ Xiaomi once
 c4ae95b9e09c1ec2
 rockchip rk322x_box
 b39551c7fddd1ff5
+Xiaomi oneday
+a2b1840feabd56ee
 
 aflei
 Amazon sheldonp
@@ -17983,6 +17985,8 @@ Allwinner dolphin-fvd-p1
 8ab28f39ece7eaf8
 MTK cvt_mt5886_sa
 23aaade19257691a
+rockchip rk322x_box
+6c2274aa012411fd
 
 jesuskin
 samsung beyond2
