@@ -9620,8 +9620,8 @@ BTV p212
 150b534bdfae1b14
 Android MDTV5G
 1f7b51ceabb634
-dolphin dolphin_fvd_p1
-84cc696bc7f0fae
+Allwinner dolphin-fvd-p1
+267154c6f9c8f5e2
 Android MDTV5G
 c636e2c61f220118
 rockchip MK
