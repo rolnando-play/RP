@@ -15935,6 +15935,31 @@ Amlogic p281
 15ab8fc80fa4983a
 Amlogic p281
 4af152cc7e13c771
++15 usdt
+Amlogic p281
+5fc2834bbb5fab2
+Amlogic p281
+74b28dec6c3e42d7
+Amlogic p281
+cbdea30f2a35289b
+Amlogic p281
+ec38f877ace3cdd8
+Xiaomi oneday
+b9aa593ca26d6147
+Amlogic p281
+884bbe8506e044ad
+Amlogic p281
+808e46f42d142231
+Amlogic p281
+b9238b94d2967d28
+Amlogic p281
+586d03ea8a8bb2e9
+dolphin dolphin_fvd_p1
+fd66754221556e2b
+dolphin dolphin_fvd_p1
+ef72da538c2b1318
+dolphin dolphin_fvd_p1
+2d4096c9d4eb0f40
 
 luisvill
 rockchip rk322x_box
