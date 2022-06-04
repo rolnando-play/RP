@@ -9677,6 +9677,8 @@ Allwinner dolphin-fvd-p1
 40a39eba03169a3c
 rockchip MK
 e544c30971ae9003
+rockchip MK
+6ed62fa703282b31
 
 rocapo
 dolphin dolphin-fvd-p1
