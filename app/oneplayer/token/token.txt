@@ -16157,6 +16157,8 @@ Xiaomi oneday
 a2b1840feabd56ee
 Xiaomi oneday
 694e50d9ed292f00
+rockchip rk322x_box
+cdb0b55424b4cf03
 
 aflei
 Amazon sheldonp
