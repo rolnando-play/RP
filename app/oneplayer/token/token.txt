@@ -8876,6 +8876,8 @@ HongXin hx_s905x
 ec2bf54085d01946
 Allwinner dolphin-fvd-p1
 ddd12842b81ed3a4
+rockchip rk322x_box
+dd44acca5679fbc8
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -16898,8 +16900,8 @@ Xiaomi curtana
 c220e05aa5562979
 
 diegosas
-Xiaomi davinci
-274368cc4ed175ac
+motorola nio
+23ed77bd429a0f24
 Google sabrina
 baaf74849b7f5049
 TCL UnionTV
@@ -18509,7 +18511,9 @@ Amlogic p281
 1d807da8fb62eeb7
 rockchip rk322x_box
 79f3989b9c51cb16
- 
+ samsung b2q
+e03e83f409c3221e
+
 franciscoro
 samsung starqltechn
 ef6aeb71b9adb82d
@@ -18741,6 +18745,10 @@ dde094f827eff4c3
 victorman
 Amlogic p281
 a96327a826080136
+Amlogic p281
+63e7f767a100fa25
+Amlogic p281
+7f32934d58fcbba8
 
 benitoa +6
 MBX m201_512m
