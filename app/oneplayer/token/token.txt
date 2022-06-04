@@ -12268,6 +12268,8 @@ dolphin dolphin_fvd_p1
 94a5136375b1e220
 dolphin dolphin_fvd_p1
 1757a4736b0badc0
+dolphin dolphin_fvd_p1
+ee44888e0fc74bb8
 
 chavezqu
 HUAWEI HWMAR
@@ -14100,6 +14102,8 @@ rockchip rk322x_box
 4dde58264377dec1
 rockchip rk322x_box
 14e7d1d412248d7f
+MediaTek mt5867
+afefcdb16d0a02bc
 
 gustavoda
 Amazon sheldonp
@@ -16116,8 +16120,7 @@ Amazon tank
 52232a26de1aa59e
 Android MDTV5G
 93af72b994440121
-askey sti6140d360
-f01103ba90816bb1
+
 Amlogic p201
 38120d328e3716e8
 rockchip rk322x_box
