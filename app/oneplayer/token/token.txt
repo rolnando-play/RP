@@ -8882,6 +8882,8 @@ Allwinner dolphin-fvd-p1
 ddd12842b81ed3a4
 rockchip rk322x_box
 dd44acca5679fbc8
+Allwinner dolphin-fvd-p1
+593926055f6299
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11560,6 +11562,8 @@ Amazon mantis
 404f16377fb6bacb
 Xiaomi oneday
 b1c2520f5a324b34
+Dispositivo nro 9
+d320f6143fa51a32
 
 lechuguita
 Amazon mantis
@@ -12911,6 +12915,8 @@ dolphin dolphin-fvd-p1
 Realtek RealtekATV
 a82728d40c712d64
 +6 psc
+Xiaomi aquaman
+94d580b6411625d7
 
 meek_bo
 rockchip rk322x_box
