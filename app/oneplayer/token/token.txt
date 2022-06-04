@@ -7543,6 +7543,8 @@ Android MDTV5G
 bd668c65c503af02
 rockchip rk322x_box
 f0f2600c8a395b83
+rockchip rk322x_box
+8d5543e6368d700
 
 enriquelr
 Amazon sheldon
@@ -18192,6 +18194,7 @@ Android MDTV5G
 ba479658cb4acc2e
 Android MDTV5G
 5a97087e20c5b864
++3
 
 obaez1
 Xiaomi oneday
@@ -18326,6 +18329,8 @@ NVIDIA Hi3798MV200
 17defe48ae0fd2c3
 rockchip rk322x_box
 4015191f52c3c862
+Android MDTV5G
+fedaec34a996b108
 
 nicolasgon ADA
 Google sabrina
@@ -18892,3 +18897,9 @@ dolphin dolphin_fvd_p1
 veopeli +18
 rockchip rk322x_box
 10300d41b3d9e759
+dolphin dolphin_fvd_p1 
+17be774b2d351c45
+rockchip MK
+71c8bbb6297c1bb0
+rockchip MK
+a0ba4c4891addd24
