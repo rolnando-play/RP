@@ -7532,6 +7532,8 @@ bbc7f30c1c5c0ca7
 +6
 Allwinner dolphin-fvd-p1
 54487247c973318f
+Android MDTV5G
+bd668c65c503af02
 
 enriquelr
 Amazon sheldon
@@ -16014,6 +16016,54 @@ dolphin dolphin_fvd_p1
 2d4096c9d4eb0f40
 Xiaomi aquaman
 c1b895b0213fa19b
+Amlogic p281
+276e152aba147117
+Amlogic p281
+8df7999b45d68751
++15 usdt
+Amlogic p281
+d0719f9aaab1660d
+Amlogic p281
+533075cb2d342ca3
+Amlogic p281
+75fbacb47809ec79
+Amlogic p281
+315227e3c72dafa0
+Amlogic p281
+293aff4498a8a494
+Amlogic p281
+308720d0e1f9dc72
+Amlogic p281
+8696f45c199ea310
+Amlogic p281
+b0194470e69c20e6
+Amlogic p281
+7b6dc79e9b28c11f
+Amlogic p281
+f6e0501320bfcd27
+Amlogic p281
+e362e7dd55004b43
+Amlogic p281
+c36135cd80bd58d2
+Amlogic p281
+376f8f5c4903d76e
+Amlogic p281
+e07dcebccc0985dd
+Amlogic p281
+38442d71d626b298
++6 usdt
+Amlogic p281
+627a05c077cebe7c
+Amlogic p281
+96e0fae27a5992ac
+Amlogic p281
+f7a9e87b6689211e
+dolphin dolphin_fvd_p1
+394ccc6b27c2ebae
+dolphin dolphin_fvd_p1
+bcfde1bfe4b0cdd7
+dolphin dolphin_fvd_p1
+3b24f44c2adb870a
 
 luisvill
 rockchip rk322x_box
