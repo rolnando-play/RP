@@ -18710,6 +18710,8 @@ Xiaomi aquaman
 52198d6adee8edb0
 Android MDTV5G
 b96ed374bbabe53b
+rockchip MK
+3041a5a6102d9444
 
 robus14 +6
 samsung a70q
@@ -18809,3 +18811,5 @@ LGE mmh45lm
 deividg
 dolphin dolphin_fvd_p1
 b33b650ba38cc850
+dolphin dolphin_fvd_p1
+48f16cf3dca6b1b
