@@ -10867,6 +10867,8 @@ Xiaomi merlin
 bf2a606ef32adbbf
 dolphin SBQ-SM007
 dab64f426e022a59
+rockchip rk322x_box
+5ca76241f99f318c
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -16120,7 +16122,8 @@ Amazon tank
 52232a26de1aa59e
 Android MDTV5G
 93af72b994440121
-
+rockchip rk322x_box
+7be035c10b84e864
 Amlogic p201
 38120d328e3716e8
 rockchip rk322x_box
