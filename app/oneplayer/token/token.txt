@@ -10898,6 +10898,8 @@ dolphin SBQ-SM007
 dab64f426e022a59
 rockchip rk322x_box
 5ca76241f99f318c
+rockchip rk3318
+0834d23db364ae39
 
 danieljo
 Allwinner dolphin-fvd-p1
