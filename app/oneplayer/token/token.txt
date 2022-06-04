@@ -16006,6 +16006,8 @@ dolphin dolphin_fvd_p1
 ef72da538c2b1318
 dolphin dolphin_fvd_p1
 2d4096c9d4eb0f40
+Xiaomi aquaman
+c1b895b0213fa19b
 
 luisvill
 rockchip rk322x_box
@@ -18767,3 +18769,7 @@ samsung a7y18lte
 amilcar7
 Amazon sheldonp
 0a890fbecb40670c
+
+esbaed +6
+dolphin dolphin_fvd_p1
+8d7c1265de9775f8
