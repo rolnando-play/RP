@@ -6945,6 +6945,8 @@ rockchip rk322x_box
 a0c5492b24c07e35
 rockchip MK
 e49f445a0c730b08
+Android MDTV5G
+a530fb3eb441675b
 
 gonzalezju +6
 HUAWEI HWYAL
