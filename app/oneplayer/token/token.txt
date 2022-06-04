@@ -18010,6 +18010,8 @@ Xiaomi oneday
 aribor
 HMD Global YDU
 46b7c10201a78fe6
+Allwinner dolphin-fvd-p1
+26cdabe482c338bb
 
 soporte@ah
 MediaTeck mt5867
