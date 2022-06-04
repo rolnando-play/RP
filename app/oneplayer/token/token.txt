@@ -7545,6 +7545,8 @@ rockchip rk322x_box
 f0f2600c8a395b83
 rockchip rk322x_box
 8d5543e6368d700
+Xiaomi lancelot
+7dcaa32ea2162cd8
 
 enriquelr
 Amazon sheldon
@@ -12303,6 +12305,8 @@ dolphin dolphin_fvd_p1
 1757a4736b0badc0
 dolphin dolphin_fvd_p1
 ee44888e0fc74bb8
+dolphin dolphin_fvd_p1
+d2aa1c494ce530e8
 
 chavezqu
 HUAWEI HWMAR
@@ -17365,6 +17369,8 @@ Allwinner dolphin-fvd-p1
 5980e811d46f22bf
 Android MDTV5G
 e7a3b8d95270b9da
+Xiaomi oneday
+836a95fd4275051a
 
 roloca
 MTK cvt_mt5886_sa
@@ -17583,7 +17589,7 @@ Amazon mantis
 453b987c8d4d71ad
 +3
 Amazon mantis
-e6fbbaa74e9f2ad3
+92302d51edaf06bd
 
 elfraybe +6
 Xiaomi curtana
@@ -18197,6 +18203,8 @@ ba479658cb4acc2e
 Android MDTV5G
 5a97087e20c5b864
 +3
+Android MDTV5G
+a2b4cd3a0781ea27
 
 obaez1
 Xiaomi oneday
@@ -18825,6 +18833,8 @@ b19e68e14005d5ff
 MBX m201_512m
 b45b3a07c7ec3ab
 +12
+dolphin dolphin-fvd-p1
+b39a13832d8f0be5
 
 carlosbra
 rockchip rk322x_box
@@ -18905,3 +18915,9 @@ rockchip MK
 71c8bbb6297c1bb0
 rockchip MK
 a0ba4c4891addd24
+
+carmelo.s
+samsung a30s
+5ed75f61c0f7356d
+MBX m201_512m
+eb91854bc971e537
