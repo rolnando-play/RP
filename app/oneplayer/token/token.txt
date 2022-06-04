@@ -7547,6 +7547,8 @@ rockchip rk322x_box
 8d5543e6368d700
 Xiaomi lancelot
 7dcaa32ea2162cd8
+Xiaomi begonia
+5cc848dca1e9ac92
 
 enriquelr
 Amazon sheldon
@@ -8895,6 +8897,8 @@ rockchip rk322x_box
 dd44acca5679fbc8
 Allwinner dolphin-fvd-p1
 593926055f6299
+rockchip rk322x_box
+6182b89b22229361
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11410,6 +11414,8 @@ TCL BeyondTV
 2904ecc99ab1e5e1
 realme RMX2063L1
 33d29907ae62c009
+Haier hanyang
+de679d07e2b0281a
 
 tvbox88 +6 psc
 rockchip rk322x_box
@@ -17590,6 +17596,8 @@ Amazon mantis
 +3
 Amazon mantis
 92302d51edaf06bd
+Amlogic p281
+e1d59ee0c3324603
 
 elfraybe +6
 Xiaomi curtana
@@ -18205,6 +18213,10 @@ Android MDTV5G
 +3
 Android MDTV5G
 a2b4cd3a0781ea27
+rockchip rk322x_box
+784d2f3b217a031f
+rockchip rk322x_box
+6e51339aefd44e40
 
 obaez1
 Xiaomi oneday
@@ -18895,6 +18907,8 @@ e6483e28e98fa751
 sebarom +6
 Xiaomi cactus
 dd5e531b2eb32ce8
+SDMC DV8547
+247db684a672b9f4
 
 lucianoar +6
 LGE mmh45lm
