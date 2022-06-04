@@ -5765,6 +5765,9 @@ rockchip rk322x_box
 7b85ffdced367656
 Android MDTV5G
 2820f04b0cb91c74
+Android MDTV5G
+b95e066f98e5b509
++6
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -6379,6 +6382,8 @@ MBOX dolphin-p1
 03191af57c17ba62
 rockchip rk322x_box
 3a601018cc9d7eed
+dolphin dolphin-fvd-p1
+cbb75d0ad4bddd60
 
 joiseg +6 psc
 Amazon sheldon
@@ -7536,6 +7541,8 @@ Allwinner dolphin-fvd-p1
 54487247c973318f
 Android MDTV5G
 bd668c65c503af02
+rockchip rk322x_box
+f0f2600c8a395b83
 
 enriquelr
 Amazon sheldon
@@ -11363,6 +11370,10 @@ rockchip rk322x_box
 2fe02ed61c999fe6
 dolphin dolphin-fvd-p1
 1f12d94223701da6
+rockchip rk322x_box
+27720658b8cc56c7
+rockchip rk322x_box
+5fc6d6c8f2420007
 
 gergod +6
 Amlogic franklin
@@ -16221,6 +16232,8 @@ Xiaomi oneday
 694e50d9ed292f00
 rockchip rk322x_box
 cdb0b55424b4cf03
+MBOX dolphin-p1
+c03ed9207e17641f
 
 aflei
 Amazon sheldonp
@@ -16793,6 +16806,8 @@ Amazon mantis
 f78736bdb32e440c
 Amazon kara
 ae75fbcce9adfe65
+Amazon sheldonp
+a8a458494dd90b65
 
 manfredkl
 Google titan-p1
@@ -18873,3 +18888,7 @@ dolphin dolphin_fvd_p1
 b33b650ba38cc850
 dolphin dolphin_fvd_p1
 48f16cf3dca6b1b
+
+veopeli +18
+rockchip rk322x_box
+10300d41b3d9e759
