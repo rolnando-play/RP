@@ -18720,6 +18720,8 @@ d5aeed13b5f4da0a
 victorman
 rockchip rk322x_box
 cecf610a349cdaeb
+dolphin SBQ-SM007
+92a2a6706197df02
 
 luisito35
 Xiaomi vayu
