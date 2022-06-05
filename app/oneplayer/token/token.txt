@@ -17393,6 +17393,8 @@ Android MDTV5G
 e7a3b8d95270b9da
 Xiaomi oneday
 836a95fd4275051a
+rockchip rk322x_box
+92da358c5fdd7b94
 
 roloca
 MTK cvt_mt5886_sa
