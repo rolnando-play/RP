@@ -4861,12 +4861,10 @@ adrian.tw
 samsung star2lte
 bc9b99ae0ccee8b8
 rockchip rk322x_box
-8b22fe2162cbd9e8
-rockchip rk322x_box
 2e7b878b68cf440e
-+3
 rockchip rk322x_box
 17bada9e698108f1
++3
 rockchip rk322x_box
 efdfe59a591befd3
 rockchip rk322x_box
@@ -10819,8 +10817,7 @@ dolphin dolphin-fvd-p1
 5731f2cef40d230
 rockchip rk322x_box
 d27013a2dc1aeb9a
-samsung j6lte
-fcdd77d222a28ac7
+
 Xiaomi oneday
 f0b5d8c9f9979de0
 MediaTek mt5867
