@@ -18972,3 +18972,9 @@ Xiaomi oneday
 b19b783dd269bdde
 Xiaomi oneday
 dd260d4ea0fcbc17
+
+soyale
+Amlogic p212
+6a9f6658ba9d6aae
+Google sabrina
+1ad2e26bf9c0aa65
