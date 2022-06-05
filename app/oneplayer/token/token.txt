@@ -16269,6 +16269,8 @@ rockchip rk322x_box
 cdb0b55424b4cf03
 MBOX dolphin-p1
 c03ed9207e17641f
+Xiaomi aquaman
+de926aad9d9619c4
 
 aflei
 Amazon sheldonp
