@@ -18970,3 +18970,5 @@ samsung q2q
 b99dbc3e7da81214
 Xiaomi oneday
 b19b783dd269bdde
+Xiaomi oneday
+dd260d4ea0fcbc17
