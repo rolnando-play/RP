@@ -1925,6 +1925,11 @@ dolphin-fvd-p1
 c769d37b9a6281bc
 rockchip rk322x_box
 8a2765fb00a37909
++3
+MBOX dolphin-p1
+7d1bda5a0dabe96f
+dolphin dolphin_fvd_p1
+b8765bb9b984a138
 
 ingridso
 COSHIP n9090_telmexott
