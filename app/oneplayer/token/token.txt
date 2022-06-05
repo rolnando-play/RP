@@ -18851,6 +18851,8 @@ rockchip rk322x_box
 cecf610a349cdaeb
 dolphin SBQ-SM007
 92a2a6706197df02
+rockchip rk322x_box
+d87c22b9f4679ac4
 
 luisito35
 Xiaomi vayu
