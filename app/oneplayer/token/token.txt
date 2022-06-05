@@ -10602,7 +10602,7 @@ samsung j4lte
 Amazon kara
 fe3a7d90b5a800b2
 Xiaomi oneday
-3d3135a75d5485b2
+d2067b4cdba5cb19
 samsung a12s
 bbbc737ed46b04fe
 Amlogic p281
@@ -16107,6 +16107,13 @@ dolphin dolphin_fvd_p1
 bcfde1bfe4b0cdd7
 dolphin dolphin_fvd_p1
 3b24f44c2adb870a
++15 usdt
+Amlogic p281
+afb3448aa09f387c
+Amlogic p281
+f2440a0f13ce3d00
+Amlogic p281
+8ed3c26cdd548afa
 
 luisvill
 rockchip rk322x_box
@@ -16618,8 +16625,8 @@ Xiaomi machuca
 29d29d7e29eb1cc0
 Amazon sheldon
 b2da7f39d70c0983
-Xiaomi oneday
-1defc647095baf20
+Allwinner dolphin-fvd-p1
+233d70a1168c2077
 +3
 SkyworthDigital YYT
 80db12c7684bcf5e
