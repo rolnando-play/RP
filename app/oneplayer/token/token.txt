@@ -18934,6 +18934,8 @@ Xiaomi cactus
 dd5e531b2eb32ce8
 SDMC DV8547
 247db684a672b9f4
+SDMC DV8547
+62fecda60a2b9ca1
 
 lucianoar +6
 LGE mmh45lm
