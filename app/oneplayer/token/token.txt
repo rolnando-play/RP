@@ -9090,6 +9090,8 @@ samsung a33x
 8f4f8c00ad9839b9
 Android MBOX
 f32d9986af0ea44e
+MTK cvt_mt5863_sa
+507c841ae0c448b2
 
 carmenve
 dolphin dolphin_fvd_p1
