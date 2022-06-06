@@ -7563,6 +7563,8 @@ dolphin dolphin-fvd-p1
  fc40cb3636639c24
 rockchip rk322x_box
 3622e44e391e1dbe
+Xiaomi croods
+4939efb5b19415dd
 
 enriquelr
 Amazon sheldon
@@ -16305,6 +16307,8 @@ Xiaomi aquaman
 de926aad9d9619c4
 Allwinner dolphin-fvd-p1
 72fb392df5e30cd
+Amazon sheldonp
+7df09f7030171c31
 
 aflei
 Amazon sheldonp
