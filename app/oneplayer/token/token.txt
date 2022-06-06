@@ -18337,6 +18337,8 @@ a3f3dc649a57be1d
 fdaniel
 Amazon mantis
 af35850e7bcb3278
+Amazon kara
+089e0e6b8d9a5d4b
 
 juanpabloes
 rockchip rk3328_box
