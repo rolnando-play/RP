@@ -7565,6 +7565,8 @@ rockchip rk322x_box
 3622e44e391e1dbe
 Xiaomi croods
 4939efb5b19415dd
+dolphin dolphin_fvd_p1
+88caacb701543d9c
 
 enriquelr
 Amazon sheldon
