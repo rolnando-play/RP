@@ -17084,7 +17084,7 @@ rortiz +6
 HUAWEI HWELE
 e915427e127497f0
 rockchip rk3328_box
-ae9ab66283258b93
+f44ee4554fc4072e
 HUAWEI HWBLA
 996abff2a8d7205d
 HUAWEI HWMAR
@@ -18983,6 +18983,8 @@ rockchip MK
 a0ba4c4891addd24
 rockchip rk322x_box
 61537bf7dbc48966
+rockchip rk322x_box
+58fae7e552d71b15
 
 carmelo.s
 samsung a30s
