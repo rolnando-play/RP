@@ -18802,6 +18802,8 @@ rockchip rk322x_box
 tungus
 Pixel Core Hi3798MV200
 66644c767c8ac3ba
+HUAWEI HWANE
+f5685e611ebf4fe0
 
 sreami
 Amlogic p281
