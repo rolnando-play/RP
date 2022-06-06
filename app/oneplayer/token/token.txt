@@ -19015,3 +19015,7 @@ Amlogic p212
 6a9f6658ba9d6aae
 Google sabrina
 1ad2e26bf9c0aa65
+
+angel.es
+samsung zerolteatt
+50b76269e623dbad
