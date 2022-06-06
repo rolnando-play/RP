@@ -7916,6 +7916,8 @@ Android MDTV5G
 19286c6151bae689
 Android MDTV5G
 1a0caa950dd9928b
+rockchip rk322x_box
+ebd4154a106fe008
 
 victorcor
 rockchip rk322x_box
