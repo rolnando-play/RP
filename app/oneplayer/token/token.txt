@@ -11407,6 +11407,10 @@ rockchip rk322x_box
 efc2ec855f7b46f7
 Allwinner dolphin-fvd-p1
 fd49ca06be9a6ea8
+rockchip rk322x_box
+6c8d2e4412d58a64
+rockchip rk322x_box
+25d9879d19458ad5
 
 gergod +6
 Amlogic franklin
