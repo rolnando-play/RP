@@ -12038,10 +12038,8 @@ rockchip rk322x_box
 76d5b15ea988c8cf
 
 fernando.a
-HUAWEI HWEML
-028a8adfe2413fbe
 rockchip rk322x_box
-65a1ec7f08847de7
+93baa4bfd6ec4720
 Android MDTV5G
 262731990a4f7a2b
 
