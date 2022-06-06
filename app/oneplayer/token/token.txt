@@ -16684,7 +16684,7 @@ rockchip rk322x_box
 samsung a51
 e8f386659edd10ef
 Xiaomi alioth
-7c333ad10bb8130e
+bd925664a776727a
 
 angeltum
 Allwinner dolphin-fvd-p1
