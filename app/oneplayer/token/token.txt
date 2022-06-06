@@ -18950,6 +18950,8 @@ MBOX dolphin-p1
 861cc5add7c438ba
 rockchip rk322x_box
 a5066cfa3e8c694a
+Allwinner dolphin-fvd-p1
+16cb88ed5c0c3466
 
 lunacar +6
 samsung dreamlte
