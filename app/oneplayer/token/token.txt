@@ -7556,6 +7556,13 @@ Xiaomi lancelot
 7dcaa32ea2162cd8
 Xiaomi begonia
 5cc848dca1e9ac92
++6
+Google walleye
+92c25e159f45f09d
+dolphin dolphin-fvd-p1
+ fc40cb3636639c24
+rockchip rk322x_box
+3622e44e391e1dbe
 
 enriquelr
 Amazon sheldon
@@ -8242,6 +8249,8 @@ rockchip rk322x_box
 89cbe062985a37f0
 Android MDTV5G
 36380e78b25fa68c
+Allwinner dolphin-fvd-p1
+c5686db4ecd32f42
 
 jjuan
 Xiaomi aquaman
