@@ -4063,6 +4063,8 @@ b0a4ea85df8aefa0
 +3
 Xiaomi oneday
 2134c9105023cf52
+Xiaomi machuca
+2f850cee9a72b18b
 
 juanin
 Allwinner petrel-p1
@@ -12548,6 +12550,8 @@ f9951c141ce9c9b2
 Android MDTV5G
 152d791a0ed7181d
 +3
+Android MDTV5G
+7130e8ddc34c7225
 
 davalosru
 rockchip rk3328_box
@@ -18969,6 +18973,8 @@ rockchip MK
 71c8bbb6297c1bb0
 rockchip MK
 a0ba4c4891addd24
+rockchip rk322x_box
+61537bf7dbc48966
 
 carmelo.s
 samsung a30s
