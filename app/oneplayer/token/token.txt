@@ -16292,6 +16292,8 @@ MBOX dolphin-p1
 c03ed9207e17641f
 Xiaomi aquaman
 de926aad9d9619c4
+Allwinner dolphin-fvd-p1
+72fb392df5e30cd
 
 aflei
 Amazon sheldonp
