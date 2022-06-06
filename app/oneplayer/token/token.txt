@@ -18904,7 +18904,7 @@ cecf610a349cdaeb
 dolphin SBQ-SM007
 92a2a6706197df02
 rockchip rk322x_box
-d87c22b9f4679ac4
+da96c24882083fb9
 
 luisito35
 Xiaomi vayu
@@ -18952,6 +18952,8 @@ rockchip rk322x_box
 a5066cfa3e8c694a
 Allwinner dolphin-fvd-p1
 16cb88ed5c0c3466
+MBOX dolphin-p1
+2811b0785c1778a7
 
 lunacar +6
 samsung dreamlte
