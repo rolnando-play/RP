@@ -991,12 +991,8 @@ AUDISAT_MXQ
 3109ad1ded983a20
 
 fernandoas
-htv box
-5af0fb426d637893
-Allwinner dolphin-fvd-p1
-b763c58a8108fdcc
-Allwinner dolphin-fvd-p1
-138546d768ca57ba
+Amazon sheldon
+11e832ddd4dd3d86
 
 cesar.os
 mxp plus Amlogic p212
