@@ -8275,6 +8275,9 @@ Android MDTV5G
 36380e78b25fa68c
 Allwinner dolphin-fvd-p1
 c5686db4ecd32f42
++
+Android MDTV5G
+1424d251471caaf1
 
 jjuan
 Xiaomi aquaman
@@ -19099,3 +19102,7 @@ Amazon kara
 yhona
 samsung y2s
 6d990fc7d7ea0420
+
+fabianme +9
+samsung j6lte
+fcdd77d222a28ac7
