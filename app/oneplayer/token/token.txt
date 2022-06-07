@@ -11461,6 +11461,9 @@ rockchip rk322x_box
 78e3b10f6053cddd
 rockchip rk322x_box
 6a3f7c0b2bb441fb
++18 usdt
+Amlogic p281
+121447a69879904e
 
 gergod +6
 Amlogic franklin
@@ -11876,6 +11879,8 @@ rockchip rk322x_box
 2aafede9268bc088
 rockchip rk322x_box
 edc86af4ee6738f1
+Android MDTV5G
+e62808af98a89801
 
 brandonmk
 Xiaomi begonia
@@ -18311,6 +18316,8 @@ rockchip rk322x_box
 6c2274aa012411fd
 rockchip rk322x_box
 3eca3847cfed14d9
+streambus rk322x_box
+e1773d8541e7f982
 
 jesuskin
 samsung beyond2
