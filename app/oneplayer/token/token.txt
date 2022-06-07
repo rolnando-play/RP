@@ -429,6 +429,8 @@ Amazon sheldon
 +3
 rockchip rk322x_box
 bb959ab03d97fc90
+Amazon sheldon
+f7bb908f4560600c
 
 AQuinonez
 S905W
@@ -7591,6 +7593,8 @@ Android MDTV5G
 fab5306043a65e3a
 Xiaomi croods
 b888b1d66d2e5418
+dolphin dolphin_fvd_p1
+53a7629b922ac400
 
 enriquelr
 Amazon sheldon
@@ -12393,6 +12397,9 @@ dolphin dolphin_fvd_p1
 ee44888e0fc74bb8
 dolphin dolphin_fvd_p1
 d2aa1c494ce530e8
++9
+BTV p212
+0c1cb935ba20f683
 
 chavezqu
 HUAWEI HWMAR
