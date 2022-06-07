@@ -19081,3 +19081,7 @@ samsung zerolteatt
 mateolu +6
 Amazon kara
 8f872dbfcbc95770
+
+yhona
+samsung y2s
+6d990fc7d7ea0420
