@@ -10965,6 +10965,8 @@ dolphin dolphin-fvd-p1
 e0503a7cc5a6757c
 rockchip rk322x_box
 f1dabf7f03ab0e5f
+Xiaomi oneday
+c9550731829f918d
 
 danieljo
 Allwinner dolphin-fvd-p1
