@@ -6400,6 +6400,8 @@ dolphin dolphin-fvd-p1
 3aca28b194cf7ab6
 rockchip MK
 442a85c5d3a3181
+dolphin dolphin-fvd-p1
+4fcc2247cb0a344c
 
 joiseg +6 psc
 Amazon sheldon
