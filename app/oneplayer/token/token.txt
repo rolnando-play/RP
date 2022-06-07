@@ -7583,8 +7583,8 @@ Xiaomi oneday
 1f3f99e59fd93122
 MBOX dolphin-p1
 fed7d04d06d00b40
-samsung dreamlte
-85a39ca14db25ff2
+streambus p200_2G
+56deaa94c0375c50
 rockchip rk322x_box
 44525a58247b9921
 Xiaomi volver
