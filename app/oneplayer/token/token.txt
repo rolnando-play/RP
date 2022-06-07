@@ -3262,6 +3262,8 @@ dolphin dolphin_fvd_p1
 9e777ba27ea0d001
 rockchip rk322x_box
 c7ed7e731d320090
+Android MDTV5G
+355981d651d1b785
 
 aescobar9
 samsung y2s
@@ -7572,6 +7574,9 @@ dolphin dolphin_fvd_p1
 88caacb701543d9c
 MBOX dolphin-p1
 5ee8bf0b8d02a35f
++
+Xiaomi oneday
+1f3f99e59fd93122
 
 enriquelr
 Amazon sheldon
@@ -18254,6 +18259,15 @@ Google titan-p1
 7184e26b2c7ab3ab
 Google titan-p1
 c45b4d85ffb6b3a5
++18
+Google titan-p1
+2e8e47cd9f2a8134
+Google titan-p1
+bf3102bc453a2cdf
+Google titan-p1
+e4960d62ef8cdbbf
+Google titan-p1
+2e00b81ce725fe07
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
