@@ -7574,7 +7574,7 @@ dolphin dolphin_fvd_p1
 88caacb701543d9c
 MBOX dolphin-p1
 5ee8bf0b8d02a35f
-+
++9
 Xiaomi oneday
 1f3f99e59fd93122
 
@@ -18683,6 +18683,8 @@ samsung b2q
 0fe6206cde56f12d
 Xiaomi aquaman
 d1bedb7fbf597935
+TCL UnionTV
+cb86a7894f8cc6dc
 
 velaztiquilu
 MBOX dolphin-p1
