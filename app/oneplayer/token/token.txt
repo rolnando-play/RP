@@ -7587,6 +7587,10 @@ rockchip rk322x_box
 44525a58247b9921
 Xiaomi volver
 cdf0d9078deff0e0
+Android MDTV5G
+fab5306043a65e3a
+Xiaomi croods
+b888b1d66d2e5418
 
 enriquelr
 Amazon sheldon
