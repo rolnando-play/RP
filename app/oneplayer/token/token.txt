@@ -16213,6 +16213,8 @@ Amlogic p281
 8ed3c26cdd548afa
 Amlogic p281
 c825adc325a73721
+Xiaomi aquaman
+b30422684fdbe4c8
 
 luisvill
 rockchip rk322x_box
