@@ -2283,6 +2283,8 @@ Amazon mantis
 11f2dab10fc9daf6
 Amazon tank
 6a881649ed0b55e0
+Amazon sheldon
+bd55811b5a0c5974
 
 mv_mf_
 Xiaomi oneday
