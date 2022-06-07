@@ -7587,6 +7587,8 @@ MBOX dolphin-p1
 fed7d04d06d00b40
 samsung dreamlte
 85a39ca14db25ff2
+rockchip rk322x_box
+44525a58247b9921
 
 enriquelr
 Amazon sheldon
@@ -19108,3 +19110,7 @@ samsung y2s
 fabianme +9
 samsung j6lte
 fcdd77d222a28ac7
+
+jjalbe
+Xiaomi ginkgo
+a378ec095351fdbf
