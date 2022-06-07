@@ -12587,6 +12587,8 @@ Android MDTV5G
 +3
 Android MDTV5G
 7130e8ddc34c7225
+rockchip rk322x_box
+faf3adbc8b69bc4b
 
 davalosru
 rockchip rk3328_box
@@ -12755,6 +12757,8 @@ Xiaomi oneday
 4c6fcd83e64bb318
 OnePlus OnePlus5
 0f37ab3cf1f9e91b
+Xiaomi aquaman
+f429b20bf6f345cc
 
 hheimb
 samsung a50
