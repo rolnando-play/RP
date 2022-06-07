@@ -10493,8 +10493,7 @@ MTK cvt_mt5863_sa
 72ccfc3a004b976a
 rockchip rk322x_box
 1094a31c6283ffc9
-Xiaomi oneday
-1c157d28699335a0
+
 rockchip rk322x_box
 9392dc6363bd2c72
 +18
@@ -19159,6 +19158,8 @@ fcdd77d222a28ac7
 jjalbe
 Xiaomi ginkgo
 a378ec095351fdbf
+COSHIP n9090_telmexott
+6bd0e687fdb21c09
 
 sbarrios7 +6
 HUAWEI HWMAR
