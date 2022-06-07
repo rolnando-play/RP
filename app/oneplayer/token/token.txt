@@ -1790,6 +1790,11 @@ Allwinner dolphin-fvd-p1
 5b4a65439a27d4e4
 rockchip rk322x_box
 1de29b065faf785
++10
+ALIEN Hi3798MV200
+1104dbde8dd02bc5
+i7 petrel-p1
+7d28a8f384ab5949
 
 ruthgis
 S905W
