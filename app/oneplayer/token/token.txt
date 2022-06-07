@@ -18301,6 +18301,8 @@ MTK cvt_mt5886_sa
 23aaade19257691a
 rockchip rk322x_box
 6c2274aa012411fd
+rockchip rk322x_box
+3eca3847cfed14d9
 
 jesuskin
 samsung beyond2
