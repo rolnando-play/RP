@@ -3266,6 +3266,8 @@ rockchip rk322x_box
 c7ed7e731d320090
 Android MDTV5G
 355981d651d1b785
+Android MDTV5G
+a4091a14ed5ef6fc
 
 aescobar9
 samsung y2s
@@ -19057,6 +19059,8 @@ rockchip rk322x_box
 f93f98faf1a55d78
 Google sabrina
 a9e2badcd22a01c9
+rockchip rk322x_box
+742f45205985eb3
 
 carmelo.s
 samsung a30s
