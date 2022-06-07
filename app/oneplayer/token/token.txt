@@ -9923,6 +9923,8 @@ SkyworthDigital LAS
 a31d495f06723354
 Xiaomi oneday
 16cfb5c228ffa298
+SkyworthDigital LAS
+b8a98ad3aa4d8f5d
 
 ragnar.lod
 Allwinner dolphin-fvd-p1
