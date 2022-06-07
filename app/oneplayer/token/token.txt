@@ -7567,7 +7567,7 @@ Xiaomi begonia
 Google walleye
 92c25e159f45f09d
 dolphin dolphin-fvd-p1
- fc40cb3636639c24
+fc40cb3636639c24
 rockchip rk322x_box
 3622e44e391e1dbe
 Xiaomi croods
