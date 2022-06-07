@@ -19004,6 +19004,8 @@ Amazon sheldon
 33880a17247da654
 Xiaomi oneday
 48e3e8931da9fc80
+Xiaomi oneday
+577fa13a1e9fa10d
 
 carlosbra
 rockchip rk322x_box
