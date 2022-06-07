@@ -995,6 +995,8 @@ AUDISAT_MXQ
 fernandoas
 Amazon sheldon
 11e832ddd4dd3d86
+amlogic sw01
+5af0fb426d637893
 
 cesar.os
 mxp plus Amlogic p212
