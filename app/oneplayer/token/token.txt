@@ -14348,8 +14348,8 @@ askey sti6140d360
 ccardo
 samsung a12
 a93b3b0fbcb881ca
-samsung a30
-db7bccd498a372c1
+Google sabrina
+9a787754cfed027e
 MediaTek mt5867
 bd12f5c368d55ee6
 
