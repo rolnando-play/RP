@@ -7589,6 +7589,8 @@ samsung dreamlte
 85a39ca14db25ff2
 rockchip rk322x_box
 44525a58247b9921
+Xiaomi volver
+cdf0d9078deff0e0
 
 enriquelr
 Amazon sheldon
@@ -16920,6 +16922,8 @@ Amazon kara
 ae75fbcce9adfe65
 Amazon sheldonp
 a8a458494dd90b65
+Amazon kara
+3df749100a33d035
 
 manfredkl
 Google titan-p1
