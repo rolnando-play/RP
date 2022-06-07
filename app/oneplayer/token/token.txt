@@ -14342,6 +14342,8 @@ SEI Robotics SEI400TV
 f84cb76b75efc5f4
 SEI Robotics SEI400TV
 9a92ca44c1653ec0
+askey sti6140d360
+8345fd2adb3ce4af
 
 ccardo
 samsung a12
