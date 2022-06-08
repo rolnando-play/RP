@@ -19188,6 +19188,8 @@ Google sabrina
 a9e2badcd22a01c9
 rockchip rk322x_box
 742f45205985eb3
+Android MDTV5G
+fac496a415313c27
 
 carmelo.s
 samsung a30s
@@ -19252,6 +19254,8 @@ Android MBOX
 andrsyn
 Xiaomi pyxis
 6cb13d8b8fc1d087
+COSHIP n9090_telmexott
+2b43476779be76b6
 
 cursose
 Android MDTV5G
@@ -19262,3 +19266,5 @@ dolphin dolphin_fvd_p1
 rolimar
 Xiaomi machuca
 d39b1c14d152218a
+Xiaomi croods
+bf4d290bb28ecba2
