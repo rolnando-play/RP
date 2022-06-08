@@ -7624,6 +7624,8 @@ xiaomi KM1
 be662747f39340d7
 rockchip rk322x_box
 1e1bdbace96be8c9
+Xiaomi oneday
+c5fe603c4b37f412
 
 enriquelr
 Amazon sheldon
@@ -12442,6 +12444,8 @@ BTV p212
 0c1cb935ba20f683
 dolphin dolphin_fvd_p1
 d8ed5988c279863f
+dolphin dolphin_fvd_p1
+303bbeb54ef1cf81
 
 chavezqu
 HUAWEI HWMAR
