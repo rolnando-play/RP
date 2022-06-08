@@ -18524,6 +18524,8 @@ rockchip rk322x_box
 4015191f52c3c862
 Android MDTV5G
 fedaec34a996b108
+Allwinner dolphin-fvd-p1
+1e36e8d930b04716
 
 nicolasgon ADA
 Google sabrina
@@ -19194,3 +19196,7 @@ Android MBOX
 andrsyn
 Xiaomi pyxis
 6cb13d8b8fc1d087
+
+cursose
+Android MDTV5G
+eab4f60112a07a69
