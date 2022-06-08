@@ -7617,9 +7617,13 @@ dolphin dolphin_fvd_p1
 53a7629b922ac400
 allwinner dolphin-fvd-p1
 7782a1c2e433a8af
-+
++18
 rockchip rk322x_box
 73826a5eaf5db936
+xiaomi KM1
+be662747f39340d7
+rockchip rk322x_box
+1e1bdbace96be8c9
 
 enriquelr
 Amazon sheldon
