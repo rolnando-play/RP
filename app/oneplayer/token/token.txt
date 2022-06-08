@@ -19053,6 +19053,8 @@ samsung a70q
 fb1abce4dd043dd2
 Amlogic p282
 83fb3ff15ffbd00e
+Amlogic p282
+6cb8da1f6f368637
 
 axeliza
 MStar Semiconductor, Inc. cranberry
