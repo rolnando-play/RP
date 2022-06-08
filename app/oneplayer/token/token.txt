@@ -18858,6 +18858,8 @@ samsung starqltechn
 ef6aeb71b9adb82d
 Xiaomi oneday
 bfe5d0c91ef4c0fa
+Xiaomi oneday
+8ce5f41c6474927e
 
 nett +6
 Xiaomi oneday
@@ -19232,6 +19234,8 @@ Xiaomi ginkgo
 a378ec095351fdbf
 COSHIP n9090_telmexott
 6bd0e687fdb21c09
+Android MDTV5G
+567dc0a457986752
 
 sbarrios7 +6
 HUAWEI HWMAR
@@ -19254,3 +19258,7 @@ Android MDTV5G
 eab4f60112a07a69
 dolphin dolphin_fvd_p1
 685daac1c19d64aa
+
+rolimar
+Xiaomi machuca
+d39b1c14d152218a
