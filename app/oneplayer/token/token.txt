@@ -16249,6 +16249,18 @@ Amlogic p281
 c825adc325a73721
 Xiaomi aquaman
 b30422684fdbe4c8
+Amlogic p281
+7cc21905af9e9c2e
+Amlogic p281
+5af71d87c25c8f7f
+Amlogic p281
+953e9f1479a91e4e
+Amlogic p281
+8c4852b043518e36
+Amlogic p281
+ec62269a054829dd
+Amlogic p281
+48c1ca711f8464d9
 
 luisvill
 rockchip rk322x_box
