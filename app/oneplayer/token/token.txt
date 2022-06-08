@@ -4689,6 +4689,8 @@ dolphin dolphin_fvd_p1
 a3b533c234b52b6a
 Amazon mantis
 1dc083c2446981c7
+Xiaomi merlin
+ec22d1b6125878bd
 
 aylenmon
 OnePlus OnePlus8TMO
