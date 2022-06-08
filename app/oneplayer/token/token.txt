@@ -9789,7 +9789,7 @@ dolphin dolphin_fvd_p1
 Allwinner dolphin-fvd-p1
 40a39eba03169a3c
 rockchip MK
-e544c30971ae9003
+f83de1eb02b76220
 rockchip MK
 6ed62fa703282b31
 
