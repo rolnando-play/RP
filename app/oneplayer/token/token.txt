@@ -16382,6 +16382,9 @@ Amazon sheldonp
 7df09f7030171c31
 Xiaomi oneday
 c70810b215083c06
++18
+rockchip rk322x_box
+d94c647d2134b7c6
 
 aflei
 Amazon sheldonp
@@ -19170,3 +19173,7 @@ HUAWEI HWMAR
 32fdc32b2ffe48f4
 Xiaomi aquaman
 9c7801d00a42d83a
+
+hduarte9
+Android MBOX
+856cb721a257377
