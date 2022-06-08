@@ -7606,6 +7606,8 @@ Xiaomi croods
 b888b1d66d2e5418
 dolphin dolphin_fvd_p1
 53a7629b922ac400
+allwinner dolphin-fvd-p1
+7782a1c2e433a8af
 
 enriquelr
 Amazon sheldon
