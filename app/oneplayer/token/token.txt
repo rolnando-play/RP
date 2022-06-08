@@ -4691,6 +4691,15 @@ Amazon mantis
 1dc083c2446981c7
 Xiaomi merlin
 ec22d1b6125878bd
++6 psc
+dolphin dolphin_fvd_p1
+9c3e0e34e25e1e31
+dolphin dolphin_fvd_p1
+d13920290e403e41
+dolphin dolphin_fvd_p1
+724107350509044d
+dolphin dolphin_fvd_p1
+ee2c43c9544640b1
 
 aylenmon
 OnePlus OnePlus8TMO
