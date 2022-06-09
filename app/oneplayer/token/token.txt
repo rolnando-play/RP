@@ -11986,6 +11986,8 @@ rockchip rk322x_box
 +3
 rockchip rk322x_box
 3b4ff6449bf463c1
+Xiaomi croods
+041a30743cf6a7aa
 
 joseb
 Xiaomi ginkgo
