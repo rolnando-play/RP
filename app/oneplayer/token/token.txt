@@ -5803,6 +5803,8 @@ b95e066f98e5b509
 +6
 rockchip rk322x_box
 b6fe6c36018e4ef4
+Hisilicon p281
+d593903d49b12afa
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -10905,8 +10907,7 @@ Xiaomi joyeuse
 9101563fbeecec17
 rockchip MK
 f3a6c279a5921837
-Xiaomi aquaman
-92e0089d357345eb
+
 MBOX dolphin-p1
 197f65729f449b81
 rockchip rk322x_box
@@ -16870,6 +16871,9 @@ samsung a51
 e8f386659edd10ef
 Xiaomi alioth
 bd925664a776727a
++3
+Amazon tank
+8d1f6c2fc90fe81a
 
 angeltum
 Allwinner dolphin-fvd-p1
