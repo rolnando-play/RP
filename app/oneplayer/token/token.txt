@@ -4119,6 +4119,8 @@ askey sti6140d360
 2f4be3abfefd18f5
 Amlogic p281
 ad874f74b724a0be
+askey sti6140d360
+da7ac39fe85cc1b5
 
 pekho +9
 Google sabrina
@@ -8000,6 +8002,8 @@ rockchip rk322x_box
 ebd4154a106fe008
 dolphin dolphin_fvd_p1
 91c940a1c7968f1d
+dolphin dolphin_fvd_p1
+2facf6d6a72fe022
 
 victorcor
 rockchip rk322x_box
