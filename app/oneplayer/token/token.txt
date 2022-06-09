@@ -9007,6 +9007,8 @@ rockchip rk322x_box
 74ebea9d8424afbf
 streambus p212
 84610f8838cc016c
+Android MBOX
+ee85dd447255620f
 
 iptv19 +6 psc
 rockchip rk322x_box
