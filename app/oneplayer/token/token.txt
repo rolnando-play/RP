@@ -18177,7 +18177,7 @@ Xiaomi lisa
 
 diego8ri
 rockchip rk322x_box
-897ad25e1ca0d756
+3779ae8a8f5c87c5
 MTK cvt_mt5863_sa
 50d973daf569e249
 
