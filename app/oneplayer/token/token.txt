@@ -8991,6 +8991,8 @@ rockchip rk322x_box
 6182b89b22229361
 Allwinner dolphin-fvd-p1
 7bbc4d1ed290973c
+Android MDTV5G
+cbb834161df539d9
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -19290,3 +19292,7 @@ f156fbf1710306c3
 hofmanen
 samsung a7y18lte
 5aa92e28d0c04e11
+
+elfriede.s
+Google titan-p1
+60e6e3ed334327b7
