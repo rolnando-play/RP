@@ -19057,6 +19057,9 @@ Android MDTV5G
 b96ed374bbabe53b
 rockchip MK
 3041a5a6102d9444
++5 psc
+Amlogic p281
+4ae0f8e47bea989a
 
 robus14 +6
 samsung a70q
