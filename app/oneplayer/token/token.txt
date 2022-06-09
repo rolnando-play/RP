@@ -11983,6 +11983,9 @@ rockchip rk322x_box
 8a3a552a10e0058
 rockchip rk322x_box
 7b7f9ae0f1f16eca
++3
+rockchip rk322x_box
+3b4ff6449bf463c1
 
 joseb
 Xiaomi ginkgo
