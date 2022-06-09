@@ -19216,6 +19216,8 @@ rockchip rk322x_box
 742f45205985eb3
 Android MDTV5G
 fac496a415313c27
+Amazon mantis
+afc46837722c6a1f
 
 carmelo.s
 samsung a30s
