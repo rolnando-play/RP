@@ -14115,6 +14115,8 @@ Amazon mantis
 fe9ac9cd358971a
 Amazon Sheldon
 acc81a7782b6656f
+Amazon Sheldon
+62f72c9139910fbb
 
 josetrini
 Xiaomi machuca
@@ -17648,6 +17650,8 @@ Xiaomi oneday
 836a95fd4275051a
 rockchip rk322x_box
 92da358c5fdd7b94
+rockchip rk322x_box
+4c05a843d2ef82f9
 
 roloca
 MTK cvt_mt5886_sa
