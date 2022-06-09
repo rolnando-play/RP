@@ -7634,6 +7634,8 @@ rockchip rk322x_box
 1e1bdbace96be8c9
 Xiaomi oneday
 c5fe603c4b37f412
+dolphin dolphin_fvd_p1
+569cbd791af9bc55
 
 enriquelr
 Amazon sheldon
@@ -11547,6 +11549,8 @@ rockchip rk322x_box
 6319f2c0f6a954b6
 rockchip rk322x_box
 c81fb70c6b41e9b0
+Amlogic p281
+f29ce01b4ac5dcfc
 
 gergod +6
 Amlogic franklin
