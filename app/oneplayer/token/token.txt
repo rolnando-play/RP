@@ -14109,6 +14109,8 @@ Amazon sheldon
 df013174b29b8126
 Amazon mantis
 fe9ac9cd358971a
+Amazon Sheldon
+acc81a7782b6656f
 
 josetrini
 Xiaomi machuca
@@ -16334,6 +16336,10 @@ dolphin dolphin_fvd_p1
 80328e4e43bd1b94
 dolphin dolphin_fvd_p1
 84f4c568926a59a5
+Amlogic p281
+c63f487905e28ba9
+Amlogic p281
+b41d0ac59ac69422
 
 luisvill
 rockchip rk322x_box
