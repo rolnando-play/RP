@@ -6474,8 +6474,8 @@ Xiaomi oneday
 0c71140b45de4ed5
 
 edgaram
-Xiaomi ginkgo
-7b39e242cfde523d
+Xiaomi vayu
+639d9fd12e6ccde0
 rockchip rk322x_box
 c5bf38918cf58fe
 dolphin dolphin_fvd_p1
