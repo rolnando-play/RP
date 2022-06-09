@@ -10436,7 +10436,8 @@ Amazon sheldon
 d00c99623e1848bd
 Amazon sheldon
 86549abcc338b630
-
+Hisilicon Hi3751V350
+45052f89735936f7
 arruaf +6
 rockchip rk322x_box
 faecea792fecd09e
@@ -11015,6 +11016,8 @@ rockchip rk322x_box
 f1dabf7f03ab0e5f
 Xiaomi oneday
 c9550731829f918d
+rockchip rk312x
+d47f644f30c4a346
 
 danieljo
 Allwinner dolphin-fvd-p1
