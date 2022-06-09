@@ -4700,6 +4700,8 @@ dolphin dolphin_fvd_p1
 724107350509044d
 dolphin dolphin_fvd_p1
 ee2c43c9544640b1
+rockchip rk322x_box
+363cf028ee95835c
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -18822,6 +18824,8 @@ Xiaomi oneday
 07fd9e24ebc7e208
 rockchip rk322x_box
 e3a48dbb201ffab6
+rockchip rk322x_box
+2f0602168eeaed1
 
 carlos@g
 samsung b2q
