@@ -8995,6 +8995,8 @@ Allwinner dolphin-fvd-p1
 7bbc4d1ed290973c
 Android MDTV5G
 cbb834161df539d9
+rockchip rk322x_box
+74ebea9d8424afbf
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -19058,7 +19060,7 @@ c302549441e72c67
 Xiaomi aquaman
 52198d6adee8edb0
 Android MDTV5G
-b96ed374bbabe53b
+3e28434e36ab96c3
 rockchip MK
 3041a5a6102d9444
 +5 psc
