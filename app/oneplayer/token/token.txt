@@ -19359,3 +19359,7 @@ Allwinner dolphin-fvd-p1
 9f358aa7afa62937
 samsung a11q
 157e8ad27e9c11c9
+
+bruniito.m
+realme RMX2155L1
+da63c5302d419bd6
