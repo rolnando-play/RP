@@ -19372,6 +19372,8 @@ samsung a7y18lte
 elfriede.s
 Google titan-p1
 60e6e3ed334327b7
+Amazon sheldonp
+9735a59be9d6aa48
 
 rodrigo.sa
 dolphin dolphin-fvd-p1
