@@ -18180,6 +18180,8 @@ rockchip rk322x_box
 3779ae8a8f5c87c5
 MTK cvt_mt5863_sa
 50d973daf569e249
+Droidlogic ampere
+55493157dad18b81
 
 leandro_a
 samsung b0q
@@ -18434,6 +18436,8 @@ rockchip rk322x_box
 3eca3847cfed14d9
 streambus rk322x_box
 e1773d8541e7f982
+Android MBOX
+871d8b3c4dd84b7
 
 jesuskin
 samsung beyond2
@@ -19198,6 +19202,8 @@ dolphin dolphin_fvd_p1
 b33b650ba38cc850
 dolphin dolphin_fvd_p1
 48f16cf3dca6b1b
+Android MDTV5G
+4268f35129cdb3c5
 
 veopeli +18
 rockchip rk322x_box
