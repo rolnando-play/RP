@@ -19372,3 +19372,9 @@ realme RMX2155L1
 da63c5302d419bd6
 Amazon tank
 5dd6145075ddcd65
+MediaTek mt5867
+131e3741b4bf9609
+
+ameliom
+Xiaomi croods
+f65581def3f3e2f7
