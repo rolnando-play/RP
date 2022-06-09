@@ -1795,6 +1795,8 @@ ALIEN Hi3798MV200
 1104dbde8dd02bc5
 i7 petrel-p1
 7d28a8f384ab5949
+Xiaomi machuca
+19c36746a51dfeb0
 
 ruthgis
 S905W
@@ -10527,7 +10529,8 @@ MTK cvt_mt5863_sa
 72ccfc3a004b976a
 rockchip rk322x_box
 1094a31c6283ffc9
-
+Xiaomi aquaman
+f273383f043ee378
 rockchip rk322x_box
 9392dc6363bd2c72
 +18
