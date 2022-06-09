@@ -11531,6 +11531,16 @@ Amlogic p281
 2848817dde3b78c3
 Amlogic p281
 45f13500324a53f
+rockchip rk322x_box
+700ad2150530bfd5
+rockchip rk322x_box
+fdc94a9ef5ae0f3f
+rockchip rk322x_box
+f7cf436d57688da9
+rockchip rk322x_box
+f141dd34a02d2dd2
+rockchip rk322x_box
+44332fc56988760b
 
 gergod +6
 Amlogic franklin
@@ -16475,6 +16485,8 @@ rockchip rk322x_box
 d94c647d2134b7c6
 Android MDTV5G
 20755ad511d0cab6
+Android MDTV5G
+4c51b4899e20b10
 
 aflei
 Amazon sheldonp
