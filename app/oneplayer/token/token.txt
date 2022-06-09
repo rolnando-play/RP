@@ -8327,6 +8327,8 @@ c5686db4ecd32f42
 +
 Android MDTV5G
 1424d251471caaf1
+Android MDTV5G
+aaaa85b11b761e7d
 
 jjuan
 Xiaomi aquaman
@@ -19318,3 +19320,13 @@ samsung a7y18lte
 elfriede.s
 Google titan-p1
 60e6e3ed334327b7
+
+rodrigo.sa
+dolphin dolphin-fvd-p1
+3d8280b8f31d91dc
+
+yakare1
+Allwinner dolphin-fvd-p1
+9f358aa7afa62937
+samsung a11q
+157e8ad27e9c11c9
