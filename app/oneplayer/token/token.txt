@@ -11541,6 +11541,10 @@ rockchip rk322x_box
 f141dd34a02d2dd2
 rockchip rk322x_box
 44332fc56988760b
+rockchip rk322x_box
+6319f2c0f6a954b6
+rockchip rk322x_box
+c81fb70c6b41e9b0
 
 gergod +6
 Amlogic franklin
@@ -19141,6 +19145,8 @@ Xiaomi oneday
 48e3e8931da9fc80
 Xiaomi oneday
 577fa13a1e9fa10d
+Xiaomi aquaman
+afc43b916a0204de
 
 carlosbra
 rockchip rk322x_box
