@@ -8334,7 +8334,7 @@ Android MDTV5G
 36380e78b25fa68c
 Allwinner dolphin-fvd-p1
 c5686db4ecd32f42
-+
++18
 Android MDTV5G
 1424d251471caaf1
 Android MDTV5G
@@ -16586,6 +16586,8 @@ Android MDTV5G
 20755ad511d0cab6
 Android MDTV5G
 4c51b4899e20b10
+Xiaomi oneday
+a9f94d90497366db
 
 aflei
 Amazon sheldonp
