@@ -16600,6 +16600,8 @@ Xiaomi oneday
 a9f94d90497366db
 Xiaomi oneday
 4b32f6883a28ce7c
+Android MDTV5G
+3be41f082ef6b023
 
 aflei
 Amazon sheldonp
