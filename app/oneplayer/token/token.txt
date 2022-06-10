@@ -9017,6 +9017,8 @@ streambus p212
 84610f8838cc016c
 Android MBOX
 ee85dd447255620f
+rockchip rk322x_box
+2cabee1c20cb6bf9
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -18244,7 +18246,7 @@ rockchip rk322x_box
 MTK cvt_mt5863_sa
 50d973daf569e249
 Droidlogic ampere
-55493157dad18b81
+b5f26baead45b739
 
 leandro_a
 samsung b0q
