@@ -9394,13 +9394,15 @@ dolphin dolphin-fvd-p1
 55477a3a948b0d03
 rockchip rk322x_box
 b36a2f1cb5cfecb9
-+6
++6 usdt
 dolphin SBQ-SM007
 8272035b22d1e9cf
 MBOX dolphin-p1
 20857e0615aa0a0a
 MBOX dolphin-p1
 7b9991200976906b
+askey stephen
+804d6b74abd9fa30
 
 rr.23
 MTK cvt_mt5863_sa
