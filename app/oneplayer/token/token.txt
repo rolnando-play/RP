@@ -8343,6 +8343,8 @@ dolphin dolphin_fvd_p1
 6fbd54af066cb819
 Droidlogic franklin
 58440c0e9c7a7e92
+rockchip rk322x_box
+681c9f7ef21f511c
 
 jjuan
 Xiaomi aquaman
