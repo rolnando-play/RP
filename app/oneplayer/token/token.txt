@@ -8339,6 +8339,10 @@ Android MDTV5G
 1424d251471caaf1
 Android MDTV5G
 aaaa85b11b761e7d
+dolphin dolphin_fvd_p1
+6fbd54af066cb819
+Droidlogic franklin
+58440c0e9c7a7e92
 
 jjuan
 Xiaomi aquaman
