@@ -13730,6 +13730,8 @@ samsung m11q
 richarsi
 rockchip rk3318
 d213b796115964fc
+Google sabrina
+bdacc1073b98f804
 
 alejandrojor
 SCBC R2
@@ -16360,6 +16362,8 @@ Amlogic p281
 5c7d489e728f76a4
 Amlogic p281
 68aaec8132090abb
+Amlogic p281
+e910e9ea837672f8
 
 luisvill
 rockchip rk322x_box
@@ -19288,6 +19292,8 @@ Android MDTV5G
 fac496a415313c27
 Amazon mantis
 afc46837722c6a1f
+SkyworthDigital YYT
+21c6ee3cce6d66e6
 
 carmelo.s
 samsung a30s
