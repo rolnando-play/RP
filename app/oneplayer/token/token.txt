@@ -19299,6 +19299,8 @@ Amazon mantis
 afc46837722c6a1f
 SkyworthDigital YYT
 21c6ee3cce6d66e6
+rockchip MK
+b0cc1f7804397d9f
 
 carmelo.s
 samsung a30s
