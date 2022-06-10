@@ -19392,6 +19392,8 @@ rockchip MK
 67f8a04623b1379c
 rockchip MK
 e85c2138ebf8b24a
+Android MDTV5G
+e691388d1f50386
 
 carmelo.s
 samsung a30s
