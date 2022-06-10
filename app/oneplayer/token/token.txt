@@ -3594,6 +3594,8 @@ Xiaomi oneday
 josemve
 samsung on7xelte
 2b018cbde5a345e2
+rockchip rk322x_box
+766485ae77eb42d5
 
 fenriq
 Xiaomi citrus
@@ -16352,6 +16354,12 @@ Amlogic p281
 b41d0ac59ac69422
 Amlogic p281
 69c1a12df333e4af
+Amlogic p281
+733721b03c596035
+Amlogic p281
+5c7d489e728f76a4
+Amlogic p281
+68aaec8132090abb
 
 luisvill
 rockchip rk322x_box
