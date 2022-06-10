@@ -1797,6 +1797,8 @@ i7 petrel-p1
 7d28a8f384ab5949
 Xiaomi machuca
 19c36746a51dfeb0
+Android MDTV5G
+e13dd61e0036876e
 
 ruthgis
 S905W
@@ -11561,6 +11563,16 @@ rockchip rk322x_box
 c81fb70c6b41e9b0
 Amlogic p281
 f29ce01b4ac5dcfc
+rockchip rk322x_box
+a663644b5d51dcdf
+rockchip rk322x_box
+e3c1d579c23d1dfc
+rockchip rk322x_box
+2a9f9efd107abc8b
+rockchip rk322x_box
+960bcbe2b82e4a08
+rockchip rk322x_box
+80d4c55d52bc5dcd
 
 gergod +6
 Amlogic franklin
