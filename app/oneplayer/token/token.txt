@@ -19364,6 +19364,10 @@ SkyworthDigital YYT
 21c6ee3cce6d66e6
 rockchip MK
 b0cc1f7804397d9f
+rockchip MK
+aa91590317d17fc3
+rockchip MK
+67f8a04623b1379c
 
 carmelo.s
 samsung a30s
@@ -19487,4 +19491,10 @@ f65581def3f3e2f7
 
 octa_v
 Xiaomi oneday
-80229b0b5a602427
+80229b0b5a6024
+
+manuelmo
+Xiaomi oneday
+f7b127677424924c
+samsung b0q
+3db23d77edab7f5b
