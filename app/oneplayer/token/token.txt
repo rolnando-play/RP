@@ -16592,6 +16592,8 @@ Android MDTV5G
 4c51b4899e20b10
 Xiaomi oneday
 a9f94d90497366db
+Xiaomi oneday
+4b32f6883a28ce7c
 
 aflei
 Amazon sheldonp
@@ -19368,6 +19370,8 @@ rockchip MK
 aa91590317d17fc3
 rockchip MK
 67f8a04623b1379c
+rockchip MK
+e85c2138ebf8b24a
 
 carmelo.s
 samsung a30s
