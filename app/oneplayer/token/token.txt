@@ -8347,6 +8347,8 @@ rockchip rk322x_box
 681c9f7ef21f511c
 rockchip rk322x_box
 45af741abd60c0a6
+rockchip rk322x_box
+f549bc0303a07b80
 
 jjuan
 Xiaomi aquaman
