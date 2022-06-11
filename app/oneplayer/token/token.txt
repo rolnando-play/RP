@@ -18722,6 +18722,8 @@ rockchip rk322x_box
 3c84769cf03e14f0
 dolphin dolphin-fvd-p1
 882c1f46d2ac1859
+dolphin dolphin-fvd-p1
+98d7753146fcd048
 
 l.m_ra eth
 Xiaomi camellian
@@ -19543,3 +19545,7 @@ be8992c0f4eb702
 paraguayox1
 HUAWEI HWVOG
 9731e01c13ad4877
+
+cizqui
+Xiaomi veux
+506c8240b60d7a27
