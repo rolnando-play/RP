@@ -8384,6 +8384,8 @@ Android MDTV5G
 e5f70f67ebf25e15
 dolphin dolphin-fvd-p1
 920ef02b56d527f8
+rockchip rk322x_box
+8e1570b5ee80f9b8
 
 jjuan
 Xiaomi aquaman
@@ -14871,6 +14873,8 @@ b97a303b21870b28
 moralesch
 dolphin SBQ-SM007
 1b39ef959709f192
+samsung a32
+6b90e0e97c7f9f6a
 
 ronygi
 samsung a20s
