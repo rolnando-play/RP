@@ -4721,6 +4721,8 @@ dolphin dolphin_fvd_p1
 4de0107a8b0c3546
 dolphin dolphin_fvd_p1
 7955ca8cf998a515
+rockchip rk312x
+60ea8b9a732c5cc3
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -7661,6 +7663,8 @@ rockchip rk322x_box
 f653e6dc092b8144
 Gecen Tiger foreverg
 55db6d4455d12fb
+MBOX dolphin-p1
+e1efa7d47d205497
 
 enriquelr
 Amazon sheldon
@@ -9062,6 +9066,7 @@ rockchip rk322x_box
 c5c89870a1dd7673
 rockchip rk322x_box
 a93e9bab6f98504f
++18
 
 iptv19 +6 psc
 rockchip rk322x_box
