@@ -9069,6 +9069,8 @@ c5c89870a1dd7673
 rockchip rk322x_box
 a93e9bab6f98504f
 +18
+rockchip rk322x_box
+51d491609cb3f079
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -11631,6 +11633,8 @@ rockchip rk322x_box
 960bcbe2b82e4a08
 rockchip rk322x_box
 80d4c55d52bc5dcd
+Amazon mantis
+b4dfe3ca42504436
 
 gergod +6
 Amlogic franklin
@@ -19298,6 +19302,8 @@ Android MDTV5G
 b99802a0415bb791
 rockchip rk322x_box
 f575af12314c5b7f
+Xiaomi aquaman
+6434d2077b68a880
 
 robus14 +6
 samsung a70q
@@ -19464,6 +19470,8 @@ e691388d1f50386
 +18
 rockchip rk322x_box
 3c6740273622f44a
+xiaomi aquaman
+51c6d95eee528ac4
 
 carmelo.s
 samsung a30s
@@ -19630,3 +19638,7 @@ Sony BRAVIA_ATV2
 dgo21
 Xiaomi croods
 d98d8d2b47453074
+
+brianso
+samsung r8q
+f292d54082566699
