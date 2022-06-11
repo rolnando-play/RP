@@ -14421,6 +14421,9 @@ Xiaomi oneday
 e3fe2481eaf4d941
 rockchip rk322x_box
 f8098e8977c6c5f7
++5 psc
+Amazon sheldon
+0d7351b3efd8701a
 
 gustavoda
 Amazon sheldonp
