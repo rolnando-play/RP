@@ -15028,6 +15028,9 @@ rockchip rk322x_box
 bbf6c105eeb87405
 rockchip rk322x_box
 7410924cb508fcdc
++5
+Android MDTV5G
+ff2ba1487528568a
 
 victor.ma2
 rockchip rk322x_box
