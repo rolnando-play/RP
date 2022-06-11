@@ -10002,6 +10002,8 @@ Android MDTV5G
 69b03bb35833aca6
 Android MDTV5G
 982bd0ab33f385c4
+Android MDTV5G
+f2da2d7ad04677
 
 pjc0910 +9
 rockchip rk322x_box
@@ -14429,6 +14431,8 @@ f8098e8977c6c5f7
 +5 psc
 Amazon sheldon
 0d7351b3efd8701a
+Xiaomi aquaman
+7400b518d33f9ebf
 
 gustavoda
 Amazon sheldonp
@@ -17247,6 +17251,8 @@ Amazon mantis
 6f572abc061ed810
 Amazon sheldonp
 5125b859313c6ecd
+Amazon mantis
+5df590430409a8e7
 
 manfredkl
 Google titan-p1
@@ -19614,3 +19620,7 @@ b7c06393f24be61c
 jmatia
 Android MDTV5G
 5d3a50295df8bb99
+
+ing.chu DOGE
+Sony BRAVIA_ATV2
+083e92f82e69d99a
