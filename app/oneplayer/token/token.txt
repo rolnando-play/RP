@@ -7655,6 +7655,8 @@ dolphin dolphin_fvd_p1
 9b78893476cd7dc2
 rockchip rk322x_box
 f653e6dc092b8144
+Gecen Tiger foreverg
+55db6d4455d12fb
 
 enriquelr
 Amazon sheldon
@@ -8368,6 +8370,8 @@ Android MDTV5G
 162f25c233f84a46
 Android MDTV5G
 2249576efccfc11c
+Android MDTV5G
+e5f70f67ebf25e15
 
 jjuan
 Xiaomi aquaman
@@ -17224,6 +17228,8 @@ Amazon kara
 3df749100a33d035
 Amazon mantis
 6f572abc061ed810
+Amazon sheldonp
+5125b859313c6ecd
 
 manfredkl
 Google titan-p1
@@ -19200,6 +19206,8 @@ samsung gtowifi
 3390ce0e3594358a
 Amlogic p281
 df66d33adb24e05a
+rockchip rk322x_box
+d61c29690446bacf
 
 cardozoi
 MTK cvt_mt5863_sa
