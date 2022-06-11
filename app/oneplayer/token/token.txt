@@ -16442,6 +16442,8 @@ Amlogic p281
 +15 usdt
 Amlogic p281
 f113e2d2b413ba0a
+rockchip rk322x_box
+96797238cab4d166
 
 luisvill
 rockchip rk322x_box
@@ -18582,8 +18584,7 @@ rockchip rk322x_box
 6c2274aa012411fd
 streambus rk322x_box
 10f522e4176bf038
-streambus rk322x_box
-e1773d8541e7f982
+
 Android MBOX
 871d8b3c4dd84b7
 
@@ -19530,3 +19531,7 @@ samsung b0q
 netpy +6
 Xiaomi aquaman
 797a15fe97249737
+
+luis097
+MTK cvt_mt5863_sa
+be8992c0f4eb702
