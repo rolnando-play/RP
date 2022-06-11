@@ -1799,6 +1799,8 @@ Xiaomi machuca
 19c36746a51dfeb0
 Android MDTV5G
 e13dd61e0036876e
+rockchip rk322x_box
+7760900a245a9169
 
 ruthgis
 S905W
@@ -4170,6 +4172,8 @@ Xiaomi oneday
 084ccb83f7824871
 dolphin SBQ-SM007
 333c0d398bf8246b
+Amlogic p281
+6e5eff3583918b7d
 
 cristhian.co
 samsung r8q
