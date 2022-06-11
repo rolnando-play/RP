@@ -5818,6 +5818,8 @@ rockchip rk322x_box
 b6fe6c36018e4ef4
 Hisilicon p281
 d593903d49b12afa
+Android MBOX
+274e485f93a93184
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -8364,6 +8366,8 @@ Android MDTV5G
 d7a1855b1ff012af
 Android MDTV5G
 162f25c233f84a46
+Android MDTV5G
+2249576efccfc11c
 
 jjuan
 Xiaomi aquaman
@@ -9436,6 +9440,8 @@ askey stephen
 804d6b74abd9fa30
 askey stephen
 284ed6e64db25b97
+askey stephen
+82fe2e57c85c2b25
 
 rr.23
 MTK cvt_mt5863_sa
@@ -19574,3 +19580,7 @@ Xiaomi veux
 martinezru
 samsung y2s
 b7c06393f24be61c
+
+jmatia
+Android MDTV5G
+5d3a50295df8bb99
