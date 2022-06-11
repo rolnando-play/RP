@@ -8380,6 +8380,8 @@ Android MDTV5G
 2249576efccfc11c
 Android MDTV5G
 e5f70f67ebf25e15
+dolphin dolphin-fvd-p1
+920ef02b56d527f8
 
 jjuan
 Xiaomi aquaman
@@ -19624,3 +19626,7 @@ Android MDTV5G
 ing.chu DOGE
 Sony BRAVIA_ATV2
 083e92f82e69d99a
+
+dgo21
+Xiaomi croods
+d98d8d2b47453074
