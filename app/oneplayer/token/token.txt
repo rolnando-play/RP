@@ -17805,8 +17805,8 @@ e09fa9bfbfcb3bc7
 HUAWEI HWELE
 5761e5df89f3b16f
 +6
-HUAWEI HWELE
-fa67f62d62d8e70c
+Xiaomi viva
+3e26fd219a2d5828
 Allwinner dolphin-fvd-p1
 5c26e36e3ec803ce
 Xiaomi ginkgo 
@@ -19245,6 +19245,8 @@ Amlogic p281
 df66d33adb24e05a
 rockchip rk322x_box
 d61c29690446bacf
+Android MDTV5G
+2ae93904f4911234
 
 cardozoi
 MTK cvt_mt5863_sa
