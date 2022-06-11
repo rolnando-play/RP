@@ -14388,6 +14388,8 @@ MediaTek mt5867
 afefcdb16d0a02bc
 Xiaomi oneday
 e3fe2481eaf4d941
+rockchip rk322x_box
+f8098e8977c6c5f7
 
 gustavoda
 Amazon sheldonp
