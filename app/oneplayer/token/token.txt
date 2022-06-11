@@ -11825,6 +11825,8 @@ Xiaomi oneday
 b1c2520f5a324b34
 Dispositivo nro 9
 d320f6143fa51a32
+dolphin dolphin-fvd-p1
+20618a9d4d3d8d2a
 
 lechuguita
 Amazon mantis
@@ -19443,6 +19445,9 @@ rockchip MK
 e85c2138ebf8b24a
 Android MDTV5G
 e691388d1f50386
++18
+rockchip rk322x_box
+3c6740273622f44a
 
 carmelo.s
 samsung a30s
