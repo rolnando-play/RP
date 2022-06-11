@@ -7642,6 +7642,8 @@ Xiaomi oneday
 c5fe603c4b37f412
 dolphin dolphin_fvd_p1
 569cbd791af9bc55
+dolphin dolphin_fvd_p1
+9b78893476cd7dc2
 
 enriquelr
 Amazon sheldon
@@ -16444,6 +16446,8 @@ Amlogic p281
 f113e2d2b413ba0a
 rockchip rk322x_box
 96797238cab4d166
+Xiaomi oneday
+4693f2016ade803f
 
 luisvill
 rockchip rk322x_box
@@ -19535,3 +19539,7 @@ Xiaomi aquaman
 luis097
 MTK cvt_mt5863_sa
 be8992c0f4eb702
+
+paraguayox1
+HUAWEI HWVOG
+9731e01c13ad4877
