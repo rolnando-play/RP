@@ -19475,6 +19475,8 @@ Amazon kara
 yhona
 samsung y2s
 6d990fc7d7ea0420
+OnePlus HD1907
+3b107d344ddc0ba1
 
 fabianme +9
 samsung j6lte
