@@ -8362,6 +8362,8 @@ rockchip rk322x_box
 f549bc0303a07b80
 Android MDTV5G
 d7a1855b1ff012af
+Android MDTV5G
+162f25c233f84a46
 
 jjuan
 Xiaomi aquaman
@@ -19568,3 +19570,7 @@ HUAWEI HWVOG
 cizqui
 Xiaomi veux
 506c8240b60d7a27
+
+martinezru
+samsung y2s
+b7c06393f24be61c
