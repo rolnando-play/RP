@@ -4713,6 +4713,10 @@ rockchip rk322x_box
 dolphin dolphin_fvd_p1
 e9b1f7ab48c390b1
 +6 psc
+dolphin dolphin_fvd_p1
+4de0107a8b0c3546
+dolphin dolphin_fvd_p1
+7955ca8cf998a515
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -19249,6 +19253,10 @@ rockchip MK
 +5 psc
 Amlogic p281
 4ae0f8e47bea989a
+Android MDTV5G
+b99802a0415bb791
+rockchip rk322x_box
+f575af12314c5b7f
 
 robus14 +6
 samsung a70q
