@@ -18476,6 +18476,8 @@ Xiaomi merlinnfc
 06287d2bf6bd2f04
 rockchip rk312x
 e2cdd5a3bbd13f28
+PinguimTv p231
+c47f48bc83549f34
 
 rockman +6
 samsung a71
