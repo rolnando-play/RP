@@ -7669,6 +7669,8 @@ Android MDTV5G
 20044094dc4529b4
 Xiaomi aquaman
 2877565249d0b6e5
+rockchip rk322x_box
+7846b268aba1e2a3
 
 enriquelr
 Amazon sheldon
@@ -19670,3 +19672,7 @@ samsung r8q
 f292d54082566699
 samsung on7xelte
 5633f0baf9b382a5
+
+drhug
+samsung t2s
+c589ae0bcd4350db
