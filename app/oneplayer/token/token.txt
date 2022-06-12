@@ -17828,6 +17828,8 @@ rockchip rk322x_box
 92da358c5fdd7b94
 rockchip rk322x_box
 4c05a843d2ef82f9
+rockchip rk322x_box
+20c9c10d591b0983
 
 roloca
 MTK cvt_mt5886_sa
@@ -19409,6 +19411,8 @@ samsung a21s
 hofmanen
 samsung a7y18lte
 4bf78b3b5f2dd77b
+Amazon mantis
+ef6a5d4ca8d70aab
 
 amilcar7
 Amazon sheldonp
@@ -19628,6 +19632,8 @@ be8992c0f4eb702
 paraguayox1
 HUAWEI HWVOG
 9731e01c13ad4877
+Amazon mantis
+36918acc490e585c
 
 cizqui
 Xiaomi veux
