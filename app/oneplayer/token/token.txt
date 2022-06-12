@@ -18618,6 +18618,8 @@ Xiaomi oneday
 f840819c44f3156f
 rockchip rk322x_box
 67655beef496b327
+Android MBOX
+ee470436d3128a0a
 
 egsali +6
 samsung x1s
