@@ -19118,6 +19118,8 @@ rockchip rk322x_box
 79f3989b9c51cb16
  samsung b2q
 e03e83f409c3221e
+rockchip rk322x_box
+32b9c2bf5cddf87d
 
 franciscoro
 samsung starqltechn
