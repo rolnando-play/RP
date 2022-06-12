@@ -19553,8 +19553,8 @@ fcdd77d222a28ac7
 jjalbe
 Xiaomi ginkgo
 a378ec095351fdbf
-COSHIP n9090_telmexott
-6bd0e687fdb21c09
+dolphin dolphin-fvd-p1
+c0ffd9162609402c
 Android MDTV5G
 567dc0a457986752
 
