@@ -11647,6 +11647,9 @@ rockchip rk322x_box
 80d4c55d52bc5dcd
 Amazon mantis
 b4dfe3ca42504436
++18
+Amlogic p281
+739806ee6b39e2db
 
 gergod +6
 Amlogic franklin
@@ -15108,6 +15111,8 @@ rockchip rk322x_box
 88be286124df47a9
 rockchip rk322x_box
 d63496eac3eba89e
+Android MDTV5G
+849a31f65ac580c0
 
 guido.be
 samsung dream2lte
