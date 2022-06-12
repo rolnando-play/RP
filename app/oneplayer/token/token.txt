@@ -19614,6 +19614,8 @@ f65581def3f3e2f7
 octa_v
 Xiaomi oneday
 80229b0b5a6024
+Xiaomi oneday
+80229b0b5a602427
 
 manuelmo
 Xiaomi oneday
