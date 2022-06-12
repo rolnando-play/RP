@@ -16523,6 +16523,8 @@ rockchip rk322x_box
 96797238cab4d166
 Xiaomi oneday
 4693f2016ade803f
+Xiaomi aquaman
+0c26dcfd8fa2faae
 
 luisvill
 rockchip rk322x_box
@@ -19316,6 +19318,8 @@ Xiaomi aquaman
 f6d82e3e4dc32bbb
 samsung aosp
 0f8de2be8137a0ea
+rockchip rk322x_box
+e7a1d57652ccfeea
 
 djgustav +5 psc
 Android MDTV5G
