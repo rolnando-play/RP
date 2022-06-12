@@ -7667,6 +7667,8 @@ MBOX dolphin-p1
 e1efa7d47d205497
 Android MDTV5G
 20044094dc4529b4
+Xiaomi aquaman
+2877565249d0b6e5
 
 enriquelr
 Amazon sheldon
@@ -9884,6 +9886,8 @@ rockchip MK
 f83de1eb02b76220
 rockchip MK
 6ed62fa703282b31
+dolphin dolphin_fvd_p1
+7bf654c8d96c8b1b
 
 rocapo
 dolphin dolphin-fvd-p1
