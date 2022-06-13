@@ -19691,3 +19691,7 @@ samsung on7xelte
 drhug
 samsung t2s
 c589ae0bcd4350db
+
+encina68
+samsung a52xq
+56639f9da6e41cfa
