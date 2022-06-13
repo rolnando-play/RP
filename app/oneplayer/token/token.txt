@@ -10322,6 +10322,8 @@ Amazon sheldon
 e196e417dd188dbd
 Amlogic p281
 5f93e636dc086214
+Amazon sheldonp
+f4e30577e15cc3ad
 
 claudiodan
 Xiaomi oneday
@@ -11650,6 +11652,8 @@ b4dfe3ca42504436
 +18
 Amlogic p281
 739806ee6b39e2db
+Xiaomi aquaman
+d2aa6ce5c4f07939
 
 gergod +6
 Amlogic franklin
