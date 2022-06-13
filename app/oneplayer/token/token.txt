@@ -9496,6 +9496,8 @@ askey stephen
 +6 usdt
 Amlogic p212
 11b51eae9300c9b
+dolphin dolphin-fvd-p1
+548ee16f4a60a85d
 
 rr.23
 MTK cvt_mt5863_sa
@@ -11145,6 +11147,8 @@ Xiaomi oneday
 bd84c8415ad77ba4
 rockchip rk322x_box
 9f18134db25e86a6
+rockchip rk322x_box
+bbf14cf4b41c5755
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -17893,6 +17897,8 @@ rockchip rk322x_box
 +6
 Android MDTV5G
 269f2e78e2bc7a16
+rockchip MK
+cc46088edd972444
 
 roloca
 MTK cvt_mt5886_sa
@@ -19436,6 +19442,8 @@ Xiaomi oneday
 577fa13a1e9fa10d
 Xiaomi aquaman
 afc43b916a0204de
+Xiaomi oneday
+a017228d758f4342
 
 carlosbra
 rockchip rk322x_box
