@@ -9919,6 +9919,8 @@ dolphin dolphin_fvd_p1
 7bf654c8d96c8b1b
 rockchip MK
 79711a64a6cb4558
+rockchip rk322x_box
+89b2755a59887572
 
 rocapo
 dolphin dolphin-fvd-p1
