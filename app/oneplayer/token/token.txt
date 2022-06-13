@@ -18026,7 +18026,7 @@ e64bdcb56ef9d245
 Xiaomi once
 b117931f9b6487aa
 samsung chagallltetmo
-e5a3b8c85008383f
+25fa49c5817fef66
 
 axelrou
 samsung greatqlteue
@@ -19677,6 +19677,8 @@ Android MDTV5G
 ing.chu DOGE
 Sony BRAVIA_ATV2
 083e92f82e69d99a
+Amazon sheldon
+856bf2692cd32d73
 
 dgo21
 Xiaomi croods
