@@ -7679,6 +7679,8 @@ rockchip rk322x_box
 7846b268aba1e2a3
 Allwinner dolphin-fvd-p1
 92d30250fbb0be51
+Xiaomi croods
+803855032c6f2c19
 
 enriquelr
 Amazon sheldon
@@ -9089,6 +9091,8 @@ rockchip rk322x_box
 51d491609cb3f079
 rockchip rk322x_box
 f951b9ce47f2da52
+rockchip rk322x_box
+9dce89fa7c13248a
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -9477,6 +9481,9 @@ askey stephen
 284ed6e64db25b97
 askey stephen
 82fe2e57c85c2b25
++6 usdt
+Amlogic p212
+11b51eae9300c9b
 
 rr.23
 MTK cvt_mt5863_sa
@@ -17300,6 +17307,8 @@ Amazon sheldonp
 5125b859313c6ecd
 Amazon mantis
 5df590430409a8e7
+Amazon sheldon
+fcfa354d53a79a0a
 
 manfredkl
 Google titan-p1
