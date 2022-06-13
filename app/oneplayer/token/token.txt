@@ -7671,6 +7671,8 @@ Xiaomi aquaman
 2877565249d0b6e5
 rockchip rk322x_box
 7846b268aba1e2a3
+Allwinner dolphin-fvd-p1
+92d30250fbb0be51
 
 enriquelr
 Amazon sheldon
