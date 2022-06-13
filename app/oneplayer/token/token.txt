@@ -8408,6 +8408,8 @@ dolphin dolphin-fvd-p1
 920ef02b56d527f8
 rockchip rk322x_box
 8e1570b5ee80f9b8
+Android MDTV5G
+e4365362df0d4a37
 
 jjuan
 Xiaomi aquaman
