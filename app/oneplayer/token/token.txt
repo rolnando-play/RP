@@ -1811,6 +1811,8 @@ rockchip rk322x_box
 b6a7e9eeda692a89
 Android MDTV5G
 e2c9491b1382381e
+Android MDTV5G
+86679291a2be0ac
 
 ruthgis
 S905W
@@ -10630,8 +10632,7 @@ Android MDTV5G
 73044a1380e7cbd1
 Xiaomi oneday
 fcba3706ccb5e0c3
-Amazon tank
-1e55f284670337c8
+
 +9
 Amazon tank
 d5d8c386eb7db12a
