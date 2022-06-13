@@ -1001,6 +1001,8 @@ Amazon sheldon
 11e832ddd4dd3d86
 amlogic sw01
 5af0fb426d637893
+Xiaomi aquaman
+35fbe78ef4397170
 
 cesar.os
 mxp plus Amlogic p212
