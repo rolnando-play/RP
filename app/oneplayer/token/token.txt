@@ -1,4 +1,6 @@
 adm
+Google oriole
+af366c2f44a1581c
 Changhong ikebukuro
 11bb1fe893000c9e
 Google redfin
@@ -19351,6 +19353,8 @@ rockchip rk322x_box
 f575af12314c5b7f
 Xiaomi aquaman
 6434d2077b68a880
+Android MDTV5G
+6075620deea2ca4e
 
 robus14 +6
 samsung a70q
