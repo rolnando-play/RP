@@ -1801,6 +1801,8 @@ Android MDTV5G
 e13dd61e0036876e
 rockchip rk322x_box
 7760900a245a9169
+rockchip rk322x_box
+b6a7e9eeda692a89
 
 ruthgis
 S905W
@@ -9892,6 +9894,8 @@ rockchip MK
 6ed62fa703282b31
 dolphin dolphin_fvd_p1
 7bf654c8d96c8b1b
+rockchip MK
+79711a64a6cb4558
 
 rocapo
 dolphin dolphin-fvd-p1
