@@ -433,6 +433,8 @@ rockchip rk322x_box
 bb959ab03d97fc90
 Amazon sheldon
 f7bb908f4560600c
+Amlogic p281
+e0b7c16f44dc6d9b
 
 AQuinonez
 S905W
