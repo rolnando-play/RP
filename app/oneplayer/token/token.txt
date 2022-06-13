@@ -7687,6 +7687,8 @@ Allwinner dolphin-fvd-p1
 92d30250fbb0be51
 Xiaomi croods
 803855032c6f2c19
+rockchip rk322x_box
+3df31f8ae1efde41
 
 enriquelr
 Amazon sheldon
@@ -10043,7 +10045,9 @@ Android MDTV5G
 982bd0ab33f385c4
 Android MDTV5G
 f2da2d7ad04677
-
+Android MDTV5G
+269e078082dbb70d
+ 
 pjc0910 +9
 rockchip rk322x_box
 ffc1ce9a704128f1
@@ -14734,6 +14738,8 @@ Google sabrina
 dcff37ada90f7381
 Amazon mantis
 b35cac1ced7d679
+Amazon sheldon
+c8e9dedd1cd5ae8d
 
 cuentaone2 +5 psc
 Amazon tank
@@ -17878,6 +17884,9 @@ rockchip rk322x_box
 4c05a843d2ef82f9
 rockchip rk322x_box
 20c9c10d591b0983
++6
+Android MDTV5G
+269f2e78e2bc7a16
 
 roloca
 MTK cvt_mt5886_sa
@@ -18649,8 +18658,8 @@ OnePlus OnePlus5
 252c7e0e754cc844
 rockchip rk3328_box
 eaef84344aa3d82e
-Xiaomi oneday
-f840819c44f3156f
+rk322x_box
+89cbbe5fd859c4b1
 rockchip rk322x_box
 67655beef496b327
 Android MBOX
@@ -19628,6 +19637,8 @@ Xiaomi machuca
 d39b1c14d152218a
 Xiaomi croods
 bf4d290bb28ecba2
+rockchip rk322x_box
+6f53baef7964e5b
 
 cesarit
 Google sabrina
@@ -19738,3 +19749,5 @@ samsung a52xq
 romeroj
 HUAWEI HWANE
 e0c9a9f8b4b59eff
+Realtek rtd298x_tv001
+c4bc939876cbd2e5
