@@ -19901,3 +19901,5 @@ ddccc2bbe1bae0ed
 adm12
 dolphin dolphin-fvd-p1
 bbe628f5ead4a8c2
+samsung a10s
+7577daf265dc6e7e
