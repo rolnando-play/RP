@@ -17905,6 +17905,8 @@ Android MDTV5G
 269f2e78e2bc7a16
 rockchip MK
 cc46088edd972444
+MBOX dolphin-p1
+452e15edb4c3cb7c
 
 roloca
 MTK cvt_mt5886_sa
@@ -18735,7 +18737,8 @@ rockchip rk322x_box
 6c2274aa012411fd
 streambus rk322x_box
 10f522e4176bf038
-
+rockchip rk322x_box
+3eca3847cfed14d9
 Android MBOX
 871d8b3c4dd84b7
 
