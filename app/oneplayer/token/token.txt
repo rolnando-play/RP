@@ -8424,6 +8424,8 @@ rockchip rk322x_box
 8e1570b5ee80f9b8
 Android MDTV5G
 e4365362df0d4a37
+samsung a50
+bc778a84f35d08bb
 
 jjuan
 Xiaomi aquaman
