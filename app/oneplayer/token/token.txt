@@ -9934,6 +9934,8 @@ rockchip MK
 79711a64a6cb4558
 rockchip rk322x_box
 89b2755a59887572
+Allwinner dolphin-fvd-p1
+42cfc44b99d92694
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -16593,6 +16595,18 @@ Amlogic p281
 5ead02d78403b577
 Amlogic p281
 fd57e3b7123bef0e
+Amlogic p281
+a95b16b23c6e8660
+Amlogic p281
+d460a2d8f690a7da
+Amlogic p281
+5dabf5637f97308e
+Amlogic p281
+b119c9a91c219431
+Amlogic p281
+e86b123dbc6ebb9e
+Amlogic p281
+4112294d9cfe800a
 
 luisvill
 rockchip rk322x_box
@@ -19755,6 +19769,8 @@ MTK cvt_mt5863_sa
 be8992c0f4eb702
 Xiaomi oneday
 7b8c2d300bbe5890
+Xiaomi aquaman
+7603d425b8895fec
 
 paraguayox1
 HUAWEI HWVOG
