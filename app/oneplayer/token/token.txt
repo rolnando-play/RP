@@ -19229,6 +19229,8 @@ rockchip rk322x_box
 e03e83f409c3221e
 rockchip rk322x_box
 32b9c2bf5cddf87d
+rockchip rk322x_box
+52fb67f3cf2e6313
 
 franciscoro
 samsung starqltechn
