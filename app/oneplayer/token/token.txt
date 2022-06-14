@@ -19630,6 +19630,10 @@ xiaomi aquaman
 51c6d95eee528ac4
 Android MDTV5G
 9139753fe7fd66de
+rockchip MK
+f2957b3a132f8882
+rockchip MK
+74f709eedb2914a4
 
 carmelo.s
 samsung a30s
