@@ -9119,6 +9119,8 @@ rockchip rk322x_box
 f951b9ce47f2da52
 rockchip rk322x_box
 9dce89fa7c13248a
+Allwinner dolphin-fvd-p1
+c1b3c06ca446db2b
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -14249,6 +14251,8 @@ rockchip rk322x_box
 51db03419face6a7
 Amlogic p281
 cab70dc4d4fe1898
+Amlogic p281
+34458c78118cd759
 
 juanleom
 Xiaomi oneday
@@ -18736,6 +18740,9 @@ rockchip rk322x_box
 67655beef496b327
 Android MBOX
 ee470436d3128a0a
++9
+rockchip rk322x_box
+b07ec7c65472ad2b
 
 egsali +6
 samsung x1s
