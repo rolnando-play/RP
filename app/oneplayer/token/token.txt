@@ -9849,8 +9849,8 @@ rockchip rk322x_box
 ed8a8aaffd3fe151
 Allwinner dolphin-fvd-p1
 3a6a93e16be0a688
-unknown dolphin-fvd-p1
-c0050aed6eabc0fc
+Android MDTV5G
+524446786c2009b8
 Amlogic p212
 60a275b43f2e7cec
 rockchip rk322x_box
@@ -11177,6 +11177,8 @@ Amazon mantis
 2b467bf4fc703c5c
 samsung a30
 f687a49989f2953a
+Amazon mantis
+126dbf5e25df566f
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -17967,6 +17969,8 @@ rockchip MK
 cc46088edd972444
 MBOX dolphin-p1
 452e15edb4c3cb7c
+SCBC R2
+b61744589a6676e9
 
 roloca
 MTK cvt_mt5886_sa
