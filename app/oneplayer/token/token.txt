@@ -19536,6 +19536,8 @@ Google sabrina
 95f1d6ee59a0f87c
 Google sabrina
 2305a094b82b4705
+Amlogic p281
+2c7354708845bcb9
 
 carlosbra
 rockchip rk322x_box
@@ -19895,3 +19897,7 @@ a9165ea192fb29e6
 juliofl
 dolphin dolphin_fvd_p1
 ddccc2bbe1bae0ed
+
+adm12
+dolphin dolphin-fvd-p1
+bbe628f5ead4a8c2
