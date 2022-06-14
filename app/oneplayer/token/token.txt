@@ -19775,3 +19775,7 @@ HUAWEI HWANE
 e0c9a9f8b4b59eff
 Realtek rtd298x_tv001
 c4bc939876cbd2e5
+
+pablopi
+Xiaomi sweet
+de04786e2b99683e
