@@ -3915,6 +3915,8 @@ rockchip rk322x_box
 +3
 rockchip rk322x_box
 f019cd43c2f00211
+rockchip rk322x_box
+bc970df2f2d46c8f
 
 oscarmaar +6
 samsung beyond2
@@ -19825,3 +19827,7 @@ c4bc939876cbd2e5
 pablopi
 Xiaomi sweet
 de04786e2b99683e
+
+noepa
+Allwinner dolphin-fvd-p1
+295c0a00456fc072
