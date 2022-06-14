@@ -3705,6 +3705,8 @@ SkyworthDigital LAS
 bartonth
 Xiaomi ginkgo
 8936e098959cb4e2
+motorola odessa
+8323f75088923609
 
 estelade
 Xiaomi cepheus
@@ -7705,6 +7707,8 @@ rockchip rk322x_box
 3df31f8ae1efde41
 Allwinner dolphin-fvd-p1
 d0d6aa4cada78e10
+Xiaomi oneday
+5e2d441d1351e15c
 
 enriquelr
 Amazon sheldon
