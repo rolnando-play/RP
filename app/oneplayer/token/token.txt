@@ -7691,6 +7691,8 @@ Xiaomi croods
 803855032c6f2c19
 rockchip rk322x_box
 3df31f8ae1efde41
+Allwinner dolphin-fvd-p1
+d0d6aa4cada78e10
 
 enriquelr
 Amazon sheldon
@@ -17070,6 +17072,8 @@ Xiaomi aquaman
 71ac7c2d69d63638
 Xiaomi aquaman
 0bd7f414eeacac05
+Xiaomi croods
+2ee8db60a8dabe38
 
 sebas.gi
 amazon mantis
@@ -18914,6 +18918,8 @@ Android MDTV5G
 fedaec34a996b108
 Allwinner dolphin-fvd-p1
 1e36e8d930b04716
+Amlogic p281
+11872e5f80d46672
 
 nicolasgon ADA
 Google sabrina
