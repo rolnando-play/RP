@@ -1815,6 +1815,8 @@ Android MDTV5G
 e2c9491b1382381e
 Android MDTV5G
 86679291a2be0ac
+rockchip rk322x_box
+4177fdc97f8ff0d4
 
 ruthgis
 S905W
@@ -13052,6 +13054,8 @@ OnePlus OnePlus5
 0f37ab3cf1f9e91b
 Xiaomi aquaman
 f429b20bf6f345cc
+Xiaomi aquaman
+ae4775e9c330af57
 
 hheimb
 samsung a50
@@ -18743,6 +18747,8 @@ ee470436d3128a0a
 +9
 rockchip rk322x_box
 b07ec7c65472ad2b
+rockchip rk322x_box
+7c66c846a2de63fa
 
 egsali +6
 samsung x1s
