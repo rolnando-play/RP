@@ -3159,8 +3159,8 @@ dolphin dolphin-fvd-p1
 62cd41ee07201354
 
 o.laus
-samsung star2lte
-ef200fbf39ca6b32
+Google sabrina
+92030a03313908f5
 Skyworth globe_sa
 bced1d7ae44d326a
 samsung g0q
