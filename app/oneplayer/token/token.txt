@@ -10119,6 +10119,8 @@ SkyworthDigital LAS
 b8a98ad3aa4d8f5d
 SkyworthDigital LAS
 74eb4b3010e3ef3e
+SkyworthDigital LAS
+9932d43f6b0a12a9
 
 ragnar.lod
 Allwinner dolphin-fvd-p1
