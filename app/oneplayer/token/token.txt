@@ -11693,6 +11693,8 @@ Amlogic p281
 739806ee6b39e2db
 Xiaomi aquaman
 d2aa6ce5c4f07939
+rockchip rk322x_box
+352bd1f952c73c7d
 
 gergod +6
 Amlogic franklin
@@ -19448,6 +19450,8 @@ Xiaomi oneday
 a017228d758f4342
 Google sabrina
 95f1d6ee59a0f87c
+Google sabrina
+2305a094b82b4705
 
 carlosbra
 rockchip rk322x_box
