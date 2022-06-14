@@ -19877,6 +19877,8 @@ f117e87d4390fb8d
 arnaldora
 samsung a12
 af9ce40cf74c356a
+rockchip rk3328_box
+afd3252b750c0fa7
 
 claudiolez
 Google sabrina
@@ -19885,3 +19887,7 @@ Google sabrina
 vitum
 Xiaomi mido
 a9165ea192fb29e6
+
+juliofl
+dolphin dolphin_fvd_p1
+ddccc2bbe1bae0ed
