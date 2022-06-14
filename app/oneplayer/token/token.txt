@@ -17372,6 +17372,8 @@ Amazon sheldon
 fcfa354d53a79a0a
 Amazon sheldonp
 906df028b0ab043b
+Amazon mantis
+9ebbbe60e035ea85
 
 manfredkl
 Google titan-p1
