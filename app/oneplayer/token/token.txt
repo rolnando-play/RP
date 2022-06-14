@@ -19833,3 +19833,7 @@ de04786e2b99683e
 noepa
 Allwinner dolphin-fvd-p1
 295c0a00456fc072
+
+fabricioch
+dolphin dolphin_fvd_p1
+f117e87d4390fb8d
