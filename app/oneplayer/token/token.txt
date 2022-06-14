@@ -11167,6 +11167,8 @@ rockchip rk322x_box
 bbf14cf4b41c5755
 Amazon mantis
 2b467bf4fc703c5c
+samsung a30
+f687a49989f2953a
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -16782,6 +16784,8 @@ Xiaomi oneday
 4b32f6883a28ce7c
 Android MDTV5G
 3be41f082ef6b023
+askey sti6140d360
+f01103ba90816bb1
 
 aflei
 Amazon sheldonp
