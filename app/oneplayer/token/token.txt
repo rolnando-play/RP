@@ -11192,6 +11192,8 @@ Amazon mantis
 126dbf5e25df566f
 Android MDTV5G
 9878120aa9fc2340
+rockchip rk322x_box
+28616817a37eddb7
 
 danieljo
 Allwinner dolphin-fvd-p1
