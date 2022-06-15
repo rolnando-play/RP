@@ -3999,8 +3999,6 @@ rockchip rk322x_box
 derdav
 Google sabrina
 20763e0c0a7c3459
-samsung c2s
-180a053a335e9c60
 Google sabrina
 67fd0141005cb97f
 
