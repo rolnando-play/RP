@@ -7718,6 +7718,9 @@ Xiaomi oneday
 5e2d441d1351e15c
 rockchip MK
 7cda1af93b833c67
++
+rockchip rk322x_box
+41419eba108407a9
 
 enriquelr
 Amazon sheldon
