@@ -144,8 +144,8 @@ Android MDTV5G
 91c0cb3ffa851bc8
 Xiaomi aquaman
 b45c390f18407761
-rockchip rk322x_box
-5e23f724cafbf02a
+Amazon sheldon
+0063f0edbc0db705
 +3
 Xiaomi aquaman
 bc0e897647d0ba40
@@ -7718,7 +7718,7 @@ Xiaomi oneday
 5e2d441d1351e15c
 rockchip MK
 7cda1af93b833c67
-+
++18
 rockchip rk322x_box
 41419eba108407a9
 
@@ -16676,6 +16676,8 @@ Amlogic p281
 a351d23525df3e42
 Amlogic p281
 e46b13f94eafa5b0
+Amlogic p281
+41502e8f7192b95e
 
 luisvill
 rockchip rk322x_box
