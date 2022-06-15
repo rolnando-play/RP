@@ -7723,6 +7723,8 @@ rockchip MK
 +18
 rockchip rk322x_box
 41419eba108407a9
+Android MDTV5G
+8d0e5d4a691e954c
 
 enriquelr
 Amazon sheldon
