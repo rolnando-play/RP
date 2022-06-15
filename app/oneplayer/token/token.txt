@@ -2943,6 +2943,8 @@ HUAWEI HWSTK-HF
 5c63c3d2eda5d840
 Android MBOX
 dc1f546b4854b2f7
+Amazon sheldon
+c866e64a48e14463
 
 mateogiu
 samsung a10s
