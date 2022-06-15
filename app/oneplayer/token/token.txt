@@ -11740,6 +11740,8 @@ Xiaomi aquaman
 d2aa6ce5c4f07939
 rockchip rk322x_box
 352bd1f952c73c7d
+rockchip rk322x_box
+f5c0a7c55fd05479
 
 gergod +6
 Amlogic franklin
