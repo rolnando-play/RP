@@ -18784,6 +18784,8 @@ rockchip rk322x_box
 12b1ea7a4421e4f4
 rockchip rk322x_box
 5f78e6ef3b6cfe3b
+rockchip rk322x_box
+a6d50192eaa7a2d7
 
 egsali +6
 samsung x1s
@@ -19952,3 +19954,7 @@ samsung a10s
 legalnet
 Google walleye
 b0ba94384d83ec58
+
+9manu
+Xiaomi curtana
+6d0822a0aba5e5da
