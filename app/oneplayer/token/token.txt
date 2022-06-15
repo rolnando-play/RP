@@ -2268,6 +2268,8 @@ Android MBOX
 +6
 MTK cvt_mt5863_sa
 1be08ed890cbb445
+Amazon mantis
+1fbebb021c9b021a
 
 ricar.fu
 HUAWEI HWMAR
