@@ -17417,6 +17417,8 @@ Amazon sheldonp
 906df028b0ab043b
 Amazon mantis
 9ebbbe60e035ea85
+Amazon mantis
+4106bb479fc1f01a
 
 manfredkl
 Google titan-p1
@@ -19702,6 +19704,8 @@ rockchip MK
 21c2c9613953905e
 rockchip rk322x_box
 79acaeac8b752211
+rockchip MK
+421a1e5275b9cdfe
 
 carmelo.s
 samsung a30s
