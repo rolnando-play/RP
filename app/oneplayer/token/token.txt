@@ -3548,6 +3548,9 @@ rockchip rk3328_box
 85d0343e3ef804fd
 rockchip rk322x_box
 190779f0db494fe4
++6
+rockchip rk322x_box
+fc5a19fffe76f9fd
 
 guillermodu x6
 Xiaomi surya
@@ -17977,6 +17980,8 @@ MBOX dolphin-p1
 452e15edb4c3cb7c
 SCBC R2
 b61744589a6676e9
+dolphin SBQ-SM007
+fd380046a7f2946b
 
 roloca
 MTK cvt_mt5886_sa
@@ -19845,6 +19850,8 @@ b7c06393f24be61c
 jmatia
 Android MDTV5G
 5d3a50295df8bb99
+samsung d2s
+33216698a2580fc2
 
 ing.chu DOGE
 Sony BRAVIA_ATV2
