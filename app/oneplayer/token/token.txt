@@ -1817,6 +1817,8 @@ Android MDTV5G
 86679291a2be0ac
 rockchip rk322x_box
 4177fdc97f8ff0d4
+rockchip rk322x_box
+4711483b22477cc0
 
 ruthgis
 S905W
@@ -19981,3 +19983,7 @@ b0ba94384d83ec58
 9manu
 Xiaomi curtana
 6d0822a0aba5e5da
+
+fernandofp
+Xiaomi oneday
+000440ff194961b7
