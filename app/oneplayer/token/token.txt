@@ -7712,6 +7712,8 @@ Allwinner dolphin-fvd-p1
 d0d6aa4cada78e10
 Xiaomi oneday
 5e2d441d1351e15c
+rockchip MK
+7cda1af93b833c67
 
 enriquelr
 Amazon sheldon
@@ -17987,6 +17989,8 @@ SCBC R2
 b61744589a6676e9
 dolphin SBQ-SM007
 fd380046a7f2946b
+SEI Robotics SEI400TV
+87c906a1c5cf9383
 
 roloca
 MTK cvt_mt5886_sa
