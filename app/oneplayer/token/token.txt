@@ -18766,6 +18766,8 @@ rockchip rk322x_box
 7c66c846a2de63fa
 rockchip rk322x_box
 12b1ea7a4421e4f4
+rockchip rk322x_box
+5f78e6ef3b6cfe3b
 
 egsali +6
 samsung x1s
