@@ -17442,6 +17442,8 @@ Amazon mantis
 9ebbbe60e035ea85
 Amazon mantis
 4106bb479fc1f01a
+Amazon kara
+c95e500c710206bc
 
 manfredkl
 Google titan-p1
