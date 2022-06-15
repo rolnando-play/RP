@@ -11190,6 +11190,8 @@ samsung a30
 f687a49989f2953a
 Amazon mantis
 126dbf5e25df566f
+Android MDTV5G
+9878120aa9fc2340
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -17991,6 +17993,7 @@ dolphin SBQ-SM007
 fd380046a7f2946b
 SEI Robotics SEI400TV
 87c906a1c5cf9383
++6
 
 roloca
 MTK cvt_mt5886_sa
