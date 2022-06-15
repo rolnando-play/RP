@@ -19297,6 +19297,8 @@ b945bb960081dd74
 bogadora
 Xiaomi vayu
 800bb1a81bb0f34e
+Amazon mantis
+cb40a215a2557804
 
 diegocar
 Xiaomi vayu
@@ -19673,6 +19675,8 @@ rockchip MK
 f2957b3a132f8882
 rockchip MK
 74f709eedb2914a4
+Xiaomi aquaman
+a44ac31f946e2ae1
 
 carmelo.s
 samsung a30s
