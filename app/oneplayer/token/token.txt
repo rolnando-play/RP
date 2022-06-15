@@ -19700,6 +19700,8 @@ Xiaomi aquaman
 a44ac31f946e2ae1
 rockchip MK
 21c2c9613953905e
+rockchip rk322x_box
+79acaeac8b752211
 
 carmelo.s
 samsung a30s
@@ -19728,6 +19730,8 @@ samsung zerolteatt
 50b76269e623dbad
 Android MDTV5G
 8023c0bf4c9b996c
+Android MDTV5G
+d67294bc18beaa49
 
 mateolu +6
 Amazon kara
