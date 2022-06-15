@@ -4749,8 +4749,8 @@ dolphin dolphin_fvd_p1
 4de0107a8b0c3546
 dolphin dolphin_fvd_p1
 7955ca8cf998a515
-rockchip rk312x
-60ea8b9a732c5cc3
+HUAWEI HWMAR
+4c4f2828fa5fedcd
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -18759,6 +18759,8 @@ rockchip rk322x_box
 b07ec7c65472ad2b
 rockchip rk322x_box
 7c66c846a2de63fa
+rockchip rk322x_box
+12b1ea7a4421e4f4
 
 egsali +6
 samsung x1s
@@ -19895,6 +19897,8 @@ Google sabrina
 vitum
 Xiaomi mido
 a9165ea192fb29e6
+Amlogic p281
+2e589c55997f3d1e
 
 juliofl
 dolphin dolphin_fvd_p1
