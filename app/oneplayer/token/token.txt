@@ -19772,8 +19772,8 @@ Google sabrina
 angel.es
 samsung zerolteatt
 50b76269e623dbad
-Android MDTV5G
-8023c0bf4c9b996c
+rockchip rk322x_box
+5b0488dfd9c6739b
 Android MDTV5G
 d67294bc18beaa49
 
