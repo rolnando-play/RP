@@ -9254,6 +9254,8 @@ rockchip rk322x_box
 daniira
 MBOX dolphin-p1
 3e573434fd43ecca
+dolphin dolphin_fvd_p1
+b5f085faab018dd9
 
 elenio
 samsung star2qltechn
