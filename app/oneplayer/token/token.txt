@@ -13252,6 +13252,8 @@ rockchip rk322x_box
 6a3b736c674f1b8d
 rockchip rk322x_box
 3d0faf929bc6aa6c
+rockchip rk322x_box
+f3147728ef7c213d
 
 arevalosve
 Amazon sheldonp
@@ -17855,6 +17857,8 @@ Amlogic p281
 ee14cd3455cb4fe2
 rockchip rk3328_box
 dc6cdd0944c78606
+askey stephen
+0828a097b2da1033
 
 santiagob +6
 Xiaomi raphael
