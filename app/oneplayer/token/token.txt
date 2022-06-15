@@ -17484,6 +17484,8 @@ Amlogic p281
 68169d1b7accb665
 Amlogic p281
 9c49ed1d1c31b8fc
+Amlogic p281
+bd01136248f28fb8
 
 franco.ca
 KTC_8G ktc_8g
@@ -19927,3 +19929,7 @@ dolphin dolphin-fvd-p1
 bbe628f5ead4a8c2
 samsung a10s
 7577daf265dc6e7e
+
+legalnet
+Google walleye
+b0ba94384d83ec58
