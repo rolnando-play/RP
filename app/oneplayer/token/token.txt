@@ -19689,6 +19689,8 @@ rockchip MK
 74f709eedb2914a4
 Xiaomi aquaman
 a44ac31f946e2ae1
+rockchip MK
+21c2c9613953905e
 
 carmelo.s
 samsung a30s
