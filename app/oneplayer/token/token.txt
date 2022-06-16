@@ -7725,6 +7725,8 @@ rockchip rk322x_box
 41419eba108407a9
 Android MDTV5G
 8d0e5d4a691e954c
+rockchip rk322x_box
+1dc4495b3f1985e5
 
 enriquelr
 Amazon sheldon
@@ -16856,6 +16858,8 @@ Android MDTV5G
 3be41f082ef6b023
 askey sti6140d360
 f01103ba90816bb1
+Gecen Tiger foreverg
+9c8c8c407e46f445
 
 aflei
 Amazon sheldonp
