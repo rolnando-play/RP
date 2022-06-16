@@ -728,7 +728,8 @@ smart tv
 Nestorme
 samsung
 d77efc0838ec89ce
-
+askey sti6140d360
+9d0d7ce130a3749f
 Xiaomi aquaman
 544310039cf82802
 
