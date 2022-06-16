@@ -3057,6 +3057,8 @@ dolphin dolphin_fvd_p1
 95b9ce5b5620add9
 Allwinner dolphin-fvd-p1
 1792d8889ef72e75
+dolphin dolphin_fvd_p1
+e1d31ef99011130a
 
 Mdzajulio0
 Android MDTV5G
