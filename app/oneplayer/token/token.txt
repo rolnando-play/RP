@@ -11789,6 +11789,8 @@ rockchip rk322x_box
 78eeec1eb44bd116
 rockchip rk322x_box
 fdd33d0b764d85db
+rockchip rk322x_box
+525d602192fc20bb
 
 gergod +6
 Amlogic franklin
