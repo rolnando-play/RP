@@ -8655,6 +8655,8 @@ Xiaomi machuca
 juancito.
 Xiaomi aquaman
 2e9b09e5e0c37495
+rockchip rk322x_box
+59c490a4c885a663
 
 dariomar
 samsung z3s
@@ -19756,6 +19758,8 @@ rockchip rk322x_box
 79acaeac8b752211
 rockchip MK
 421a1e5275b9cdfe
+Hisilicon Hi3751V560
+5e9715f75a11ad61
 
 carmelo.s
 samsung a30s
