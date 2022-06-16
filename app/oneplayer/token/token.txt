@@ -11768,6 +11768,12 @@ Amlogic p281
 9a265fa1189086e6
 Amlogic p281
 6058c529e42ea20f
+Amlogic p281
+4c67de09f5348116
+Amlogic p281
+8d52e8af4e11ba76
+Amazon mantis
+cf1899803b1dd711
 
 gergod +6
 Amlogic franklin
