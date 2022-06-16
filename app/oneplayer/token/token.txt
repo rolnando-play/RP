@@ -20049,3 +20049,5 @@ fcbb4a6e3819bd62
 davidvaz
 dolphin dolphin_fvd_p1
 11072d861a5d6b5f
+samsung a51
+10bd1d27dd6540f1
