@@ -9147,6 +9147,8 @@ rockchip rk322x_box
 9dce89fa7c13248a
 Allwinner dolphin-fvd-p1
 c1b3c06ca446db2b
+Allwinner dolphin-fvd-p1
+6e7522260aab62f2
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -20007,4 +20009,9 @@ Xiaomi curtana
 
 fernandofp
 Xiaomi oneday
-000440ff194961b7
+000440ff194961b
+
+
+carrilloso +6
+OnePlus OnePlus8Pro
+de4922e332670d60
