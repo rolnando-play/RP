@@ -16727,6 +16727,10 @@ Amlogic p281
 41502e8f7192b95e
 Amlogic p281
 c7cf987fb00bfab6
+Amlogic p281
+a011e7ab46de68e1
+Amlogic p281
+f126a6c0676067bb
 
 luisvill
 rockchip rk322x_box
@@ -16901,6 +16905,8 @@ askey sti6140d360
 f01103ba90816bb1
 Gecen Tiger foreverg
 9c8c8c407e46f445
+Android MDTV5G
+75f2ce681c95e0f7
 
 aflei
 Amazon sheldonp
