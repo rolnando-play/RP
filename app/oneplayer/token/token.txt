@@ -19322,6 +19322,8 @@ rockchip rk322x_box
 2f0602168eeaed1
 rockchip rk322x_box
 2b81116c43f301d6
+Gecen Tiger foreverg
+52298f190066c743
 
 carlos@g
 samsung b2q
