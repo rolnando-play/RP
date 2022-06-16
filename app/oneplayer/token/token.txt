@@ -11775,6 +11775,8 @@ Amlogic p281
 8d52e8af4e11ba76
 Amazon mantis
 cf1899803b1dd711
+rockchip rk322x_box
+99df22ccdb5f91ca
 
 gergod +6
 Amlogic franklin
