@@ -16897,6 +16897,8 @@ Xiaomi aquaman
 +3
 Amazon sheldon
 08ff46d969054b35
+Amazon sheldon
+d337b9298665d732
 
 gpaiv
 HUAWEI HWEML
@@ -19607,6 +19609,8 @@ Google sabrina
 2305a094b82b4705
 Amlogic p281
 2c7354708845bcb9
+dolphin dolphin_fvd_p1
+397dde7564c94ae8
 
 carlosbra
 rockchip rk322x_box
