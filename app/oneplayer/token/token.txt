@@ -19764,6 +19764,8 @@ rockchip MK
 421a1e5275b9cdfe
 Hisilicon Hi3751V560
 5e9715f75a11ad61
+Xiaomi oneday
+5fe4506ac599ae60
 
 carmelo.s
 samsung a30s
@@ -20017,7 +20019,7 @@ Xiaomi curtana
 
 fernandofp
 Xiaomi oneday
-000440ff194961b
+000440ff194961b7
 
 carrilloso +6
 OnePlus OnePlus8Pro
