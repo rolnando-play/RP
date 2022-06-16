@@ -2270,6 +2270,10 @@ MTK cvt_mt5863_sa
 1be08ed890cbb445
 Amazon mantis
 1fbebb021c9b021a
+Amazon sheldon
+09181740d18ad6e9
+Amazon sheldon
+3f63c5d058cc529b
 
 ricar.fu
 HUAWEI HWMAR
