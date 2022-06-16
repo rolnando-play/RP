@@ -19451,8 +19451,7 @@ MBOX dolphin-p1
 edac2f8b3ef813c7
 MTK cvt_mt5863_sa
 c3ff794ab52401e2
-Amazon sheldon
-59b334bc6e725abf
+
 
 cadavid
 Sony BRAVIA_ATV2
@@ -20096,3 +20095,7 @@ samsung a51
 tvboxpla +9
 Amazon sheldonp
 3aae743037ce5d65
+
+estebanesc
+Amazon mantis
+3bb42bf69d8a1270
