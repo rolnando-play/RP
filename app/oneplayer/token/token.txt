@@ -11218,6 +11218,9 @@ Android MDTV5G
 9878120aa9fc2340
 rockchip rk322x_box
 28616817a37eddb7
++18
+rockchip rk322x_box
+3a66399844d44ce1
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11784,6 +11787,8 @@ rockchip rk322x_box
 4e911ae2e6832a1f
 rockchip rk322x_box
 78eeec1eb44bd116
+rockchip rk322x_box
+fdd33d0b764d85db
 
 gergod +6
 Amlogic franklin
@@ -15203,6 +15208,8 @@ e41e9256bb9716a
 +3
 samsung o1s
 45401faaff7576ae
+Amlogic p281
+8f80feb8cd7291c9
 
 ger_go +6
 Allwinner dolphin-fvd-p1
