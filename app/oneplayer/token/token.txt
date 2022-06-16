@@ -16739,6 +16739,8 @@ Amlogic p281
 a011e7ab46de68e1
 Amlogic p281
 f126a6c0676067bb
+Android MDTV5G
+4feb0769de60edcd
 
 luisvill
 rockchip rk322x_box
