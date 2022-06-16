@@ -6486,6 +6486,9 @@ rockchip MK
 442a85c5d3a3181
 dolphin dolphin-fvd-p1
 4fcc2247cb0a344c
++3
+FTROU eros-p1
+ea0948723cff4653
 
 joiseg +6 psc
 Amazon sheldon
@@ -11777,6 +11780,10 @@ Amazon mantis
 cf1899803b1dd711
 rockchip rk322x_box
 99df22ccdb5f91ca
+rockchip rk322x_box
+4e911ae2e6832a1f
+rockchip rk322x_box
+78eeec1eb44bd116
 
 gergod +6
 Amlogic franklin
@@ -19785,6 +19792,8 @@ samsung a30s
 5ed75f61c0f7356d
 MBX m201_512m
 eb91854bc971e537
+MBX m201_512m
+a61d5f504a43576
 
 dario.k +6
 Xiaomi oneday
