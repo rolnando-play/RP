@@ -9847,8 +9847,8 @@ Xiaomi aquaman
 18cce8aa3ac1a85d
 
 fredy19
-rockchip rk322x_box
-a62375495fb084f
+Android MDTV5G
+899521ce3ef5452b
 rockchip rk3328_box
 55003e2fa8aefa24
 rockchip rk322x_box
