@@ -602,6 +602,8 @@ Xiaomi oneday
 9d54c0e90d433ca0
 rockchip rk322x_box
 cbc4e2e0c4638855
+Amazon sheldonp
+01c3ee21ec90f5e0
 +3
 
 ampi_h
