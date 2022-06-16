@@ -11765,6 +11765,8 @@ rockchip rk322x_box
 d45c05e6e29b3ff8
 Amlogic p281
 9a265fa1189086e6
+Amlogic p281
+6058c529e42ea20f
 
 gergod +6
 Amlogic franklin
