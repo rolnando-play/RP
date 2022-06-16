@@ -15214,6 +15214,8 @@ samsung o1s
 45401faaff7576ae
 Amlogic p281
 8f80feb8cd7291c9
+Xiaomi aquaman
+89f30363e5ca4952
 
 ger_go +6
 Allwinner dolphin-fvd-p1
