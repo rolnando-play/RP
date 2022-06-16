@@ -18046,6 +18046,8 @@ fd380046a7f2946b
 SEI Robotics SEI400TV
 87c906a1c5cf9383
 +6
+Droidlogic ampere 
+9bcda1e2d47a01b4
 
 roloca
 MTK cvt_mt5886_sa
