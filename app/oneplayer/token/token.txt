@@ -15199,6 +15199,9 @@ Xiaomi aquaman
 583583b0cd866be9
 dolphin dolphin-fvd-p1
 e41e9256bb9716a
++3
+samsung o1s
+45401faaff7576ae
 
 ger_go +6
 Allwinner dolphin-fvd-p1
