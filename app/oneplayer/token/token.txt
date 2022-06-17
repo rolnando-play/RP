@@ -438,8 +438,8 @@ e0b7c16f44dc6d9b
 +3
 Amazon sheldon
 9f4c3e19639d63ba
-Amazon sheldon
-9f4c3e19639d63ba
+Amlogic p281
+530a5a490aea3463
 
 AQuinonez
 S905W
