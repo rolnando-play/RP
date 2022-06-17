@@ -11817,6 +11817,8 @@ b57870529cc5da39
 +18
 rockchip rk3328_box
 ed89db99ced4514e
+Xiaomi oneday
+0df1c88963f7d3b7
 
 gergod +6
 Amlogic franklin
