@@ -10148,7 +10148,10 @@ Android MDTV5G
 f2da2d7ad04677
 Android MDTV5G
 269e078082dbb70d
- 
+ +9
+ Android MDTV5G
+8492bcd739f2ddb6
+
 pjc0910 +9
 rockchip rk322x_box
 ffc1ce9a704128f1
