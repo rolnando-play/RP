@@ -4781,6 +4781,8 @@ dolphin dolphin_fvd_p1
 7955ca8cf998a515
 HUAWEI HWMAR
 4c4f2828fa5fedcd
+rockchip rk312x
+60ea8b9a732c5cc3
 
 aylenmon
 OnePlus OnePlus8TMO
