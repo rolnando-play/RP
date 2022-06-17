@@ -20128,3 +20128,7 @@ rockchip rk322x_box
 7be39ebc12989f9a
 rockchip rk322x_box
 51ae7dc6d896cffa
+
+hdalb
+Xiaomi oneday
+0f4acf8216ad09ce
