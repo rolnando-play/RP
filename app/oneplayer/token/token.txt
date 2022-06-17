@@ -2933,7 +2933,7 @@ d5e7d047d654f3c6
 samsung a51
 5729cd35eb190b9d
 Xiaomi aquaman
-e112f7da59f9641d
+de2e92e2e455971c
 
 mgwei
 MBOX dolphin-p1
@@ -9864,8 +9864,8 @@ Xiaomi aquaman
 fredy19
 Android MDTV5G
 899521ce3ef5452b
-rockchip rk3328_box
-55003e2fa8aefa24
+rockchip rk322x_box
+a62375495fb084f
 rockchip rk322x_box
 62816e71c507f709
 +6
@@ -13026,6 +13026,8 @@ Amazon sheldon
 +3
 Amazon sheldon
 676b5592e2569c61
+Android MBOX
+8539535f8aa76f38
 
 mpalac
 Xiaomi ginkgo
@@ -20105,6 +20107,8 @@ samsung a51
 tvboxpla +9
 Amazon sheldonp
 3aae743037ce5d65
+Amazon sheldonp
+b7f0992d0aa9694b
 
 estebanesc
 Amazon mantis
