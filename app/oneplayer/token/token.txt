@@ -19864,6 +19864,8 @@ Hisilicon Hi3751V560
 5e9715f75a11ad61
 Xiaomi oneday
 5fe4506ac599ae60
+rockchip rk3328_box
+316d8793a82dcc55
 
 carmelo.s
 samsung a30s
