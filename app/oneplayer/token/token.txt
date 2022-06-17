@@ -7747,6 +7747,8 @@ rockchip rk322x_box
 1dc4495b3f1985e5
 dolphin dolphin-fvd-p1
 d9fc8c8ba86b0969
+Android MBOX
+bcf9b12236f2fc8f
 
 enriquelr
 Amazon sheldon
@@ -16931,6 +16933,10 @@ Gecen Tiger foreverg
 9c8c8c407e46f445
 Android MDTV5G
 75f2ce681c95e0f7
+Android MDTV5G
+d2bd600c535335e7
+CVTE CVTM358
+eef43c427c94db48
 
 aflei
 Amazon sheldonp
