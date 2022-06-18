@@ -19046,6 +19046,8 @@ rockchip rk322x_box
 +3
 rockchip rk322x_box
 773384abd6bdf935
+Amlogic p281
+dc33f3547d97ce1d
 
 obaez1
 Xiaomi oneday
