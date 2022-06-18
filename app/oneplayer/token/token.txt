@@ -11278,6 +11278,8 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 3a66399844d44ce1
+rockchip rk322x_box
+123cb78b99cc3416
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12290,6 +12292,9 @@ rockchip rk322x_box
 edc86af4ee6738f1
 Android MDTV5G
 e62808af98a89801
++10
+XTV rk322x_box
+4a7ba64c43939b21
 
 brandonmk
 Xiaomi begonia
