@@ -11379,6 +11379,8 @@ Amazon tank
 c167926704de5f31
 Amazon kara
 1f81c0db4220cfd8
+samsung z3q 
+7315c0fb0b522a6d
 
 sisan
 HUAWEI HWALP
@@ -20226,3 +20228,5 @@ Amazon sheldonp
 fernandomol
 samsung a32
 c3afac4c6bff8532
+rockchip rk322x_box
+d675df2d196a20d9
