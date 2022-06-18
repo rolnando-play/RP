@@ -11843,6 +11843,12 @@ rockchip rk322x_box
 f6ba57d82dbc0b0c
 rockchip rk322x_box
 f6ba57d82dbc0b0c
+Amlogic p281
+215d868c97f0c903
+Amlogic p281
+e1844dc511d7284f
+Amlogic p281
+4c8d669ce9c76892
 
 gergod +6
 Amlogic franklin
@@ -16783,6 +16789,8 @@ Amlogic p281
 f126a6c0676067bb
 Android MDTV5G
 4feb0769de60edcd
+dolphin dolphin_fvd_p1
+ac250d768108ef46
 
 luisvill
 rockchip rk322x_box
@@ -19688,6 +19696,8 @@ TCL BeyondTV
 e3a8e0324fcf7d06
 samsung a52sxq
 d5aeed13b5f4da0a
+TCL BeyondTV
+ddd0924f6cfe9688
 
 victorman
 rockchip rk322x_box
@@ -19999,7 +20009,7 @@ Amazon tank
 5dd6145075ddcd65
 MediaTek mt5867
 131e3741b4bf9609
-+3
++6
 Droidlogic ampere
 0986dba8a6295a7a
 
@@ -20133,6 +20143,8 @@ b0ba94384d83ec58
 9manu
 Xiaomi curtana
 6d0822a0aba5e5da
+dolphin dolphin-fvd-p1
+3f4dde7fbdb17492
 
 fernandofp
 Xiaomi oneday
