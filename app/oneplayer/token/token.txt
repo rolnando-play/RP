@@ -20275,3 +20275,5 @@ Google titan-p1
 venides BTC
 Xiaomi oneday
 8533da4a96db32c1
+HUAWEI HWCLT
+7e8c3a9b31021462
