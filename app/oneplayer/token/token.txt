@@ -19930,6 +19930,8 @@ Xiaomi oneday
 5fe4506ac599ae60
 rockchip rk3328_box
 316d8793a82dcc55
+rockchip MK
+ac472e58e5663818
 
 carmelo.s
 samsung a30s
