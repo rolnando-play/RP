@@ -20189,3 +20189,7 @@ Xiaomi oneday
 blasro
 rockchip rockchip006
 cc910e83551c2bed
+
+francobel
+samsung beyond2
+f2371fa263b9207e
