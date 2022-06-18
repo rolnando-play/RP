@@ -11126,8 +11126,8 @@ MTK cvt_mt5863_sa
 8b3f7ea5f64b6b3e
 Amazon maverick
 2b1e3c9bb7839b15
-Android MDTV5G
-45f4191bc2dcaf19
+rockchip rk322x_box
+123cb78b99cc3416
 dolphin SBQ-SM007
 99aec5f482054d6a
 Amazon mantis
@@ -11278,8 +11278,6 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 3a66399844d44ce1
-rockchip rk322x_box
-123cb78b99cc3416
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -20265,3 +20263,7 @@ samsung j6primelte
 arnaldovar +6
 HUAWEI HWMAR
 4f42b48b3c7ceb21
+
+sestec
+Google titan-p1
+91a9bd665d9bb400
