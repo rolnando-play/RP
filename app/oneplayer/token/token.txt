@@ -5890,6 +5890,8 @@ Hisilicon p281
 d593903d49b12afa
 Android MBOX
 274e485f93a93184
+dolphin dolphin-fvd-p1
+e42fd157289ac179
 
 cuentatv
 Allwinner dolphin-fvd-p1
