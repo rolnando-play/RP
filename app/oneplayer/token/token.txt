@@ -10469,6 +10469,10 @@ Amlogic p281
 5f93e636dc086214
 Amazon sheldonp
 f4e30577e15cc3ad
+Amazon sheldonp
+80654f7e4bcb6bd5
+Amazon sheldonp
+d2a925a79584b21b
 
 claudiodan
 Xiaomi oneday
