@@ -9595,6 +9595,8 @@ dolphin dolphin-fvd-p1
 548ee16f4a60a85d
 Allwinner dolphin-fvd-p1
 f1208fb4370c0139
+dolphin dolphin_fvd_p1
+fa2637ccf80156c4
 
 rr.23
 MTK cvt_mt5863_sa
