@@ -16818,6 +16818,8 @@ Android MDTV5G
 4feb0769de60edcd
 dolphin dolphin_fvd_p1
 ac250d768108ef46
+dolphin dolphin_fvd_p1
+822b86ea5dcedcaa
 
 luisvill
 rockchip rk322x_box
@@ -17601,6 +17603,8 @@ Amazon mantis
 4106bb479fc1f01a
 Amazon kara
 c95e500c710206bc
+Amazon mantis
+c96e1635114b5c6f
 
 manfredkl
 Google titan-p1
@@ -20267,6 +20271,8 @@ samsung j6primelte
 arnaldovar +6
 HUAWEI HWMAR
 4f42b48b3c7ceb21
+rockchip rk322x_box
+393a824c3d4d55eb
 
 sestec
 Google titan-p1
@@ -20277,3 +20283,7 @@ Xiaomi oneday
 8533da4a96db32c1
 HUAWEI HWCLT
 7e8c3a9b31021462
+
+ricardodar
+Xiaomi oneday
+651b482ab443a384
