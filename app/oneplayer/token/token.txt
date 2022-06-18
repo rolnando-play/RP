@@ -4785,6 +4785,8 @@ rockchip rk312x
 60ea8b9a732c5cc3
 dolphin dolphin_fvd_p1
 309ef8f4441b8af7
+dolphin dolphin_fvd_p1
+72ba37a4c776188d
 
 aylenmon
 OnePlus OnePlus8TMO
