@@ -12796,6 +12796,8 @@ dolphin dolphin_fvd_p1
 d8ed5988c279863f
 dolphin dolphin_fvd_p1
 303bbeb54ef1cf81
+amlogic sw01
+2cff624fae0177c3
 
 chavezqu
 HUAWEI HWMAR
@@ -20201,3 +20203,7 @@ cc910e83551c2bed
 francobel
 samsung beyond2
 f2371fa263b9207e
+
+cabrerasa
+Amazon sheldonp
+e0e37bc3443082bf
