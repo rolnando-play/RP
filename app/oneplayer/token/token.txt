@@ -18010,6 +18010,8 @@ rockchip rk3328_box
 dc6cdd0944c78606
 askey stephen
 0828a097b2da1033
+Xiaomi lancelot
+7386ff6eac6423ca
 
 santiagob +6
 Xiaomi raphael
