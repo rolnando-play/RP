@@ -4783,6 +4783,8 @@ HUAWEI HWMAR
 4c4f2828fa5fedcd
 rockchip rk312x
 60ea8b9a732c5cc3
+dolphin dolphin_fvd_p1
+309ef8f4441b8af7
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -10497,6 +10499,8 @@ Amazon sheldonp
 b14e78b841f65d2e
 Amazon sheldonp
 a973755279fc34f3
+Amazon sheldon
+3ee9438024e75b1d
 
 oscarort +12
 MBOX dolphin-p1
@@ -20014,6 +20018,8 @@ MediaTek mt5867
 +6
 Droidlogic ampere
 0986dba8a6295a7a
+Amazon sheldonp
+e2b8e1b857c67b5b
 
 ameliom
 Xiaomi croods
