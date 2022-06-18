@@ -20232,3 +20232,7 @@ samsung a32
 c3afac4c6bff8532
 rockchip rk322x_box
 d675df2d196a20d9
+
+luiaya
+samsung j6primelte
+8da9c67e1c840bd6
