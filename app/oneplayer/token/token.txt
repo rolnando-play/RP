@@ -18177,6 +18177,8 @@ Droidlogic ampere
 9bcda1e2d47a01b4
 rockchip rk322x_box
 2fc152023c0146ef
+Xiaomi oneday
+b0bdddcd5d11c3a4
 
 roloca
 MTK cvt_mt5886_sa
