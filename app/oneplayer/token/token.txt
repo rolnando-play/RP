@@ -3582,14 +3582,12 @@ fc5a19fffe76f9fd
 guillermodu x6
 Xiaomi surya
 b5a24cb7f9bfe304
-Google cupid-p1
-588793c88d55233a
-MBOX dolphin-p1
-5512373e0989d6f6
-MBOX dolphin-p1
-e2334e8e7e9d3b89
 MBOX dolphin-p1 
 68302c7e317a9d22
+i7 petrel-p1
+b2b1ffd4992296a4
+i7 petrel-p1
+8dc73d8d93226e9c
 
 pedro.en
 samsung dreamlte
