@@ -440,6 +440,8 @@ Amazon sheldon
 9f4c3e19639d63ba
 Amlogic p281
 530a5a490aea3463
+Amlogic p281
+7b03279d3c801123
 
 AQuinonez
 S905W
@@ -11387,6 +11389,8 @@ Amazon kara
 1f81c0db4220cfd8
 samsung z3q 
 7315c0fb0b522a6d
+OnePlus OnePlus3T 
+7f0b9b88e36349f6
 
 sisan
 HUAWEI HWALP
@@ -18183,6 +18187,10 @@ rockchip rk322x_box
 2fc152023c0146ef
 Xiaomi oneday
 b0bdddcd5d11c3a4
+rockchip rk322x_box 
+ad1ac76c54712717
+Xiaomi ginkgo
+1b94abdc26a81559
 
 roloca
 MTK cvt_mt5886_sa
@@ -18969,6 +18977,8 @@ rockchip rk322x_box
 5f78e6ef3b6cfe3b
 rockchip rk322x_box
 a6d50192eaa7a2d7
+Xiaomi oneday
+f840819c44f3156f
 
 egsali +6
 samsung x1s
@@ -19294,6 +19304,8 @@ samsung a12
 angelpan
 rockchip rk322x_box
 384960d39a05cadb
+rockchip rk322x_box
+6035d83c2e8799df
 
 rabanota
 Xiaomi oneday
@@ -20244,3 +20256,7 @@ d675df2d196a20d9
 luiaya
 samsung j6primelte
 8da9c67e1c840bd6
+
+arnaldovar +6
+HUAWEI HWMAR
+4f42b48b3c7ceb21
