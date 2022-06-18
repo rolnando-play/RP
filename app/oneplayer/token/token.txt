@@ -11839,6 +11839,10 @@ rockchip rk3328_box
 ed89db99ced4514e
 Xiaomi oneday
 0df1c88963f7d3b7
+rockchip rk322x_box
+f6ba57d82dbc0b0c
+rockchip rk322x_box
+f6ba57d82dbc0b0c
 
 gergod +6
 Amlogic franklin
@@ -19995,6 +19999,9 @@ Amazon tank
 5dd6145075ddcd65
 MediaTek mt5867
 131e3741b4bf9609
++3
+Droidlogic ampere
+0986dba8a6295a7a
 
 ameliom
 Xiaomi croods
@@ -20166,3 +20173,7 @@ Xiaomi oneday
 0f4acf8216ad09ce
 Xiaomi oneday
 4c3848dfdeefa7b4
+
+blasro
+rockchip rockchip006
+cc910e83551c2bed
