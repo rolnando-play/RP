@@ -19932,6 +19932,8 @@ rockchip rk3328_box
 316d8793a82dcc55
 rockchip MK
 ac472e58e5663818
+Realtek 234_2831P588_1G_4G_Homecare_ISDB_SD
+940a3f973fb6b3fe
 
 carmelo.s
 samsung a30s
