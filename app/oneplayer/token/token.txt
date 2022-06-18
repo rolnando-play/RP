@@ -19041,6 +19041,9 @@ rockchip rk322x_box
 784d2f3b217a031f
 rockchip rk322x_box
 6e51339aefd44e40
++3
+rockchip rk322x_box
+773384abd6bdf935
 
 obaez1
 Xiaomi oneday
@@ -20209,3 +20212,5 @@ f2371fa263b9207e
 cabrerasa
 Amazon sheldonp
 e0e37bc3443082bf
+Amazon sheldonp
+2bc7a628495c4935
