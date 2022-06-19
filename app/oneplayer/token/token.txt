@@ -20172,6 +20172,8 @@ rockchip rk322x_box
 pablopi
 Xiaomi sweet
 de04786e2b99683e
+TCL UnionTV
+1e3cd57f25677051
 
 noepa
 Allwinner dolphin-fvd-p1
