@@ -16822,6 +16822,10 @@ dolphin dolphin_fvd_p1
 ac250d768108ef46
 dolphin dolphin_fvd_p1
 822b86ea5dcedcaa
+MBOX dolphin-p1
+7a960483a0bafa4f
+dolphin dolphin_fvd_p1
+f5f5a49ed0e66283
 
 luisvill
 rockchip rk322x_box
@@ -17004,6 +17008,8 @@ CVTE CVTM358
 eef43c427c94db48
 dolphin dolphin_fvd_p1
 eea707eadf2c1c3c
+Allwinner dolphin-fvd-p1
+198b710785a7adb0
 
 aflei
 Amazon sheldonp
