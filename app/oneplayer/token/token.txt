@@ -1013,8 +1013,8 @@ Amazon sheldon
 11e832ddd4dd3d86
 amlogic sw01
 5af0fb426d637893
-Xiaomi aquaman
-35fbe78ef4397170
+MTK cvt_mt5863_sa
+2dfb5508f68ed5e4
 
 cesar.os
 mxp plus Amlogic p212
