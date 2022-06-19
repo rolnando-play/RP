@@ -442,6 +442,9 @@ Amlogic p281
 530a5a490aea3463
 Amlogic p281
 7b03279d3c801123
++3
+rockchip rk322x_box
+5e23f724cafbf02a
 
 AQuinonez
 S905W
@@ -17489,7 +17492,7 @@ a2cf6d01a883b1c5
 
 jacg6
 motorola nash
-bcbdc757d733579b
+c06fd066db1e29e8
 Xiaomi oneday
 1740c9f814d34b7c
 
@@ -20284,7 +20287,7 @@ rockchip rk322x_box
 
 sestec
 Google titan-p1
-91a9bd665d9bb40
+91a9bd665d9bb400
 
 venides BTC
 Xiaomi oneday
