@@ -20258,6 +20258,8 @@ Xiaomi oneday
 blasro
 rockchip rockchip006
 cc910e83551c2bed
+Allwinner dolphin-fvd-p1
+fcc270e9d1080245
 
 francobel
 samsung beyond2
