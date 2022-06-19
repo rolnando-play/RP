@@ -20300,3 +20300,7 @@ HUAWEI HWCLT
 ricardodar
 Xiaomi oneday
 651b482ab443a384
+
+cruzjor
+Amlogic p281
+36a848bb3ab8c691
