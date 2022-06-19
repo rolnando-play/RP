@@ -5604,8 +5604,8 @@ rockchip rk322x_box
 a1431665fc556d11
 
 melissa_l
-samsung starqltechn
-12950245620f634c
+Xiaomi ingres
+1ebf9623715e124c
 MTK cvt_mt5863_sa
 4427c7bd6f64d6c7
 Xiaomi alioth
