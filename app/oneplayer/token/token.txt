@@ -12322,6 +12322,8 @@ rockchip rk322x_box
 3b4ff6449bf463c1
 Xiaomi croods
 041a30743cf6a7aa
+rockchip rk322x_box
+32a4abb8df38df28
 
 joseb
 Xiaomi ginkgo
@@ -16829,6 +16831,8 @@ MBOX dolphin-p1
 7a960483a0bafa4f
 dolphin dolphin_fvd_p1
 f5f5a49ed0e66283
+Amlogic p281
+22ec34b423b97709
 
 luisvill
 rockchip rk322x_box
