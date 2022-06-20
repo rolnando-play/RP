@@ -19487,6 +19487,8 @@ fc3d03d14f332e00
 enriqueme
 rockchip rk322x_box
 7256fe353fc1ecb3
+dolphin dolphin_fvd_p1
+ebce2f1f661da710
 
 cd-cab
 samsung a02
