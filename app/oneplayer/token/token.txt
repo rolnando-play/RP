@@ -10478,6 +10478,8 @@ Amazon sheldonp
 80654f7e4bcb6bd5
 Amazon sheldonp
 d2a925a79584b21b
+Amazon sheldonp
+c141d432c017cdfe
 
 claudiodan
 Xiaomi oneday
@@ -20318,3 +20320,7 @@ Xiaomi oneday
 cruzjor
 Amlogic p281
 36a848bb3ab8c691
+
+jonathanchac
+OPPO OP4F1BL1
+4e85fea0e050aea8
