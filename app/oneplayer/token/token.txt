@@ -20006,6 +20006,8 @@ dolphin dolphin_fvd_p1
 6d0bd90fb19f7d5a
 rockchip MK
 eb67af3d9b04cdf1
+rockchip rk322x_box
+d636a1c3e1cec908
 
 carmelo.s
 samsung a30s
