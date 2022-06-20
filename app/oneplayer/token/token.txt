@@ -20260,6 +20260,8 @@ rockchip rk322x_box
 7be39ebc12989f9a
 rockchip rk322x_box
 51ae7dc6d896cffa
+rockchip rk322x_box
+94a5478317211bc3
 
 hdalb
 Xiaomi oneday
