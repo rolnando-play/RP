@@ -445,6 +445,8 @@ Amlogic p281
 +3
 rockchip rk322x_box
 5e23f724cafbf02a
+Xiaomi aquaman
+0f88d8b3a5073836
 
 AQuinonez
 S905W
@@ -18258,6 +18260,8 @@ rockchip rk322x_box
 ad1ac76c54712717
 Xiaomi ginkgo
 1b94abdc26a81559
+dolphin dolphin_fvd_p1
+abd74fbd10048931
 
 roloca
 MTK cvt_mt5886_sa
@@ -20014,6 +20018,8 @@ rockchip rk322x_box
 d636a1c3e1cec908
 rockchip rk322x_box
 fb472c14808b99e5
+Android MDTV5G
+84ceb904d6e49ca3
 
 carmelo.s
 samsung a30s
