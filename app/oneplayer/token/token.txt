@@ -7776,6 +7776,8 @@ dolphin dolphin-fvd-p1
 d9fc8c8ba86b0969
 Android MBOX
 bcf9b12236f2fc8f
+Xiaomi croods
+926b842277a5e045
 
 enriquelr
 Amazon sheldon
@@ -16868,6 +16870,10 @@ Amlogic p281
 b22ab3caa03d9872
 Amlogic p281
 ac7de710febc6c50
+Amlogic p281
+4c0fdb479403b9ba
+Amlogic p281
+dd88f6c26a8fffc7
 
 luisvill
 rockchip rk322x_box
