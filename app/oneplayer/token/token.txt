@@ -5900,6 +5900,8 @@ Android MBOX
 274e485f93a93184
 dolphin dolphin-fvd-p1
 e42fd157289ac179
+Amazon sheldon
+debdf58f72b50e54
 
 cuentatv
 Allwinner dolphin-fvd-p1
