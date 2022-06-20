@@ -19327,7 +19327,9 @@ rockchip rk3328_box
 d7069e721a5ae478
 rockchip rk322x_box
 5d59cff4bd907b8d
- 
+ Gecen Tiger foreverg
+d8c261a79e3f7d94
+
 udeant
 HUAWEI HWVOG
 5feee7fd7191af49
