@@ -13221,6 +13221,8 @@ ae4775e9c330af57
 +6 psc
 Xiaomi aquaman
 0907c57f6a0c0125
+Google sabrina
+e3c6d291366c6bc4
 
 hheimb
 samsung a50
@@ -16833,6 +16835,8 @@ dolphin dolphin_fvd_p1
 f5f5a49ed0e66283
 Amlogic p281
 22ec34b423b97709
+Tocomlink tlstream4k
+b9bf08f1003aac
 
 luisvill
 rockchip rk322x_box
