@@ -9605,6 +9605,8 @@ Allwinner dolphin-fvd-p1
 f1208fb4370c0139
 dolphin dolphin_fvd_p1
 fa2637ccf80156c4
+Allwinner t3-p1
+77061ae231bfc0fb
 
 rr.23
 MTK cvt_mt5863_sa
@@ -11385,6 +11387,9 @@ rockchip rk322x_box
 8ddd9e355799e01a
 dolphin dolphin_fvd_p1
 27a7fa1f661723b1
++9
+Amazon sheldon
+3b2386f2fc448fac
 
 fabrisa +6
 MTK cvt_mt5886_sa
@@ -19966,6 +19971,10 @@ rockchip MK
 ac472e58e5663818
 Realtek 234_2831P588_1G_4G_Homecare_ISDB_SD
 940a3f973fb6b3fe
+dolphin dolphin_fvd_p1
+6d0bd90fb19f7d5a
+rockchip MK
+eb67af3d9b04cdf1
 
 carmelo.s
 samsung a30s
