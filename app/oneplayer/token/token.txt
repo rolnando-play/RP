@@ -13444,6 +13444,8 @@ rockchip rk322x_box
 f3147728ef7c213d
 rockchip rk322x_box
 ac8e75a3f05f4cef
+rockchip rk322x_box
+3c97db13e2ebf4f5
 
 arevalosve
 Amazon sheldonp
@@ -18823,6 +18825,8 @@ amazon kara
 acd036e475130239
 Gecen Tiger foreverg
 e2d4ffad52ea692d
+Gecen Tiger foreverg
+50bea199820d3b71
 
 jorgealva
 OnePlus OnePlus3T
@@ -20453,3 +20457,9 @@ Xiaomi lavender
 roberto.aq +6
 dolphin dolphin_fvd_p1
 c4d43a42a072c2ff
+
+hcahc +6
+rockchip rk322x_box
+d57ba45023566c4e
+rockchip rk322x_box
+88760998832c19d7
