@@ -20457,6 +20457,8 @@ Xiaomi lavender
 roberto.aq +6
 dolphin dolphin_fvd_p1
 c4d43a42a072c2ff
+MTK cvt_mt5886_sa
+ac174826159c97f4
 
 hcahc +6
 rockchip rk322x_box
