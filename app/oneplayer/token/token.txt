@@ -20243,6 +20243,9 @@ Xiaomi oneday
 1a810396e5555978
 Amazon tank
 c2f83db93daa99fc
++3
+rockchip rk322x_box
+b4e24ade07f7484b
 
 paraguayox1
 HUAWEI HWVOG
