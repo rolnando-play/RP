@@ -19293,6 +19293,8 @@ Allwinner dolphin-fvd-p1
 1e36e8d930b04716
 Amlogic p281
 11872e5f80d46672
+rockchip rk322x_box
+8eb4d3aeecae0f90
 
 nicolasgon ADA
 Google sabrina
@@ -20403,3 +20405,5 @@ OPPO OP4F1BL1
 adan-1
 Allwinner dolphin-fvd-p1
 3ac1ab5e20fd8da2
+samsung o1s
+02b5a979751279be
