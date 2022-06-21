@@ -7969,6 +7969,8 @@ Android MBOX
 5640ed5d7533c39
 rockchip rk322x_box
 fa8b798c45115974
+rockchip rk322x_box
+6c81b70eb838f079
 
 delasier +6 psc
 samsung a51
@@ -20445,3 +20447,7 @@ liceverv
 nilosan
 Xiaomi lavender
 3fdf2106a06088d0
+
+roberto.aq +6
+dolphin dolphin_fvd_p1
+c4d43a42a072c2ff
