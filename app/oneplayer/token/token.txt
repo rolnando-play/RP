@@ -20407,3 +20407,9 @@ Allwinner dolphin-fvd-p1
 3ac1ab5e20fd8da2
 samsung o1s
 02b5a979751279be
+
+geraldinam
+askey sti6140d360
+1085f309206ef8a2
+askey sti6140d360
+61e1189350dcef2f
