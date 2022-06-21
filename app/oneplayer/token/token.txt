@@ -19807,6 +19807,8 @@ Android MDTV5G
 +5 psc
 PinguimTv p231
 229b44b1ce94829f
+PinguimTv p231
+59b03152b98f2d8f
 
 robus14 +6
 samsung a70q
