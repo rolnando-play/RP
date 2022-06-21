@@ -19859,6 +19859,8 @@ Amlogic p282
 83fb3ff15ffbd00e
 Amlogic p282
 6cb8da1f6f368637
+Arockchip rk322x_box
+e9eab9b8796c8880
 
 axeliza
 MStar Semiconductor, Inc. cranberry
