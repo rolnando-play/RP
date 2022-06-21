@@ -447,6 +447,8 @@ rockchip rk322x_box
 5e23f724cafbf02a
 Xiaomi aquaman
 0f88d8b3a5073836
+rockchip rk322x_box
+b34c5e4096623596
 
 AQuinonez
 S905W
@@ -19589,6 +19591,9 @@ rockchip rk322x_box
 32b9c2bf5cddf87d
 rockchip rk322x_box
 52fb67f3cf2e6313
++6
+Amazon mantis
+e4a5b9b2878aae14
 
 franciscoro
 samsung starqltechn
