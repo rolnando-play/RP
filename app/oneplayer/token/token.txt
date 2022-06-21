@@ -14894,6 +14894,8 @@ askey sti6140d360
 8345fd2adb3ce4af
 SEI Robotics SEI400TV
 22361cd8b75d1f95
+SEI Robotics SEI400TV
+1ea7892a8d0079d5
 
 ccardo
 samsung a12
@@ -19011,6 +19013,8 @@ samsung a21s
 c093a16dd173e024
 samsung o1s
 cbbe696c0f46b3c3
+samsung j2corelte
+39cfe9d0344798d2
 
 ramiral
 Xiaomi vayu
@@ -19510,6 +19514,8 @@ rockchip rk322x_box
 c5e3133050db1618
 Google walleye
 cc83b381d9384233
+rockchip rk322x_box
+8375d837e4cd23f2
 
 manu.i +6
 Allwinner dolphin-fvd-p1
@@ -20066,6 +20072,10 @@ Android MDTV5G
 +18
 Realtek rtd298x_tv001
 cc9eb60369fd31ab
+samsung a22
+bfe5beb737dc0adc
+Android MDTV5G
+8be95d4e26060fb3
 
 carmelo.s
 samsung a30s
