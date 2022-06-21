@@ -20051,6 +20051,9 @@ rockchip rk322x_box
 fb472c14808b99e5
 Android MDTV5G
 84ceb904d6e49ca3
++18
+Realtek rtd298x_tv001
+cc9eb60369fd31ab
 
 carmelo.s
 samsung a30s
