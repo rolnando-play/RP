@@ -11894,6 +11894,8 @@ Amlogic p281
 e1844dc511d7284f
 Amlogic p281
 4c8d669ce9c76892
+rockchip rk322x_box
+19e30e2b6162c0c9
 
 gergod +6
 Amlogic franklin
