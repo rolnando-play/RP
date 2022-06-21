@@ -11911,6 +11911,8 @@ rockchip rk322x_box
 19e30e2b6162c0c9
 rockchip rk322x_box
 46e0525594497931
+dolphin dolphin-fvd-p1
+1fa3960b1ae0da04
 
 gergod +6
 Amlogic franklin
