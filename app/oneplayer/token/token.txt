@@ -20392,3 +20392,7 @@ Amlogic p281
 jonathanchac
 OPPO OP4F1BL1
 4e85fea0e050aea8
+
+adan-1
+Allwinner dolphin-fvd-p1
+3ac1ab5e20fd8da2
