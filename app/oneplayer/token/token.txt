@@ -10181,6 +10181,8 @@ Android MDTV5G
  +9
  Android MDTV5G
 8492bcd739f2ddb6
+Android MDTV5G
+b39deca9ef7c3f3e
 
 pjc0910 +9
 rockchip rk322x_box
@@ -20113,7 +20115,7 @@ COSHIP n9090_telmexott
 
 cursose
 Android MDTV5G
-eab4f60112a07a69
+7823926b93570f4c
 dolphin dolphin_fvd_p1
 685daac1c19d64aa
 
