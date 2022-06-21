@@ -8526,6 +8526,8 @@ rockchip rk322x_box
 bc27d977ec90a48d
 dolphin dolphin_fvd_p1
 137470204d7df71a
+Xiaomi oneday
+af0eced5ceb3ed1e
 
 jjuan
 Xiaomi aquaman
