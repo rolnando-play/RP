@@ -17106,6 +17106,8 @@ dolphin dolphin_fvd_p1
 eea707eadf2c1c3c
 Allwinner dolphin-fvd-p1
 198b710785a7adb0
+Xiaomi once
+aee8e79c888af071
 
 aflei
 Amazon sheldonp
