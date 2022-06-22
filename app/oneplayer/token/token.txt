@@ -149,8 +149,8 @@ Amazon sheldon
 +3
 Xiaomi aquaman
 bc0e897647d0ba40
-rockchip rk322x_box
-19b18a4549374f88
+Amazon sheldonp
+16987d390aa16221
 Xiaomi aquaman
 0ee4e61c086f5fb9
 +3
@@ -5224,6 +5224,8 @@ rockchip rk322x_box
 d2fb1fbe66fb103
 Amlogic p282
 66aa0072b82dffb3
+Amlogic p282
+23589a30458a50d8
 
 lisandra
 MTK cvt_mt5863_sa
