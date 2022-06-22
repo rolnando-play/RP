@@ -20169,6 +20169,8 @@ dolphin dolphin-fvd-p1
 e14e1ff9c0d19bf8
 rockchip rk322x_box
 784aa8fbe0cd58fe
+MTK cvt_mt5886_sa
+6e930789153fbe0d
 
 carmelo.s
 samsung a30s
