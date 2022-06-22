@@ -18288,8 +18288,8 @@ abd83fe9f3a8fb4b
 ernesto21
 samsung a7y18lte
 f398e6cc0cf463fc
-samsung aosp
-f83787b89de1bbd6
+samsung a10
+c821ad88ee3720f2
 
 oplayer +6
 rockchip rk322x_box
