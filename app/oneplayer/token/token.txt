@@ -5917,6 +5917,8 @@ dolphin dolphin-fvd-p1
 e42fd157289ac179
 Amazon sheldon
 debdf58f72b50e54
+MBOX dolphin-p1
+b66eaa5ddbd4a1c9
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -7803,6 +7805,8 @@ MBOX dolphin-p1
 bc93ec1044c3d881
 samsung grandpplte
 a64264946f409ad8
+SmartTV 10839
+754370d96cba0d2a
 
 enriquelr
 Amazon sheldon
@@ -20477,8 +20481,8 @@ rockchip rk322x_box
 393a824c3d4d55eb
 
 sestec
-Google titan-p1
-91a9bd665d9bb400
+MBX m201_512m
+ba1a77b570c7d02f
 
 venides BTC
 Xiaomi oneday
