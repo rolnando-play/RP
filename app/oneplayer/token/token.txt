@@ -19204,6 +19204,8 @@ rockchip rk322x_box
 773384abd6bdf935
 Amlogic p281
 dc33f3547d97ce1d
+rockchip rk322x_box
+95063ff41a3df9f
 
 obaez1
 Xiaomi oneday
@@ -20302,6 +20304,8 @@ Sony BRAVIA_ATV2
 083e92f82e69d99a
 Amazon sheldon
 856bf2692cd32d73
+Amazon kara
+e1eb205c3ec5de78
 
 dgo21
 Xiaomi croods
