@@ -8546,6 +8546,9 @@ dolphin dolphin_fvd_p1
 137470204d7df71a
 Xiaomi oneday
 af0eced5ceb3ed1e
++
+Xiaomi aquaman
+3778c536976e1e3d
 
 jjuan
 Xiaomi aquaman
