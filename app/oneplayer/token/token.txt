@@ -5226,6 +5226,8 @@ Amlogic p282
 66aa0072b82dffb3
 Amlogic p282
 23589a30458a50d8
+Amlogic p282
+921270179826afa6
 
 lisandra
 MTK cvt_mt5863_sa
@@ -20553,3 +20555,5 @@ rockchip rk322x_box
 d57ba45023566c4e
 rockchip rk322x_box
 88760998832c19d7
+Android MDTV5G
+3ea13f37e80fbfcb
