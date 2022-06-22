@@ -5222,6 +5222,8 @@ rockchip rk322x_box
 42747e8cb4c3886b
 rockchip rk322x_box
 d2fb1fbe66fb103
+Amlogic p282
+66aa0072b82dffb3
 
 lisandra
 MTK cvt_mt5863_sa
