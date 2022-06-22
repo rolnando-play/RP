@@ -10211,6 +10211,8 @@ Android MDTV5G
 8492bcd739f2ddb6
 Android MDTV5G
 b39deca9ef7c3f3e
+Android MBOX
+26ffb32408805302
 
 pjc0910 +9
 rockchip rk322x_box
@@ -20391,6 +20393,8 @@ dolphin dolphin_fvd_p1
 ddccc2bbe1bae0ed
 dolphin dolphin_fvd_p1
 195e29eb65871341
+dolphin dolphin_fvd_p1
+506c3190c0940f61
 
 adm12
 dolphin dolphin-fvd-p1
