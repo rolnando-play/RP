@@ -19902,6 +19902,8 @@ PinguimTv p231
 229b44b1ce94829f
 PinguimTv p231
 59b03152b98f2d8f
+SmartTV 10839
+944be063b4e0f135
 
 robus14 +6
 samsung a70q
