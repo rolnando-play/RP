@@ -18312,6 +18312,9 @@ Xiaomi ginkgo
 1b94abdc26a81559
 dolphin dolphin_fvd_p1
 abd74fbd10048931
++6
+Android MDTV5G
+658a2700c888914a
 
 roloca
 MTK cvt_mt5886_sa
