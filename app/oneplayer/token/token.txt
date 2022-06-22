@@ -2347,6 +2347,8 @@ Amazon tank
 6a881649ed0b55e0
 Amazon sheldon
 bd55811b5a0c5974
+Amazon kara
+848bddd8493d632d
 
 mv_mf_
 Xiaomi oneday
@@ -7814,6 +7816,10 @@ samsung grandpplte
 a64264946f409ad8
 SmartTV 10839
 754370d96cba0d2a
+rockchip rk322x_box
+753dab62cd33efc2
+ Amlogic p281
+81408a6e8768b570
 
 enriquelr
 Amazon sheldon
