@@ -11942,6 +11942,12 @@ rockchip rk322x_box
 46e0525594497931
 dolphin dolphin-fvd-p1
 1fa3960b1ae0da04
+rockchip rk322x_box
+c98411d2dca5db5d
+rockchip rk322x_box
+d08f54d154d7671
+rockchip rk322x_box
+c6758000ef236304
 
 gergod +6
 Amlogic franklin
@@ -13293,6 +13299,8 @@ Xiaomi aquaman
 0907c57f6a0c0125
 Google sabrina
 e3c6d291366c6bc4
+Xiaomi oneday
+2455e2bdd992298b
 
 hheimb
 samsung a50
@@ -16957,6 +16965,12 @@ Amlogic p281
 acdc2c9d6858e840
 Gecen Tiger foreverg
 15d7af2ba32a792d
+Amlogic p281
+99ec99abe8fa57a1
+Amlogic p281
+cf669de306262fab
+Amlogic p281
+268c88721319fa42
 
 luisvill
 rockchip rk322x_box
@@ -17748,6 +17762,8 @@ Amazon kara
 c95e500c710206bc
 Amazon mantis
 c96e1635114b5c6f
+Amazon mantis
+d194abb50ad0b766
 
 manfredkl
 Google titan-p1
