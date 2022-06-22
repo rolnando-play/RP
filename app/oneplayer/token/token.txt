@@ -17239,9 +17239,11 @@ dolphin SBQ-SM007
 motorola cyprus64
 c7b6d49eda7f846d
 
-victor.de
+victor.de +6
 Xiaomi sunny
 21200a718741ea1c
+Amazon sheldon
+f5b5a1b45432e569
 
 luismi07
 dolphin dolphin_fvd_p1
