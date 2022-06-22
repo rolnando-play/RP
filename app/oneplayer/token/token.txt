@@ -5919,6 +5919,9 @@ Amazon sheldon
 debdf58f72b50e54
 MBOX dolphin-p1
 b66eaa5ddbd4a1c9
++6
+Amlogic p281
+44990231a92ad068
 
 cuentatv
 Allwinner dolphin-fvd-p1
