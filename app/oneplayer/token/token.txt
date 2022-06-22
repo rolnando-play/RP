@@ -19860,6 +19860,8 @@ Android MDTV5G
 cardozoi
 MTK cvt_mt5863_sa
 f89cd53f3e748a84
+Xiaomi aquaman
+5f2c3fece0f29afc
 
 carlos_bo +6
 samsung a01q
