@@ -446,7 +446,7 @@ Amlogic p281
 rockchip rk322x_box
 5e23f724cafbf02a
 Xiaomi aquaman
-0f88d8b3a5073836
+b0f55fe84450a94b
 rockchip rk322x_box
 b34c5e4096623596
 
@@ -2323,7 +2323,7 @@ d14c05b95786ca44
 
 jolema
 rockchip rk322x_box
-bc21247caadf6413
+bb3ac87395250b38
 MBOX dolphin-p1
 f79ed9f124dec823
 rockchip rk322x_box
@@ -6179,6 +6179,8 @@ Xiaomi aquaman
 59dbfc35e1dc457b
 Amlogic X96W
 84a024be2a21e004
+Xiaomi aquaman
+e5d078ed7ba18eae
 
 matias_f
 Xiaomi begonia
@@ -7973,6 +7975,9 @@ rockchip rk322x_box
 fa8b798c45115974
 rockchip rk322x_box
 6c81b70eb838f079
++3
+rockchip rk322x_box
+b1804b6b0e001842
 
 delasier +6 psc
 samsung a51
@@ -14780,11 +14785,13 @@ dbc3d4c11d2dacef
 rockchip rk322x_box
 3870e7c5b5b97fbb
 
-chino81
+chino8
 SEI Robotics SEI400TV
 94341d0a94b3e2a3
 SEI Robotics SEI400TV
 ed06f01957d09bbb
+Xiaomi croods
+c8003b9a5731fc46
 
 rodneyagu +6
 HUAWEI HWJNY
@@ -14900,6 +14907,8 @@ SEI Robotics SEI400TV
 22361cd8b75d1f95
 SEI Robotics SEI400TV
 1ea7892a8d0079d5
+SEI Robotics SEI400TV
+d51a3836ab1c48a9
 
 ccardo
 samsung a12
@@ -17940,6 +17949,8 @@ OnePlus OnePlus3T
 5429b10b7e68a1f9
 Android MBOX
 45983d18c0bd0b76
+Xiaomi croods
+4605694123824342
 
 mariavbg
 Xiaomi pomelo
@@ -18190,6 +18201,8 @@ Amazon sheldonp
 d104c54f27dfdcf7
 samsung o1s
 d10a2e96d85304d9
+SkyworthDigital YYT
+39a7b843d5ccd549
 
 andresfl
 Google sabrina
@@ -20082,6 +20095,10 @@ samsung a22
 bfe5beb737dc0adc
 Android MDTV5G
 8be95d4e26060fb3
+dolphin dolphin-fvd-p1
+e14e1ff9c0d19bf8
+rockchip rk322x_box
+784aa8fbe0cd58fe
 
 carmelo.s
 samsung a30s
@@ -20472,6 +20489,10 @@ liceverv
 nilosan
 Xiaomi lavender
 3fdf2106a06088d0
+Xiaomi oneday
+279af08bf7ce9663
+Xiaomi oneday
+e3fdef19d1eef0dc
 
 roberto.aq +6
 dolphin dolphin_fvd_p1
