@@ -17012,6 +17012,8 @@ Amlogic p281
 437055ff3ceea2c9
 Amlogic p281
 4af5c5458060483b
+dolphin dolphin_fvd_p1
+68cd0c5562ed5164
 
 luisvill
 rockchip rk322x_box
@@ -20116,6 +20118,8 @@ dolphin dolphin_fvd_p1
 8d7c1265de9775f8
 dolphin dolphin_fvd_p1
 e6483e28e98fa751
+dolphin dolphin_fvd_p1
+f964aa0844aa3d5
 
 sebarom +6
 Xiaomi cactus
