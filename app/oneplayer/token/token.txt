@@ -15307,8 +15307,6 @@ rockchip rk322x_box
 e4f267596d967267
 
 agustinju
-samsung a50
-bf600f8abe38f9df
 rockchip rk322x_box
 74885f5d1a9c30df
 Xiaomi aquaman
@@ -17163,6 +17161,8 @@ Allwinner dolphin-fvd-p1
 198b710785a7adb0
 Xiaomi once
 aee8e79c888af071
+MTK cvt_mt5863_sa
+76d66241388ae2ab
 
 aflei
 Amazon sheldonp
