@@ -5232,6 +5232,8 @@ Amlogic p282
 921270179826afa6
 Android MDTV5G
 5bf3866b070718aa
+Android MDTV5G
+5678a4f80df00f3e
 
 lisandra
 MTK cvt_mt5863_sa
