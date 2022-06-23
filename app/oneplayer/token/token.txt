@@ -10538,6 +10538,8 @@ Amazon sheldonp
 d2a925a79584b21b
 Amazon sheldonp
 c141d432c017cdfe
+MBOX dolphin-p1
+8fd0f0bab13fe3a8
 
 claudiodan
 Xiaomi oneday
@@ -14185,8 +14187,8 @@ Rockchip rk322x_box
 jdtorres
 Xiaomi oneday
 a0ae1bcf62968221
-HUAWEI HWJKM-H
-1c47ade90d012faf
+samsung a53x
+b8af68c9502885c7
 Xiaomi oneday
 9678796e6e5b2626
 
@@ -20372,6 +20374,8 @@ c2f83db93daa99fc
 +3
 rockchip rk322x_box
 b4e24ade07f7484b
+samsung a52q
+5542d9a64666dd0d
 
 paraguayox1
 HUAWEI HWVOG
