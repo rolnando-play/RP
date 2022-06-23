@@ -20370,6 +20370,8 @@ c2f83db93daa99fc
 +3
 rockchip rk322x_box
 b4e24ade07f7484b
+samsung a52q
+5542d9a64666dd0d
 
 paraguayox1
 HUAWEI HWVOG
