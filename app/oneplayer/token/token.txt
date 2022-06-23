@@ -9250,6 +9250,8 @@ rockchip rk322x_box
 8387ea9602c8a978
 rockchip rk322x_box
 cbec5552aac86d61
+Allwinner dolphin-fvd-p1
+74208c856be9e2d3
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -14955,6 +14957,9 @@ SEI Robotics SEI400TV
 1ea7892a8d0079d5
 SEI Robotics SEI400TV
 d51a3836ab1c48a9
++12
+SEI Robotics SEI400TV
+222539382e80b0f9
 
 ccardo
 samsung a12
@@ -17865,6 +17870,8 @@ Amlogic p281
 9c49ed1d1c31b8fc
 Amlogic p281
 bd01136248f28fb8
+Amlogic p281
+70045745981ebf80
 
 franco.ca
 KTC_8G ktc_8g
