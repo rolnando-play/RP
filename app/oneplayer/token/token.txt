@@ -11953,6 +11953,8 @@ rockchip rk322x_box
 d08f54d154d7671
 rockchip rk322x_box
 c6758000ef236304
+Amlogic p281
+f3e3618c9aa5923e
 
 gergod +6
 Amlogic franklin
@@ -14294,6 +14296,8 @@ Amazon sheldon
 e45d027c68b9f5f3
 Amazon sheldon
 98973357d765d1b3
+Amazon sheldon
+df8000b86f8be308
 
 ratsman
 Amazon sheldonp
