@@ -14968,6 +14968,8 @@ SEI Robotics SEI400TV
 222539382e80b0f9
 SEI Robotics SEI400TV
 050b35ccb55316ad
+SEI Robotics SEI400TV
+5410744e109b5d02
 
 ccardo
 samsung a12
@@ -17004,6 +17006,10 @@ Amlogic p281
 cf669de306262fab
 Amlogic p281
 268c88721319fa42
+Amlogic p281
+437055ff3ceea2c9
+Amlogic p281
+4af5c5458060483b
 
 luisvill
 rockchip rk322x_box
