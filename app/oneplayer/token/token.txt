@@ -15311,6 +15311,8 @@ rockchip rk322x_box
 74885f5d1a9c30df
 Xiaomi aquaman
 8087eed84c158aab
+samsung a52q
+b45bfd731ba6f3ca
 
 cei.gue +5 psc
 Xiaomi begonia
