@@ -5547,18 +5547,8 @@ motorola java
 b23a0b5aa9e802b3
 
 tomasp0 +6
-Xiaomi curtana
-66cfd26190d5eeb6
-Amlogic A95X_R2
-5be7072a5fef431c
-Amlogic A95X_R2
-6178a31f85eef5e2
-rockchip rk3328_box
-a12c0c6bdeeac0f6
-Amlogic p282
-cfbaf518bb1fb8bd
-Amlogic A95X_R2
-4ed1b94043bb86dc
+rockchip rk322x_box
+5d267e36961eab8a
 
 victorcal
 realme RMX1931L1
