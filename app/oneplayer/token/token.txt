@@ -20447,6 +20447,8 @@ Xiaomi mido
 a9165ea192fb29e6
 Amlogic p281
 2e589c55997f3d1e
+askey sti6140d360
+d8523ca658722930
 
 juliofl
 dolphin dolphin_fvd_p1
