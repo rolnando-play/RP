@@ -20188,6 +20188,8 @@ rockchip rk322x_box
 784aa8fbe0cd58fe
 MTK cvt_mt5886_sa
 6e930789153fbe0d
+rockchip MK
+9826623e4e65e68d
 
 carmelo.s
 samsung a30s
