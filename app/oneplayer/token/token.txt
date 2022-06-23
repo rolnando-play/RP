@@ -12391,6 +12391,8 @@ XTV rk322x_box
 4a7ba64c43939b21
 MBX m201_512m
 f1cfdb24d497141d
+rockchip rk322x_box
+aefeb4c1d94b656b
 
 brandonmk
 Xiaomi begonia
@@ -14962,6 +14964,8 @@ d51a3836ab1c48a9
 +12
 SEI Robotics SEI400TV
 222539382e80b0f9
+SEI Robotics SEI400TV
+050b35ccb55316ad
 
 ccardo
 samsung a12
@@ -17233,6 +17237,8 @@ Amazon sheldon
 08ff46d969054b35
 Amazon sheldon
 d337b9298665d732
+Amazon sheldon
+7ce2b21b4f4033db
 
 gpaiv
 HUAWEI HWEML
