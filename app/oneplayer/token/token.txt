@@ -20325,6 +20325,8 @@ Droidlogic ampere
 0986dba8a6295a7a
 Amazon sheldonp
 e2b8e1b857c67b5b
+Android MDTV5G
+672b551a9f881e81
 
 ameliom
 Xiaomi croods
