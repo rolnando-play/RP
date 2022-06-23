@@ -12404,8 +12404,7 @@ samsung gta2xllte
 +3
 dolphin SBQ-SM007
 446fd2c2271e1f7a
-rockchip rk322x_box
-8a3a552a10e0058
+
 rockchip rk322x_box
 7b7f9ae0f1f16eca
 +3
@@ -18395,6 +18394,8 @@ abd74fbd10048931
 +6
 Android MDTV5G
 658a2700c888914a
+rockchip rk322x_box
+efaf964d8bcdada9
 
 roloca
 MTK cvt_mt5886_sa
