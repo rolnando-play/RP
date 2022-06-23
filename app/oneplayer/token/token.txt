@@ -10818,8 +10818,7 @@ MBOX dolphin-p1
 95e59c2cd24aef7a
 dolphin dolphin_fvd_p1
 e174f0839f4cde85
-MTK cvt_mt5886_sa
-cff2ffb8bc11830b
+
 Xiaomi oneday
 db3ac6dc232cab43
 HUAWEI HWSNE
@@ -14023,6 +14022,8 @@ Xiaomi cepheus
 gdozo
 samsung star2qlteue
 fd300dbf9b61ea38
+OnePlus OnePlus5
+bed1bcc23de7e900
 
 cjbucs
 SDMC SFO
@@ -14438,6 +14439,8 @@ samsung t2s
 d4933812b25e3406
 Amazon kara
 599147e5d83b9e17
+Allwinner t3-p1
+dbfbd3f61ef6aa84
 
 noes64
 Xiaomi ginkgo
