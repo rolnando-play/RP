@@ -11348,6 +11348,19 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 3a66399844d44ce1
+Guillermo Arrúa:
+rockchip rk322x_box
+123cb78b99cc3416
+Android MDTV5G
+8c48315a7d7e1e8a
+Realtek 234_2831P588_1G_4G_Homecare_ISDB_SD
+940a3f973fb6b3fe
+samsung a22
+bfe5beb737dc0adc
+dolphin dolphin-fvd-p1
+e14e1ff9c0d19bf8
+rockchip MK
+9826623e4e65e68d
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -20181,18 +20194,12 @@ Android MDTV5G
 +18
 Realtek rtd298x_tv001
 cc9eb60369fd31ab
-samsung a22
-bfe5beb737dc0adc
 Android MDTV5G
 8be95d4e26060fb3
-dolphin dolphin-fvd-p1
-e14e1ff9c0d19bf8
 rockchip rk322x_box
 784aa8fbe0cd58fe
-MTK cvt_mt5886_sa
-6e930789153fbe0d
-rockchip MK
-9826623e4e65e68d
+rockchip rk322x_box
+9200dc75ac4a85c6
 
 carmelo.s
 samsung a30s
