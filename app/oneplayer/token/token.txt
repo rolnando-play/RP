@@ -5230,6 +5230,8 @@ Amlogic p282
 23589a30458a50d8
 Amlogic p282
 921270179826afa6
+Android MDTV5G
+5bf3866b070718aa
 
 lisandra
 MTK cvt_mt5863_sa
@@ -18335,6 +18337,8 @@ samsung a7y18lte
 f398e6cc0cf463fc
 samsung a10
 c821ad88ee3720f2
+rockchip rk322x_box
+9d89cec737a068ce
 
 oplayer +6
 rockchip rk322x_box
@@ -20050,6 +20054,8 @@ dolphin dolphin_fvd_p1
 carlosbra
 rockchip rk322x_box
 fcb6f31a80075ce5
+Xiaomi hermano
+d3cacc35cf6a1352
 
 lorele +6
 Amazon sheldonp
@@ -20592,6 +20598,8 @@ Xiaomi oneday
 cruzjor
 Amlogic p281
 36a848bb3ab8c691
+Google titan-p1
+a0871d2805b24330
 
 jonathanchac
 OPPO OP4F1BL1
