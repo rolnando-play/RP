@@ -17174,6 +17174,8 @@ MTK cvt_mt5863_sa
 76d66241388ae2ab
 Xiaomi oneday
 9954840d1c619b42
+MediaTek mt5867
+7123517b8e4949e8
 
 aflei
 Amazon sheldonp
