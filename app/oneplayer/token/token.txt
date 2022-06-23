@@ -14444,7 +14444,7 @@ samben
 samsung r8q
 fc81a2cb31508321
 Google sabrina
-bf2c9733a0dcbe35
+429c76856f53e514
 
 jochol
 samsung t2s
@@ -20362,8 +20362,6 @@ c2f83db93daa99fc
 +3
 rockchip rk322x_box
 b4e24ade07f7484b
-samsung a52q
-5542d9a64666dd0d
 
 paraguayox1
 HUAWEI HWVOG
