@@ -17165,6 +17165,8 @@ Xiaomi once
 aee8e79c888af071
 MTK cvt_mt5863_sa
 76d66241388ae2ab
+Xiaomi oneday
+9954840d1c619b42
 
 aflei
 Amazon sheldonp
