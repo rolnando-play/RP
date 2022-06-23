@@ -15589,8 +15589,8 @@ f2e2f2f3722b02a1
 aldoale
 Xiaomi aquaman
 3efe9090f91d8035
-samsung a10
-517fcf00b4dedc30
+OPPO OP4F2F
+12bdb0ef62053561
 dolphin dolphin-fvd-p1
 71cc7be0dbcdc565
 
