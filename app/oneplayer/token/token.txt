@@ -20119,6 +20119,8 @@ Amlogic p281
 2c7354708845bcb9
 dolphin dolphin_fvd_p1
 397dde7564c94ae8
+Xiaomi aquaman
+451009a23f3faae1
 
 carlosbra
 rockchip rk322x_box
