@@ -5502,6 +5502,9 @@ Xiaomi oneday
 950871d0870f81ec
 Google sabrina
 63010c1f1e31fc25
+rockchip rk322x_box
+b175137591a3558d
++6
 
 psicov
 Xiaomi lavender
@@ -12416,6 +12419,8 @@ rockchip rk322x_box
 1863747d7b05aa24
 rockchip rk322x_box
 b5a60988d9e64bdc
+rockchip rk322x_box
+15284cc02f8f4367
 
 brandonmk
 Xiaomi begonia
