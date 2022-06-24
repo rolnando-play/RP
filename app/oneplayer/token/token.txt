@@ -1265,6 +1265,8 @@ Xiaomi aquaman
 0ec4ce123a6486c5
 Android MDTV5G
 8757681a02f1c134
+Android MDTV5G
+4d6d57f67576dfe4
 
 rtomas
 d60a22d61c15d036
