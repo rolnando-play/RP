@@ -14015,6 +14015,8 @@ Android MBOX
 19da150a8ee43753
 rockchip rk322x_box
 410e3c1e993a8b62
+rockchip rk322x_box
+1ff3ba01972c7ac4
 
 flsg3 +6 psc
 HUAWEI HWMAR
