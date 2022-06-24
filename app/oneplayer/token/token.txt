@@ -17904,6 +17904,8 @@ Amlogic p281
 bd01136248f28fb8
 Amlogic p281
 70045745981ebf80
+Amlogic p281
+c0afc002c3a1f83b
 
 franco.ca
 KTC_8G ktc_8g
@@ -19330,6 +19332,13 @@ Amlogic p281
 dc33f3547d97ce1d
 rockchip rk322x_box
 95063ff41a3df9f
++3
+dolphin dolphin-fvd-p1
+47f08bc09ef53da9
+rockchip rk322x_box
+1bcea6698ea1915c
+rockchip rk322x_box
+1ae91aaf13869277
 
 obaez1
 Xiaomi oneday
