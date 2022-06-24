@@ -1269,6 +1269,10 @@ Android MDTV5G
 4d6d57f67576dfe4
 Android MDTV5G
 a8f0b586acf5308f
+Android MDTV5G
+d0011775c9257828
+Android MDTV5G
+16722dd759a96274
 
 rtomas
 d60a22d61c15d036
@@ -19597,6 +19601,8 @@ Amlogic p281
 52b0869bab469539
 rockchip rk322x_box
 af5b2bac36826a13
+rockchip rk322x_box
+98d49ef673865e07
 
 mariaram
 samsung a30s
