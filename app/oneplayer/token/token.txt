@@ -20269,6 +20269,8 @@ rockchip rk322x_box
 9200dc75ac4a85c6
 dolphin dolphin-fvd-p1
 f909dbd4d5cefdd9
+rockchip rk322x_box
+4ae53699632a8780
 
 carmelo.s
 samsung a30s
