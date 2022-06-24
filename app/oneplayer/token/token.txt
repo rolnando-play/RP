@@ -12405,6 +12405,8 @@ MBX m201_512m
 f1cfdb24d497141d
 rockchip rk322x_box
 aefeb4c1d94b656b
+rockchip rk322x_box
+1863747d7b05aa24
 
 brandonmk
 Xiaomi begonia
