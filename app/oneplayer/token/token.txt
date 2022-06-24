@@ -11973,6 +11973,8 @@ rockchip rk322x_box
 a9067c767a92e550
 rockchip rk322x_box
 4c2ad417bda8a40b
+samsung a20s
+243b9356de7f64d8
 
 gergod +6
 Amlogic franklin
@@ -20298,6 +20300,8 @@ Xiaomi aquaman
 hduarte9
 Android MBOX
 856cb721a257377
+rockchip rk322x_box
+438e70c1b3a9aa1e
 
 andrsyn
 Xiaomi pyxis
