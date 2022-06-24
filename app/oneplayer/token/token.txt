@@ -11995,6 +11995,8 @@ rockchip rk322x_box
 4c2ad417bda8a40b
 samsung a20s
 243b9356de7f64d8
+rockchip rk322x_box
+f611dbf4190be4bc
 
 gergod +6
 Amlogic franklin
@@ -19163,6 +19165,8 @@ Xiaomi oneday
 jose_mar
 rockchip rk322x_box
 4a5d478f8d9403e1
+MTK cvt_mt5886_sa
+75236186301027e7
 
 edujar
 samsung a71
@@ -19589,6 +19593,8 @@ Android MDTV5G
 georgece
 Amlogic p281
 52b0869bab469539
+rockchip rk322x_box
+af5b2bac36826a13
 
 mariaram
 samsung a30s
