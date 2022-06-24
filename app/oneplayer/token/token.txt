@@ -20673,6 +20673,8 @@ dolphin dolphin_fvd_p1
 c4d43a42a072c2ff
 MTK cvt_mt5886_sa
 ac174826159c97f4
+Hisilicon Hi3751V350
+46af37ee8d164c27
 
 hcahc +6
 rockchip rk322x_box
