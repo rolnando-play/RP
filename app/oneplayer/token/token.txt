@@ -1267,6 +1267,8 @@ Android MDTV5G
 8757681a02f1c134
 Android MDTV5G
 4d6d57f67576dfe4
+Android MDTV5G
+a8f0b586acf5308f
 
 rtomas
 d60a22d61c15d036
