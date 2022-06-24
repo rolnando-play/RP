@@ -8548,9 +8548,11 @@ dolphin dolphin_fvd_p1
 137470204d7df71a
 Xiaomi oneday
 af0eced5ceb3ed1e
-+
++18
 Xiaomi aquaman
 3778c536976e1e3d
+Android MDTV5G
+679fbfd8508dc9e
 
 jjuan
 Xiaomi aquaman
@@ -11461,6 +11463,8 @@ dolphin dolphin_fvd_p1
 +9
 Amazon sheldon
 3b2386f2fc448fac
+Amazon sheldon
+4f047b6c210fa31d
 
 fabrisa +6
 MTK cvt_mt5886_sa
