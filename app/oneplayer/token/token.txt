@@ -449,6 +449,9 @@ Xiaomi aquaman
 b0f55fe84450a94b
 rockchip rk322x_box
 b34c5e4096623596
++3
+Amazon sheldon
+984527eab122680f
 
 AQuinonez
 S905W
@@ -20255,6 +20258,8 @@ rockchip rk322x_box
 784aa8fbe0cd58fe
 rockchip rk322x_box
 9200dc75ac4a85c6
+dolphin dolphin-fvd-p1
+f909dbd4d5cefdd9
 
 carmelo.s
 samsung a30s
@@ -20675,6 +20680,8 @@ MTK cvt_mt5886_sa
 ac174826159c97f4
 Hisilicon Hi3751V350
 46af37ee8d164c27
+rockchip rk322x_box
+beeb575cb7f29739
 
 hcahc +6
 rockchip rk322x_box
