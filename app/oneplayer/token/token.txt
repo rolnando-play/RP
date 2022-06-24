@@ -4825,6 +4825,8 @@ Gecen Tiger foreverg
 463f6958a177c7cc
 dolphin dolphin_fvd_p1
 db9c3ae005582310
+dolphin dolphin_fvd_p1
+fed0193e7fedb801
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -11381,6 +11383,8 @@ samsung a22
 bfe5beb737dc0adc
 dolphin dolphin-fvd-p1
 e14e1ff9c0d19bf8
+MTK cvt_mt5886_sa
+6e930789153fbe0d
 rockchip MK
 9826623e4e65e68d
 
