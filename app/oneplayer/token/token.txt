@@ -18437,6 +18437,8 @@ Android MDTV5G
 658a2700c888914a
 rockchip rk322x_box
 efaf964d8bcdada9
+Android MDTV5G
+971542051eb6377
 
 roloca
 MTK cvt_mt5886_sa
@@ -20548,6 +20550,8 @@ Amazon sheldonp
 3aae743037ce5d65
 Amazon sheldonp
 b7f0992d0aa9694b
+Amazon sheldonp
+98b80766f1f01ab9
 
 estebanesc
 Amazon mantis
