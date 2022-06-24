@@ -20534,6 +20534,8 @@ OnePlus OnePlus8Pro
 de4922e332670d60
 Xiaomi oneday
 fcbb4a6e3819bd62
+skyworth SW4H
+51c010e2eea48a1e
 
 davidvaz
 dolphin dolphin_fvd_p1
