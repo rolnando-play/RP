@@ -3177,8 +3177,6 @@ samsung gta4lwifi
 +3
 Xiaomi lancelot
 c8452b9a1f7bbeeb
-Xiaomi ginkgo
-e1560e403f80425d
 samsung a22
 9014cce9782a0279
 
