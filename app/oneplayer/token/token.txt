@@ -7840,6 +7840,8 @@ rockchip rk322x_box
 753dab62cd33efc2
  Amlogic p281
 81408a6e8768b570
+rockchip rk322x_box
+9d2e6f39ef668c69
 
 enriquelr
 Amazon sheldon
@@ -8579,6 +8581,8 @@ Xiaomi aquaman
 3778c536976e1e3d
 Android MDTV5G
 679fbfd8508dc9e
+rockchip rk322x_box
+c0900994af4328bc
 
 jjuan
 Xiaomi aquaman
@@ -11393,6 +11397,8 @@ MTK cvt_mt5886_sa
 6e930789153fbe0d
 rockchip MK
 9826623e4e65e68d
+samsung beyond1
+05a7a6b68b3212bb
 
 danieljo
 Allwinner dolphin-fvd-p1
