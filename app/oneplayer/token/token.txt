@@ -18587,6 +18587,8 @@ Amlogic A95X_R2
 226080dd582577cc
 rockchip rk322x_box
 60cdc6d802ea5ed0
+Android MDTV5G
+66c5711e66862a03
 
 lugojor
 dolphin dolphin_fvd_p1
