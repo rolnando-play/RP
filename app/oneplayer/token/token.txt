@@ -14234,7 +14234,7 @@ bdacc1073b98f804
 
 alejandrojor
 SCBC R2
-ba599ad6cbc4a9e0
+a04d4d5862e3069d
 Google sabrina
 37612b2b76859fef
 samsung manta
@@ -15177,6 +15177,8 @@ samsung c2s
 ugarteta
 COSHIP n9090_telmexott
 bbfe1452c67dcf66
+rockchip rk322x_box
+d3ea192121915076
 
 ojopara +6
 Xiaomi oneday
