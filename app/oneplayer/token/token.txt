@@ -20528,6 +20528,8 @@ rockchip rk322x_box
 b4e24ade07f7484b
 samsung a52q
 5542d9a64666dd0d
+samsung a50
+9708532e83f8066b
 
 paraguayox1
 HUAWEI HWVOG
@@ -20624,6 +20626,9 @@ dolphin dolphin_fvd_p1
 195e29eb65871341
 dolphin dolphin_fvd_p1
 506c3190c0940f61
++3
+dolphin dolphin_fvd_p1
+194943a14ed616e9
 
 adm12
 dolphin dolphin-fvd-p1
