@@ -452,6 +452,8 @@ b34c5e4096623596
 +3
 Amazon sheldon
 984527eab122680f
+Xiaomi aquaman
+bc0e897647d0ba40
 
 AQuinonez
 S905W
@@ -9284,6 +9286,8 @@ rockchip rk322x_box
 cbec5552aac86d61
 Allwinner dolphin-fvd-p1
 74208c856be9e2d3
+rockchip rk322x_box
+5f69e44afb92c1f3
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12447,6 +12451,8 @@ rockchip rk322x_box
 b5a60988d9e64bdc
 rockchip rk322x_box
 15284cc02f8f4367
+Android MDTV5G
+908fe2c685c04eed
 
 brandonmk
 Xiaomi begonia
@@ -19330,6 +19336,8 @@ Google titan-p1
 e4960d62ef8cdbbf
 Google titan-p1
 2e00b81ce725fe07
+Amlogic p201
+dee49ecfb4d4b15b
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
