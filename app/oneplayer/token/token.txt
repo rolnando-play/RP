@@ -9689,6 +9689,8 @@ dolphin dolphin_fvd_p1
 fa2637ccf80156c4
 Allwinner t3-p1
 77061ae231bfc0fb
+dolphin dolphin_fvd_p1
+6d8bc5cd4da2e913
 
 rr.23
 MTK cvt_mt5863_sa
