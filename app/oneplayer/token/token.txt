@@ -12026,6 +12026,8 @@ Amlogic p281
 cdf9b09868f52b4a
 Amlogic p281
 e2538c491e442e2b
+Amazon sheldon
+4be7b8ebae196be8
 
 gergod +6
 Amlogic franklin
@@ -20588,6 +20590,8 @@ Allwinner dolphin-fvd-p1
 fabricioch
 dolphin dolphin_fvd_p1
 f117e87d4390fb8d
+rockchip rk322x_box
+dd6e6dad5c3dd4b
 
 arnaldora
 samsung a12
