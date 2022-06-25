@@ -5847,6 +5847,8 @@ Allwinner dolphin-fvd-p1
 6dc5a466ee9f55ac
 dolphin dolphin_fvd_p1
 14dc7aabe26be203
+rockchip MK
+c7c5dd8aeefeab44
 
 maxgt
 MBOX dolphin-p1
