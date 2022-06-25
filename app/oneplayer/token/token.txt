@@ -17900,6 +17900,8 @@ Amazon mantis
 c96e1635114b5c6f
 Amazon mantis
 d194abb50ad0b766
+Amazon mantis
+4b6b9534b10811ed
 
 manfredkl
 Google titan-p1
@@ -20326,8 +20328,8 @@ fb472c14808b99e5
 Android MDTV5G
 84ceb904d6e49ca3
 +18
-Realtek rtd298x_tv001
-cc9eb60369fd31ab
+rockchip rk322x_box
+ebf8b2325e45d082
 Android MDTV5G
 8be95d4e26060fb3
 rockchip rk322x_box
