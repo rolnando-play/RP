@@ -20762,6 +20762,8 @@ rockchip rk322x_box
 beeb575cb7f29739
 dolphin dolphin_fvd_p1
 adce948ebc009596
+Amlogic p201
+d04b44f8b5e3e728
 
 hcahc +6
 rockchip rk322x_box
