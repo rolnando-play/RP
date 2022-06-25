@@ -12015,6 +12015,15 @@ samsung a20s
 243b9356de7f64d8
 rockchip rk322x_box
 f611dbf4190be4bc
++18
+Amlogic p281
+f3aad272fc474cca
+Amlogic p281
+a61972fd4f40471a
+Amlogic p281
+cdf9b09868f52b4a
+Amlogic p281
+e2538c491e442e2b
 
 gergod +6
 Amlogic franklin
@@ -17080,6 +17089,14 @@ Amlogic p281
 4af5c5458060483b
 dolphin dolphin_fvd_p1
 68cd0c5562ed5164
+rockchip rk322x_box
+5a6e0933e258779a
+rockchip rk322x_box
+b6fb089a9d92933e
+rockchip rk322x_box
+179316797568a728
+rockchip rk322x_box
+16c0b91b265836bb
 
 luisvill
 rockchip rk322x_box
