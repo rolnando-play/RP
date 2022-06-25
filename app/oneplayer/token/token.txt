@@ -1275,6 +1275,8 @@ Android MDTV5G
 16722dd759a96274
 Android MDTV5G
 5707dcf6209815f8
+samsung a12s
+5f2a5c3f015ace4f
 
 rtomas
 d60a22d61c15d036
@@ -12185,6 +12187,8 @@ motorola maltalsc
 0951cb728683613b
 motorola fijisc
 c54e3fdd6730dc2e
+motorola aruba
+6494828f96c6ece4
 
 gonzaloez
 Xiaomi surya
@@ -15440,8 +15444,8 @@ samsung a52q
 a829031b13e195ea
 rockchip rk322x_box
 8bd6f09be042ec45
-MBX m201_512m
-523655c008bf3699
+Amlogic p281
+726df2d22a6bf7e1
 
 grao9
 Amazon sheldonp
