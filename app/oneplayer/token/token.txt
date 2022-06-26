@@ -20768,6 +20768,8 @@ rockchip rk322x_box
 sestec
 MBX m201_512m
 ba1a77b570c7d02f
+Google titan-p1
+c876af3c23c224bd
 
 venides BTC
 Xiaomi oneday
