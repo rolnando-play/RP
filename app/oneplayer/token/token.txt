@@ -20255,6 +20255,8 @@ TCL BeyondTV
 25b2e5693aafc0c3
 SCBC R1
 81c681530f26aeac
+TPV PH0M_EA_T32
+ec54de7f46663a4f
 
 sebas20
 motorola corfur
