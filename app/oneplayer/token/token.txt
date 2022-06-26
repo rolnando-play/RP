@@ -17132,6 +17132,10 @@ Amlogic p281
 c89c2b8868b57310
 Amlogic p281
 ad17604c96bd99d6
+Amlogic p281
+73e49fb00af45100
+Amlogic p281
+bcaea7057df4f30c
 
 luisvill
 rockchip rk322x_box
@@ -18397,6 +18401,8 @@ fe9d8a09ce46b210
 lsalazar
 samsung crownqltechn
 040a882b9f8f04e0
+Amazon mantis
+5fb9298433767063
 
 py.este
 samsung b0q
