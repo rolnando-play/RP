@@ -7848,6 +7848,8 @@ Allwinner dolphin-fvd-p1
 d20c6ce6b191cb8b
 samsung a12
 5f064efd2c05ee1b
+Xiaomi aquaman
+a4e84301f539c522
 
 enriquelr
 Amazon sheldon
