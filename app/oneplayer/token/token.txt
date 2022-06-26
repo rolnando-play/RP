@@ -20569,8 +20569,8 @@ rockchip rk322x_box
 b4e24ade07f7484b
 samsung a52q
 5542d9a64666dd0d
-samsung a50
-9708532e83f8066b
+Google sabrina
+047cc99f1de81148
 
 paraguayox1
 HUAWEI HWVOG
