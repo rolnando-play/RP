@@ -17318,6 +17318,8 @@ Xiaomi oneday
 9954840d1c619b42
 MediaTek mt5867
 7123517b8e4949e8
+Allwinner dolphin-fvd-p1
+c372a4206d1f5470
 
 aflei
 Amazon sheldonp
