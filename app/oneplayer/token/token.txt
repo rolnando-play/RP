@@ -7846,6 +7846,8 @@ rockchip rk322x_box
 9d2e6f39ef668c69
 Allwinner dolphin-fvd-p1
 d20c6ce6b191cb8b
+samsung a12
+5f064efd2c05ee1b
 
 enriquelr
 Amazon sheldon
@@ -17122,6 +17124,8 @@ rockchip rk322x_box
 e2c20e9c5d7c1d67
 rockchip rk322x_box
 a13a7583e9e5460d
+Amlogic p281
+a5cdde1ff2fda21e
 
 luisvill
 rockchip rk322x_box
