@@ -7850,6 +7850,10 @@ samsung a12
 5f064efd2c05ee1b
 Xiaomi aquaman
 a4e84301f539c522
+Amlogic p281
+f6406c0faa414140
+samsung j7velte
+3c5bbdb3579cf296
 
 enriquelr
 Amazon sheldon
@@ -20402,6 +20406,8 @@ rockchip rk322x_box
 4ae53699632a8780
 rockchip MK
 bfbf552e3a05272c
+Xiaomi joyeuse
+f75bc0731db8e416
 
 carmelo.s
 samsung a30s
