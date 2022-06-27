@@ -5579,6 +5579,8 @@ rockchip rk322x_box
 5d267e36961eab8a
 rockchip rk3328_box
 a12c0c6bdeeac0f6
+Xiaomi aquaman
+412736fd15b8b462
 
 victorcal
 realme RMX1931L1
@@ -9304,6 +9306,8 @@ Allwinner dolphin-fvd-p1
 74208c856be9e2d3
 rockchip rk322x_box
 5f69e44afb92c1f3
+rockchip rk322x_box
+3db1691659fb14b0
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -12489,6 +12493,8 @@ rockchip rk322x_box
 15284cc02f8f4367
 Android MDTV5G
 908fe2c685c04eed
+Android MDTV5G
+a8ad085d4262190a
 
 brandonmk
 Xiaomi begonia
@@ -20427,6 +20433,8 @@ Xiaomi joyeuse
 f75bc0731db8e416
 samsung crownqltechn
 e2b9dc2128f2661a
+rockchip rk322x_box
+80edf26ed23847b
 
 carmelo.s
 samsung a30s
