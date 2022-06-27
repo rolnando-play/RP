@@ -19953,6 +19953,8 @@ Amazon mantis
 e4a5b9b2878aae14
 Allwinner t3-k2001-nwd
 21a2771a95e541f9
+Amazon mantis
+4a2906dd0efde17a
 
 franciscoro
 samsung starqltechn
