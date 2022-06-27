@@ -20408,6 +20408,8 @@ rockchip MK
 bfbf552e3a05272c
 Xiaomi joyeuse
 f75bc0731db8e416
+samsung crownqltechn
+e2b9dc2128f2661a
 
 carmelo.s
 samsung a30s
