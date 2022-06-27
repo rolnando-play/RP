@@ -18683,8 +18683,8 @@ samsung a21s
 0e9ad8b43a6a1f4f
 dolphin dolphin_fvd_p1
 1375fc7dfb85787c
-samsung a20s
-08524653eaa89239
+rockchip rk322x_box
+f31f70b487b88990
 
 cesarcla
 samsung a12
