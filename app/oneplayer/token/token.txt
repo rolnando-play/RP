@@ -7858,6 +7858,9 @@ Amlogic p281
 f6406c0faa414140
 samsung j7velte
 3c5bbdb3579cf296
++
+Xiaomi aquaman
+699df9743743571e
 
 enriquelr
 Amazon sheldon
@@ -20443,6 +20446,8 @@ samsung crownqltechn
 e2b9dc2128f2661a
 rockchip rk322x_box
 80edf26ed23847b
+Xiaomi once
+0f0cab78a891724c
 
 carmelo.s
 samsung a30s
@@ -20621,6 +20626,9 @@ samsung a52q
 5542d9a64666dd0d
 Google sabrina
 047cc99f1de81148
++3
+Google sabrina
+a9c7769cf180fb28
 
 paraguayox1
 HUAWEI HWVOG
