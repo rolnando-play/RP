@@ -5577,6 +5577,8 @@ b23a0b5aa9e802b3
 tomasp0 +6
 rockchip rk322x_box
 5d267e36961eab8a
+rockchip rk3328_box
+a12c0c6bdeeac0f6
 
 victorcal
 realme RMX1931L1
@@ -14537,6 +14539,8 @@ Xiaomi TVBox-JBoga1
 15f2f658e5d5af52
 HUAWEI-P30-EdgarIS
 c837fb5660cea537
+samsung-tabA8-FPB
+d4339fa04a162b05
 
 benites.c
 Android MBOX
