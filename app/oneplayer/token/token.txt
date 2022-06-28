@@ -7870,6 +7870,8 @@ Xiaomi aquaman
 699df9743743571e
 Xiaomi oneday
 0442ec66e3315073
+MTK cvt_mt5863_sa
+cbaadbf9d19f32e4
 
 enriquelr
 Amazon sheldon
