@@ -5994,6 +5994,8 @@ bf0386dafa20b7ee
 +3
 Google walleye
 943a92aec6519fe5
+rockchip rk322x_box
+d7cce2ef6a0a6134
 
 studiodi +6 psc
 rockchip rk322x_box
@@ -20719,6 +20721,9 @@ samsung a71
 b0ce9b25f87c71d4
 Xiaomi merlinnfc
 614ecfcdb9d64a4a
++3
+TCL BeyondTV
+27f5600f989a1d93
 
 paraguayox1
 HUAWEI HWVOG
