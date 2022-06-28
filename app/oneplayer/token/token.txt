@@ -19320,6 +19320,8 @@ rockchip rk322x_box
 4a5d478f8d9403e1
 MTK cvt_mt5886_sa
 75236186301027e7
+Android MBOX
+39809aabe9e9cee4
 
 edujar
 samsung a71
