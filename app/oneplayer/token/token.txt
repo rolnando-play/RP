@@ -19489,6 +19489,8 @@ rockchip rk322x_box
 a6d50192eaa7a2d7
 Xiaomi oneday
 f840819c44f3156f
+rockchip rk322x_box
+a7239f3facc8a032
 
 egsali +6
 samsung x1s
