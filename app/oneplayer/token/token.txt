@@ -4829,6 +4829,9 @@ dolphin dolphin_fvd_p1
 db9c3ae005582310
 dolphin dolphin_fvd_p1
 fed0193e7fedb801
++6 psc
+Xiaomi aquaman
+d9053c5f67ddf1d2
 
 aylenmon
 OnePlus OnePlus8TMO
