@@ -20467,6 +20467,8 @@ rockchip rk322x_box
 80edf26ed23847b
 Xiaomi once
 0f0cab78a891724c
+MBOX dolphin-p1
+ff6ca80fb48c7488
 
 carmelo.s
 samsung a30s
