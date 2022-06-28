@@ -11439,6 +11439,8 @@ samsung beyond1
 05a7a6b68b3212bb
 rockchip rk322x_box
 fb162e2ce9450f58
+Amazon sheldon
+2de21651f4601fe8
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18198,6 +18200,8 @@ Xiaomi oneday
 542784c037ea1979
 Xiaomi aquaman
 076504027277b699
+Xiaomi oneday
+0e018b021505043a
 
 aguayoza
 Xiaomi angelican
@@ -20711,6 +20715,10 @@ Google sabrina
 +3
 Google sabrina
 a9c7769cf180fb28
+samsung a71
+b0ce9b25f87c71d4
+Xiaomi merlinnfc
+614ecfcdb9d64a4a
 
 paraguayox1
 HUAWEI HWVOG
