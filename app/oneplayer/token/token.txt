@@ -14838,6 +14838,10 @@ HMD Global IRS
 0d2ae9dd8cd0dd3a
 dolphin dolphin_fvd_p1
 a8a3192334406ed9
+Amlogic p282
+f5fd248ac7c54a2b
+Amlogic p282
+8862246349170a58
 
 funcion20 +6 psc
 Android MDTV5G
