@@ -8235,6 +8235,9 @@ dolphin dolphin_fvd_p1
 91c940a1c7968f1d
 dolphin dolphin_fvd_p1
 2facf6d6a72fe022
++6 psc
+dolphin dolphin_fvd_p1
+f3e31c11c8dca99
 
 victorcor
 rockchip rk322x_box
@@ -17184,6 +17187,30 @@ Amlogic p281
 541266351ca56e9d
 Amlogic p281
 56e5776d365be66f
+Amlogic p281
+7d4e022452c64941
+Amlogic p281
+755b98369aa45c70
+Amlogic p281
+ba99d85845e0af1c
++12
+Amlogic p281
+6ff9283e5f1c14ff
+Amlogic p281
+a08ed0c79c09c28
+Amlogic p281
+45c1d597184653ea
+Amlogic p281
+53fc496f392cd249
+Amlogic p281
+cd807cba685e459c
+Amlogic p281
+a85ead746e3e174
+Amlogic p281
+cea1b5a8b6a973aa
+Amlogic p281
+9a01f9d148040daf
++12
 
 luisvill
 rockchip rk322x_box
@@ -17992,6 +18019,8 @@ Amazon mantis
 +18
 Amazon mantis
 8eff71876b0f2532
+Amazon kara
+bd06a9ebe4679491
 
 manfredkl
 Google titan-p1
@@ -20273,6 +20302,8 @@ dolphin dolphin_fvd_p1
 397dde7564c94ae8
 Xiaomi aquaman
 451009a23f3faae1
+rockchip rk3328_box
+6001eb8778311f41
 
 carlosbra
 rockchip rk322x_box
