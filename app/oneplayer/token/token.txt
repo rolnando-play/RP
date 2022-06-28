@@ -11443,6 +11443,8 @@ rockchip rk322x_box
 fb162e2ce9450f58
 Amazon sheldon
 2de21651f4601fe8
+dolphin dolphin_fvd_p1
+6c3162b70be01ea4
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18613,7 +18615,7 @@ Xiaomi oneday
 rockchip rockchip006
 e09fa9bfbfcb3bc7
 HUAWEI HWELE
-5761e5df89f3b16f
+bb332f1b77dbffd9
 +6
 Xiaomi viva
 3e26fd219a2d5828
