@@ -11423,6 +11423,8 @@ rockchip MK
 9826623e4e65e68d
 samsung beyond1
 05a7a6b68b3212bb
+rockchip rk322x_box
+fb162e2ce9450f58
 
 danieljo
 Allwinner dolphin-fvd-p1
