@@ -4060,7 +4060,7 @@ fbd1d1c087cc6900
 
 leitova
 Amlogic p281
-ccdc465c1b1ffa25
+fd61282cea2c9080
 Amlogic p281
 764f9dee1de79db5
 Allwinner dolphin-fvd-p1
@@ -6057,7 +6057,7 @@ bf6452f0ad75977e
 Amlogic p281
 f4f49a67fc63a218
 Allwinner Transpeed_H616
-820066e5373e0337
+623cc26b2b1e4eac
 
 angelfa
 AndroidMBOX
@@ -19719,6 +19719,8 @@ HUAWEI HWSNE
 24f48e41d39e74f4
 Hisense hamamatsucho
 8605974d634a45d2
+Amazon sheldon
+1dd58c25875168f2
 
 lomaqu +6
 Android MDTV5G
@@ -20757,7 +20759,7 @@ de4922e332670d60
 Xiaomi oneday
 fcbb4a6e3819bd62
 skyworth SW4H
-51c010e2eea48a1e
+3f36f7733484eccd
 
 davidvaz
 dolphin dolphin_fvd_p1
