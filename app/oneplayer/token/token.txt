@@ -10156,6 +10156,8 @@ Allwinner dolphin-fvd-p1
 +9
 rockchip rk322x_box
 e64a0685e263820
+rockchip rk322x_box
+5eb1e906303eb023
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -20601,6 +20603,8 @@ Amazon sheldonp
 e2b8e1b857c67b5b
 Android MDTV5G
 672b551a9f881e81
+rockchip rk322x_box
+bd6ec775739ebcc3
 
 ameliom
 Xiaomi croods
