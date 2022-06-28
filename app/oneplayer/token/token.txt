@@ -452,8 +452,8 @@ b34c5e4096623596
 +3
 Amazon sheldon
 984527eab122680f
-Xiaomi aquaman
-bc0e897647d0ba40
+rockchip rk322x_box
+19b18a4549374f88
 
 AQuinonez
 S905W
@@ -5955,6 +5955,8 @@ b66eaa5ddbd4a1c9
 +6
 Amlogic p281
 44990231a92ad068
+rockchip rk322x_box
+1454e875cba45834
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -7861,9 +7863,11 @@ Amlogic p281
 f6406c0faa414140
 samsung j7velte
 3c5bbdb3579cf296
-+
++3
 Xiaomi aquaman
 699df9743743571e
+Xiaomi oneday
+0442ec66e3315073
 
 enriquelr
 Amazon sheldon
@@ -12070,6 +12074,8 @@ Amazon sheldon
 4be7b8ebae196be8
 Amlogic p281
 2ffe0a58e0966766
+rockchip rk322x_box
+45465b87f67558d4
 
 gergod +6
 Amlogic franklin
@@ -17210,7 +17216,25 @@ Amlogic p281
 cea1b5a8b6a973aa
 Amlogic p281
 9a01f9d148040daf
+Amlogic p281
+302da0f744c0e687
+Amlogic p281
+6a8894f5d71f4cf
+Amlogic p281
+6cd8f317d9a4473c
+Amlogic p281
+4850e783972046a8
 +12
+Amlogic p281
+6009c349f0470f06
+Amlogic p281
+6009c349f0470f06
+Amlogic p281
+d073fcfb9b1d88c9
+Amlogic p281
+6cabed5f8aaacede
+Amlogic p281
+7d23e98f429307e1
 
 luisvill
 rockchip rk322x_box
@@ -18789,6 +18813,8 @@ SkyworthDigital YYT
 30ec698602a4a369
 SkyworthDigital YYT
 76a15e3dc53bdeb3
+TCL BeyondTV4
+55e7e1f3b4100a3c
 
 amilcar.m
 Allwinner dolphin-fvd-p1
