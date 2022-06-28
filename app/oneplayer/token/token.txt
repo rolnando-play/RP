@@ -9314,6 +9314,8 @@ rockchip rk322x_box
 5f69e44afb92c1f3
 rockchip rk322x_box
 3db1691659fb14b0
+MBOX dolphin-p1
+050f68ec49de5c07
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -20333,6 +20335,8 @@ samsung a7y18lte
 amilcar7
 Amazon sheldonp
 0a890fbecb40670c
+Amazon kara
+1042836442208dd4
 
 esbaed +6
 dolphin dolphin_fvd_p1
