@@ -11447,6 +11447,8 @@ Amazon sheldon
 2de21651f4601fe8
 dolphin dolphin_fvd_p1
 6c3162b70be01ea4
+rockchip rk322x_box
+54fbb46312f6d6eb
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -18136,6 +18138,8 @@ Amlogic p281
 70045745981ebf80
 Amlogic p281
 c0afc002c3a1f83b
+Amlogic p281
+abb1a81c5ce350ff
 
 franco.ca
 KTC_8G ktc_8g
@@ -20905,6 +20909,8 @@ fcc270e9d1080245
 francobel
 samsung beyond2
 f2371fa263b9207e
+rockchip TVBOX
+8e53f03be0828127
 
 cabrerasa
 Amazon sheldonp
