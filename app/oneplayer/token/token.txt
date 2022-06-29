@@ -8251,6 +8251,8 @@ dolphin dolphin_fvd_p1
 f3e31c11c8dca99
 dolphin dolphin-fvd-p1
 26917ea2e53d3aa7
+dolphin dolphin_fvd_p1
+600599d00acb2d85
 
 victorcor
 rockchip rk322x_box
