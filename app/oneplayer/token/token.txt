@@ -454,6 +454,9 @@ Amazon sheldon
 984527eab122680f
 rockchip rk322x_box
 19b18a4549374f88
++3
+Xiaomi aquaman
+3af48f3a77543fbb
 
 AQuinonez
 S905W
