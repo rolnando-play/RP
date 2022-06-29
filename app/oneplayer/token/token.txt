@@ -10319,6 +10319,8 @@ Android MDTV5G
 b39deca9ef7c3f3e
 Android MBOX
 26ffb32408805302
+Allwinner dolphin-fvd-p1
+7c5876475dfdfb9f
 
 pjc0910 +9
 rockchip rk322x_box
