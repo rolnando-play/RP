@@ -20585,6 +20585,8 @@ Xiaomi once
 0f0cab78a891724c
 MBOX dolphin-p1
 ff6ca80fb48c7488
+rockchip MK
+914ecf2c33214c1a
 
 carmelo.s
 samsung a30s
