@@ -7898,6 +7898,8 @@ cbaadbf9d19f32e4
 +18
 rockchip rk322x_box
 1478a3ac35ee612e
+Gecen Tiger foreverg
+5ca6da12389db225
 
 enriquelr
 Amazon sheldon
@@ -19573,6 +19575,11 @@ Xiaomi oneday
 f840819c44f3156f
 rockchip rk322x_box
 a7239f3facc8a032
+Android MDTV5G
+17906aa4169967f2
+Android MDTV5G
+cdc15e037f4f5dc0
++9
 
 egsali +6
 samsung x1s
