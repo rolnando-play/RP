@@ -4832,6 +4832,8 @@ fed0193e7fedb801
 +6 psc
 Xiaomi aquaman
 d9053c5f67ddf1d2
+samsung SM-N975F
+c71ae7c3f4bcac79
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -6170,6 +6172,8 @@ rockchip rk322x_box
 a0ddeac77b007ff4
 rockchip rk322x_box
 327bd4ed0fbbc04c
+rockchip rk322x_box
+e02e0ede805a8e
 
 its.cm
 Amlogic p282
@@ -7877,6 +7881,9 @@ Xiaomi oneday
 0442ec66e3315073
 MTK cvt_mt5863_sa
 cbaadbf9d19f32e4
++
+rockchip rk322x_box
+1478a3ac35ee612e
 
 enriquelr
 Amazon sheldon
@@ -9346,6 +9353,8 @@ rockchip rk322x_box
 4c8a956026919428
 dolphin dolphin-fvd-p1
 fbbc733ec332fd6c
+rockchip rk322x_box
+a99d452e6aeb3275
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -10188,6 +10197,8 @@ rockchip rk322x_box
 e64a0685e263820
 rockchip rk322x_box
 5eb1e906303eb023
+Allwinner dolphin-fvd-p1
+eb896ea1740e8ddf
 
 rocapo
 dolphin dolphin-fvd-p1
@@ -12121,6 +12132,8 @@ rockchip rk322x_box
 95e71d2c6467d2eb
 rockchip rk322x_box
 56bc670b622fea3c
+Amlogic p281
+84b2828c40145e9d
 
 gergod +6
 Amlogic franklin
@@ -20591,6 +20604,8 @@ MBOX dolphin-p1
 ff6ca80fb48c7488
 rockchip MK
 914ecf2c33214c1a
+Google titan-p1
+e7135157bfd8d651
 
 carmelo.s
 samsung a30s
