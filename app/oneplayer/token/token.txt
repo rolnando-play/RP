@@ -459,6 +459,11 @@ Xiaomi aquaman
 3af48f3a77543fbb
 Amazon sheldon
 01e1536382166cbb
+dolphin dolphin-fvd-p1
+2aa2ffcf06df04a8
++3
+dolphin dolphin-fvd-p1
+25e1d88ac8309d07
 
 AQuinonez
 S905W
@@ -2325,6 +2330,8 @@ Amazon sheldon
 3f63c5d058cc529b
 Amazon sheldon
 49118452b2262e9f
+rockchip rk322x_box
+bbb40f0bf4304cff
 
 ricar.fu
 HUAWEI HWMAR
@@ -7886,7 +7893,7 @@ Xiaomi oneday
 0442ec66e3315073
 MTK cvt_mt5863_sa
 cbaadbf9d19f32e4
-+
++18
 rockchip rk322x_box
 1478a3ac35ee612e
 
@@ -20811,6 +20818,8 @@ Xiaomi merlinnfc
 +3
 TCL BeyondTV
 27f5600f989a1d93
+rockchip rk322x_box
+2aa0ddf7e648eed
 
 paraguayox1
 HUAWEI HWVOG
