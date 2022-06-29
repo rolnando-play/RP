@@ -457,6 +457,8 @@ rockchip rk322x_box
 +3
 Xiaomi aquaman
 3af48f3a77543fbb
+Amazon sheldon
+01e1536382166cbb
 
 AQuinonez
 S905W
@@ -20613,6 +20615,8 @@ rockchip MK
 914ecf2c33214c1a
 Google titan-p1
 e7135157bfd8d651
+rockchip rk322x_box
+8b3dee33df4b2edf
 
 carmelo.s
 samsung a30s
