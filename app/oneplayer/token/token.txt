@@ -9747,7 +9747,7 @@ Allwinner t3-p1
 77061ae231bfc0fb
 dolphin dolphin_fvd_p1
 6d8bc5cd4da2e913
-+
++5 psc
 Android MBOX
 8f0e946ac320a974
 
