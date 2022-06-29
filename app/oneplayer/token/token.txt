@@ -8625,6 +8625,8 @@ Android MDTV5G
 679fbfd8508dc9e
 rockchip rk322x_box
 c0900994af4328bc
+Android MDTV5G
+8e91a1af3c217611
 
 jjuan
 Xiaomi aquaman
@@ -17282,6 +17284,8 @@ Amlogic p281
 532285962927689e
 dolphin dolphin_fvd_p1
 bf135d11e621d828
+Amlogic p281
+73748cf7ed525287
 
 luisvill
 rockchip rk322x_box
