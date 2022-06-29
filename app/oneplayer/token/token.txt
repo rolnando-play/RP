@@ -9340,6 +9340,8 @@ MBOX dolphin-p1
 050f68ec49de5c07
 rockchip rk322x_box
 4c8a956026919428
+dolphin dolphin-fvd-p1
+fbbc733ec332fd6c
 
 iptv19 +6 psc
 rockchip rk322x_box
