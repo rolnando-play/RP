@@ -5957,6 +5957,8 @@ Amlogic p281
 44990231a92ad068
 rockchip rk322x_box
 1454e875cba45834
+LENOVO 8505F
+b0681046a5ae6b96
 
 cuentatv
 Allwinner dolphin-fvd-p1
@@ -20707,6 +20709,8 @@ Android MDTV5G
 672b551a9f881e81
 rockchip rk322x_box
 bd6ec775739ebcc3
+unknown sugar-ref001
+6d8a118d17f3b4bd
 
 ameliom
 Xiaomi croods
