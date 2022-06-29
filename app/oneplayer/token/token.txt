@@ -7556,8 +7556,8 @@ streambus rk322x_box
 rockchip rk322x_box
 dc8db37c665c0e14
 +3
-samsung r1q
-71b9667260da646b
+Realtek rtd298x_tv001
+482bea309e51f4c4
 Xiaomi aquaman
 a395a12b2332123c
 Android MDTV5G
@@ -8249,6 +8249,8 @@ dolphin dolphin_fvd_p1
 +6 psc
 dolphin dolphin_fvd_p1
 f3e31c11c8dca99
+dolphin dolphin-fvd-p1
+26917ea2e53d3aa7
 
 victorcor
 rockchip rk322x_box
