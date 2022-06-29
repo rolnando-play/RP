@@ -6654,6 +6654,9 @@ rockchip rk322x_box
 c5bf38918cf58fe
 dolphin dolphin_fvd_p1
 b4032b3e40ed9f9a
++3
+rockchip rk322x_box
+c91f3907673e7fe7
 
 petode
 rockchip rk3328_box
