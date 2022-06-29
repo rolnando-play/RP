@@ -9766,6 +9766,8 @@ dolphin dolphin_fvd_p1
 +5 psc
 Android MBOX
 8f0e946ac320a974
+askey stephen
+dc6e7b288365060b
 
 rr.23
 MTK cvt_mt5863_sa
@@ -20908,6 +20910,8 @@ dolphin dolphin_fvd_p1
 +3
 dolphin dolphin_fvd_p1
 194943a14ed616e9
+Xiaomi aquaman
+2becc659c0c747b5
 
 adm12
 dolphin dolphin-fvd-p1
