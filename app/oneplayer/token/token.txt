@@ -8782,6 +8782,8 @@ Google titan-p1
 81a9f84cd4c3fc2f
 Google titan-p1
 95ab1f7f949d8bdb
+Google titan-p1
+3197ec2703ccfa4a
 
 derlisja
 Xiaomi oneday
@@ -9334,6 +9336,8 @@ rockchip rk322x_box
 3db1691659fb14b0
 MBOX dolphin-p1
 050f68ec49de5c07
+rockchip rk322x_box
+4c8a956026919428
 
 iptv19 +6 psc
 rockchip rk322x_box
@@ -18147,6 +18151,8 @@ Amlogic p281
 c0afc002c3a1f83b
 Amlogic p281
 abb1a81c5ce350ff
+Amlogic p281
+df444c48ea82759
 
 franco.ca
 KTC_8G ktc_8g
