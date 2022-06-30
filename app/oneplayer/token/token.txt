@@ -2336,7 +2336,7 @@ rockchip rk322x_box
 bbb40f0bf4304cff
 +3
 rockchip rk322x_box
-bbb40f0bf4304cff
+30867a6b7946354f
 
 ricar.fu
 HUAWEI HWMAR
