@@ -2337,6 +2337,10 @@ bbb40f0bf4304cff
 +3
 rockchip rk322x_box
 30867a6b7946354f
+rockchip rk322x_box
+c52afdfa1600ebf0
+rockchip MK
+f19d190259ce956a
 
 ricar.fu
 HUAWEI HWMAR
@@ -12165,6 +12169,8 @@ rockchip rk322x_box
 56bc670b622fea3c
 Amlogic p281
 84b2828c40145e9d
+rockchip rk322x_box
+b7cab7d42dd3ac79
 
 gergod +6
 Amlogic franklin
