@@ -18227,6 +18227,8 @@ Amlogic p281
 abb1a81c5ce350ff
 Amlogic p281
 df444c48ea82759
+Amlogic p281
+5e90a7430b128bf0
 
 franco.ca
 KTC_8G ktc_8g
@@ -20843,7 +20845,7 @@ Xiaomi merlinnfc
 TCL BeyondTV
 27f5600f989a1d93
 rockchip rk322x_box
-2aa0ddf7e648eed
+2aa0ddf7e648eede
 
 paraguayox1
 HUAWEI HWVOG
