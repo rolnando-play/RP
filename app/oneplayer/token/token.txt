@@ -1378,7 +1378,7 @@ SM-G610M
 HUAWEI HWSNE
 31fce6f3a8a3bb51
 samsung on7xelte
-6ab7694779373f40
+3029589f2a338720
 
 Jorge.fa
 mxq pro
@@ -17538,6 +17538,8 @@ MediaTek mt5867
 7123517b8e4949e8
 Allwinner dolphin-fvd-p1
 c372a4206d1f5470
+CVTE CVTM358
+ddad2235c0f098e1
 
 aflei
 Amazon sheldonp
