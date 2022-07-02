@@ -5040,8 +5040,8 @@ Xiaomi vayu
 f2af25bd64857568
 Xiaomi oneday
 405d622656df7f68
-rockchip rk322x_box
-543b609a6171dc80
+Xiaomi oneday
+f94d70cdc67309df
 
 adrian.tw
 samsung star2lte
@@ -7911,6 +7911,8 @@ rockchip rk322x_box
 1478a3ac35ee612e
 Gecen Tiger foreverg
 5ca6da12389db225
+Allwinner dolphin-fvd-p1
+9274091baefdab03
 
 enriquelr
 Amazon sheldon
