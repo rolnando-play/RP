@@ -20862,6 +20862,8 @@ TCL BeyondTV
 27f5600f989a1d93
 rockchip rk322x_box
 2aa0ddf7e648eede
+dolphin dolphin-fvd-p1
+a3a4f7448250797
 
 paraguayox1
 HUAWEI HWVOG
