@@ -17550,6 +17550,8 @@ Allwinner dolphin-fvd-p1
 c372a4206d1f5470
 CVTE CVTM358
 ddad2235c0f098e1
+samsung a51
+d349f3c1ba6f76e1
 
 aflei
 Amazon sheldonp
