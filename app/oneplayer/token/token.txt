@@ -11514,20 +11514,16 @@ MTK cvt_mt5886_sa
 6e930789153fbe0d
 rockchip MK
 9826623e4e65e68d
-samsung beyond1
-05a7a6b68b3212bb
 rockchip rk322x_box
 fb162e2ce9450f58
-Amazon sheldon
-2de21651f4601fe8
 dolphin dolphin_fvd_p1
 6c3162b70be01ea4
-rockchip rk322x_box
-54fbb46312f6d6eb
 rockchip rk322x_box
 333163af5ec9dc0c
 Amlogic p281
 78dd91eeb9e1bdca
+dolphin dolphin-fvd-p1
+50c64b00b2b7c058
 
 danieljo
 Allwinner dolphin-fvd-p1
