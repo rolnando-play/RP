@@ -2343,6 +2343,9 @@ rockchip rk322x_box
 c52afdfa1600ebf0
 rockchip MK
 f19d190259ce956a
++5
+Amazon sheldon
+26015d9d4102317b
 
 ricar.fu
 HUAWEI HWMAR
