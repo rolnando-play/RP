@@ -11499,7 +11499,6 @@ rockchip rk322x_box
 +18
 rockchip rk322x_box
 3a66399844d44ce1
-Guillermo Arrúa:
 rockchip rk322x_box
 123cb78b99cc3416
 Android MDTV5G
@@ -11524,6 +11523,8 @@ Amlogic p281
 78dd91eeb9e1bdca
 dolphin dolphin-fvd-p1
 50c64b00b2b7c058
+rockchip rk322x_box
+ab499f2716351da2
 
 danieljo
 Allwinner dolphin-fvd-p1
