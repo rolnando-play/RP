@@ -2613,6 +2613,8 @@ dolphin SBQ-SM007
 d29b8f7428b27ea1
 Xiaomi merlin
 0d9246c97352746a
+samsung a11q
+2a80247b437c2a65
 
 mdzaj
 MTK cvt_mt5863_sa
