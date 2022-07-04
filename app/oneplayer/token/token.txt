@@ -7917,6 +7917,8 @@ Gecen Tiger foreverg
 5ca6da12389db225
 Allwinner dolphin-fvd-p1
 9274091baefdab03
+Android MDTV5G
+2676565c99630a70
 
 enriquelr
 Amazon sheldon
