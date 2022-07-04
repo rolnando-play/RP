@@ -2078,8 +2078,8 @@ BTV p212
 guigod1
 Xiaomi oneday
 9a9fd3b78396d02c
-samsung d2s
-b44155eac26b1aa9
+samsung p3s
+d21943735b0a98d1
 rockchip rk3328_box
 0980094b2081cc75
 
@@ -13830,6 +13830,8 @@ a82728d40c712d64
 +6 psc
 Xiaomi aquaman
 94d580b6411625d7
+dolphin dolphin_fvd_p1
+778ea54dcac7666d
 
 meek_bo
 rockchip rk322x_box
