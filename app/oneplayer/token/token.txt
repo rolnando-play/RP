@@ -11525,6 +11525,8 @@ dolphin dolphin-fvd-p1
 50c64b00b2b7c058
 rockchip rk322x_box
 ab499f2716351da2
+Amazon sheldon
+2de21651f4601fe8
 
 danieljo
 Allwinner dolphin-fvd-p1
