@@ -14987,6 +14987,8 @@ Amlogic p282
 f5fd248ac7c54a2b
 Amlogic p282
 8862246349170a58
+samsung b2q
+f167e44d38271a9b
 
 funcion20 +6 psc
 Android MDTV5G
