@@ -8225,8 +8225,8 @@ OnePlus OnePlus5
 guillenxd +6
 Xiaomi oneday
 6c246946faaf756b
-samsung beyond1
-350860f869af8402
+samsung g0q
+09903376f8be01d3
 Xiaomi aquaman
 8a3ac09471832c10
 Google generic_x86_64
