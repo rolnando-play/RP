@@ -14869,7 +14869,7 @@ antonioya
 samsung star2qltechn
 bd45d9f687738f23
 rockchip rk3328
-47b594988cc389fa
+c1b11622dfda7ee4
 
 freddyca
 Xiaomi curtana
@@ -19128,7 +19128,7 @@ c5bf2e74f6a1c6f8
 Google sabrina
 92f7a623224fcdd5
 TCL BeyondTV
-a158dd700a9eb705
+642813fd13908514
 
 nilsonj
 samsung d2q
