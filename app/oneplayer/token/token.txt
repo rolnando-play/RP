@@ -18958,6 +18958,8 @@ samsung p3s
 bcee495469d4697a
 samsung b0q
 06d5fe3131ac0445
+samsung y2s
+dbc00b79010a9c95
 
 fermani +6
 Xiaomi raphael
