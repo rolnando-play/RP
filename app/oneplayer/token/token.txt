@@ -17994,6 +17994,8 @@ Amazon tank
 8d1f6c2fc90fe81a
 Amazon mantis
 1eab5343e5b9c126
+Xiaomi oneday
+1defc647095baf20
 
 angeltum
 Allwinner dolphin-fvd-p1
