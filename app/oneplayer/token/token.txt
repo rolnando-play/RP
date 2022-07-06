@@ -15252,6 +15252,8 @@ Xiaomi merlin
 34b449f7fdeb0a18
 samsung gts7lwifi
 6052d2d93d0342a9
+gts7lwifi
+c28ffcfc5f98fcd2
 
 trukk
 INFINIX MOBILITY LIMITED Infinix-X6812B
