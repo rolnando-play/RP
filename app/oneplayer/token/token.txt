@@ -11540,6 +11540,8 @@ Amazon sheldon
 2de21651f4601fe8
 dolphin dolphin-fvd-p1
 e1ea68c9cba96763
+Xiaomi aquaman
+73e718a7c19c7616
 
 danieljo
 Allwinner dolphin-fvd-p1
