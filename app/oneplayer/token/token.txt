@@ -12455,6 +12455,8 @@ Xiaomi oneday
 c869ec5758deb316
 samsung a31
 bf5718f77c574a31
+samsung a13
+1c30228abc4aade3
 
 Ryugak +6 btc
 rockchip rk322x_box
@@ -17991,13 +17993,15 @@ samsung a51
 e8f386659edd10ef
 Xiaomi alioth
 bd925664a776727a
-+3
++5
 Amazon tank
 8d1f6c2fc90fe81a
 Amazon mantis
 1eab5343e5b9c126
 Xiaomi oneday
 1defc647095baf20
+Amazon sheldon
+6718764cac009f76
 
 angeltum
 Allwinner dolphin-fvd-p1
