@@ -7922,6 +7922,8 @@ Allwinner dolphin-fvd-p1
 9274091baefdab03
 Android MDTV5G
 2676565c99630a70
+rockchip rk322x_box
+8c004f2627c6b69e
 
 enriquelr
 Amazon sheldon
