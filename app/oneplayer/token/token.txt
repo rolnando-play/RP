@@ -20522,6 +20522,8 @@ rockchip rk322x_box
 fcb6f31a80075ce5
 Xiaomi hermano
 d3cacc35cf6a1352
+rockchip rk322x_box
+3145e1b31c2f1aad
 
 lorele +6
 Amazon sheldonp
