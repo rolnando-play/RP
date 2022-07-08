@@ -20602,6 +20602,8 @@ SDMC DV8547
 lucianoar +6
 LGE mmh45lm
 8d1679a8246ac19b
+Realtek rtd298x_tv001
+55007ba3b1a169f1
 
 deividg
 dolphin dolphin_fvd_p1
