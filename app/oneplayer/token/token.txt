@@ -158,8 +158,8 @@ rockchip rk322x_box
 8210d8ee255baa29
 Xiaomi aquaman
 3e724f95c789e871
-rockchip rk322x_box
-df35b4620a8ac4dd
+Amazon sheldon
+5db63fb224e54f1c
 +3
 Xiaomi once
 9d7de6dc79b9c984
