@@ -14126,6 +14126,8 @@ Google sabrina
 0fc99b496f438b62
 Xiaomi croods
 9574d4069d5ff7ca
+MTK cvt_mt5886_sa
+50c3a3a5f0203198
 
 l4626
 Xiaomi oneday
