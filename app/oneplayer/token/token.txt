@@ -21006,6 +21006,8 @@ samsung a12
 af9ce40cf74c356a
 rockchip rk3328_box
 afd3252b750c0fa7
+MTK cvt_mt5863_sa
+88dd3f905987da67
 
 claudiolez
 Google sabrina
