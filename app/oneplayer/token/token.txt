@@ -20734,6 +20734,8 @@ Google titan-p1
 e7135157bfd8d651
 rockchip rk322x_box
 8b3dee33df4b2edf
+rockchip rk322x_box
+894aab4fc50fec89
 
 carmelo.s
 samsung a30s
