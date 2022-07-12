@@ -170,8 +170,8 @@ Amazon sheldon
 +3
 Amlogic p282
 3de412a6c04f684a
-MTK cvt_mt5863_sa
-ecb7b81b42f8e1c4
+dolphin dolphin-fvd-p1
+c8c72475af3380b3
 MTK cvt_mt5886_sa
 c11b6f6400e2d8ee
 +3
