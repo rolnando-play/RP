@@ -10263,8 +10263,8 @@ dolphin dolphin_fvd_p1
 127b706edf64bb7b
 rockchip rk322x_box
 d09775fa57a0392a
-unknown dolphin-fvd-p1
-a36201f3dafb8dd
+Allwinner dolphin-fvd-p1
+a4cb4f929c94057c
 
 rocapo
 dolphin dolphin-fvd-p1
