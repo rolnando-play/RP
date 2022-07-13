@@ -14864,8 +14864,8 @@ rockchip rk322x_box
 fe731be934d1991a
 
 andyke
-HUAWEI HWANE
-fee3b1392480f54b
+motorola java
+c3e0dfbbdcb1fa7c
 Amazon mantis
 f33e5524d664bbda
 Xiaomi oneday
