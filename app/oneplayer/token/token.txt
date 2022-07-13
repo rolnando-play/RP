@@ -11161,7 +11161,8 @@ rockchip MK
 9a627f897881b56
 rockchip rk3328_box
 7de8f16d0c942d01
-
+Xiaomi citrus
+e7ee8383483504ad
 samsung j8y18lte
 facdd71722984a26
 Xiaomi oneday
