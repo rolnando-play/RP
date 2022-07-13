@@ -19576,6 +19576,8 @@ Xiaomi aquaman
 45848bd4460a3b68
 Xiaomi aquaman
 cfd81ffe8ba05bec
+Xiaomi oneday
+d54c082a1cdcd4a9
 
 sebaseli
 Xiaomi aquaman
@@ -20493,6 +20495,8 @@ dolphin SBQ-SM007
 92a2a6706197df02
 rockchip rk322x_box
 da96c24882083fb9
+samsung on7xelte
+e0586926738ad581
 
 luisito35
 Xiaomi vayu
