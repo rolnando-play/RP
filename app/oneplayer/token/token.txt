@@ -11161,8 +11161,7 @@ rockchip MK
 9a627f897881b56
 rockchip rk3328_box
 7de8f16d0c942d01
-samsung a31
-5c7fb81ca773fd9c
+
 samsung j8y18lte
 facdd71722984a26
 Xiaomi oneday
