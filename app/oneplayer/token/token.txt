@@ -7926,6 +7926,10 @@ Android MDTV5G
 2676565c99630a70
 rockchip rk322x_box
 8c004f2627c6b69e
+rockchip rk322x_box
+a177f74aa7668e4d
+rockchip rk322x_box
+a5cdd1ce61c11658
 
 enriquelr
 Amazon sheldon
@@ -20751,6 +20755,8 @@ c914e75be66e3f51
 +5
 rockchip rk322x_box
 bf2eaa205b8d6dd7
+rockchip rk322x_box
+8d8a4e34ddd50e69
 
 carmelo.s
 samsung a30s
