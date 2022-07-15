@@ -10269,6 +10269,8 @@ rockchip rk322x_box
 d09775fa57a0392a
 Allwinner dolphin-fvd-p1
 a4cb4f929c94057c
+rockchip rk322x_box
+68696f4b305f02b8
 
 rocapo
 dolphin dolphin-fvd-p1
