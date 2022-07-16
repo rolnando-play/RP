@@ -7942,6 +7942,8 @@ Android MX9PRO
 23614a3e40686520
 Android MX9PRO
 ae4a7acc6d2ebc37
+rockchip rk322x_box
+20b675c3b0bb7b64
 
 enriquelr
 Amazon sheldon
