@@ -5290,6 +5290,8 @@ Android MDTV5G
 5bf3866b070718aa
 Android MDTV5G
 5678a4f80df00f3e
+Amlogic p212
+8a29fc87ef9482
 
 lisandra
 MTK cvt_mt5863_sa
@@ -14752,6 +14754,8 @@ samsung r8q
 fc81a2cb31508321
 Google sabrina
 429c76856f53e514
+Zplus Hi3798MV100
+d74372e16d4213b6
 
 jochol
 samsung t2s
