@@ -7944,6 +7944,10 @@ Android MX9PRO
 ae4a7acc6d2ebc37
 rockchip rk322x_box
 20b675c3b0bb7b64
+rockchip rk322x_box
+3e8946056085da58
+rockchip rk322x_box
+9a27e0e81024ea2
 
 enriquelr
 Amazon sheldon
@@ -10280,7 +10284,7 @@ d09775fa57a0392a
 Allwinner dolphin-fvd-p1
 a4cb4f929c94057c
 rockchip rk322x_box
-68696f4b305f02b8
+96007d147ade81c
 
 rocapo
 dolphin dolphin-fvd-p1
