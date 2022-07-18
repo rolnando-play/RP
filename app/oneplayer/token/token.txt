@@ -18457,8 +18457,8 @@ rockchip rk322x_box
 494195dc6cbde792
 rockchip rk322x_box
 207a3d9bb69ac3aa
-Xiaomi oneday
-64bb2426f3bfdabb
+askey sti6140d360
+795daa0566e9a56a
 rockchip rk322x_box
 abdcf5cc77f233fc
 dolphin dolphin_fvd_p1
