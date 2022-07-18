@@ -7950,6 +7950,8 @@ rockchip rk322x_box
 3e8946056085da58
 rockchip rk322x_box
 9a27e0e81024ea2
+Amlogic p282
+88c4451c3bf7acfb
 
 enriquelr
 Amazon sheldon
