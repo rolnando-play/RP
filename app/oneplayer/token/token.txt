@@ -14325,6 +14325,10 @@ Hisense xiaoyushan
 5eef4e680832e017
 Xiaomi aquaman
 8535e045506a9c9c
+Sony BRAVIA_VH2
+cedd1e9ee58ad268
+samsung a13
+4ede155033e54d34
 
 silvioal
 Amazon kara
@@ -14823,7 +14827,7 @@ ef84cbcaf3060753
 
 garciaa1
 samsung a51
-ffe37300eba78dfe
+51b81e61780e8519
 MTC seocho
 0206090c90092898
 MTC seocho
