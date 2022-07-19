@@ -21088,6 +21088,8 @@ dolphin dolphin_fvd_p1
 194943a14ed616e9
 Xiaomi aquaman
 2becc659c0c747b5
+Realtek rtd298x_tv001
+8fe9dfa79f6ce85a
 
 adm12
 dolphin dolphin-fvd-p1
