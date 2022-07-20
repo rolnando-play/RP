@@ -7952,6 +7952,8 @@ rockchip rk322x_box
 9a27e0e81024ea2
 Amlogic p282
 88c4451c3bf7acfb
+Gecen Tiger foreverg
+25ee896ecd07611
 
 enriquelr
 Amazon sheldon
