@@ -14161,6 +14161,8 @@ Xiaomi croods
 9574d4069d5ff7ca
 MTK cvt_mt5886_sa
 50c3a3a5f0203198
+Xiaomi aquaman
+01bbf235e7ab9cf3
 
 l4626
 Xiaomi oneday
@@ -18705,6 +18707,8 @@ c16288d576bfa9dd
 luanapo
 Android MDTV5G
 ba8017df44a692f6
+CVTE SMART_PB801
+6be91be3664ad2a6
 
 josega9 +9
 samsung y2s
