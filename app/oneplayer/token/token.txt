@@ -15613,6 +15613,8 @@ Amazon mantis
 82c9456b751f5cf4
 Amazon mantis
 97105158985649fc
+amlogic sw01
+d3ddebe7cac39245
 
 celso8
 Xiaomi oneday
