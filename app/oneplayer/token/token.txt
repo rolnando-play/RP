@@ -5842,8 +5842,8 @@ Android MBOX
 28b35c0b9bb7ad73
 
 augu19 +6 psc
-Skyworth globe_sa
-83a9cd82f8f860c0
+rockchip rk322x_box
+f4fb5b2daf7f676a
 rockchip rk322x_box
 49af85303245dd3a
 rockchip rk322x_box
