@@ -14364,6 +14364,8 @@ samsung star2qlteue
 fd300dbf9b61ea38
 OnePlus OnePlus5
 bed1bcc23de7e900
+Amazon sheldon
+433c9865b01bcc62
 
 cjbucs
 SDMC SFO
