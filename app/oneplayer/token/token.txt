@@ -8840,6 +8840,8 @@ HUAWEI HWMAR
 ae05b67428569736
 rockchip rk322x_box
 a22d2b64c375bc92
+HUAWEI HWMAR
+116ecb597256e07a
 
 desvars@ +6 psc
 Google titan-p1
