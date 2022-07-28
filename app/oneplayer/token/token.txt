@@ -6365,7 +6365,7 @@ gerardo24
 Xiaomi curtana
 30e98ad8b8f8f171
 rockchip rk322x_box
-9e01cac122210c17
+4c64ad8e5bd4a5fc
 MTK cvt_mt5863_sa
 403bc17a387415ba
 
