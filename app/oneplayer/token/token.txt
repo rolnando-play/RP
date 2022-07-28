@@ -21179,12 +21179,8 @@ rockchip rk322x_box
 94a5478317211bc3
 
 hdalb
-Xiaomi oneday
-0f4acf8216ad09ce
-Xiaomi oneday
-4c3848dfdeefa7b4
-Xiaomi sweet
-2bafe7dede5518d6
+samsung t2s
+c2b68c8556cfe382
 
 blasro
 rockchip rockchip006
