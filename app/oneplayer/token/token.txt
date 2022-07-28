@@ -12696,6 +12696,8 @@ Android MDTV5G
 a8ad085d4262190a
 Android MDTV5G
 f72b2f58fb6d4ab7
+dolphin dolphin-fvd-p1
+a76915755dc5aedc
 
 brandonmk
 Xiaomi begonia
@@ -19067,6 +19069,8 @@ TCL BeyondTV4
 amilcar.m
 Allwinner dolphin-fvd-p1
 11e9abbc35be5be5
+Allwinner dolphin-fvd-p1
+d6a0aab3144e4a9f
 
 rubenesc
 Xiaomi curtana
