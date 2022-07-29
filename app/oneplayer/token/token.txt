@@ -10217,8 +10217,8 @@ e12e213449a159f8
 rockchip rk322x_box
 f186ab91b2636027
 +3
-dolphin dolphin-fvd-p1
-1fcef5ad8dc3e57c
+unknown dolphin-fvd-p1
+f1ab0b3b630b6d93
 Google titan-p1
 e3ca94566666f01e
 Android MDTV5G
@@ -20822,6 +20822,8 @@ rockchip rk322x_box
 4433c39132830cdc
 rockchip rk322x_box
 7de9d383f267df0d
+rockchip MK
+da3cf1aeceafaf6d
 
 carmelo.s
 samsung a30s
