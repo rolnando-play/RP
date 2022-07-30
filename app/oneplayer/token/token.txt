@@ -6094,7 +6094,7 @@ Amazon mustang
 Android MDTV5G
 b5bf1144fc9489f4
 dolphin dolphin-fvd-p1
-91e30b70e0c5cd8c
+e2ec5bcc7e6333fb
 dolphin dolphin-fvd-p1
 f8d1a8cc0651c69c
 rockchip rk322x_box
