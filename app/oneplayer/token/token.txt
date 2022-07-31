@@ -3305,8 +3305,8 @@ rockchip rk322x_box
 2c8c6cf1b9ce835
 
 guijol
-samsung p3s
-70653c47adb3e07e
+samsung q2q
+6aef42deb17ab375
 My tokyo
 0aa1697c1e1d317e
 
