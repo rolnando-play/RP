@@ -7965,6 +7965,8 @@ FTROU eros-p1
 18a8c9e17bece1a2
 Amlogic p212
 79084d7c20242c51
+Android MX9PRO
+793ebb26a30352b6
 
 enriquelr
 Amazon sheldon
