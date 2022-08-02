@@ -18783,6 +18783,8 @@ e0c0f71aef22f761
 santiagolas
 rockchip rk322x_box
 4c6de1a00e571842
+Xiaomi aquaman
+d2bf630890e8cda7
 
 sil_vio
 Xiaomi oneday
