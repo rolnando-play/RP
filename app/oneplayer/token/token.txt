@@ -10221,8 +10221,8 @@ e12e213449a159f8
 rockchip rk322x_box
 f186ab91b2636027
 +3
-unknown dolphin-fvd-p1
-f1ab0b3b630b6d93
+Allwinner dolphin-fvd-p1
+55010ec92dae7449
 Google titan-p1
 e3ca94566666f01e
 Android MDTV5G
