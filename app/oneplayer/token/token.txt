@@ -1938,6 +1938,8 @@ Xiaomi vayu
 c94388830f2f5534
 dolphin dolphin_fvd_p1
 dcb74148c898b45b
+HMD Global ROGA_sprout
+17cf2cc04039106f
 
 seraqu
 Allwinner dolphin-fvd-p1
