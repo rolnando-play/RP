@@ -4574,6 +4574,8 @@ Xiaomi oneday
 4db4f06a95db8050
 MBOX dolphin-p1
 7c6eaab5df195719
+MBOX dolphin-p1
+f61f249a060aaa95
 
 juvar9 +6 psc
 Allwinner dolphin-fvd-p1
