@@ -7971,6 +7971,8 @@ Amlogic p212
 79084d7c20242c51
 Android MX9PRO
 793ebb26a30352b6
+Android MDTV5G
+ea26a141383b1b34
 
 enriquelr
 Amazon sheldon
