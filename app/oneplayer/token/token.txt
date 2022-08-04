@@ -20847,6 +20847,8 @@ rockchip rk322x_box
 8221a035d227a50
 rockchip rk322x_box
 2b98ac02623f58b6
+rockchip rk322x_box
+90c106893459bbd7
 
 carmelo.s
 samsung a30s
