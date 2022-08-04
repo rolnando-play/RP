@@ -18655,6 +18655,8 @@ samsung dream2lte
 f621a86ae75d39d3
 Xiaomi oneday
 e22a3ba6f37f0fb1
+Allwinner t3-k2001q
+45e94f2f63841e07
 
 abelvi
 Xiaomi venus
@@ -20323,6 +20325,8 @@ Amazon mantis
 4a2906dd0efde17a
 rockchip rk322x_box
 68b5881942fb6b4f
+rockchip rk322x_box
+81dcbad70f81895a
 
 franciscoro
 samsung starqltechn
