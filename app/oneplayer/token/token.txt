@@ -19191,7 +19191,7 @@ Xiaomi laurel_sprout
 
 alopeza
 Xiaomi secret
-513f707e1e5eee72
+8d500664efb51646
 MEIGE Hi3751V350
 e11cc284e6f11822
 rockchip rk322x_box
