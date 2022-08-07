@@ -10171,8 +10171,8 @@ rockchip rk322x_box
 +6
 Android MDTV5G
 a601a84bdb8cb128
-MBOX dolphin-p1
-1fa3ace6212f9c87
+Android MDTV5G
+84a366d68028193c
 PHANTOM p231
 3d6930e4f1e82a65
 Allwinner dolphin-fvd-p1
