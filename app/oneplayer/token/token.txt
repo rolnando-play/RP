@@ -20558,6 +20558,8 @@ SmartTV 10839
 944be063b4e0f135
 rockchip rk322x_box
 991cd9da0a75a3a4
+rockchip rk322x_box
+ae70226fc4eed686
 
 robus14 +6
 samsung a70q
