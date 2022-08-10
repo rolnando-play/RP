@@ -182,8 +182,8 @@ cc875cf7a2ac9fdf
 rockchip rk322x_box
 ef8cafb1df681950
 +3
-rockchip rk322x_box
-cb9adb78d60eddf5
+Amazon sheldon
+a8d0924d82eefcd7
 Amazon sheldon
 5a34a634d8ef0a87
 Amazon sheldon
@@ -19475,6 +19475,8 @@ samsung a31
 clipbu
 COSHIP n9090_telmexott
 67a7a0f86d0516ea
+COSHIP n9090_telmexott
+b13b852cda939adb
 
 adrian.al
 Allwinner dolphin-fvd-p1
