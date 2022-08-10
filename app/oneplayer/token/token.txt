@@ -11220,8 +11220,8 @@ rockchip MK
 9a627f897881b56
 rockchip rk3328_box
 7de8f16d0c942d01
-Xiaomi citrus
-e7ee8383483504ad
+Xiaomi aquaman
+73e718a7c19c7616
 samsung j8y18lte
 facdd71722984a26
 Xiaomi oneday
@@ -11605,8 +11605,7 @@ Amazon sheldon
 2de21651f4601fe8
 dolphin dolphin-fvd-p1
 e1ea68c9cba96763
-Xiaomi aquaman
-73e718a7c19c7616
+
 
 danieljo
 Allwinner dolphin-fvd-p1
