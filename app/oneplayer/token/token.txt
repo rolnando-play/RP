@@ -681,8 +681,8 @@ Mi Note 10 Pro
 d21a5a59130fec38
 Xiaomi aquaman
 575383c2e152c0de
-Tv box
-706f4ef50d0ec316
+rockchip rk322x_box
+80ab4bd85128081f
 
 moisesli
 DUB ULTRA
