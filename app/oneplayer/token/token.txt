@@ -2354,6 +2354,8 @@ Amazon sheldon
 72574b2175327a7f
 Gecen Tiger foreverg
 3139fe66a6c07ce6
+Gecen Tiger foreverg
+66474a4870696b23
 
 ricar.fu
 HUAWEI HWMAR
@@ -10285,8 +10287,8 @@ dolphin dolphin_fvd_p1
 3d8bb5d1422d1f68
 Allwinner dolphin-fvd-p1
 40a39eba03169a3c
-rockchip MK
-f83de1eb02b76220
+rockchip rk322x_box
+ed4c356be3bc396e
 rockchip MK
 6ed62fa703282b31
 dolphin dolphin_fvd_p1
