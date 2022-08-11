@@ -18660,7 +18660,7 @@ f621a86ae75d39d3
 Xiaomi oneday
 e22a3ba6f37f0fb1
 Allwinner t3-k2001q
-45e94f2f63841e07
+7c383885a7bf8b3c
 
 abelvi
 Xiaomi venus
