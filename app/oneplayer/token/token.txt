@@ -8913,7 +8913,7 @@ b106d6ed034d10f5
 
 redi8 +6
 OnePlus OnePlus7T
-bfbff8357ab11202
+99b6c56c06087397
 rockchip rk322x_box
 ed4ed7fee36a5f8c
 samsung a12
