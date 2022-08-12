@@ -3396,6 +3396,8 @@ Android MDTV5G
 da734c32575800b6
 rockchip rk322x_box
 5646eca33f36d184
+Xiaomi machuca
+f1c75a2727684bcc
 
 aescobar9
 samsung y2s
@@ -21175,8 +21177,6 @@ dolphin dolphin_fvd_p1
 194943a14ed616e9
 Xiaomi aquaman
 2becc659c0c747b5
-Realtek rtd298x_tv001
-8fe9dfa79f6ce85a
 
 adm12
 dolphin dolphin-fvd-p1
