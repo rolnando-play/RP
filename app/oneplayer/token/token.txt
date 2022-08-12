@@ -3394,6 +3394,8 @@ a4091a14ed5ef6fc
 +6
 Android MDTV5G
 da734c32575800b6
+rockchip rk322x_box
+5646eca33f36d184
 
 aescobar9
 samsung y2s
