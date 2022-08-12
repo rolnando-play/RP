@@ -18505,8 +18505,6 @@ motorola beckham
 
 ramirezb +6
 rockchip rk322x_box
-494195dc6cbde792
-rockchip rk322x_box
 207a3d9bb69ac3aa
 askey sti6140d360
 795daa0566e9a56a
@@ -18516,6 +18514,8 @@ dolphin dolphin_fvd_p1
 78c267833dd22b52
 rockchip rk322x_box
 66983557f96a954c
+askey sti6140d360
+88ef1220de701df8
 
 guiye +9
 Amazon mantis
