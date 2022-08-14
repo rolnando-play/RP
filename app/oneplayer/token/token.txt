@@ -18920,7 +18920,7 @@ cc46088edd972444
 MBOX dolphin-p1
 452e15edb4c3cb7c
 SCBC R2
-b61744589a6676e9
+ad46970a92955b1d
 dolphin SBQ-SM007
 fd380046a7f2946b
 SEI Robotics SEI400TV
@@ -20604,6 +20604,8 @@ rockchip rk322x_box
 da96c24882083fb9
 samsung on7xelte
 e0586926738ad581
+Amazon mantis
+975f27601af2a753
 
 luisito35
 Xiaomi vayu
