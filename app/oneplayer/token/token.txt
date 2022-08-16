@@ -19772,6 +19772,8 @@ Android MDTV5G
 Android MDTV5G
 cdc15e037f4f5dc0
 +9
+samsung a50
+ef0ff86bf7326e6b
 
 egsali +6
 samsung x1s
