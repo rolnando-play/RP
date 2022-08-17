@@ -8176,9 +8176,8 @@ Amlogic A95X_R1
 21bbf1c9e38dd0e6
 
 hzott
-Xiaomi lancelot
-a954b963f83370b9
-El tvbox es 
+Xiaomi vayu
+a9d54258624f7308
 Google sabrina
 333b836859cbefde
 Allwinner dolphin-fvd-p1
