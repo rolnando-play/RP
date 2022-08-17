@@ -18948,6 +18948,8 @@ Android MDTV5G
 971542051eb6377
 rockchip rk322x_box
 841d6ae1dbdf5c80
+rockchip rk322x_box
+494195dc6cbde792
 
 roloca
 MTK cvt_mt5886_sa
