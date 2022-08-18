@@ -10297,7 +10297,7 @@ dolphin dolphin_fvd_p1
 Allwinner dolphin-fvd-p1
 40a39eba03169a3c
 rockchip rk322x_box
-ed4c356be3bc396e
+45d23cfdcf2ce3ff
 rockchip MK
 6ed62fa703282b31
 dolphin dolphin_fvd_p1
