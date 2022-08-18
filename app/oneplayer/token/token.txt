@@ -5576,6 +5576,8 @@ Google sabrina
 rockchip rk322x_box
 b175137591a3558d
 +6
+Google sabrina
+c8d83d84579d9278
 
 psicov
 Xiaomi lavender
