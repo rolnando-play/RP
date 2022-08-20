@@ -13282,6 +13282,8 @@ dolphin dolphin-fvd-p1
 1255ed34e850c06b
 Xiaomi oneday
 480fe3025e5318b7
+Amazon kara
+1e40f1c89b6702a0
 
 infoservi
 Xiaomi laurel_sprout
