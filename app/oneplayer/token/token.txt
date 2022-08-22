@@ -10188,8 +10188,8 @@ PHANTOM p231
 3d6930e4f1e82a65
 Allwinner dolphin-fvd-p1
 502a2ad1aae48ddc
-rockchip rk3328_box
-ad5e3a3b9e952b58
+rockchip rk322x_box
+c6efb3d7be9ac877
 dolphin SBQ-SM007
 6a9c963063622593
 +3
