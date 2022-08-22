@@ -20467,7 +20467,7 @@ tungus
 Pixel Core Hi3798MV200
 66644c767c8ac3ba
 HUAWEI HWANE
-f5685e611ebf4fe0
+45e3679febc67ea9
 
 sreami
 Amlogic p281
