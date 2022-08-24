@@ -11620,6 +11620,8 @@ dolphin dolphin-fvd-p1
 e1ea68c9cba96763
 samsung a72q
 c940d5fd7e2b44e1
+rockchip rk322x_box
+fc3ed70c28e4e6c7
 
 danieljo
 Allwinner dolphin-fvd-p1
