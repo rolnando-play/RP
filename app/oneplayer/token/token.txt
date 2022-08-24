@@ -2795,6 +2795,8 @@ Allwinner dolphin-fvd-p1
 b57360762e2d3648
 askey sti6140d360
 c82f1e98d6da6eaa
+askey sti6140d360
+c00f584ffb7aa46c
 
 chocho
 Xiaomi tucana
