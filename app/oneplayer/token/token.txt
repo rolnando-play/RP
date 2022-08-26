@@ -6121,6 +6121,8 @@ Amlogic p281
 f4f49a67fc63a218
 Allwinner Transpeed_H616
 623cc26b2b1e4eac
+dolphin dolphin-fvd-p1
+91e30b70e0c5cd8c
 
 angelfa
 AndroidMBOX
