@@ -2754,8 +2754,8 @@ d6948085c6012848
 edgarnu
 Xiaomi ginkgo
 ab2d6249111789f2
-rockchip rk322x_box
-458b160c20f9d0bd
+askey sti6140d360
+795c2678a9d973b5
 Xiaomi oneday
 00685bdf18ee650b
 
