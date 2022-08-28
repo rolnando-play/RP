@@ -20625,6 +20625,8 @@ samsung on7xelte
 e0586926738ad581
 Amazon mantis
 975f27601af2a753
+dolphin dolphin_fvd_p1
+de0b70cabbbdfcdc
 
 luisito35
 Xiaomi vayu
