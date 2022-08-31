@@ -21119,6 +21119,8 @@ Android MDTV5G
 5d3a50295df8bb99
 samsung d2s
 33216698a2580fc2
+Android MDTV5G
+f08281dde8f33cd6
 
 ing.chu DOGE
 Sony BRAVIA_ATV2
