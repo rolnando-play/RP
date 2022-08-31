@@ -15608,6 +15608,8 @@ Amlogic p281
 dbe64b0a3c378104
 MBX m201_512m
 781222e5f0c761a
+google G011A
+c0575264c704f9c6
 
 alfreman
 Allwinner dolphin-fvd-p1
