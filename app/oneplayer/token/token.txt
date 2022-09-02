@@ -18648,6 +18648,8 @@ rockchip rk322x_box
 736df76d4597548b
 rockchip rk322x_box
 3db4d05838a1a2ab
+Android MDTV5G
+9dba1b170d98b5ee
 
 riegoam
 OnePlus OnePlus7T
