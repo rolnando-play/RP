@@ -21217,6 +21217,8 @@ MBOX dolphin-p1
 60889f764f9851b6
 rockchip rk322x_box
 49c37ef0d6762cc5
+rockchip rk322x_box
+e68ecac99f823951
 
 adm12
 dolphin dolphin-fvd-p1
