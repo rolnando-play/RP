@@ -10204,8 +10204,8 @@ f7b76f47c213cf8e
 MBOX dolphin-p1
 f4282395ea17861a
 +9 usdt
-rockchip rk322x_box
-e50c9746353419ec
+dolphin dolphin_fvd_p1
+e65206adb1c2da3
 samsung aosp
 25aed7114b65ec33
 Hisilicon Hi3751V350
