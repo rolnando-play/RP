@@ -10181,8 +10181,8 @@ Android MDTV5G
 899521ce3ef5452b
 rockchip rk322x_box
 a62375495fb084f
-rockchip rk322x_box
-62816e71c507f709
+dolphin dolphin-fvd-p1
+cf43004078e35d71
 +6
 Android MDTV5G
 a601a84bdb8cb128
