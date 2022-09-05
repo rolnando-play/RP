@@ -8951,6 +8951,8 @@ Xiaomi aquaman
 2e9b09e5e0c37495
 rockchip rk322x_box
 59c490a4c885a663
+SkyworthDigital BOS
+bcc64206b72df01c
 
 dariomar
 samsung z3s
