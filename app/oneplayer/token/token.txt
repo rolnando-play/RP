@@ -638,6 +638,10 @@ cbc4e2e0c4638855
 Amazon sheldonp
 01c3ee21ec90f5e0
 +3
+samsung a12
+62085803cd67eaf5
+LENOVO YT-X705L
+6023077c8fe1807e
 
 ampi_h
 r69
