@@ -5871,7 +5871,7 @@ Skyworth globe_sa
 rockchip rk322x_box
 e30c2c2775c12262
 rockchip rk322x_box
-7a73eae65fc03b7a
+c9db4af18014002a
 rockchip rk322x_box
 b06ad344b54ff05
 
