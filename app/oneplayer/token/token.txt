@@ -15105,6 +15105,8 @@ samsung b2q
 f167e44d38271a9b
 rockchip rk322x_box
 b9ae4003de129be6
+Amlogic p201
+921b328bc5da04f0
 
 funcion20 +6 psc
 Android MDTV5G
