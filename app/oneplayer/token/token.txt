@@ -18980,7 +18980,7 @@ rockchip rk322x_box
 494195dc6cbde792
 rockchip rk322x_box
 f84d1a9f30f8730d
-+3
++5
 askey sti6140d360
 70d66ae863b4fe71
 
@@ -21311,6 +21311,8 @@ rockchip rk322x_box
 hdalb
 samsung t2s
 c2b68c8556cfe382
+Xiaomi oneday
+4c3848dfdeefa7b4
 
 blasro
 rockchip rockchip006
