@@ -21251,6 +21251,8 @@ rockchip rk322x_box
 1b08e5ecf2d1c13b
 rockchip rk322x_box
 a63360e9510ca62f
+rockchip rk322x_box
+a0935896b9d593b7
 
 adm12
 dolphin dolphin-fvd-p1
