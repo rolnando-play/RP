@@ -14232,6 +14232,8 @@ PHILIPS philips_MT5593HT_LT
 1c46f908e87dc923
 Xiaomi oneday
 5676068f91794ebb
+TCL C06
+0cd3af7fcb9ed610
 
 gusro
 Allwinner dolphin-fvd-p1
