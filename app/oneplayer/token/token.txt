@@ -11628,8 +11628,8 @@ Amazon sheldon
 2de21651f4601fe8
 dolphin dolphin-fvd-p1
 e1ea68c9cba96763
-samsung a72q
-c940d5fd7e2b44e1
+Xiaomi ginkgo
+4ce82333cdbfee9d
 rockchip rk322x_box
 fc3ed70c28e4e6c7
 
