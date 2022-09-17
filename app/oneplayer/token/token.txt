@@ -9480,9 +9480,9 @@ d9a52df6ff8d60dc
 
 iptv19 +6 psc
 rockchip rk322x_box
-316b091f38d9db3d
+abef5b56519270cf
 rockchip rk322x_box
-97aae834ebbdaf32
+729857e8905ed2a5
 rockchip rk322x_box
 bed90ef327572993
 rockchip rk322x_box
@@ -11632,6 +11632,8 @@ Xiaomi ginkgo
 4ce82333cdbfee9d
 rockchip rk322x_box
 fc3ed70c28e4e6c7
+Amazon sheldon
+0660e389ffd4d8d8
 
 danieljo
 Allwinner dolphin-fvd-p1
