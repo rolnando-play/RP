@@ -851,8 +851,8 @@ b6b9c259dad6e591
 ferbar
 Xiaomi-TVBOX-Ferpe1   
 120da7945c625c11
-r69 2
-8cd92d3d465376c2
+FP-R69-HOME 
+8b8ac546b5e3508a
 SM-N970F
 d28fe669bb9c887a
 samsung a12s
@@ -14813,6 +14813,10 @@ HUAWEI-P30-EdgarIS
 c837fb5660cea537
 samsung-tabA8-FPB
 d4339fa04a162b05
+Doris1-R69
+e7106b55dfc8299f
+Doris2-R69]
+b7cc6f25c2f66080
 
 benites.c
 Android MBOX
