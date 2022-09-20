@@ -11482,8 +11482,8 @@ rockchip rk322x_box
 165cfb515f888eb
 Android MDTV5G
 f06bd33ee9a309ac
-Dell Inc. x86
-327fabf52a9c4778
+ARRIS vip6102w
+36e546e5b5f7c5cc
 Android MDTV5G
 732ccf88bae2f52a
 Amazon trona
