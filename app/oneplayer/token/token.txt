@@ -21451,3 +21451,7 @@ f194a44192c50086
 benitezto
 HMD Global PAN_sprout
 5c58db0799de6b64
+
+roly007
+OnePlus OnePlus5
+b7a5e47a3cb73c4c
