@@ -18674,6 +18674,8 @@ rockchip rk322x_box
 3db4d05838a1a2ab
 Android MDTV5G
 9dba1b170d98b5ee
+Allwinner G2plus
+74b1c61a57fe7877
 
 riegoam
 OnePlus OnePlus7T
