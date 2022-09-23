@@ -10216,8 +10216,8 @@ f4282395ea17861a
 +9 usdt
 dolphin dolphin_fvd_p1
 e65206adb1c2da3
-samsung aosp
-25aed7114b65ec33
+samsung star2qltechn
+966227de9e818ac0
 Hisilicon Hi3751V350
 9725c3ef8b4f58fb
 rockchip rk322x_box
@@ -10276,8 +10276,8 @@ Android MDTV5G
 b83492a0c6b0d097
 Android MBOX
 779fa5eb73fb3955
-Android MDTV5G
-d3dafa6a79e142a3
+MBOX dolphin-p1
+d192835772fecdb5
 Android MDTV5G
 cb7a3a67f5a60268
 Android MDTV5G
