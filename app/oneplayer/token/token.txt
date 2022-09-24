@@ -8186,6 +8186,8 @@ dolphin dolphin-fvd-p1
 7d5706b2ed7f12f4
 rockchip rk322x_box
 2f22804dc17fc967
+Amazon mantis
+5c653d218083123e
 
 ferher
 Amlogic A95X_R1
