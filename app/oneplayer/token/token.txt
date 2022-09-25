@@ -14239,7 +14239,7 @@ nniere
 rockchip rk322x_box
 42c58ffa6e00da2f
 PHILIPS philips_MT5593HT_LT
-1c46f908e87dc923
+79e279073d6426a5
 Xiaomi oneday
 5676068f91794ebb
 TCL C06
