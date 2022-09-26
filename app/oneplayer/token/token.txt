@@ -20684,6 +20684,8 @@ Amazon mantis
 975f27601af2a753
 dolphin dolphin_fvd_p1
 de0b70cabbbdfcdc
+Xiaomi aquaman
+adc578bff71a2db6
 
 luisito35
 Xiaomi vayu
