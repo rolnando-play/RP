@@ -21469,3 +21469,9 @@ HMD Global PAN_sprout
 roly007
 OnePlus OnePlus5
 b7a5e47a3cb73c4c
+
+tecnopo
+Android MDTV5G
+d49a53dc0d11e6e1
+rockchip rk322x_box
+297000b9f3183ba1
