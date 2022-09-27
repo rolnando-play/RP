@@ -21475,3 +21475,5 @@ Android MDTV5G
 d49a53dc0d11e6e1
 rockchip rk322x_box
 297000b9f3183ba1
+Xiaomi curtana
+04847687ef012d56
