@@ -3341,6 +3341,8 @@ motorola maltalsc
 b62fcc6f819ee58a
 Allwinner t3-k2001-nwd
 f62f353a6417cb0
+MEIGE Hi3751V350
+fd01872bfae020a9
 
 hebmar
 samsung a70q
