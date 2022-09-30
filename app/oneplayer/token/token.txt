@@ -13990,10 +13990,8 @@ Amazon mantis
 e7f7ff3c3b539cc
 
 miguel.ma
-HUAWEI HWJKM-H
-2c01e9b68579a91a
-MBOX dolphin-p1
-163df108c253c9a1
+Amazon sheldonp
+0d3e6367a714068c
 samsung on7xelte
 4f5c28cde5f7dae8
 
