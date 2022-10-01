@@ -114,6 +114,8 @@ unknown generic_x86
 4d930c598f86a239
 Microsoft Corporation windows_x86_64
 2ed25e8eb683d90f
+brcm rpi3
+f0dfef7d5f4623c7
 +di
 askey sti6140d360
 11aa8a55e0e1dba9
