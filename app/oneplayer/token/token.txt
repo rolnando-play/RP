@@ -21481,3 +21481,7 @@ rockchip rk322x_box
 297000b9f3183ba1
 Xiaomi curtana
 04847687ef012d56
+
+cesarcac
+Amazon sheldonp
+c09f5eae28ac11ae
