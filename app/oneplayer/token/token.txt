@@ -19854,6 +19854,8 @@ cdc15e037f4f5dc0
 +9
 samsung a50
 ef0ff86bf7326e6b
+samsung a20
+991c8a46c2212cc6
 
 egsali +6
 samsung x1s
