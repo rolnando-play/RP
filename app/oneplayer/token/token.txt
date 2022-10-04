@@ -8346,6 +8346,8 @@ HUAWEI HWMAR
 114cdfc8d6cb28c3
 Android MBOX
 1b4b2ac1e09ba9d5
+Xiaomi croods
+6777d2811eb00d80
 
 wdpr44
 rockchip rk322x_box
