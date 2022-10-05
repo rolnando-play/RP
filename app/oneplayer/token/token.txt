@@ -2716,6 +2716,8 @@ MTK cvt_mt5863_sa
 e3a605068eb119e0
 Android MDTV5G
 a6c33419f239f7cc
+Android MDTV5G
+256e4ffb730c1e09
 
 hack_c
 rockchip rk322x_box
