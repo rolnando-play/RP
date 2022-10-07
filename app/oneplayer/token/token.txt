@@ -6827,8 +6827,8 @@ streambus p200_2G
 rockchip rk322x_box
 6fd8380896f270a4
 +12
-Allwinner dolphin-fvd-p1
-b5b45a26f99b48d2
+askey sti6140d360
+76d5e3b23c57fa3e
 Amazon sheldonp
 c8b757216547acd7
 rockchip rk322x_box
