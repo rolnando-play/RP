@@ -12795,6 +12795,8 @@ Allwinner dolphin-fvd-p1
 +3
 rockchip rk322x_box
 bc05876873a1f4c7
+Xiaomi maltose
+c78446e4eafa6ca3
 
 charlie_0
 HUAWEI HWELE
