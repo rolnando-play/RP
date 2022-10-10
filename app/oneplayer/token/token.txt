@@ -3551,6 +3551,8 @@ samsung starqlteue
 2f11a9f0ca043d01
 Xiaomi aquaman
 3267412faac3c04b
+SkyworthDigital YYT
+d2c521c4357f4743
 
 buisin
 samsung beyond2
