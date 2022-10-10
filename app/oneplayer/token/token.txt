@@ -19123,6 +19123,8 @@ Xiaomi curtana
 18fdff24d13e1186
 MBOX dolphin-p1
 a3e8426e4f930145
+Xiaomi oneday
+04f33b8f23388c1a
 
 garceteg9 +6
 samsung a31
