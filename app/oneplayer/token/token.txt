@@ -3418,6 +3418,10 @@ rockchip rk322x_box
 5646eca33f36d184
 Xiaomi machuca
 f1c75a2727684bcc
+Xiaomi merlin
+03a19dcf4fe157d9
+Android MDTV5G
+75d662dcb6f6232a
 
 aescobar9
 samsung y2s
