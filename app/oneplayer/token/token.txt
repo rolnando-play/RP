@@ -3422,6 +3422,8 @@ Xiaomi merlin
 03a19dcf4fe157d9
 Android MDTV5G
 75d662dcb6f6232a
+rockchip rk322x_box
+8db336ae86484984
 
 aescobar9
 samsung y2s
