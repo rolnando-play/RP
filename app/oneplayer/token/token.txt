@@ -10319,8 +10319,8 @@ c60d45b168916345
 +9 usdt 
 Allwinner dolphin-fvd-p1
 e005c7a962c62293
-Allwinner dolphin-fvd-p1
-7d36b5bfc48032e9
+rockchip rk322x_box
+e02935c1840702ff
 BTV p212
 150b534bdfae1b14
 Android MDTV5G
