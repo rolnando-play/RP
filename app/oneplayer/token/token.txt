@@ -10241,8 +10241,8 @@ dolphin SBQ-SM007
 +3
 Android MDTV5G
 25dbba16925f2965
-Allwinner dolphin-fvd-p1
-f7b76f47c213cf8e
+Amlogic p282
+8b428e9b98d93de9
 MBOX dolphin-p1
 f4282395ea17861a
 +9 usdt
