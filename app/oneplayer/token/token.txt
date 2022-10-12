@@ -6262,6 +6262,8 @@ rockchip rk322x_box
 93208aa3622bfe79
 rockchip rk322x_box
 22c214fe133b9d49
+Xiaomi nabu
+2a74475276a27a74
 
 its.cm
 Amlogic p282
@@ -9011,6 +9013,8 @@ Allwinner dolphin-fvd-p1
 9af60b3db02c3a7f
 Allwinner dolphin-fvd-p1
 88f7fcc3abd751d0
+samsung a03
+bc50d5ebdd993f0c
 
 cris-g +9
 rockchip rk322x_box
