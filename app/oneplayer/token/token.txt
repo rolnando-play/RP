@@ -19882,6 +19882,8 @@ samsung a50
 ef0ff86bf7326e6b
 samsung a20
 991c8a46c2212cc6
+Android MBOX
+a5d489cb7b056c56
 
 egsali +6
 samsung x1s
