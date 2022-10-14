@@ -19039,6 +19039,8 @@ f84d1a9f30f8730d
 +5
 askey sti6140d360
 70d66ae863b4fe71
+Amlogic p281
+a3309bfbad2f040b
 
 roloca
 MTK cvt_mt5886_sa
