@@ -21208,6 +21208,8 @@ rockchip rk322x_box
 2aa0ddf7e648eede
 dolphin dolphin-fvd-p1
 a3a4f7448250797
+rockchip MK
+2a64e3ae692f96e1
 
 paraguayox1
 HUAWEI HWVOG
