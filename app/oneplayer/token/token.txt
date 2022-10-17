@@ -18854,6 +18854,8 @@ Xiaomi lancelot
 7386ff6eac6423ca
 samsung beyond2
 323cd0ea698cd3e5
+rockchip rk3328_box
+23135716f6dbca7a
 
 santiagob +6
 Xiaomi raphael
