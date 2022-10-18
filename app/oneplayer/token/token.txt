@@ -14688,6 +14688,8 @@ HUAWEI HWJKM-H
 9dc3507009904c97
 Amazon kara
 2e535008386aa144
+HUAWEI HWJKM-H
+b59f33a5c1b4b0cd
 
 zmaur
 samsung p3s
