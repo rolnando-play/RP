@@ -14453,6 +14453,8 @@ OnePlus OnePlus5
 bed1bcc23de7e900
 Amazon sheldon
 433c9865b01bcc62
+samsung z3q
+34f0839d1f81c500
 
 cjbucs
 SDMC SFO
