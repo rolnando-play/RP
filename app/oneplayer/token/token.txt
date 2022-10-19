@@ -648,6 +648,8 @@ samsung a12
 62085803cd67eaf5
 LENOVO YT-X705L
 6023077c8fe1807e
+samsung j4primelte
+22c471c7b7261453
 
 ampi_h
 r69
