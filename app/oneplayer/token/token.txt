@@ -12919,6 +12919,8 @@ Xiaomi alioth
 9beae8ec72d62ee0
 TCL BeyondTV
 347ed79a6ee0e450
+Xiaomi alioth
+e904980c01a34122
 
 chicho +6
 Allwinner dolphin-fvd-p1
@@ -18720,6 +18722,10 @@ Android MDTV5G
 9dba1b170d98b5ee
 Allwinner G2plus
 74b1c61a57fe7877
+samsung a32
+fc249c340da30c94
+rockchip rk322x_box
+9d9e392781c22604
 
 riegoam
 OnePlus OnePlus7T
