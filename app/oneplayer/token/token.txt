@@ -10638,7 +10638,7 @@ zarater
 samsung a21s
 933d3ba6bf382015
 rockchip rk322x_box
-62cbf431135f037d
+82310749f60df93c
 Xiaomi oneday
 485169451176c327
 
