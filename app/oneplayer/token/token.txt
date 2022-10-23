@@ -9524,7 +9524,7 @@ b286ee720c3ebab1
 rockchip rk322x_box
 fc5e58dca6183174
 rockchip rk322x_box
-704dbb8ed5eff37
+b2279bb37af664fc
 +6
 rockchip rk322x_box
 9a5e9c1c094ed048
