@@ -19004,8 +19004,8 @@ d6557f0921aebdde
 Android MDTV5G
 f1f26651b590adae
 +6
-Allwinner dolphin-fvd-p1
-5980e811d46f22bf
+rockchip rk322x_box
+bf4f3357c3bb3c45
 Android MDTV5G
 e7a3b8d95270b9da
 Xiaomi oneday
