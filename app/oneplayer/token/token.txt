@@ -20574,6 +20574,10 @@ Xiaomi umi
 e3be3abc1e0179ef
 Xiaomi joyeuse
 5da32d8c9c2c8377
+samsung j6lte
+bd9c3cfa992cb892
+OnePlus OnePlus8T
+4ae724887fd7e984
 
 mathiasle
 Amazon sheldon
