@@ -10243,8 +10243,8 @@ Allwinner dolphin-fvd-p1
 502a2ad1aae48ddc
 rockchip rk322x_box
 c6efb3d7be9ac877
-dolphin SBQ-SM007
-6a9c963063622593
+rockchip rk322x_box
+f5563539b998d64c
 +3
 Android MDTV5G
 25dbba16925f2965
