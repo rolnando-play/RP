@@ -8427,6 +8427,8 @@ dolphin dolphin-fvd-p1
 5c3c322056863c00
 dolphin dolphin_fvd_p1
 484fda334f5e2647
+rockchip rk356x_box
+72bd358be79d7761
 
 tecnobotpy +9
 rockchip rk322x_box
