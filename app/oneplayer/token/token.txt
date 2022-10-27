@@ -10250,8 +10250,8 @@ Android MDTV5G
 25dbba16925f2965
 Amlogic p282
 8b428e9b98d93de9
-MBOX dolphin-p1
-f4282395ea17861a
+Amazon sheldonp
+d6d637f62cea97ea
 +9 usdt
 dolphin dolphin_fvd_p1
 e65206adb1c2da3
@@ -10303,7 +10303,7 @@ bc0032ea0bace90d
 unknown dolphin-fvd-p1
 309dbfa6ae30674b
 Android MDTV5G
-c615dd1c32c0b251
+685b10c22e390e11
 +9 usdt
 dolphin dolphin-fvd-p1
 fa69b96faaa3ae18
