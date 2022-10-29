@@ -13149,7 +13149,7 @@ cd877bce952d3f80
 
 kuchos
 samsung crownqltechn
-7b2ad95c6e27c301
+5b8c16d44e78388a
 samsung dream2lte
 c5fcbcd8faaf3609
 Xiaomi oneday
