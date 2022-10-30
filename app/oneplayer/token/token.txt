@@ -18873,6 +18873,8 @@ samsung beyond2
 323cd0ea698cd3e5
 rockchip rk3328_box
 23135716f6dbca7a
+askey sti6140d360
+e04959a0f118dded
 
 santiagob +6
 Xiaomi raphael
