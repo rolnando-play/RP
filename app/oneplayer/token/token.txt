@@ -478,8 +478,8 @@ S905W
 355760360a1240c2.
 
 rodrigoes
-samsung a03
-4066c9635f9c6ddd
+samsung a20s
+975aa84a6ddecb08
 dolphin dolphin-fvd-p1
 27b66945791e421b
 samsung a03
