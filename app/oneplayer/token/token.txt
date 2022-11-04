@@ -3512,6 +3512,8 @@ Xiaomi oneday
 67c4fb3558fc82a9
 Xiaomi oneday
 a038f09eb5364d5b
+Xiaomi oneday
+8e1ed5b87b3d2da8
 
 diegoafra
 HUAWEI HWEML
@@ -4291,6 +4293,8 @@ Amlogic p281
 ad874f74b724a0be
 askey sti6140d360
 da7ac39fe85cc1b5
+KTC zhongshan
+1f31b45ae7bec0a1
 
 pekho +9
 Google sabrina
