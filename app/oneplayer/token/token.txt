@@ -10328,8 +10328,8 @@ Android MDTV5G
 Android MDTV5G
 c60d45b168916345
 +9 usdt 
-Allwinner dolphin-fvd-p1
-e005c7a962c62293
+rockchip rk322x_box
+1d06b506402550c
 rockchip rk322x_box
 dd23e9ee51983744
 BTV p212
