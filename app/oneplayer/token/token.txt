@@ -15592,6 +15592,8 @@ Xiaomi oneday
 24a4137c8b7f81ef
 samsung a32
 2bac6e0bb7fc0a02
+rockchip rk322x_box
+da29e850df11aed7
 
 andrugon
 MTK cvt_mt5886_sa
