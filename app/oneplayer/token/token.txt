@@ -873,6 +873,8 @@ MIBOX4
 9ad44a6d49bfd3b8
 AX1082
 d339b6cf24160a85
+MTK cvt_mt5886_sa
+c119cf2fe83e7325
 
 nestorber
 SM-A217M
