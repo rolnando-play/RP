@@ -2844,6 +2844,9 @@ rockchip rk322x_box
 aeca31ac0d36fa4
 rockchip rk322x_box
 e89670f70f7e7a2b
++5
+Amazon kara
+859d669e743593b0
 
 schulzo
 HMD Global BGT_sprout
