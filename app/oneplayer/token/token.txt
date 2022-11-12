@@ -3972,6 +3972,8 @@ amazon tank
 98937aa7ada8a9b3
 Amazon mantis
 93ee5150a122263d
+SkyworthDigital YYT
+1651aa9a5aa875fe
 
 marcelogonz
 rockchip rk322x_box
