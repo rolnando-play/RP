@@ -21397,6 +21397,8 @@ dolphin dolphin-fvd-p1
 bbe628f5ead4a8c2
 samsung a10s
 7577daf265dc6e7e
+samsung a11q
+882782062a7a46cc
 
 legalnet
 Google walleye
