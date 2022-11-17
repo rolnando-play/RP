@@ -12415,7 +12415,7 @@ derlispat
 Xiaomi laurel_sprout
 32f174a2d0a98bdd
 Xiaomi aquaman
-4a95a5c4a7d0bfac
+1e0826ba50e62914
 
 sebagam +6 psc
 MBOX dolphin-p1
@@ -13621,7 +13621,7 @@ nbalan
 MTK cvt_mt5863_sa
 4e021a761a538c8c
 HUAWEI HWJNY
-3d025ab76705c959
+5dbcdfda8f4e0592
 Amlogic p281
 38cec7a18f955b82
 
