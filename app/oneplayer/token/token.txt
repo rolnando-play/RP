@@ -2374,6 +2374,8 @@ Gecen Tiger foreverg
 3139fe66a6c07ce6
 Gecen Tiger foreverg
 66474a4870696b23
+Amazon sheldon
+0bf969a13344e064
 
 ricar.fu
 HUAWEI HWMAR
@@ -4629,9 +4631,7 @@ samsung j6lte
 Xiaomi oneday
 4db4f06a95db8050
 MBOX dolphin-p1
-7c6eaab5df195719
-MBOX dolphin-p1
-f61f249a060aaa95
+db02d0649e95059e
 
 juvar9 +6 psc
 Allwinner dolphin-fvd-p1
