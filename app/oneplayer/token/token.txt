@@ -11409,7 +11409,7 @@ rockchip rk322x_box
 rockchip rk3328_box
 993f003f7cfed404
 Amazon mantis
-9c566bd4e1ff8d44
+552f1db5dd02f349
 Google walleye
 b1d0baf19acb0aef
 rockchip rk322x_box
