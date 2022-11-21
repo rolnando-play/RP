@@ -19815,6 +19815,8 @@ Xiaomi croods
 b0328d5e8078c5d2
 Xiaomi oneday
 80b66aba330d4627
+oneday
+123d1d9794fb3ba3
 
 jose_mar
 rockchip rk322x_box
