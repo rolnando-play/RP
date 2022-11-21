@@ -9549,7 +9549,7 @@ rockchip rk322x_box
 rockchip rk322x_box
 ed5d1f75748ad906
 rockchip rk322x_box
-d5d5eec88233d2bf
+95b7eadc39125473
 rockchip rk322x_box
 696915f3b475bede
 MTK cvt_mt5863_sa
@@ -14230,6 +14230,8 @@ TCL BeyondTV
 79c9f6fdaf565e15
 Rockchip rk3328_box
 34e6d6cbae0a4597
+samsung r8q
+7d8c58dcbb42c879
 
 oscarama
 Amazon sheldon
