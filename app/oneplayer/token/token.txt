@@ -19167,6 +19167,8 @@ Droidlogic p281
 sualsan
 Xiaomi aquaman
 9e7d60fa8e03215a
+samsung a51
+bd412ce12ea42ad3
 
 genesis30
 samsung a21s
