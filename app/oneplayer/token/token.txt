@@ -8979,6 +8979,8 @@ rockchip rk322x_box
 a5b5b3705c1cc5aa
 rockchip rk322x_box
 b106d6ed034d10f5
+rockchip rk322x_box
+d60688f5f64749eb
 
 redi8 +6
 OnePlus OnePlus7T
