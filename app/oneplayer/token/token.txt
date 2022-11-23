@@ -5686,6 +5686,8 @@ rockchip rk3328_box
 a12c0c6bdeeac0f6
 Xiaomi aquaman
 412736fd15b8b462
+rockchip rk322x_box
+ab6310e530d302bb
 
 victorcal
 realme RMX1931L1
