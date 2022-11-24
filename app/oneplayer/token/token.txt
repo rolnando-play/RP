@@ -2091,7 +2091,7 @@ Android MDTV5G
 
 adanielo
 motorola sofia
-593bfa5184df5b1d
+663cca54dfdca107
 amlogic p200_2G
 5dfcffe5052330f4
 BTV p212
