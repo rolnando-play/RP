@@ -9608,6 +9608,8 @@ Allwinner dolphin-fvd-p1
 4b10e4257407b7e5
 rockchip rk322x_box
 4980218b2e359674
+rockchip rk322x_box
+a27d1f0f6d7ff4fb
 
 j88be
 Google walleye
