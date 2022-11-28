@@ -12636,7 +12636,7 @@ olimpiapl
 HUAWEI HWSTK-HF
 1b4a7b6028143193
 samsung gtowifi
-952d2d53edf807c1
+877a39276ae50514
 MBOX dolphin-p1
 333f8d76af91ce85
 +3
