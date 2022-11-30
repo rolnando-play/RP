@@ -13333,6 +13333,8 @@ amlogic sw01
 +10
 Amazon mantis
 eec180d4fb44ef01
+Amazon sheldon
+68f2540394629682
 
 chavezqu
 HUAWEI HWMAR
