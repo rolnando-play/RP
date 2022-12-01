@@ -10284,8 +10284,8 @@ Allwinner dolphin-fvd-p1
 3a6a93e16be0a688
 Android MDTV5G
 524446786c2009b8
-Amlogic p212
-60a275b43f2e7cec
+MBOX dolphin-p1
+64deecab7ee71a29
 rockchip rk322x_box
 752ca3d4adb65aef
 MBOX dolphin-p1
