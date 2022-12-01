@@ -14486,8 +14486,8 @@ Xiaomi cepheus
 78874e1c7ede18c5
 
 gdozo
-samsung star2qlteue
-fd300dbf9b61ea38
+Xiaomi aquaman
+eb149c398d47f727
 Xiaomi fleur
 1fbac986bfcc98ea
 Amazon sheldon
