@@ -1106,6 +1106,8 @@ samsung a31
 19db9aa5b4f2a84e
 samsung a52q
 df5224cfb5e2e54e
+Xiaomi oneday
+0276d82ad85689f7
 
 v.gal
 h96
