@@ -19281,6 +19281,8 @@ Allwinner dolphin-fvd-p1
 d6a0aab3144e4a9f
 Allwinner dolphin-fvd-p1
 b4e2662e9c1e72cf
+Allwinner dolphin-fvd-p1
+ad8056800d911c3c
 
 rubenesc
 Xiaomi curtana
