@@ -4935,6 +4935,8 @@ Xiaomi aquaman
 d9053c5f67ddf1d2
 samsung SM-N975F
 c71ae7c3f4bcac79
+dolphin dolphin_fvd_p1
+c2a8962d6d887188
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -19976,6 +19978,8 @@ Android MBOX
 a5d489cb7b056c56
 Xiaomi soul
 7225e9f6409407e0
+rockchip rk322x_box
+d6658c9ebf6c19e6
 
 egsali +6
 samsung x1s
