@@ -4937,6 +4937,8 @@ samsung SM-N975F
 c71ae7c3f4bcac79
 dolphin dolphin_fvd_p1
 c2a8962d6d887188
+Xiaomi oneday
+8e7a7eb49a2312c3
 
 aylenmon
 OnePlus OnePlus8TMO
