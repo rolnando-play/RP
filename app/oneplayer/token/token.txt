@@ -18262,6 +18262,8 @@ Xiaomi oneday
 diegomi
 Xiaomi amber
 c6465f8c81e747e1
+samsung g0s
+9d6503f9f4c0bce2
 
 medicen
 Xiaomi oneday
