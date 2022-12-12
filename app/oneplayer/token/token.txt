@@ -5534,6 +5534,8 @@ Amazon mantis
 71527c364b4309e5
 Google sabrina
 37ecc383af93bb49
+Google sabrina
+1dfe367b0570ae41
 
 jorge19
 Realme RMX1901CN
