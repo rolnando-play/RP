@@ -5860,7 +5860,7 @@ ingjca
 Xiaomi oneday
 0566fbc5f0c3dc76
 amlogic sw01
-97bfbd7f0ccc20e7
+51f547b92fb0082c
 i7 petrel-p1
 01b1a8f277133f16
 
