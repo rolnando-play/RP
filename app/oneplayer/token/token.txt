@@ -4941,6 +4941,8 @@ Xiaomi oneday
 8e7a7eb49a2312c3
 sprd ums512_1h10
 b020f2cc9bbeca51
+rockchip rkpx3
+6717b1825ee8be55
 
 aylenmon
 OnePlus OnePlus8TMO
