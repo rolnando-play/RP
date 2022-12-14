@@ -4939,6 +4939,8 @@ dolphin dolphin_fvd_p1
 c2a8962d6d887188
 Xiaomi oneday
 8e7a7eb49a2312c3
+sprd ums512_1h10
+b020f2cc9bbeca51
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -21657,3 +21659,5 @@ edbbcdb1494beb38
 acufe +5
 Amazon kara
 f5f1e9837d4eb076
+Amazon mantis
+e037d9b2bf8a512b
