@@ -19283,6 +19283,8 @@ samsung b0q
 06d5fe3131ac0445
 samsung y2s
 dbc00b79010a9c95
+samsung c2s
+25236874c84ee088
 
 fermani +6
 Xiaomi raphael
