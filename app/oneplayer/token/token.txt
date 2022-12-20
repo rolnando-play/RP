@@ -5,6 +5,8 @@ Changhong ikebukuro
 11bb1fe893000c9e
 Google redfin
 458d8cc8b6b04f62
+Google generic_x86
+212165f911a0470c
 askey sti6140d360
 b3584e2a3f307399
 Google oriole
