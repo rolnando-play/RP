@@ -2393,6 +2393,8 @@ Amazon mantis
 5041d4bab2835b06
 Amazon sheldonp
 e187dd4792cd646c
+Amazon sheldon
+0438061e6f04a1d6
 
 ricar.fu
 HUAWEI HWMAR
@@ -4301,8 +4303,8 @@ Xiaomi oneday
 ebd16bc848a91388
 Xiaomi vayu
 5d0685a4b949a194
-MINIX NEO-X8H-PLUS
-495e0b9d312ace39
+Google boreal
+dbe4e67dc05cb16e
 Xiaomi lavender
 652854e18380905b
 Xiaomi begonia
