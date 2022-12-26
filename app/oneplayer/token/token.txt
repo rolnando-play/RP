@@ -10057,7 +10057,7 @@ samsung a30s
 
 che.poc
 samsung dreamlte
-49352c8cc595a4ff
+8f8bb19873f6cac3
 incar T15
 4b0844211a2ccf07
 SDMC DV8235
