@@ -725,6 +725,8 @@ rockchip rk3328_box
 f5a653d4256de617
 Amazon mantis
 55f6886360cf685b
+Google boreal
+1e232cb5eba9e253
 
 alcicd
 sm-g610m
