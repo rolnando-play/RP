@@ -3289,6 +3289,8 @@ Amazon sheldon
 01bff7ee982a2f03
 Rockchip rk3328_box
 79b0bf8d0037511b
+Amazon sheldonp
+2564155a40892446
 
 lucasortiz1
 samsung beyond2
