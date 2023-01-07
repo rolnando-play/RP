@@ -21712,3 +21712,7 @@ e037d9b2bf8a512b
 sheeno +5
 Amlogic p212
 6616d8ce313471c1
+
+eladioa +5
+samsung g0q
+d17edd843251095d
