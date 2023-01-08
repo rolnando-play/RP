@@ -21716,3 +21716,5 @@ Amlogic p212
 eladioa +5
 samsung g0q
 d17edd843251095d
+dolphin SBQ-SM007
+8c8ba1ace4e43ab9
