@@ -14642,6 +14642,8 @@ Amazon mantis
 6c9a1f2a7097e197
 Google sabrina
 e694586dffe77cba
+samsung g0q
+9d7946b0e4c01c3f
 
 mandyco +18
 Amlogic p281
