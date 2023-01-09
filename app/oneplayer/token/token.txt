@@ -11738,6 +11738,8 @@ Amazon sheldon
 +10
 Xiaomi sweet
 a6229078249cba88
+Amazon kara
+73425f5b10978d2c
 
 danieljo
 Allwinner dolphin-fvd-p1
