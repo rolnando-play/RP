@@ -21723,3 +21723,5 @@ samsung g0q
 d17edd843251095d
 dolphin SBQ-SM007
 8c8ba1ace4e43ab9
+samsung a50
+a14b9e8957db3e48
