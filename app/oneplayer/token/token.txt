@@ -13743,8 +13743,6 @@ MBOX dolphin-p1
 6ef3212a3a3a815f
 rockchip rk322x_box
 ea8ce256d1736d27
-rockchip rk322x_box
-b7a1a425af69b56b
 +6 psc
 rockchip rk322x_box
 469873ae67ec8735
@@ -13765,10 +13763,6 @@ Xiaomi aquaman
 8cb8cd49b3a237d8
 rockchip rk322x_box
 a085a74eb3643314
-Xiaomi oneday
-821236fc03e0d792
-Xiaomi aquaman
-38388d7f41181f0d
 +6 psc
 Xiaomi aquaman
 754896f962dcf12c
@@ -13790,16 +13784,10 @@ c5626f6a22aac1b1
 Xiaomi oneday
 fce7aaa4c6b54f19
 Xiaomi aquaman
-6ad47c3b2deb7a2f
-Xiaomi aquaman
 e5aac686906b4065
-Xiaomi aquaman
-5c3265358b964aba
 +6 psc
 Xiaomi aquaman
 c732f18e63bb4ae1
-Google titan-p1
-b37de1df0849c1ad
 Xiaomi oneday
 4c6fcd83e64bb318
 OnePlus OnePlus5
@@ -13817,6 +13805,8 @@ Xiaomi oneday
 2455e2bdd992298b
 Xiaomi aquaman
 9754028a73c67e78
++6 deleted
+
 
 hheimb
 samsung a50
