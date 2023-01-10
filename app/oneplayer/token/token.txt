@@ -21743,3 +21743,7 @@ SkyworthDigital HP40A2
 c31500998e5bfe58
  samsung a20
 66273c752be135e5
+
+isidro.al +5
+rockchip rk322x_box
+aefc734c0dde38e8
