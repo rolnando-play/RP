@@ -13408,6 +13408,8 @@ Amazon sheldonp
 fb88c60cb92bec00
 dolphin dolphin_fvd_p1
 6b5b0f3850a0659a
+amlogic sw01
+974fe0a13866c392
 
 chavezqu
 HUAWEI HWMAR
