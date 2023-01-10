@@ -15796,6 +15796,8 @@ MBX m201_512m
 781222e5f0c761a
 google G011A
 c0575264c704f9c6
+samsung a53x
+ee8235575ce0322f
 
 alfreman
 Allwinner dolphin-fvd-p1
