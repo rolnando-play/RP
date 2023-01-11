@@ -9595,8 +9595,8 @@ rockchip rk322x_box
 95b7eadc39125473
 rockchip rk322x_box
 d5050969b8f5ec0d
-MTK cvt_mt5863_sa
-5c408d14588a806a
+Amlogic p201
+624e677f947cb3b9
 Android MBOX
 51dc536453920899
 +6 psc
@@ -13410,6 +13410,8 @@ dolphin dolphin_fvd_p1
 6b5b0f3850a0659a
 amlogic sw01
 974fe0a13866c392
+Amazon sheldonp
+40114255358f4848
 
 chavezqu
 HUAWEI HWMAR
