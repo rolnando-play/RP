@@ -11742,6 +11742,8 @@ Amazon kara
 73425f5b10978d2c
 Changhong ikebukuro
 cf6406d7dc066c86
+Amazon sheldonp
+a040aeee79b97a5c
 
 danieljo
 Allwinner dolphin-fvd-p1
