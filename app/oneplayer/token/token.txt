@@ -21328,6 +21328,8 @@ rockchip rk322x_box
 bd6ec775739ebcc3
 unknown sugar-ref001
 6d8a118d17f3b4bd
+samsung r9s
+fea86c2ed3b26d33
 
 ameliom
 Xiaomi croods
