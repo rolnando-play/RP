@@ -18071,6 +18071,8 @@ rockchip rk322x_box
 3e14e35058ae2578
 rockchip rk322x_box
 a3028c78d0ae72ea
+Hivendor p281
+8c15ca2e3827febe
 
 angelca
 Amazon mantis
