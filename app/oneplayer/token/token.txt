@@ -3083,8 +3083,6 @@ Amazon sheldonp
 0aa7adbdb5c2a2c7
 Allwinner dolphin-fvd-p1
 1b151e6cafea6dab
-Amazon sheldonp
-a6fb1ef2f8619c90
 
 sergio1li
 HUAWEI HWSTK-HF
@@ -10925,6 +10923,8 @@ Amazon sheldonp
 e8734541f8ad1147
 Amazon mantis
 f2e738400d1b47aa
+Amazon sheldonp
+a6fb1ef2f8619c90
 
 aleto71
 rockchip rk322x_box
