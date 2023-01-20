@@ -20743,8 +20743,8 @@ motorola beckham
 b55c775747d6e133
 
 wilfrido.m
-motorola potter_n
-7922607531aace34
+samsung a3core
+4a974b9a819160fc
 rockchip rk322x_box
 5a4d55b734671983
 
