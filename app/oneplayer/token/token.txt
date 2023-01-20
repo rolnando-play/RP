@@ -18854,6 +18854,8 @@ samsung a32
 fc249c340da30c94
 rockchip rk322x_box
 9d9e392781c22604
+rockchip rk322x_box
+1c3240cac881bd94
 
 riegoam
 OnePlus OnePlus7T
