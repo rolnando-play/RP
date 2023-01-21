@@ -11752,6 +11752,8 @@ Amazon sheldonp
 a040aeee79b97a5c
 samsung a02
 e6d9f7cbd0095569
+motorola caprip
+c1da9b06947d022d
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -21693,6 +21695,8 @@ rockchip rk322x_box
 88760998832c19d7
 Android MDTV5G
 3ea13f37e80fbfcb
+Box ap201
+ba05874fa3cd9d55
 
 silversan
 samsung a70q
