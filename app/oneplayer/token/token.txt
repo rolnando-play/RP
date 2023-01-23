@@ -3273,6 +3273,8 @@ Xiaomi lancelot
 c8452b9a1f7bbeeb
 samsung a22
 9014cce9782a0279
+samsung gta8
+a1d56601878af5e4
 
 alberme
 samsung a12s
