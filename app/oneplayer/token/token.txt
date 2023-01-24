@@ -2878,6 +2878,8 @@ Amazon kara
 859d669e743593b0
 rockchip rk322x_box
 98f9e76d11458b8c
+Amlogic MXQ
+58976a1ce113be14
 
 schulzo
 HMD Global BGT_sprout
@@ -13430,6 +13432,8 @@ Amazon sheldonp
 40114255358f4848
 Amazon sheldonp
 3f0b6783db34403f
+Amazon sheldonp
+538f07eb340c37e5
 
 chavezqu
 HUAWEI HWMAR
