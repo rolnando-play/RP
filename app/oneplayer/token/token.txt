@@ -5146,6 +5146,8 @@ Xiaomi oneday
 4efae7448a8bc732
 Xiaomi oneday
 8aeb437eec93a4ca
+Amlogic p281
+f912d6f5b622eeca
 
 rkrdo
 Xiaomi vayu
