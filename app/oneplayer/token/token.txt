@@ -18151,6 +18151,8 @@ cace7da438d9a4ed
 gamepla
 Xiaomi joyeuse
 10d70008d115a759
+MTK cvt_mt5886_sa
+1a550b5c36a1639c
 
 franci_n
 samsung a70q
