@@ -11762,6 +11762,8 @@ samsung a02
 e6d9f7cbd0095569
 motorola caprip
 c1da9b06947d022d
+samsung a33x
+8babb04ed2f7331b
 
 danieljo
 Allwinner dolphin-fvd-p1
