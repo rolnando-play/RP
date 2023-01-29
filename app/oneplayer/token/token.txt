@@ -19334,6 +19334,8 @@ Amazon sheldon
 ec815005ddd9c2a4
 Google sabrina
 8c1703b613c901aa
+Redmi Note 9
+2034532a0409
 
 luupa +6
 samsung t2s
