@@ -18296,7 +18296,11 @@ Xiaomi tucana
 Xiaomi maltose
 eab650692db1c053
 samsung a12s
-97c38290cfaf2496 
+97c38290cfaf2496
+samsung d2s
+1cca0c195c5f53f3
+Xiaomi veux
+6bacc0be57b7526f
 
 jtorr
 Xiaomi machuca
