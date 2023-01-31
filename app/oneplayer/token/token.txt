@@ -11764,8 +11764,8 @@ samsung a02
 e6d9f7cbd0095569
 motorola caprip
 c1da9b06947d022d
-samsung a33x
-8babb04ed2f7331b
+Xiaomi lisa
+462663e93a180ccd
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12443,6 +12443,8 @@ Xiaomi oneday
 018e71f22229b260
 HMD Global DRSA_sprout
 5b4cc768296894c0
+samsung a13
+f453de0f03f8b876
 
 fierapro
 samsung a21s
