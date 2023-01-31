@@ -5,6 +5,8 @@ Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
 61e102e3c3040789
+unknown generic_x86
+64fbf8234a3875c1
 Xiaomi whyred
 9a3ba9d8acef31bc
 Google redfin
@@ -21273,8 +21275,8 @@ OnePlus HD1907
 3b107d344ddc0ba1
 
 fabianme +9
-samsung j6lte
-fcdd77d222a28ac7
+samsung a13
+722af6030ae7ae15
 
 jjalbe
 Xiaomi ginkgo
