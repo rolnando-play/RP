@@ -2884,6 +2884,8 @@ rockchip rk322x_box
 98f9e76d11458b8c
 Amlogic MXQ
 58976a1ce113be14
+Droidlogic ampere
+02e131781542dc85
 
 schulzo
 HMD Global BGT_sprout
