@@ -9611,8 +9611,8 @@ rockchip rk322x_box
 d5050969b8f5ec0d
 Amlogic p201
 624e677f947cb3b9
-Android MBOX
-51dc536453920899
+rockchip rk322x_box
+ef6cc969b3b00406
 +6 psc
 Hisilicon Hi3751V350
 71005f33a884ee63
