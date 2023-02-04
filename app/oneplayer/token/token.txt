@@ -3479,6 +3479,8 @@ rockchip rk322x_box
 bb12e8edc64b32e3
 Xiaomi machuca
 6e92b7e68f0b53bd
+Droidlogic ampere
+01ec45e2a3a26064
 
 aescobar9
 samsung y2s
