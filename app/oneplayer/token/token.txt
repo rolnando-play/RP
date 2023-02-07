@@ -19938,6 +19938,8 @@ samsung a71
 6fe9f950b489c65b
 samsung a51
 6ad1d8feab4bfb1f
+samsung gta7litewifi
+1439a45500eb451b
 
 rodriber
 rockchip MK
