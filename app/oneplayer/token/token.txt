@@ -1976,6 +1976,8 @@ dolphin dolphin_fvd_p1
 dcb74148c898b45b
 HMD Global ROGA_sprout
 17cf2cc04039106f
+Xiaomi vayu
+f1364472a9de9462
 
 seraqu
 Allwinner dolphin-fvd-p1
