@@ -5103,6 +5103,8 @@ rockchip rk3328_box
 a55713b51481d7e2
 Amazon sheldon
 4998f6799d2b0f7a
+Amazon sheldon
+93594ea75eb32422
 
 180agro
 rockchip rk322x_box
