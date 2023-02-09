@@ -10954,6 +10954,8 @@ Amazon sheldonp
 67c802561f34a2eb
 Amazon sheldonp
 a6fb1ef2f8619c90
+Amazon mantis
+f2e738400d1b47aa
 
 aleto71
 rockchip rk322x_box
