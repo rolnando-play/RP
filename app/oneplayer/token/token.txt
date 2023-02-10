@@ -4511,7 +4511,7 @@ cristianma +6 psc
 HUAWEI HWDRA-MG
 3ca6fad5f6599f43
 rockchip rk322x_box
-fda6635c1c373d9e
+291695bbef89f32a
 HUAWEI HWCUN-L6735
 bbb21e7275083299
 OnePlus OnePlus5
