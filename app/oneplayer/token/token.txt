@@ -19941,6 +19941,8 @@ rockchip rk322x_box
 marcosman
 HUAWEI HWNEN-Q
 0f023fd52a8b2b70
+samsung a23
+28639417b8b5239c
 
 anibalro
 Xiaomi merlinnfc
