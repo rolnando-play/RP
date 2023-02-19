@@ -10640,6 +10640,8 @@ Xiaomi beryllium
 056e1ba0b5ebb65e
 Xiaomi beryllium
 0fd3f8a7cc823b66
+samsung g0q
+8ba34b2b5ecd8dce
 
 lgsd26 +9
 SkyworthDigital LAS
