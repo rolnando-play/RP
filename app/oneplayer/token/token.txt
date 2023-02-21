@@ -15024,17 +15024,11 @@ dcba17000fcf88e1
 servicios_te
 dolphin dolphin-fvd-p1-Crechi
 46816d2b6fbc74d7
-R69-TVBOX-EdgarIS 
-a3a381a0a4288cd1
-+6
-Xiaomi TVBox-JBoga1
-15f2f658e5d5af52
-HUAWEI-P30-EdgarIS
-c837fb5660cea537
-samsung-tabA8-FPB
-d4339fa04a162b05
+samsung A04s
+2f16b39ee361ad30
 Doris1-R69
 e7106b55dfc8299f
++6
 Doris2-R69]
 b7cc6f25c2f66080
 
