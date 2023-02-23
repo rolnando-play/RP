@@ -3347,8 +3347,8 @@ motorola nio
 8f4fcf9325a9b372
 
 mariodav
-HUAWEI HWYAL
-a0f92dd28953085e
+samsung c2s
+1e3e6b0e45301f3d
 Hisilicon Hi3751V350
 53f972faf0e61f92
 Xiaomi oneday
