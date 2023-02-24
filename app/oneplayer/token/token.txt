@@ -46,7 +46,7 @@ a2b44d438cf41f91
 OnePlus OnePlusN10
 4312e076724de29e
 JOYAR 100011885
-a5324993bea298c4
+3b222713dcfca84a
 Google generic_x86
 e17504913b4df98d
 Google generic_x86
