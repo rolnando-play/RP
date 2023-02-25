@@ -11789,6 +11789,8 @@ motorola caprip
 c1da9b06947d022d
 Xiaomi lisa
 462663e93a180ccd
+Amazon sheldonp
+7a3b4144f0ccacfb
 
 danieljo
 Allwinner dolphin-fvd-p1
