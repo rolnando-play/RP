@@ -3302,7 +3302,7 @@ rockchip rk322x_box
 Android MDTV5G
 de9b5a429d072160
 Allwinner Transpeed_H616
-ce2401408c054c4e
+554f6be0e1df09c9
 
 ancri
 Amazon sheldon
@@ -18968,6 +18968,8 @@ Xiaomi oneday
 e22a3ba6f37f0fb1
 Allwinner t3-k2001q
 7c383885a7bf8b3c
+samsung g0q
+402a62318feafdca
 
 abelvi
 Xiaomi venus
