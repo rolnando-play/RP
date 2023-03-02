@@ -19503,6 +19503,8 @@ samsung d2s
 4617cf33325ca389
 Amazon sheldonp
 e48a4a050cd7d209
+samsung dm3q
+1d712690f7640c84
 
 ibarraf
 Amazon mantis
