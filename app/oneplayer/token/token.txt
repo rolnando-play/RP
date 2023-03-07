@@ -19293,6 +19293,8 @@ samsung a32
 f0c0c80eea2143bc
 Android MDTV5G
 cb5028c792845f89
+Android MDTV5G
+31fea6bed44c8a98
 
 ronald.r
 Amazon mantis
