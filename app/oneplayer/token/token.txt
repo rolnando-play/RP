@@ -10773,6 +10773,8 @@ rockchip rk322x_box
 correopara
 Xiaomi oneday
 381292d122dabae9
+Xiaomi oneday
+68636471412508a0
 
 ikspy +6
 samsung a51
