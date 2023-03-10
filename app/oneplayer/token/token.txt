@@ -15989,6 +15989,8 @@ rockchip rk322x_box
 e2a7d1696b57bb0d
 Amazon sheldon
 ca3ce860c268f2b2
+Amazon kara
+bb4d670114e94164
 
 agustinju
 rockchip rk322x_box
