@@ -20662,6 +20662,10 @@ rockchip rk322x_box
 bf9ae849164a8804
 Gecen Tiger foreverg
 8d69155621acf330
+Xiaomi soul
+2fb585547340be77
+Xiaomi soul
+7dacfa339252a651
 
 carlos@g
 samsung b2q
