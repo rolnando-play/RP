@@ -4206,6 +4206,8 @@ Amlogic p281
 764f9dee1de79db5
 Allwinner dolphin-fvd-p1
 7251af99111b4243
+Xiaomi oneday
+50f48a48bb1e9cc1
 
 ricardotol
 rockchip rk322x_box
