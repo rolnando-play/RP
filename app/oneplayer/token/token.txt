@@ -4336,7 +4336,7 @@ b97068b2dcfef3ff
 Xiaomi oneday
 ebd16bc848a91388
 Xiaomi vayu
-5d0685a4b949a194
+331984c368cf74ec
 Google boreal
 dbe4e67dc05cb16e
 Xiaomi lavender
