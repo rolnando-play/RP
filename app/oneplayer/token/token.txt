@@ -10103,8 +10103,8 @@ SDMC DV8235
 giarru
 Amazon sheldonp
 fe873091a14cdb07
-Xiaomi vayu
-394f4853f9371e03
+samsung a53x
+f7ac6edf4e567b96
 rockchip rk322x_box
 5acfef747d239e13
 
