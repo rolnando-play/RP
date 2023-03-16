@@ -21880,3 +21880,5 @@ Xiaomi sweetin
 juan260
 samsung a31
 42f3fe9c4f05f462
+Allwinner dolphin-fvd-p1
+131ffeddacf8a1a0
