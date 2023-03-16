@@ -11707,8 +11707,8 @@ a67da42f71f01f20
 +18
 samsung a72q
 1384a1425885294c
-Xiaomi merlin
-bf2a606ef32adbbf
+Xiaomi oneday
+602f22b019f89d1a
 dolphin SBQ-SM007
 dab64f426e022a59
 rockchip rk322x_box
