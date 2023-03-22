@@ -18382,7 +18382,7 @@ rockchip rk322x_box
 samsung a51
 e8f386659edd10ef
 Xiaomi alioth
-bd925664a776727a
+1d73f39b4ee22030
 +5
 Amazon tank
 8d1f6c2fc90fe81a
