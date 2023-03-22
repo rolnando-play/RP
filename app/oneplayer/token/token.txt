@@ -3489,6 +3489,8 @@ Xiaomi machuca
 6e92b7e68f0b53bd
 Droidlogic ampere
 01ec45e2a3a26064
+Droidlogic ampere
+43d7944040659bd0
 
 aescobar9
 samsung y2s
