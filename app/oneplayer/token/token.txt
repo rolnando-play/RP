@@ -21888,3 +21888,5 @@ Allwinner dolphin-fvd-p1
 kbode
 Realtek rtd289x_tv001
 87e790f10776192c
+MTK cvt_mt5886_sa
+4c967cff82c29314
