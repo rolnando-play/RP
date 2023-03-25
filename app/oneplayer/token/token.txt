@@ -20031,6 +20031,9 @@ MTK cvt_mt5886_sa
 75236186301027e7
 Android MBOX
 39809aabe9e9cee4
++5
+Hivendor p281
+2a7e43caadc50c58
 
 edujar
 samsung a71
