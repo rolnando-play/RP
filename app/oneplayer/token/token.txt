@@ -3304,7 +3304,7 @@ rockchip rk322x_box
 Android MDTV5G
 de9b5a429d072160
 Allwinner Transpeed_H616
-554f6be0e1df09c9
+ce2401408c054c4e
 
 ancri
 Amazon sheldon
