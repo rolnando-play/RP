@@ -3301,8 +3301,8 @@ Allwinner dolphin-fvd-p1
 hraya
 rockchip rk322x_box
 2665aab60726e7b7
-Android MDTV5G
-de9b5a429d072160
+Allwinner Transpeed_H616
+554f6be0e1df09c9
 Allwinner Transpeed_H616
 ce2401408c054c4e
 
