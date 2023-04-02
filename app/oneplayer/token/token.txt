@@ -10751,7 +10751,7 @@ samsung a21s
 rockchip rk322x_box
 82310749f60df93c
 Xiaomi oneday
-485169451176c327
+010bb6c3e5438452
 
 victor@f
 Amazon mantis
