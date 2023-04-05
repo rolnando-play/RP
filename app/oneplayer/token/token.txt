@@ -13503,6 +13503,8 @@ Amazon sheldon
 b76f1a38735f7797
 Amazon sheldon
 a152a8418caaa45e
+Amazon sheldon
+9561bf339a0a6350
 
 chavezqu
 HUAWEI HWMAR
@@ -21071,6 +21073,7 @@ Xiaomi aquaman
 451009a23f3faae1
 rockchip rk3328_box
 6001eb8778311f41
++5
 
 carlosbra
 rockchip rk322x_box
