@@ -21076,6 +21076,8 @@ Xiaomi aquaman
 rockchip rk3328_box
 6001eb8778311f41
 +5
+rockchip rk322x_box
+672fa28ca9137210
 
 carlosbra
 rockchip rk322x_box
