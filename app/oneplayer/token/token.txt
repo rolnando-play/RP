@@ -2663,6 +2663,11 @@ Xiaomi sweet
 755da037ba87e86f
 Xiaomi aquaman
 bbedf3189f60cd36
++5
+Xiaomi diting
+ba70c05dea35e896
+Xiaomi sweet
+bef517f2cc749e5b
 
 roroc
 Rockchip rk3328_box
