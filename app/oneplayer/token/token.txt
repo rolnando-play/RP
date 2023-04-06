@@ -11158,8 +11158,8 @@ Amazon sheldon
 Hisilicon Hi3751V350
 45052f89735936f7
 arruaf +6
-rockchip rk322x_box
-faecea792fecd09e
+Changhong ikebukuro
+3e9f0f6da5797f05
 MBOX dolphin-p1
 2d20ad6bd1fcbfd5
 Allwinner dolphin-fvd-p1
