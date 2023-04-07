@@ -21088,6 +21088,8 @@ rockchip rk3328_box
 +5
 rockchip rk322x_box
 672fa28ca9137210
+Amazon sheldon
+024fa67bc8257c2c
 
 carlosbra
 rockchip rk322x_box
