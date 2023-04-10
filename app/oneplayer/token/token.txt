@@ -666,6 +666,9 @@ LENOVO YT-X705L
 6023077c8fe1807e
 samsung j4primelte
 22c471c7b7261453
++10
+samsung z3q
+655ab5399d510a5c
 
 ampi_h
 r69
