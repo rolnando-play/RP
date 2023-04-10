@@ -1024,8 +1024,8 @@ rockchip rk3328_box
 
 Cartor
 c8783b3a95d3c6fe
-rockchip rk3328_box
-8fac37abde5639ec
+Rockchip rockchip006
+5c4a9fa35e4aef8a
 Amlogic nexbox_a95x
 dbd9d52613c093aa
 
