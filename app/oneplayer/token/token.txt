@@ -21944,6 +21944,8 @@ MTK cvt_mt5886_sa
 4c967cff82c29314
 Amlogic p282
 668fbcb17cfaafb6
+Amlogic p282
+781feda329952116
 
 velozoa
 motorola java
