@@ -14432,6 +14432,8 @@ Rockchip rk3328_box
 34e6d6cbae0a4597
 samsung r8q
 7d8c58dcbb42c879
+Amazon mantis
+1c090da8562a395
 
 oscarama
 Amazon sheldon
