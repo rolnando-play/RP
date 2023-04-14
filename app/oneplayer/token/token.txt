@@ -21952,6 +21952,8 @@ Amlogic p282
 668fbcb17cfaafb6
 Amlogic p282
 781feda329952116
+Allwinner dolphin-fvd-p1
+6fc18d1f42b06017
 
 velozoa
 motorola java
