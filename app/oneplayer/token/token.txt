@@ -933,8 +933,8 @@ Amlogic p281
 6be61807c582af19
 
 azogi
-R69
-6b14c05a6b041992
+Amlogic p281
+f7c4b1440c126011
 P3 LITE
 c4c01c48e93a04b9
 r69
