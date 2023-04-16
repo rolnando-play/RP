@@ -12499,8 +12499,8 @@ samsung a13
 f453de0f03f8b876
 
 fierapro
-samsung a21s
-124c926d14c36eae
+samsung a23
+e295e3e156dd0b4b
 
 gonzalochu
 TCL BeyondTV
