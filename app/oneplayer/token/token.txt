@@ -13836,6 +13836,8 @@ HUAWEI HWJNY
 5dbcdfda8f4e0592
 Amlogic p281
 38cec7a18f955b82
+Amlogic p281
+891c749f99c8fb7d
 
 jmtv19 +10 psc
 Xiaomi aquaman
