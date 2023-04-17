@@ -20148,6 +20148,8 @@ SDMC DV8547
 4dad8034d2971fe9
 TCL UnionTV
 4e78e19209ea1b0b
+Hisense songshan
+2de5d18e57cbf5b7
 
 rpedroz
 rockchip rk322x_box
