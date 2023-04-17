@@ -19539,6 +19539,8 @@ HUAWEI HWDUB-Q
 b7ddea79fa656dab
 Realtek RealtekATV
 22b8bd516ca85f69
+samsung a12s
+b8285ad8afd61e59
 
 kiketo.or
 HUAWEI HWMAR
