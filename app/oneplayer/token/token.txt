@@ -6004,6 +6004,8 @@ rockchip rk322x_box
 bc1e692b2541eb32
 Android MBOX
 28b35c0b9bb7ad73
+Allwinner dolphin-fvd-p1
+bba964d0313abe8b
 
 augu19 +6 psc
 rockchip rk322x_box
