@@ -9,6 +9,8 @@ unknown generic_x86
 64fbf8234a3875c1
 Xiaomi whyred
 9a3ba9d8acef31bc
+unknown generic_x86
+ea552aaae59fa342
 Google redfin
 458d8cc8b6b04f62
 Google generic_x86
