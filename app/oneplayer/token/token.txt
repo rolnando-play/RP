@@ -11178,8 +11178,7 @@ Hisilicon Hi3751V350
 arruaf +6
 Changhong ikebukuro
 3e9f0f6da5797f05
-Xiaomi camellian
-781960c1d953e5d9
+
 Allwinner dolphin-fvd-p1
 9a4147784e52297e
 samsung a12
