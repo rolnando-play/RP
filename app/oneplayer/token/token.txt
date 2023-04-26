@@ -21127,6 +21127,8 @@ Allwinner dolphin-fvd-p1
 d9475428fd8e0b9e
 rockchip rk3328_box
 19a1d4d92c9520b7
+Amazon sheldon
+cc0874e84b8d3622
 
 carlosbra
 rockchip rk322x_box
