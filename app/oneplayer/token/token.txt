@@ -11251,7 +11251,8 @@ MBOX dolphin-p1
 95e59c2cd24aef7a
 dolphin dolphin_fvd_p1
 e174f0839f4cde85
-
+HUAWEI HWANE
+a45011055faccc1d
 Xiaomi oneday
 db3ac6dc232cab43
 Xiaomi fleur
