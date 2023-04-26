@@ -740,6 +740,9 @@ Amazon mantis
 55f6886360cf685b
 Google boreal
 1e232cb5eba9e253
++10
+realme RED8ACL1
+f13c86b8e425efce
 
 alcicd
 sm-g610m
@@ -11180,8 +11183,8 @@ Changhong ikebukuro
 3e9f0f6da5797f05
 Xiaomi veux
 ee9a3c9d9dc8b1d7
-Allwinner dolphin-fvd-p1
-9a4147784e52297e
+Xiaomi merlinnfc
+e2aedecc6b2d4cd2
 samsung a12
 ae064ab2186d91e0
 dolphin SBQ-SM007
