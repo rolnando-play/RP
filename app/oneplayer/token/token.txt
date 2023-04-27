@@ -18992,8 +18992,8 @@ rockchip rk322x_box
 9d9e392781c22604
 rockchip rk322x_box
 1c3240cac881bd94
-MTK cvt_mt5863_sa
-c17cbb988382a0c0
+Android MDTV5G
+637a5cfc4cef395e
 MTK cvt_mt5863_sa
 c17cbb988382a0c0
 
