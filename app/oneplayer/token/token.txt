@@ -6546,6 +6546,8 @@ rockchip rk322x_box
 4c64ad8e5bd4a5fc
 MTK cvt_mt5863_sa
 403bc17a387415ba
+Xiaomi vili
+498ff4dcf58aafc7
 
 pechoc
 Google sabrina
