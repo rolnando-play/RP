@@ -6169,6 +6169,8 @@ rockchip rk322x_box
 1454e875cba45834
 LENOVO 8505F
 b0681046a5ae6b96
+Amazon onyx
+0e82733d7e12a350
 
 cuentatv
 Allwinner dolphin-fvd-p1
