@@ -19128,24 +19128,14 @@ CVTE SMART_PB801
 6be91be3664ad2a6
 
 josega9 +9
-samsung y2s
-c7275786b922fdc5
 SkyworthDigital LAS
 3761cf206abc8946
-Amlogic p281
-ee14cd3455cb4fe2
-rockchip rk3328_box
-dc6cdd0944c78606
-askey stephen
-0828a097b2da1033
 Xiaomi lancelot
 7386ff6eac6423ca
-samsung beyond2
-323cd0ea698cd3e5
-rockchip rk3328_box
-23135716f6dbca7a
 askey sti6140d360
 e04959a0f118dded
+samsung t2s
+450c3d963943fbe9
 
 santiagob +6
 Xiaomi raphael
