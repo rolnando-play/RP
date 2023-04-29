@@ -745,6 +745,8 @@ realme RED8ACL1
 f13c86b8e425efce
 Google boreal
 dafb44edc37c5935
+Google boreal
+9b95545f8d1e9acd
 
 alcicd
 sm-g610m
