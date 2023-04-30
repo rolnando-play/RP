@@ -21916,6 +21916,8 @@ Amazon kara
 f5f1e9837d4eb076
 Amazon mantis
 e037d9b2bf8a512b
+Amazon sheldonp
+ff40c26fc9064fd0
 
 sheeno +5
 Amlogic p212
