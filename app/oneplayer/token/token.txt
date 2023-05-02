@@ -20560,6 +20560,8 @@ rockchip rk322x_box
 af5b2bac36826a13
 rockchip rk322x_box
 98d49ef673865e07
+Amazon mantis
+dda48df3424a7b11
 
 mariaram
 samsung a30s
