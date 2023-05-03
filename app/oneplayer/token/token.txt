@@ -11197,8 +11197,8 @@ samsung a12
 ae064ab2186d91e0
 dolphin SBQ-SM007
 90495b9c6acdf145
-samsung a12
-f684bdfbcbf0f08c
+Xiaomi vayu
+b4c6117f622010c7
 +3
 Xiaomi aquaman
 6a304e00d1f07a8d
