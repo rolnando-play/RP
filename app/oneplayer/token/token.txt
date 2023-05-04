@@ -19334,6 +19334,8 @@ Google sabrina
 ea29d9f4200e4af6
 rockchip rk322x_box
 c79c0f6d98b75be7
+rockchip MK
+b5d3ed6bc285f1f7
 
 roloca
 MTK cvt_mt5886_sa
