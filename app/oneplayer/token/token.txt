@@ -21989,6 +21989,9 @@ Amlogic p282
 781feda329952116
 Allwinner dolphin-fvd-p1
 6fc18d1f42b06017
++15
+rockchip rk322x_box
+8792c1c93b50cd89
 
 velozoa
 motorola java
