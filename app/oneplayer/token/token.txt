@@ -13554,6 +13554,8 @@ Amazon sheldon
 9e5edd2f87091013
 dolphin dolphin_fvd_p1
 12d9418a7ca03179
+HongXin hx_s905x
+eeec7a2d9399a9a2
 
 chavezqu
 HUAWEI HWMAR
