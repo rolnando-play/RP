@@ -13556,6 +13556,8 @@ dolphin dolphin_fvd_p1
 12d9418a7ca03179
 HongXin hx_s905x
 eeec7a2d9399a9a2
+Amazon sheldonp
+8e5c5552aa19afa7
 
 chavezqu
 HUAWEI HWMAR
