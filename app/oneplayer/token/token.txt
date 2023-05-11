@@ -1998,6 +1998,8 @@ HMD Global ROGA_sprout
 17cf2cc04039106f
 Xiaomi vayu
 f1364472a9de9462
+HMD Global MGKA_sprout
+561eb78271fe5da0
 
 seraqu
 Allwinner dolphin-fvd-p1
