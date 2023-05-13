@@ -11846,6 +11846,9 @@ Amazon sheldonp
 7a3b4144f0ccacfb
 Xiaomi olive
 7254fc5ef7522f52
++10
+Xiaomi soul
+2da8b376cd9e033f
 
 danieljo
 Allwinner dolphin-fvd-p1
