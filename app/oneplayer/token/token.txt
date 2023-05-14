@@ -11849,6 +11849,8 @@ Xiaomi olive
 +10
 Xiaomi soul
 2da8b376cd9e033f
+motorola caprip
+2a56b77b03e1ad0b
 
 danieljo
 Allwinner dolphin-fvd-p1
