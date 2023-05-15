@@ -2917,6 +2917,8 @@ Amlogic MXQ
 58976a1ce113be14
 Droidlogic ampere
 02e131781542dc85
+streambus p212
+4682d8cdabbf5139
 
 schulzo
 HMD Global BGT_sprout
