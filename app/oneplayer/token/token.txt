@@ -5739,6 +5739,8 @@ Google sabrina
 c8d83d84579d9278
 Google boreal
 acfc58c55f5ee6df
+Amazon trona
+fe4504d54f743239
 
 psicov
 Xiaomi lavender
