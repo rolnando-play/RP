@@ -15108,12 +15108,10 @@ dolphin dolphin_fvd_p1
 18c4b355e039357d
 
 matiasva
-samsung r8q
-2da89565911e9a5e
+samsung c2s
+a487aa477132b672
 Xiaomi oneday
-408ffb37de73027f
-rockchip rk322x_box
-a1fea8904968186c
+6cdd4c278b9af4b2
 
 gustavocol
 Amazon sheldon
