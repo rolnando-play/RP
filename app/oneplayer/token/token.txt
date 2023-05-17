@@ -21178,6 +21178,8 @@ Google boreal
 95e1444c441ea5b5
 Xiaomi aquaman
 540a2bb448c148e2
+Hisilicon Hi3751V350
+e0adee4993ced008
 
 carlosbra
 rockchip rk322x_box
