@@ -21182,6 +21182,8 @@ Xiaomi aquaman
 540a2bb448c148e2
 Hisilicon Hi3751V350
 e0adee4993ced008
+Amazon sheldon
+9929261c254e76ba
 
 carlosbra
 rockchip rk322x_box
