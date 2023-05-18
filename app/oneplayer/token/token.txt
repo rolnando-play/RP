@@ -21705,6 +21705,8 @@ dolphin dolphin_fvd_p1
 f117e87d4390fb8d
 rockchip rk322x_box
 dd6e6dad5c3dd4b
+Allwinner dolphin-fvd-p1
+13c4977aa9742dab
 
 arnaldora
 samsung a12
