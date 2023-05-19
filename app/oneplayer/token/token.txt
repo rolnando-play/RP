@@ -21184,6 +21184,8 @@ Hisilicon Hi3751V350
 e0adee4993ced008
 Amazon sheldon
 9929261c254e76ba
+Amazon sheldon
+8838334cb13da2d6
 
 carlosbra
 rockchip rk322x_box
