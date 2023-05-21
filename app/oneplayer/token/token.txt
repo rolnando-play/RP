@@ -6888,6 +6888,8 @@ Xiaomi oneday
 0c71140b45de4ed5
 samsung a70q
 650b7c25a732dba7
+Xiaomi oneday
+8778d9d3b66a30f1
 
 edgaram
 Xiaomi vayu
