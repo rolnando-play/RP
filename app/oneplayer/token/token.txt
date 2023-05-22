@@ -15354,6 +15354,8 @@ HUAWEI HWNOH
 8f8609602acd7f82
 Amazon mantis
 668e4f2bdd4fef53
+HUAWEI HWDCO
+2c41254265781c7d
 
 eddyerw
 Xiaomi apollo
