@@ -2000,6 +2000,8 @@ Xiaomi vayu
 f1364472a9de9462
 HMD Global MGKA_sprout
 561eb78271fe5da0
+Xiaomi vayu
+e93996514ac5b911
 
 seraqu
 Allwinner dolphin-fvd-p1
