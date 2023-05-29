@@ -7,6 +7,8 @@ unknown generic_x86
 61e102e3c3040789
 unknown generic_x86
 64fbf8234a3875c1
+unknown generic_x86
+2bac7d464fb49bef
 Xiaomi whyred
 9a3ba9d8acef31bc
 unknown generic_x86
