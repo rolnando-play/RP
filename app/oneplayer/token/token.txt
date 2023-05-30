@@ -19182,7 +19182,9 @@ askey sti6140d360
 e04959a0f118dded
 samsung t2s
 450c3d963943fbe9
-
+Xiaomi curtana
+0d1504ce5506e58c
+ 
 santiagob +6
 Xiaomi raphael
 a9bca1dd53d7c94c
