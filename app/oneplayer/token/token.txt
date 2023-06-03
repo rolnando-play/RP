@@ -19908,6 +19908,8 @@ Amazon sheldon
 f67ff86bddedace8
 Amazon sheldonp
 f2d5fbf3fd84d57c
+samsung b4q
+ea0d76bbc2aaf29b
 
 nuzzar +6
 Xiaomi renoir
@@ -20094,8 +20096,8 @@ samsung a71
 6fe9f950b489c65b
 samsung a51
 6ad1d8feab4bfb1f
-samsung gta7litewifi
-1439a45500eb451b
+samsung gta7lite
+074725fb4f71f06e
 
 rodriber
 rockchip MK
