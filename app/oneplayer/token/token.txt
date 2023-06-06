@@ -13286,8 +13286,8 @@ samsung beyond2
 e3d9f9b0d096a687
 dolphin dolphin-fvd-p1
 53eee207b8392524
-Xiaomi ginkgo
-38299a0567a58033
+Xiaomi oneday
+cef16709bb30a9dc
 
 penha.pi
 Google titan-p1
