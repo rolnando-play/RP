@@ -19318,7 +19318,7 @@ bb332f1b77dbffd9
 Xiaomi viva
 3e26fd219a2d5828
 Allwinner dolphin-fvd-p1
-5c26e36e3ec803ce
+e7693cc2f91d451e
 Xiaomi ginkgo 
 24f5c89cd9d1827d
 dolphin dolphin_fvd_p1
