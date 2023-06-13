@@ -11865,6 +11865,8 @@ Xiaomi soul
 2da8b376cd9e033f
 Xiaomi surya
 d7b31777e0c58110
+Xiaomi surya
+c7d644ca15ad726c
 
 danieljo
 Allwinner dolphin-fvd-p1
