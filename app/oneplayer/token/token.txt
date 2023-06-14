@@ -19195,7 +19195,13 @@ samsung t2s
 450c3d963943fbe9
 Xiaomi curtana
 0d1504ce5506e58c
- 
+ Amazon sheldonp
+f20d7c8dcb03ec4f
+Xiaomi curtana
+0d1504ce5506e58c
+samsung z3q
+3646e42aea9a5246
+
 santiagob +6
 Xiaomi raphael
 a9bca1dd53d7c94c
