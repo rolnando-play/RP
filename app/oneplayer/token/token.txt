@@ -3524,6 +3524,9 @@ Droidlogic ampere
 43d7944040659bd0
 Allwinner dolphin-fvd-p1 
 3fe18267c57ce6cc
++5
+dolphin dolphin_fvd_p1
+130b6a8ab3f57bad
 
 aescobar9
 samsung y2s
