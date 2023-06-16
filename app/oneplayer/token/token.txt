@@ -3167,8 +3167,8 @@ Xiaomi vayu
 311fbcaea2a0f593
 
 mecagoen
-dolphin dolphin-fvd-p1
-3f6d1938ed24dcbe
+rockchip rk322x_box
+f54663fdac6efa5e
 MTK cvt_mt5863_sa
 d3fd20857756097a
 rockchip rk322x box 
