@@ -22128,6 +22128,8 @@ Xiaomi oneday
 60dc822ded9c7f3b
 Amazon tank
 d76f79a3bdbe242e
+Asus fugu
+9d19bd97f1001322
 
 bangof
 Amlogic p282
