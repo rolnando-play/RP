@@ -5610,6 +5610,8 @@ samsung a02
 deebadff77a58c21
 Android MDTV5G
 8c48315a7d7e1e8a
+Android MDTV5G
+72facd3d71cc5b1b
 
 falope
 Amlogic p281
