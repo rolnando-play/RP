@@ -1989,25 +1989,11 @@ DUB-ULTRA
 b51f4d199b18221f
 
 martinezde
-HMD Global WVR_sprout
-afc983cf02c213fb
-HMD Global WVR_sprout
-ae01f07bf7c99cee
-HMD Global WVR_sprout
-88fb6a228201f1a5
-+6
-Xiaomi vayu
-c94388830f2f5534
-dolphin dolphin_fvd_p1
-dcb74148c898b45b
-HMD Global ROGA_sprout
-17cf2cc04039106f
-Xiaomi vayu
-f1364472a9de9462
-HMD Global MGKA_sprout
-561eb78271fe5da0
 Xiaomi vayu
 e93996514ac5b911
+HUAWEI HWMGA-H
+d1f916b093544e56
++6
 
 seraqu
 Allwinner dolphin-fvd-p1
