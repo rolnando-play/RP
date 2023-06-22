@@ -1355,6 +1355,8 @@ Android MDTV5G
 5707dcf6209815f8
 samsung a12s
 5f2a5c3f015ace4f
+dolphin dolphin_fvd_p1
+6dae4cc1005e7a01
 
 rtomas
 d60a22d61c15d036
