@@ -11860,6 +11860,8 @@ Xiaomi surya
 d7b31777e0c58110
 HUAWEI HWEVA
 55ffe4616dc5113b
+Xiaomi spes
+369123323a5ea088
 
 danieljo
 Allwinner dolphin-fvd-p1
