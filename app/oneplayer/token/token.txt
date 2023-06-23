@@ -11858,8 +11858,8 @@ Xiaomi soul
 2da8b376cd9e033f
 Xiaomi surya
 d7b31777e0c58110
-samsung a51
-fed7f0f57a9cfe5d
+HUAWEI HWEVA
+55ffe4616dc5113b
 
 danieljo
 Allwinner dolphin-fvd-p1
