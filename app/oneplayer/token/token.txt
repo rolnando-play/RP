@@ -22122,6 +22122,8 @@ Amazon tank
 d76f79a3bdbe242e
 Asus fugu
 9d19bd97f1001322
+Google sabrina
+575bdd1df18e50d0
 
 bangof
 Amlogic p282
