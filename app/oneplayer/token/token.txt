@@ -11864,6 +11864,8 @@ Xiaomi spes
 369123323a5ea088
 Xiaomi soul
 0eda8eeec27006aa
+rockchip rk322x_box
+d676c0509bca5506
 
 danieljo
 Allwinner dolphin-fvd-p1
