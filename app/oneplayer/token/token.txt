@@ -11940,7 +11940,7 @@ angelpa btc
 rockchip rk322x_box
 426461193191175b
 samsung j7velte
-2bc4cde2ccf80526
+b2bd50c8d65986df
 rockchip rk322x_box
 9de112f63294f10f
 
