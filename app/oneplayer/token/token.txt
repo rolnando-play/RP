@@ -11943,6 +11943,8 @@ samsung j7velte
 b2bd50c8d65986df
 rockchip rk322x_box
 9de112f63294f10f
+rockchip rk322x_box
+2b0669ab9ff90a02
 
 javi.ca
 Allwinner android_tv_box
