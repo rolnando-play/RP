@@ -22136,3 +22136,7 @@ Google sabrina
 bangof
 Amlogic p282
 1def230941bedd2a
+
+juanchopp +10
+Xiaomi oneday
+ab7745e11c2b0c44
