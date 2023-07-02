@@ -10148,6 +10148,8 @@ SDMC DV8547
 7e5079e6f9304b6c
 samsung a30s
 3a510ae88ac484aa
+Xiaomi soul
+cad4cde8310fe0fe
 
 che.poc
 samsung dreamlte
