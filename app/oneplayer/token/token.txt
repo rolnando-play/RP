@@ -2861,6 +2861,8 @@ HUAWEI HWSTK-HF
 d3035c6d1f17184c
 rockchip rk322x_box
 302ffadc5348dc04
+rockchip rk322x_box
+3050b933cab61a58
 
 marielo
 Xiaomi begonia
@@ -11868,6 +11870,8 @@ Xiaomi soul
 0eda8eeec27006aa
 rockchip rk322x_box
 d676c0509bca5506
+Amazon sheldon
+b66d2eabf4fdfb3d
 
 danieljo
 Allwinner dolphin-fvd-p1
