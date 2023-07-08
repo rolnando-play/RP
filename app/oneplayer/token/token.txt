@@ -1066,6 +1066,10 @@ tv box
 b57aead3e2ee1d7b
 Xiaomi aquaman
 c186d92fe1768845
+samsung starlte
+51e3868551ad8106
+Changhong redwood
+ab91a3801ef47dc4
 
 aguero.j
 SM-G985F
