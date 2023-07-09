@@ -3937,8 +3937,8 @@ Xiaomi ginkgo
 8936e098959cb4e2
 motorola odessa
 8323f75088923609
-samsung a3core
-f3493dbc9d1584f7
+HUAWEI HWANE
+58bbdab51015eed6
 
 estelade
 Xiaomi cepheus
