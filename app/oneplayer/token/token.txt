@@ -6489,6 +6489,8 @@ Amazon sheldonp
 9c2ad4b27c05b1f3
 Xiaomi oneday
 85afe91c67519db4
+Amazon mantis
+e03186b6b28971de
 
 pjc1208 +9
 rockchip rk322x_box
