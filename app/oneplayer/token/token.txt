@@ -19671,6 +19671,8 @@ Amazon sheldonp
 e48a4a050cd7d209
 samsung dm3q
 1d712690f7640c84
+Amazon kara
+523c5fc658ce8a38
 
 ibarraf
 Amazon mantis
