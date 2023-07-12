@@ -11880,6 +11880,10 @@ rockchip rk322x_box
 d676c0509bca5506
 Amazon sheldon
 b66d2eabf4fdfb3d
+Xiaomi veux
+5c73fcaeb44751e9
+Amazon tank
+1b0250a04a74a99d
 
 danieljo
 Allwinner dolphin-fvd-p1
