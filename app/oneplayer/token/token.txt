@@ -16197,6 +16197,8 @@ Xiaomi oneday
 03d40b165e223027
 Amazon kara
 fe856bf608b13c11
+Amazon kara
+579dbaac66199d7e
 
 gcgab +6
 Xiaomi surya
