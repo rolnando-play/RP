@@ -20704,6 +20704,8 @@ rockchip rk322x_box
 384960d39a05cadb
 rockchip rk322x_box
 6035d83c2e8799df
+rockchip rk322x_box
+1b69b9f2721352cc
 
 rabanota
 Xiaomi oneday
