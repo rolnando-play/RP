@@ -20659,7 +20659,7 @@ gabyca
 motorola sofiar
 28a55da84fb08a9f
 Skyworth globe_sa
-1e859553938bae26
+658b719eda2a6f85
 motorola rhode
 6b6d02f382e67032
 
