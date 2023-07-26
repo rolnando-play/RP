@@ -728,6 +728,8 @@ DUB ULTRA
 e798becc7726c26c
 samsung beyond2
 2ebe664a01a5ed3b
+Xiaomi munch
+f368a52119db9419
 
 diegose
 R69
