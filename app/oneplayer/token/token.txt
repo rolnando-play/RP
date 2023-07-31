@@ -19391,7 +19391,7 @@ Android MDTV5G
 f1f26651b590adae
 +6
 rockchip rk322x_box
-1076980136526104
+ba993c40cc205d2a
 Android MDTV5G
 e7a3b8d95270b9da
 Xiaomi oneday
