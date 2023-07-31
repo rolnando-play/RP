@@ -20998,6 +20998,9 @@ MTK cvt_mt5863_sa
 c3ff794ab52401e2
 Amazon sheldon
 59b334bc6e725abf
++5 psc
+Google sabrina
+86608f45dc4218e2
 
 cadavid
 Sony BRAVIA_ATV2
