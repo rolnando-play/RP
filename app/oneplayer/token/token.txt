@@ -15126,6 +15126,8 @@ samsung a30s
 6656809e3b11bac3
 samsung r8q
 c4ed56f3c6e60dca
+onn YOC
+3b4b89b1a090b1ca
 
 endoscopia
 BLU V0310WW
