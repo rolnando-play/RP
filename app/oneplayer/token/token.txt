@@ -140,7 +140,7 @@ unknown generic_x86
 askey sti6140d360
 11aa8a55e0e1dba9
 Google sabrina
-d7ac120391d39180
+d7ac120391d39180X
 
 meee
 Asus fugu
