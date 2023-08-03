@@ -1,6 +1,6 @@
 adm
 Google oriole
-af366c2f44a1581cX
+af366c2f44a1581c
 Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
