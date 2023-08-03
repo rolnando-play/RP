@@ -903,8 +903,8 @@ Xiaomi-TVBOX-Ferpe1
 120da7945c625c11
 FP-R69-HOME 
 8b8ac546b5e3508a
-SM-N970F
-13e5370d4a6cfa6d
+A24-FP-ITSG
+2c9ac7a261f51bb7
 samsung a12s
 5141aca421d6636c
 Allwinner dolphin-fvd-p1
