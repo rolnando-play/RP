@@ -48,7 +48,7 @@ askey stephen
 Google generic_x86
 e8ad45395f5219e4
 Amazon sheldon
-a2b44d438cf41f91
+a2b44d438cf41f91X
 OnePlus OnePlusN10
 4312e076724de29e
 JOYAR 100011885
