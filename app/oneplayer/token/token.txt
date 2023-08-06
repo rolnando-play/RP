@@ -22219,3 +22219,5 @@ HXY BISON_R
 7dc0482db4bf368d
 Realtek RealtekATV
 279a494d953ba40d
+Amazon sheldonp
+4ecd10ee18a7fb8f
