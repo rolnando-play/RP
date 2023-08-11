@@ -4055,10 +4055,6 @@ rockchip rk3328_box
 af2a1b10b0f20aeb
 
 jordy6 +6
-rockchip rk322x_box
-87b9ace80785e94a
-samsung a21s
-8502092dc12ca56f
 dolphin SBQ-SM007
 652eae1f599338a0
 Amazon tank
@@ -4067,6 +4063,8 @@ Amazon mantis
 93ee5150a122263d
 SkyworthDigital YYT
 1651aa9a5aa875fe
+SkyworthDigital HP40A2
+d4c80d03932e0254
 
 marcelogonz
 rockchip rk322x_box
