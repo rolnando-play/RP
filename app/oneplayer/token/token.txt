@@ -10836,6 +10836,8 @@ Amazon tank
 c.vazq
 Xiaomi oneday
 39c280bec43f6b49
+Amazon sheldonp
+3acc8b48286f2516
 
 timog
 samsung a53g
