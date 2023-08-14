@@ -18575,6 +18575,8 @@ Xiaomi oneday
 1defc647095baf20
 Amazon sheldon
 6718764cac009f76
+KTC zhongshan
+02659b9d338402af
 
 angeltum
 Allwinner dolphin-fvd-p1
