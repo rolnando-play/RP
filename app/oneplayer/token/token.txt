@@ -18663,6 +18663,8 @@ samsung a5y17lte
 d661f6ded3bfd16f
 Xiaomi camellian
 3ed9c6936fbcad53
+samsung a30
+487390dad0303c53
 
 zappin +9
 Xiaomi nino
