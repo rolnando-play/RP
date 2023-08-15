@@ -3172,7 +3172,7 @@ Xiaomi vayu
 
 mecagoen
 rockchip rk322x_box
-e7d67b4d2ae4b574
+fe2bdb65e49d9094
 MTK cvt_mt5863_sa
 d3fd20857756097a
 rockchip rk322x box 
@@ -14958,6 +14958,8 @@ Google sabrina
 f2796f2ab13697a1
 samsung manta
 39f0377b16cc0e58
+TECNO TECNO-KI7
+468480efa7d8abc8
 
 silvio_7
 rockchip rk3188
