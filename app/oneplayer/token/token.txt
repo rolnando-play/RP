@@ -11909,6 +11909,8 @@ BTV p212
 c0387765dd0fbe6b
 rockchip rk322x_box
 a04c404694f24fc2
+rockchip rk322x_box
+8880b30c9f02e298
 
 danieljo
 Allwinner dolphin-fvd-p1
