@@ -9,6 +9,8 @@ Amlogic nexbox_a95x
 2b0bc679db6298fa
 unknown generic_x86
 64fbf8234a3875c1
+unknown generic_x86
+7a77d6c0269f8f19
 unknown generic_x86_64
 14bc6a92c596ad40
 Google generic_x86_arm
