@@ -12657,6 +12657,8 @@ dolphin dolphin_fvd_p1
 358e9ef3d6ebc884
 samsung crownqltechn
 6a0bc43eddca7592
+samsung gta7lite
+d42b3003565fb1c8
 
 adri.pin
 samsung a30
