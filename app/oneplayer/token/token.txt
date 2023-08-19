@@ -21140,18 +21140,12 @@ Xiaomi aquaman
 090bf8030f284deb
 
 carlos_bo +6
-samsung a01q
-ebe8d1be57f7f018
-Xiaomi aquaman
-dd133d5b277646a0
-Amlogic p281
-92e3a19a45fd9979
-MBOX dolphin-p1
-90b8df7de32cb983
 Amazon sheldonp
 9bfb535ca14219e9
 samsung a04s
 6a6296d96bdf11e2
+Amazon sheldonp
+802632e9694e880f
 
 vicentelo +18
 Xiaomi oneday
