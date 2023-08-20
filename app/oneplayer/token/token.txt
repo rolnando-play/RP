@@ -3388,6 +3388,8 @@ dolphin dolphin-fvd-p1
 f57bc758f6610799
 motorola nio
 8f4fcf9325a9b372
+Xiaomi fleur
+1b15e354f8ebb952
 
 mariodav
 samsung c2s
@@ -15213,6 +15215,8 @@ samsung c2s
 a487aa477132b672
 Xiaomi oneday
 6cdd4c278b9af4b2
+Xiaomi venom
+8a294037799e2cde
 
 gustavocol
 Amazon sheldon
