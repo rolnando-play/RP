@@ -11988,6 +11988,8 @@ SmartTV 10839
 e9280cc25ab1df29
 samsung a12
 e86b99cfd9773b0f
+samsung r9s
+c3c7a5c4c97f2b39
 
 angelpa btc
 rockchip rk322x_box
