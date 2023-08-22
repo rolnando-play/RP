@@ -6509,6 +6509,9 @@ Xiaomi oneday
 85afe91c67519db4
 Amazon mantis
 e03186b6b28971de
++5
+Xiaomi soul
+5ed583b85f350dd6
 
 pjc1208 +9
 rockchip rk322x_box
