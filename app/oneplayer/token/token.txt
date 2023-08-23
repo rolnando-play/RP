@@ -11920,6 +11920,10 @@ rockchip rk322x_box
 a04c404694f24fc2
 rockchip rk322x_box
 8880b30c9f02e298
+dolphin dolphin_fvd_p1
+3460cc919984ad19
+Amlogic p282
+4463b0017ae35a39
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -21157,6 +21161,8 @@ samsung a04s
 6a6296d96bdf11e2
 Amazon sheldonp
 802632e9694e880f
+Amazon sheldon
+95385cd143198766
 
 vicentelo +18
 Xiaomi oneday
