@@ -4573,14 +4573,10 @@ Xiaomi oneday
 1409b56ce613b07c
 
 cristianma +6 psc
-HUAWEI HWDRA-MG
-3ca6fad5f6599f43
 rockchip rk322x_box
 291695bbef89f32a
-HUAWEI HWCUN-L6735
-bbb21e7275083299
-OnePlus OnePlus5
-7f0881549b8fcb60
+HUAWEI HWLDN-Q
+230c9d34cabc7904
 
 ylrsto
 Xiaomi davinci
