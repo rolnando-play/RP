@@ -2700,6 +2700,8 @@ Xiaomi diting
 ba70c05dea35e896
 Xiaomi sweet
 bef517f2cc749e5b
+Google sabrina
+a17f3b495cb62b03
 
 roroc
 Rockchip rk3328_box
@@ -3390,6 +3392,8 @@ motorola nio
 8f4fcf9325a9b372
 Xiaomi fleur
 1b15e354f8ebb952
+Google boreal
+fb42722a109cbca9
 
 mariodav
 samsung c2s
@@ -4571,14 +4575,10 @@ Xiaomi oneday
 1409b56ce613b07c
 
 cristianma +6 psc
-HUAWEI HWDRA-MG
-3ca6fad5f6599f43
 rockchip rk322x_box
 291695bbef89f32a
-HUAWEI HWCUN-L6735
-bbb21e7275083299
-OnePlus OnePlus5
-7f0881549b8fcb60
+HUAWEI HWLDN-Q
+230c9d34cabc7904
 
 ylrsto
 Xiaomi davinci
@@ -6509,6 +6509,9 @@ Xiaomi oneday
 85afe91c67519db4
 Amazon mantis
 e03186b6b28971de
++5
+Xiaomi soul
+5ed583b85f350dd6
 
 pjc1208 +9
 rockchip rk322x_box
@@ -11919,6 +11922,10 @@ rockchip rk322x_box
 a04c404694f24fc2
 rockchip rk322x_box
 8880b30c9f02e298
+dolphin dolphin_fvd_p1
+3460cc919984ad19
+Amlogic p282
+4463b0017ae35a39
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -11988,6 +11995,8 @@ SmartTV 10839
 e9280cc25ab1df29
 samsung a12
 e86b99cfd9773b0f
+samsung r9s
+c3c7a5c4c97f2b39
 
 angelpa btc
 rockchip rk322x_box
@@ -15319,6 +15328,8 @@ Amazon sheldonp
 d48e703fff311c63
 Amazon mantis
 74d2aa24e2753aec
+Amazon mantis
+ac0b1f8ead385e8e
 
 garciaa1
 samsung a51
@@ -21152,6 +21163,8 @@ samsung a04s
 6a6296d96bdf11e2
 Amazon sheldonp
 802632e9694e880f
+Amazon sheldon
+95385cd143198766
 
 vicentelo +18
 Xiaomi oneday
