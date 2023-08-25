@@ -9171,6 +9171,8 @@ rockchip rk322x_box
 4c2497929772a68
 SkyworthDigital BOS
 bcc64206b72df01c
+rockchip rk322x_box
+99376ce1363d0778
 
 dariomar
 samsung z3s
