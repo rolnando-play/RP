@@ -22214,6 +22214,8 @@ dolphin dolphin_fvd_p1
 velozoa
 motorola java
 cf49dcc970433d04
+SDMC SFO
+b3a51e4e42cfafb5
 
 rammse +10
 Xiaomi biloba
