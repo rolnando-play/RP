@@ -13731,6 +13731,8 @@ samsung r8s
 d9395b7d05d2521d
 Xiaomi oneday
 54105df1638c682a
+samsung a54x
+99f2f1ba77608b4a
 
 krlitos
 samsung star2qltechn
