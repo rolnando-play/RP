@@ -3176,7 +3176,7 @@ Xiaomi vayu
 
 mecagoen
 rockchip rk322x_box
-fe2bdb65e49d9094
+87590013299543dd
 MTK cvt_mt5863_sa
 d3fd20857756097a
 rockchip rk322x box 
