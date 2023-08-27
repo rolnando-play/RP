@@ -21673,8 +21673,6 @@ COSHIP n9090_telmexott
 2b43476779be76b6
 
 cursose
-Android MDTV5G
-f57d48592fbb4fec
 dolphin dolphin_fvd_p1
 685daac1c19d64aa
 Hivendor p281
@@ -22288,3 +22286,9 @@ c7411c3c9174558d
 adrianfel
 Xiaomi oneday
 af8438806226f11f
+
+wilson.ca
+HUAWEI HWCOL
+7d38a46bf9b33709
+Amazon kara
+5d3c33a55e256177
