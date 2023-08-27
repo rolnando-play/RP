@@ -21677,6 +21677,8 @@ Android MDTV5G
 f57d48592fbb4fec
 dolphin dolphin_fvd_p1
 685daac1c19d64aa
+Hivendor p281
+1195156035ba43c8
 
 rolimar
 Xiaomi machuca
