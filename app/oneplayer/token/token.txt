@@ -1201,6 +1201,8 @@ dolphin dolphin-fvd-p1
 f8684c81e4f623ae
 Xiaomi citrus
 7bae462224bcae25
+dolphin SBQ-SM007
+61562176b08294c
 
 carmelo.ca
 Redmi 8A
