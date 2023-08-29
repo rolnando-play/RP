@@ -8255,6 +8255,8 @@ rockchip rk3328_box
 92a29f2ba36aeaf2
 rockchip rk3328_box
 995b7fb6f5c874aa
+Xiaomi croods
+4eacb2293dbfef56
 
 cessl +9
 Xiaomi surya
