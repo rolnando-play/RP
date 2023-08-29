@@ -2891,12 +2891,8 @@ Allwinner dolphin-fvd-p1
 56c693e3f4872e9d
 
 juankk
-Allwinner dolphin-fvd-p1
-b57360762e2d3648
 askey sti6140d360
-c82f1e98d6da6eaa
-askey sti6140d360
-c00f584ffb7aa46c
+64709b1507cbef44
 
 chocho
 Xiaomi tucana
@@ -3180,7 +3176,7 @@ Xiaomi vayu
 
 mecagoen
 rockchip rk322x_box
-fe2bdb65e49d9094
+87590013299543dd
 MTK cvt_mt5863_sa
 d3fd20857756097a
 rockchip rk322x box 
@@ -6512,6 +6508,8 @@ e03186b6b28971de
 +5
 Xiaomi soul
 5ed583b85f350dd6
+Xiaomi soul
+b3562809c749850a
 
 pjc1208 +9
 rockchip rk322x_box
@@ -9171,6 +9169,8 @@ rockchip rk322x_box
 4c2497929772a68
 SkyworthDigital BOS
 bcc64206b72df01c
+rockchip rk322x_box
+99376ce1363d0778
 
 dariomar
 samsung z3s
@@ -13733,6 +13733,8 @@ samsung r8s
 d9395b7d05d2521d
 Xiaomi oneday
 54105df1638c682a
+samsung a54x
+99f2f1ba77608b4a
 
 krlitos
 samsung star2qltechn
@@ -15129,6 +15131,8 @@ motorola channel
 e8a84f25078444e4
 motorola channel
 7ffcdb5129372475
+Xiaomi aquaman
+d6f74c5aa3ee76e5
 
 daniel.is
 Hisense xiaoyushan
@@ -15702,6 +15706,8 @@ Droidlogic ohm
 4b3c5fbd93a4411c
 Gecen Tiger foreverg
 89bdea1451d13a66
+onn YOC
+5b15550da0eebe87
 
 arnaldo.cie
 Xiaomi vayu
@@ -16233,6 +16239,10 @@ HUAWEI HWMAR
 aa7b73174f968754
 dolphin dolphin_fvd_p1
 6ae23d61ec4eb121
+dolphin dolphin_fvd_p1
+b8f799ad78ee7213
+Xiaomi miel
+e043b91877dbd8c9
 
 gmarmo
 Xiaomi lavender
@@ -21165,6 +21175,8 @@ Amazon sheldonp
 802632e9694e880f
 Amazon sheldon
 95385cd143198766
+Amazon sheldonp
+b9e263f30b605855
 
 vicentelo +18
 Xiaomi oneday
@@ -21665,10 +21677,10 @@ COSHIP n9090_telmexott
 2b43476779be76b6
 
 cursose
-Android MDTV5G
-4e9b165935425ecf
 dolphin dolphin_fvd_p1
 685daac1c19d64aa
+Hivendor p281
+1195156035ba43c8
 
 rolimar
 Xiaomi machuca
@@ -22210,6 +22222,8 @@ dolphin dolphin_fvd_p1
 velozoa
 motorola java
 cf49dcc970433d04
+SDMC SFO
+b3a51e4e42cfafb5
 
 rammse +10
 Xiaomi biloba
@@ -22272,3 +22286,17 @@ Xiaomi hermano
 adangi
 Amazon kara
 c7411c3c9174558d
+
+adrianfel
+Xiaomi oneday
+af8438806226f11f
+
+wilson.ca
+HUAWEI HWCOL
+7d38a46bf9b33709
+Amazon kara
+5d3c33a55e256177
+Amazon sheldon
+7fcb7d7f9cb185ef
+KTC zhongshan
+97538063db2da5a3
