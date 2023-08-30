@@ -22308,3 +22308,5 @@ KTC zhongshan
 milciadesba
 samsung dm3q
 0558ade9680ca764
+NVIDIA mdarcy
+dbea8833e27a7547
