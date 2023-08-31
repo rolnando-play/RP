@@ -22225,6 +22225,8 @@ rockchip rk322x_box
 ca614ba04ccb1865
 dolphin dolphin_fvd_p1
 66d63e0bec5d0d17
+rockchip rk322x_box
+4003de92fd9d1f59
 
 velozoa
 motorola java
