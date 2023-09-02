@@ -22275,6 +22275,8 @@ Google sabrina
 bangof
 Amlogic p282
 1def230941bedd2a
+rockchip rk322x_box
+aba16adcd720c3ae
 
 juanchopp +10
 Xiaomi oneday
