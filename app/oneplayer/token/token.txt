@@ -22333,3 +22333,5 @@ samsung beyond2
 perezle
 Xiaomi merlin
 caef45cc810770a4
+TCL C06
+8fcd34d81b3b569b
