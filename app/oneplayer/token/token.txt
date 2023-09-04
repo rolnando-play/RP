@@ -3546,6 +3546,8 @@ Allwinner dolphin-fvd-p1
 +5
 dolphin dolphin_fvd_p1
 130b6a8ab3f57bad
+Amlogic p201
+c49a9804391f1825
 
 aescobar9
 samsung y2s
