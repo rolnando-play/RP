@@ -6666,8 +6666,8 @@ rockchip rk322x_box
 80d55037b78d5014
 Amlogic p282
 eeee763631afd0e7
-LGE mmh45lm
-9503930962d73f1c
+samsung a04
+3b390a5b550429a6
 Allwinner dolphin-fvd-p1
 382db6917fd419bb
 
