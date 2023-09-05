@@ -114,6 +114,8 @@ VS Emulator donatello
 d075c2c2854e9a8d
 unknown generic_x86_64
 9f780151afb6a563
+Changhong ikebukuro
+a84a8290cc519a8b
 Amazon tank
 b544b0713a3aca06
 Google generic_x86
