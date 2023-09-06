@@ -2018,6 +2018,8 @@ e93996514ac5b911
 HUAWEI HWMGA-H
 d1f916b093544e56
 +6
+Xiaomi vayu
+2bb22a1fa0fa7001
 
 seraqu
 Allwinner dolphin-fvd-p1
