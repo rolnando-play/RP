@@ -13412,6 +13412,8 @@ Xiaomi joyeuse
 49cd99413c1bc6f6
 Allwinner dolphin-fvd-p1
 7d5d9a1c22a6b0b5
+Xiaomi redwood
+265d8546f04d6e13
 
 pichilo
 rockchip rk3328_box
