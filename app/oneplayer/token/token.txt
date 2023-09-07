@@ -98,6 +98,8 @@ Google generic_x86
 f5e573dac2a4e76f
 unknown generic_x86
 35feae28cd4de3c1
+realme RE54ABL1
+d615d6aa9d1a90b2
 mxq
 580da5030e5ecf1b
 samsung aosp
