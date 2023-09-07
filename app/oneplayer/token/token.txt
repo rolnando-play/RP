@@ -3795,9 +3795,9 @@ Xiaomi aquaman
 Xiaomi aquaman
 2f2a85b5d043d009
 Xiaomi oneday
-5ae5950be3e139fa
-Xiaomi oneday
 37cd3ccd3a4c0a1c
+Xiaomi aquaman
+59395de6d72e80ce
 
 dr.ink
 rockchip rk322x_box
