@@ -6281,12 +6281,10 @@ f010682f4c097586
 
 
 arceor
-Xiaomi ginkgo
-dd8d490b4b65a448
 Hisilicon Hi3751V350
 b82bb582c78030f7
-Xiaomi oneday
-0cede07574cfc388
+Xiaomi ruby
+9194f2857b4dcaa1
 
 drlo
 rockchip rk3328_box
@@ -22355,4 +22353,8 @@ TCL C06
 
 luisito3
 Xiaomi oneday
-36404e364fdf4236
+36404e364fdf423
+
+pealv
+Xiaomi vayu
+11465ad3ba4b14bb
