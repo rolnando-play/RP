@@ -2722,7 +2722,7 @@ fafbaed846170ec1
 HongXin hx_s905x
 ccc46ae9e3361262
 Xiaomi oneday
-d792662a1cfb36e8
+e218aabc7ea667f8
 
 pjcfa2
 rk322x_box
@@ -3797,7 +3797,7 @@ Xiaomi aquaman
 Xiaomi aquaman
 2f2a85b5d043d009
 Xiaomi oneday
-37cd3ccd3a4c0a1c
+5ae5950be3e139fa
 Xiaomi aquaman
 59395de6d72e80ce
 
@@ -22358,3 +22358,5 @@ Xiaomi oneday
 pealv
 Xiaomi vayu
 11465ad3ba4b14bb
+Xiaomi oneday
+b610f79a25f1ad94
