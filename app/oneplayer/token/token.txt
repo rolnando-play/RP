@@ -5250,8 +5250,8 @@ Xiaomi oneday
 f94d70cdc67309df
 
 adrian.tw
-samsung star2lte
-bc9b99ae0ccee8b8
+Google sabrina
+210c037f3044a80c
 rockchip rk322x_box
 2e7b878b68cf440e
 rockchip rk322x_box
@@ -20563,6 +20563,7 @@ Amlogic p281
 b5a9f50560081599
 Allwinner dolphin-fvd-p1
 7d93ac3bb7541e4
++5
 
 delvallesa
 Xiaomi oneday
