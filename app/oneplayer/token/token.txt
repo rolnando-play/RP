@@ -3421,8 +3421,8 @@ rockchip rk322x_box
 18f4a59897619446
 
 aca07
-Xiaomi begonia
-8069a326350ccefb
+Xiaomi alioth
+cae94654f6986e59
 rockchip rk322x_box
 bcc4fe630afc795c
 
