@@ -9046,12 +9046,8 @@ Xiaomi oneday
 aae2d38f5f204992
 
 snogu
-rockchip rk322x_box
-b131f9872d9a8112
-rockchip rk3328
-2d4a6eb2778bbf01
-dolphin dolphin-fvd-p1
-82d52f0e4a2e291d
+samsung a32
+5cf9388cf9f390ca
 
 Ijavi38 +6
 Xiaomi joyeuse
