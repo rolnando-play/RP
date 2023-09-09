@@ -22260,6 +22260,8 @@ samsung j4primelte
 7e8a24729850c17d
 samsung j7xelte
 874aec939b740e77
+motorola hawao
+c97dbd29562547ac
 
 jat31
 samsung t2s
