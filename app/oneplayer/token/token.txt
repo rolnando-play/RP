@@ -9214,6 +9214,8 @@ Allwinner dolphin-fvd-p1
 88f7fcc3abd751d0
 samsung a03
 bc50d5ebdd993f0c
+Xiaomi joyeuse
+13298cd4d334778a
 
 cris-g +9
 rockchip rk322x_box
