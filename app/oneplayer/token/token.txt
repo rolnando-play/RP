@@ -11715,7 +11715,7 @@ Xiaomi oneday
 Amazon mantis
 edb4309f0b581a6b
 Xiaomi oneday
-edadc67b7b964ca4
+a293d12e7d35da2b
 Amlogic p281
 cb931e65dd52393
 Xiaomi curtana
