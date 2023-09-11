@@ -20564,6 +20564,8 @@ b5a9f50560081599
 Allwinner dolphin-fvd-p1
 7d93ac3bb7541e4
 +5
+Amlogic p281
+1531f167036a52fd
 
 delvallesa
 Xiaomi oneday
