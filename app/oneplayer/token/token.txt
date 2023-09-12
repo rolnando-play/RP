@@ -6638,6 +6638,8 @@ c587ac6c709e538c
 albrt
 Xiaomi oneday
 4c7e7ea9c72c5cbc
+samsung a52q
+71d06bb0d29ecfb5
 
 hectorfle +6
 HUAWEI HWYAL
