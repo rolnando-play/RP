@@ -2837,6 +2837,8 @@ Allwinner H6
 ec2a308557d8f356
 motorola nicklaus_f
 80e13cbfe5121d43
+Xiaomi miel
+bab09e2ed22a0f62
 
 isaacsch
 Xiaomi oneday
