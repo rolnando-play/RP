@@ -13693,6 +13693,10 @@ Amazon mantis
 da1f4a4691086cb6
 Xiaomi aquaman
 80b2ea82980224ee
+dolphin dolphin_fvd_p1
+ab1f689703292735
+rockchip rk322x_box
+fa6896c48c47a973
 
 chavezqu
 HUAWEI HWMAR
