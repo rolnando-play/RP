@@ -15308,8 +15308,8 @@ samsung t2s
 d4933812b25e3406
 Amazon kara
 599147e5d83b9e17
-Allwinner t3-p1
-dbfbd3f61ef6aa84
+KTC zhongshan
+85954be3f9a9b419
 
 noes64
 Xiaomi ginkgo
