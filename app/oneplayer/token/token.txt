@@ -4764,6 +4764,8 @@ MBOX dolphin-p1
 db02d0649e95059e
 Xiaomi aquaman
 df35d2e012d4e0d2
+Xiaomi oneday
+cd93e97022789337
 
 juvar9 +6 psc
 Allwinner dolphin-fvd-p1
