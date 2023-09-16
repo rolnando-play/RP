@@ -19679,6 +19679,8 @@ samsung t2s
 a38a0afc3263c1d4
 samsung b0q
 b22069a5df26f3a8
+Xiaomi jaws
+4538902252509c02
 
 rolomar +6
 rockchip rk322x_box
