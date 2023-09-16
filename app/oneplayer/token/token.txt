@@ -11430,8 +11430,8 @@ Amazon sheldon
 4f85d32fd140b0ea
 Xiaomi oneday
 a8cc57743c5895e2
-rockchip rk322x_box
-a8580d4facf31d43
+
+
 Xiaomi rosemary
 1eeb1dc583712b5c
 dolphin dolphin-fvd-p1
