@@ -19551,6 +19551,9 @@ rockchip MK
 b5d3ed6bc285f1f7
 Amazon mantis
 a7fea3aa23c43292
++5
+rockchip rk322x_box
+cb594cd22e15c949
 
 roloca
 MTK cvt_mt5886_sa
