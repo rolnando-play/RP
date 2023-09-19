@@ -11955,6 +11955,8 @@ Amlogic p282
 +5
 rockchip rk322x_box
 8ee9c56976325771
+Allwinner apollo-p16
+b43206f9963c7978
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -22400,3 +22402,7 @@ b610f79a25f1ad94
 matias19
 Xiaomi aquaman
 0721582823a96cfa
+
+car_vae
+rockchip rk322x_box
+fa7050de232e2a2a
