@@ -13713,6 +13713,8 @@ dolphin dolphin_fvd_p1
 82c7e60e41950b22
 rockchip rk322x_box
 a23e061b7b64db51
+dolphin dolphin_fvd_p1
+5086b38e7806d389
 
 chavezqu
 HUAWEI HWMAR
