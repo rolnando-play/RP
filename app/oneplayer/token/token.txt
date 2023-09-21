@@ -22319,7 +22319,7 @@ william.g
 Xiaomi spes
 47fe4c6a6ec8ba17
 Xiaomi oneday
-60dc822ded9c7f3b
+f6f5d6fe6b202c0d
 Amazon tank
 d76f79a3bdbe242e
 SkyworthDigital HP40A2
@@ -22410,3 +22410,5 @@ Xiaomi aquaman
 car_vae
 rockchip rk322x_box
 fa7050de232e2a2a
+dolphin dolphin_fvd_p1
+90333c9b22ca1f1f
