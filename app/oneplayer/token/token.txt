@@ -21430,6 +21430,8 @@ rockchip rk322x_box
 3145e1b31c2f1aad
 Google sabrina
 11388059e85430e9
+Allwinner apollo-p16
+b06e06a79aaa328b
 
 lorele +6
 Amazon sheldonp
