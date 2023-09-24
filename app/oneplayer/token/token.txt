@@ -22336,6 +22336,8 @@ Amlogic p282
 1def230941bedd2a
 rockchip rk322x_box
 aba16adcd720c3ae
+rockchip rk322x_box
+cc661fd3ddb2a8c3
 
 juanchopp +10
 Xiaomi oneday
