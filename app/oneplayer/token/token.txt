@@ -664,6 +664,8 @@ M2007J20CG
 3d5d82f62f309ef3
 Xiaomi surya
 c4873f4a806ab26a
+Amazon sheldon
+ffca8d5a888145d8
 
 kalaza
 Allwinner dolphin-fvd-p1
