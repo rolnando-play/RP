@@ -22412,6 +22412,8 @@ b610f79a25f1ad94
 matias19
 Xiaomi aquaman
 0721582823a96cfa
+Amazon sheldon
+d00bc2bbd238dc3e
 
 car_vae
 rockchip rk322x_box
