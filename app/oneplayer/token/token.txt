@@ -13719,6 +13719,8 @@ dolphin dolphin_fvd_p1
 5086b38e7806d389
 streambus rk322x_box
 51338f2a4c5f3533
+Xiaomi aquaman
+1bbc75367755ea58
 
 chavezqu
 HUAWEI HWMAR
