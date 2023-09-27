@@ -11959,6 +11959,8 @@ rockchip rk322x_box
 8ee9c56976325771
 Allwinner apollo-p16
 b43206f9963c7978
+Xiaomi ocean
+90cdaedc9647a23b
 
 danieljo
 Allwinner dolphin-fvd-p1
