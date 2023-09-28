@@ -22342,6 +22342,9 @@ SkyworthDigital HP40A2
 ed1c1d336bc51140
 Google sabrina
 575bdd1df18e50d0
++5
+SkyworthDigital HP40A2
+29a19a6d7121ea52
 
 bangof
 Amlogic p282
