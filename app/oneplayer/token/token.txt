@@ -22443,3 +22443,11 @@ rockchip rk322x_box
 fa7050de232e2a2a
 dolphin dolphin_fvd_p1
 90333c9b22ca1f1f
+
+lucasmar
+samsung a72q
+083030f4a8b1e6f3
+askey sti6140d360
+fd68f494b08eae3f
+samsung gta4xlvewifi
+ab356e6afeff88bd
