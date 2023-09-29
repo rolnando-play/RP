@@ -22435,6 +22435,8 @@ Xiaomi aquaman
 0721582823a96cfa
 Amazon sheldon
 d00bc2bbd238dc3e
+samsung gta8wifi
+ebfe018d77b21878
 
 car_vae
 rockchip rk322x_box
