@@ -2880,6 +2880,8 @@ askey sti6140d360
 795c2678a9d973b5
 Xiaomi oneday
 00685bdf18ee650b
+onn YOC
+4bbe065e140dab3d
 
 Nacho-i
 samsung o1s
