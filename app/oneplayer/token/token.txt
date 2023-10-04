@@ -3569,6 +3569,8 @@ dolphin dolphin_fvd_p1
 130b6a8ab3f57bad
 Amlogic p201
 c49a9804391f1825
+rockchip rk322x_box
+ca4c8a4ed64b445c
 
 aescobar9
 samsung y2s
