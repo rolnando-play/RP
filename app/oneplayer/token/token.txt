@@ -22434,6 +22434,8 @@ Xiaomi oneday
 36404e364fdf4236
 Changhong redwood
 262691f46e5a51aa
+Amlogic p282
+9f27bf8df80c7ff7
 
 pealv
 Xiaomi vayu
