@@ -4365,6 +4365,8 @@ SEI Robotics SEI400TV
 4cae01297f4e6f8c
 Xiomi jaws
 b61e2d039ede2ae0
+Xiaomi jaws
+4902802e1a979a05
 
 oma19 +9
 samsung c2s
