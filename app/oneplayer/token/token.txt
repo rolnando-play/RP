@@ -22452,6 +22452,8 @@ Amazon sheldon
 d00bc2bbd238dc3e
 samsung gta8wifi
 ebfe018d77b21878
+Xiaomi aquaman
+92a1803b0a98e833
 
 car_vae
 rockchip rk322x_box
