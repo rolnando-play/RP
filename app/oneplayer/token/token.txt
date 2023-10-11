@@ -2465,6 +2465,8 @@ Amazon sheldon
 602d8b82004dec00
 Amazon sheldon
 bd11e2edd41b6838
+Xiaomi aquaman
+ba35e48db07d54b9
 
 ricar.fu
 HUAWEI HWMAR
@@ -2499,7 +2501,7 @@ samsung a21s
 
 issiv
 Xiaomi oneday
-6051851609c38a78
+a56fffa7e7231123
 Amazon sheldonp
 76b850a7a79360ff
 Amazon mantis
@@ -2878,6 +2880,8 @@ askey sti6140d360
 795c2678a9d973b5
 Xiaomi oneday
 00685bdf18ee650b
+onn YOC
+4bbe065e140dab3d
 
 Nacho-i
 samsung o1s
@@ -2905,6 +2909,8 @@ rockchip rk322x_box
 302ffadc5348dc04
 rockchip rk322x_box
 3050b933cab61a58
+Xiaomi fire
+0e0700b7a514ef2f
 
 marielo
 Xiaomi begonia
@@ -3563,6 +3569,8 @@ dolphin dolphin_fvd_p1
 130b6a8ab3f57bad
 Amlogic p201
 c49a9804391f1825
+rockchip rk322x_box
+ca4c8a4ed64b445c
 
 aescobar9
 samsung y2s
@@ -4355,7 +4363,10 @@ Xiaomi machuca
 af6eaa2009eef5e4
 SEI Robotics SEI400TV
 4cae01297f4e6f8c
-
+Xiomi jaws
+b61e2d039ede2ae0
+Xiaomi jaws
+4902802e1a979a05
 
 oma19 +9
 samsung c2s
@@ -14644,6 +14655,10 @@ Amazon sheldonp
 ce80200800054f17
 rockchip rockchip038
 910ae93bc10c77c0
+Amazon sheldon
+2eacae6a0dc8bb68
+Amazon sheldon
+6e55622b7490fbf2
 
 oscarama
 Amazon sheldon
@@ -19226,6 +19241,8 @@ Android MDTV5G
 637a5cfc4cef395e
 MTK cvt_mt5863_sa
 c17cbb988382a0c0
+Android MDTV5G
+eb8fb2a17812539f
 
 riegoam
 OnePlus OnePlus7T
@@ -19570,6 +19587,8 @@ a7fea3aa23c43292
 +5
 rockchip rk322x_box
 cb594cd22e15c949
+rockchip MK
+aa0df5842817b7f7
 
 roloca
 MTK cvt_mt5886_sa
@@ -22342,6 +22361,11 @@ SkyworthDigital HP40A2
 ed1c1d336bc51140
 Google sabrina
 575bdd1df18e50d0
++5
+SkyworthDigital HP40A2
+29a19a6d7121ea52
+SkyworthDigital HP40A2
+81a913edef12a075
 
 bangof
 Amlogic p282
@@ -22372,6 +22396,8 @@ Xiaomi hermano
 adangi
 Amazon kara
 c7411c3c9174558d
+Amazon sheldonp
+a59eb011162daa4a
 
 adrianfel
 Xiaomi oneday
@@ -22414,6 +22440,8 @@ Xiaomi oneday
 36404e364fdf4236
 Changhong redwood
 262691f46e5a51aa
+Amlogic p282
+9f27bf8df80c7ff7
 
 pealv
 Xiaomi vayu
@@ -22426,9 +22454,21 @@ Xiaomi aquaman
 0721582823a96cfa
 Amazon sheldon
 d00bc2bbd238dc3e
+samsung gta8wifi
+ebfe018d77b21878
+Xiaomi aquaman
+92a1803b0a98e833
 
 car_vae
 rockchip rk322x_box
 fa7050de232e2a2a
 dolphin dolphin_fvd_p1
 90333c9b22ca1f1f
+
+lucasmar
+samsung a72q
+083030f4a8b1e6f3
+askey sti6140d360
+fd68f494b08eae3f
+samsung gta4xlvewifi
+ab356e6afeff88bd
