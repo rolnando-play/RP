@@ -19241,6 +19241,8 @@ Android MDTV5G
 637a5cfc4cef395e
 MTK cvt_mt5863_sa
 c17cbb988382a0c0
+Android MDTV5G
+eb8fb2a17812539f
 
 riegoam
 OnePlus OnePlus7T
