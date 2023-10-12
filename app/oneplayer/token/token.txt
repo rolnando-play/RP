@@ -19589,6 +19589,8 @@ rockchip rk322x_box
 cb594cd22e15c949
 rockchip MK
 aa0df5842817b7f7
+rockchip rk322x_box
+ab1637c17a124ca3
 
 roloca
 MTK cvt_mt5886_sa
