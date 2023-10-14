@@ -6539,7 +6539,7 @@ Amazon sheldonp
 Xiaomi oneday
 85afe91c67519db4
 Amazon mantis
-e03186b6b28971de
+398075daaa7ade02
 +5
 Xiaomi soul
 5ed583b85f350dd6
@@ -22448,6 +22448,8 @@ Changhong redwood
 262691f46e5a51aa
 Amlogic p282
 9f27bf8df80c7ff7
+Amazon sheldon
+00e08b5304cf0815
 
 pealv
 Xiaomi vayu
