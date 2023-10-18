@@ -5684,6 +5684,8 @@ Google sabrina
 37ecc383af93bb49
 Google sabrina
 1dfe367b0570ae41
+samsung dm2q
+6671c85bb24231f9
 
 jorge19
 Realme RMX1901CN
@@ -6539,7 +6541,7 @@ Amazon sheldonp
 Xiaomi oneday
 85afe91c67519db4
 Amazon mantis
-e03186b6b28971de
+398075daaa7ade02
 +5
 Xiaomi soul
 5ed583b85f350dd6
@@ -11972,6 +11974,8 @@ Allwinner apollo-p16
 b43206f9963c7978
 Xiaomi ocean
 90cdaedc9647a23b
+Xiaomi soul
+a3113c829173d8a9
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -19589,6 +19593,12 @@ rockchip rk322x_box
 cb594cd22e15c949
 rockchip MK
 aa0df5842817b7f7
+rockchip rk322x_box
+ab1637c17a124ca3
+rockchip rk322x_box
+7cb97862ca6e8d78
+askey sti6140d360
+2aa1af0eaddcbb06
 
 roloca
 MTK cvt_mt5886_sa
@@ -22442,6 +22452,8 @@ Changhong redwood
 262691f46e5a51aa
 Amlogic p282
 9f27bf8df80c7ff7
+Amazon sheldon
+00e08b5304cf0815
 
 pealv
 Xiaomi vayu
@@ -22472,3 +22484,9 @@ askey sti6140d360
 fd68f494b08eae3f
 samsung gta4xlvewifi
 ab356e6afeff88bd
+
+sabino30
+Hivendor p281
+791eaa4ef2bd35b4
+Hivendor p281
+bf127bfda6b89875
