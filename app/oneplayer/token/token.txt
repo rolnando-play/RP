@@ -5192,7 +5192,7 @@ Xiaomi aquaman
 
 moisesno +6 psc
 Xiaomi soul
-3582fe24917a5ea4
+703efe73395f6376
 dolphin dolphin_fvd_p1
 db543826baf17782
 rockchip rk3328_box
