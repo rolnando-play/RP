@@ -2181,6 +2181,8 @@ dolphin dolphin_fvd_p1
 d3573122c634a3c8
 rockchip rk322x_box
 b9cbab7deffda0e2
+motorola caprip
+66a3c68aa56fdbf6
 
 gus_mz
 rockchip rk322x_box
@@ -6547,6 +6549,8 @@ Xiaomi soul
 5ed583b85f350dd6
 Xiaomi soul
 b3562809c749850a
+Xiaomi oneday
+6208bdb0ccc3e78d
 
 pjc1208 +9
 rockchip rk322x_box
