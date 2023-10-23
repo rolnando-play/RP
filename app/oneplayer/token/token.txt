@@ -11980,6 +11980,8 @@ Xiaomi ocean
 90cdaedc9647a23b
 Xiaomi soul
 a3113c829173d8a9
+rockchip rk322x_box
+45491ed2d6a2cd37
 
 danieljo
 Allwinner dolphin-fvd-p1
