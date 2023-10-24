@@ -22496,6 +22496,8 @@ Hivendor p281
 791eaa4ef2bd35b4
 Hivendor p281
 bf127bfda6b89875
+Amlogic p201
+f7037cd27eff90cb
 
 albertomi
 Xiaomi oneday
