@@ -22506,3 +22506,9 @@ c31c399ad63630ac
 yuliy
 dolphin dolphin_fvd_p1
 671d0a12512100a
+
+javica
+samsung SCG01
+b191cd6801c86b43
+SDMC DV8547
+da910097cad2d1c4
