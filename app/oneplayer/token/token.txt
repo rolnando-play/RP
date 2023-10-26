@@ -11978,8 +11978,8 @@ rockchip rk322x_box
 8ee9c56976325771
 Allwinner apollo-p16
 b43206f9963c7978
-Xiaomi ocean
-90cdaedc9647a23b
+Amazon mantis
+b04beaea2548fcf6
 Xiaomi soul
 a3113c829173d8a9
 rockchip rk322x_box
