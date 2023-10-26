@@ -152,6 +152,8 @@ brcm rpi3
 f0dfef7d5f4623c7
 unknown generic_x86
 6ec6a11cdaec25b6
+motorola athene_f
+e165d25a0e975510
 +di
 askey sti6140d360
 11aa8a55e0e1dba9
