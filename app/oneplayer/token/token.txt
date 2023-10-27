@@ -11985,6 +11985,8 @@ a3113c829173d8a9
 rockchip rk322x_box
 45491ed2d6a2cd37
 +5
+Amazon mantis
+b04beaea2548fcf6
 Xiaomi ocean
 ad1dccac31c1358b
 
