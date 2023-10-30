@@ -22529,3 +22529,7 @@ ec1f37484d46c439
 tvs_enc
 dolphin dolphin-fvd-p1
 e6360b3bddf2f18f
+
+anthonya
+samsung a02
+72e3ea6bd6d0314a
