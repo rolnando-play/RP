@@ -15,6 +15,8 @@ unknown generic_x86
 3cafac8606ce0020
 unknown generic_x86
 ccbf4728a53c376b
+unknown generic_x86
+1344e9937af0f0c0
 unknown generic_x86_64
 14bc6a92c596ad40
 Google generic_x86_arm
