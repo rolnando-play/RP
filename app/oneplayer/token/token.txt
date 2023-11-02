@@ -13757,6 +13757,8 @@ streambus rk322x_box
 51338f2a4c5f3533
 Xiaomi aquaman
 1bbc75367755ea58
+Amazon mantis
+ea1be021d0e88c66
 
 chavezqu
 HUAWEI HWMAR
