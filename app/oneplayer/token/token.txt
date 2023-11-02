@@ -20154,6 +20154,8 @@ samsung b4q
 ea0d76bbc2aaf29b
 Amazon sheldon
 43151a0d7353b0e7
+samsung b5q
+c3266df916872714
 
 nuzzar +6
 Xiaomi renoir
