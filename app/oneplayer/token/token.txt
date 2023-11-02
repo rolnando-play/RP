@@ -11995,6 +11995,8 @@ Amazon mantis
 b04beaea2548fcf6
 Xiaomi ocean
 ad1dccac31c1358b
+rockchip rk322x_box
+9f91253f95435880
 
 danieljo
 Allwinner dolphin-fvd-p1
