@@ -10892,6 +10892,8 @@ rockchip rk322x_box
 82310749f60df93c
 Xiaomi oneday
 010bb6c3e5438452
+Xiaomi aquaman
+f8bde78b4a6afaed
 
 victor@f
 Amazon mantis
