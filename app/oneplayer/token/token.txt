@@ -11,6 +11,8 @@ unknown generic_x86
 64fbf8234a3875c1
 unknown generic_x86
 7a77d6c0269f8f19
+Motorola athene_f
+45e21d6c9d0919aa
 unknown generic_x86
 3cafac8606ce0020
 unknown generic_x86
