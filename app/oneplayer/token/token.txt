@@ -20160,6 +20160,9 @@ Amazon sheldon
 43151a0d7353b0e7
 samsung b5q
 c3266df916872714
++10
+sprd uis8581a2h10
+e61203ea246750ea
 
 nuzzar +6
 Xiaomi renoir
