@@ -22562,3 +22562,7 @@ samsung a02
 oliveral
 motorola corfu
 aec0d88042fc531e
+
+lucastra
+Xiaomi vayu
+54ac0744dc2737e0
