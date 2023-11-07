@@ -528,6 +528,8 @@ dolphin dolphin-fvd-p1
 27b66945791e421b
 samsung a03
 452a00d0e0877613
+samsung a13
+f14f95b8812ec0f1
 
 marcelo.sa
 Redmi Note 8 Pro
