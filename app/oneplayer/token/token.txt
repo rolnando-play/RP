@@ -22576,3 +22576,7 @@ Xiaomi oneday
 8a01b49f32de7e9b
 rockchip rk322x_box
 dc423d6d15987786
+
+daniel-a
+motorola sofiar
+1cad1edc07385f3a
