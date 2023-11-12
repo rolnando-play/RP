@@ -20367,6 +20367,8 @@ samsung a51
 6ad1d8feab4bfb1f
 samsung gta7lite
 074725fb4f71f06e
+samsung a51
+f00b0b47f721e0a6
 
 rodriber
 rockchip MK
