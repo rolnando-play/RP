@@ -9,12 +9,18 @@ Amlogic nexbox_a95x
 2b0bc679db6298fa
 unknown generic_x86
 64fbf8234a3875c1
+Motorola athene_f
+a540f6973517696c
 unknown generic_x86
 7a77d6c0269f8f19
+Motorola athene_f
+45e21d6c9d0919aa
 unknown generic_x86
 3cafac8606ce0020
 unknown generic_x86
 ccbf4728a53c376b
+unknown generic_x86
+1344e9937af0f0c0
 unknown generic_x86_64
 14bc6a92c596ad40
 Google generic_x86_arm
@@ -152,6 +158,8 @@ brcm rpi3
 f0dfef7d5f4623c7
 unknown generic_x86
 6ec6a11cdaec25b6
+motorola athene_f
+e165d25a0e975510
 +di
 askey sti6140d360
 11aa8a55e0e1dba9
@@ -522,6 +530,8 @@ dolphin dolphin-fvd-p1
 27b66945791e421b
 samsung a03
 452a00d0e0877613
+samsung a13
+f14f95b8812ec0f1
 
 marcelo.sa
 Redmi Note 8 Pro
@@ -2181,6 +2191,8 @@ dolphin dolphin_fvd_p1
 d3573122c634a3c8
 rockchip rk322x_box
 b9cbab7deffda0e2
+motorola caprip
+66a3c68aa56fdbf6
 
 gus_mz
 rockchip rk322x_box
@@ -2882,6 +2894,8 @@ Xiaomi oneday
 00685bdf18ee650b
 onn YOC
 4bbe065e140dab3d
+Xiaomi tapas
+9f83a2ecf26c890b
 
 Nacho-i
 samsung o1s
@@ -4778,7 +4792,7 @@ db02d0649e95059e
 Xiaomi aquaman
 df35d2e012d4e0d2
 Xiaomi oneday
-cd93e97022789337
+0b815bc40cabb533
 
 juvar9 +6 psc
 Allwinner dolphin-fvd-p1
@@ -5192,7 +5206,7 @@ Xiaomi aquaman
 
 moisesno +6 psc
 Xiaomi soul
-3582fe24917a5ea4
+703efe73395f6376
 dolphin dolphin_fvd_p1
 db543826baf17782
 rockchip rk3328_box
@@ -5859,6 +5873,8 @@ Xiaomi aquaman
 412736fd15b8b462
 rockchip rk322x_box
 ab6310e530d302bb
+Amazon sheldon
+7efe5041b39bed16
 
 victorcal
 realme RMX1931L1
@@ -6547,6 +6563,8 @@ Xiaomi soul
 5ed583b85f350dd6
 Xiaomi soul
 b3562809c749850a
+Xiaomi oneday
+6208bdb0ccc3e78d
 
 pjc1208 +9
 rockchip rk322x_box
@@ -6901,6 +6919,8 @@ dolphin dolphin-fvd-p1
 +3
 FTROU eros-p1
 ea0948723cff4653
+dolphin dolphin-fvd-p1
+8c50894dc6f3d0e6
 
 joiseg +6 psc
 Amazon sheldon
@@ -10878,6 +10898,8 @@ rockchip rk322x_box
 82310749f60df93c
 Xiaomi oneday
 010bb6c3e5438452
+Xiaomi aquaman
+f8bde78b4a6afaed
 
 victor@f
 Amazon mantis
@@ -11972,10 +11994,23 @@ rockchip rk322x_box
 8ee9c56976325771
 Allwinner apollo-p16
 b43206f9963c7978
-Xiaomi ocean
-90cdaedc9647a23b
+Amazon mantis
+b04beaea2548fcf6
 Xiaomi soul
 a3113c829173d8a9
+rockchip rk322x_box
+45491ed2d6a2cd37
++5
+Amazon mantis
+b04beaea2548fcf6
+Xiaomi ocean
+ad1dccac31c1358b
+rockchip rk322x_box
+9f91253f95435880
+Amlogic p212
+1ada37fbd4101b6c
+rockchip rk322x_box
+a35d08c6ee95c53f
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13738,6 +13773,8 @@ streambus rk322x_box
 51338f2a4c5f3533
 Xiaomi aquaman
 1bbc75367755ea58
+Amazon mantis
+ea1be021d0e88c66
 
 chavezqu
 HUAWEI HWMAR
@@ -16410,6 +16447,8 @@ Android MDTV5G
 eab9233410296dc3
 Android MDTV5G
 d41a2ef1afa43170
+jixin marconi
+1eda37d2b4074e97
 
 victor.ma2
 rockchip rk322x_box
@@ -20133,6 +20172,11 @@ samsung b4q
 ea0d76bbc2aaf29b
 Amazon sheldon
 43151a0d7353b0e7
+samsung b5q
+c3266df916872714
++10
+sprd uis8581a2h10
+e61203ea246750ea
 
 nuzzar +6
 Xiaomi renoir
@@ -20323,6 +20367,8 @@ samsung a51
 6ad1d8feab4bfb1f
 samsung gta7lite
 074725fb4f71f06e
+samsung a51
+f00b0b47f721e0a6
 
 rodriber
 rockchip MK
@@ -20397,6 +20443,8 @@ MBOX dolphin-p1
 ae7e9dac64a27e6f
 MBOX dolphin-p1
 2f2e05213c8fe56e
+dolphin dolphin_fvd_p1
+5a36e5bc49c96d9b
 
 edujar
 samsung a71
@@ -22376,6 +22424,8 @@ SkyworthDigital HP40A2
 29a19a6d7121ea52
 SkyworthDigital HP40A2
 81a913edef12a075
+SkyworthDigital HP40A2
+8e8f17fdae714739
 
 bangof
 Amlogic p282
@@ -22470,6 +22520,8 @@ samsung gta8wifi
 ebfe018d77b21878
 Xiaomi aquaman
 92a1803b0a98e833
+Amazon sheldon
+ccd5034dfea7af0a
 
 car_vae
 rockchip rk322x_box
@@ -22490,3 +22542,49 @@ Hivendor p281
 791eaa4ef2bd35b4
 Hivendor p281
 bf127bfda6b89875
+Amlogic p201
+f7037cd27eff90cb
+
+albertomi
+Xiaomi oneday
+c31c399ad63630ac
+
+yuliy
+dolphin dolphin_fvd_p1
+671d0a12512100a
+dolphin dolphin_fvd_p1
+32a24fdd9356dde5
+
+javica
+samsung SCG01
+b191cd6801c86b43
+SDMC DV8547
+da910097cad2d1c4
+SDMC DV8547
+59552f2be0f313a3
+onn YOC
+ec1f37484d46c439
+
+tvs_enc
+dolphin dolphin-fvd-p1
+e6360b3bddf2f18f
+
+anthonya
+samsung a02
+72e3ea6bd6d0314a
+
+oliveral
+motorola corfu
+aec0d88042fc531e
+
+lucastra
+Xiaomi vayu
+54ac0744dc2737e0
+Xiaomi oneday
+8a01b49f32de7e9b
+rockchip rk322x_box
+dc423d6d15987786
+
+daniel-a
+motorola sofiar
+1cad1edc07385f3a
