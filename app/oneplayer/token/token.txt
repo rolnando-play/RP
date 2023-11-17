@@ -11969,7 +11969,7 @@ Xiaomi spes
 Xiaomi soul
 0eda8eeec27006aa
 rockchip rk322x_box
-d676c0509bca5506
+de1037dad7b7e39f
 Amazon sheldon
 b66d2eabf4fdfb3d
 Xiaomi veux
