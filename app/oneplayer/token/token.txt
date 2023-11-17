@@ -20931,6 +20931,8 @@ rockchip rk322x_box
 6035d83c2e8799df
 rockchip rk322x_box
 1b69b9f2721352cc
+FTROU eros-p1
+1cd55fbe6c157aa1
 
 rabanota
 Xiaomi oneday
