@@ -3221,8 +3221,8 @@ Xiaomi vayu
 311fbcaea2a0f593
 
 mecagoen
-rockchip rk322x_box
-87590013299543dd
+Amazon sheldonp
+14f2aa0df8af79c1
 MTK cvt_mt5863_sa
 d3fd20857756097a
 rockchip rk322x box 
