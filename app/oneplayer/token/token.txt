@@ -22386,6 +22386,8 @@ dolphin dolphin_fvd_p1
 66d63e0bec5d0d17
 rockchip rk322x_box
 4003de92fd9d1f59
+streambus p212
+76af1877cd69f3
 
 velozoa
 motorola java
