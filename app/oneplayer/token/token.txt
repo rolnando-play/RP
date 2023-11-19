@@ -22621,3 +22621,9 @@ f6349c5c3febec6e
 rodriza
 rockchip rk322x_box
 8207aaaa3fe888aa
+
+calito
+STREAMBUS p231
+6f5f7deb1d9e45cc
+samsung r8q
+0e2cfb98c454419c
