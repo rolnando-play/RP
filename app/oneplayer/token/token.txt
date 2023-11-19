@@ -22617,3 +22617,7 @@ samsung p3s
 ee1177af25087de2
 Xiaomi aquaman
 f6349c5c3febec6e
+
+rodriza
+rockchip rk322x_box
+8207aaaa3fe888aa
