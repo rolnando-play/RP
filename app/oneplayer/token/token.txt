@@ -22627,3 +22627,5 @@ STREAMBUS p231
 6f5f7deb1d9e45cc
 samsung r8q
 0e2cfb98c454419c
+Droidlogic franklin
+0a895448d257d385
