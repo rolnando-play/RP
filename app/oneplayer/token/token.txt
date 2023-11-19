@@ -22621,6 +22621,8 @@ f6349c5c3febec6e
 rodriza
 rockchip rk322x_box
 8207aaaa3fe888aa
+samsung a54x
+82231abc4abfec1a
 
 calito
 STREAMBUS p231
