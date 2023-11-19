@@ -12015,6 +12015,8 @@ Amlogic p212
 1ada37fbd4101b6c
 rockchip rk322x_box
 a35d08c6ee95c53f
+rockchip rk322x_box
+d676c0509bca5506
 
 danieljo
 Allwinner dolphin-fvd-p1
