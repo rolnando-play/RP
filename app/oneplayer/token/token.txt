@@ -12017,6 +12017,9 @@ rockchip rk322x_box
 a35d08c6ee95c53f
 rockchip rk322x_box
 d676c0509bca5506
++5
+Amazon tank
+72380b3ff1242e01
 
 danieljo
 Allwinner dolphin-fvd-p1
