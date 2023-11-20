@@ -2487,6 +2487,9 @@ HUAWEI HWMAR
 3c92e13c48566eef
 Xiaomi aquaman
 35305a291f099913
+Amazon sheldon
+507bd3ccea3c4d23
+
 ricar.fu
 HUAWEI HWMAR
 16e122a9f88cbc16
