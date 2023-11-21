@@ -12026,6 +12026,8 @@ d676c0509bca5506
 +5
 Amazon tank
 72380b3ff1242e01
+Amlogic franklin
+bc0e8f353fec34db
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13790,6 +13792,8 @@ Xiaomi aquaman
 1bbc75367755ea58
 Amazon mantis
 ea1be021d0e88c66
+Amazon sheldon
+18c50867fbda97dd
 
 chavezqu
 HUAWEI HWMAR
