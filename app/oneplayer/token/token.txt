@@ -2479,6 +2479,16 @@ Amazon sheldon
 bd11e2edd41b6838
 Xiaomi aquaman
 ba35e48db07d54b9
+Amazon sheldon
+77f284a19e891927
+MBOX dolphin-p1
+0f8635838b82ad66
+HUAWEI HWMAR
+3c92e13c48566eef
+Xiaomi aquaman
+35305a291f099913
+Amazon sheldon
+507bd3ccea3c4d23
 
 ricar.fu
 HUAWEI HWMAR
@@ -3217,8 +3227,8 @@ Xiaomi vayu
 311fbcaea2a0f593
 
 mecagoen
-rockchip rk322x_box
-87590013299543dd
+Amazon sheldonp
+14f2aa0df8af79c1
 MTK cvt_mt5863_sa
 d3fd20857756097a
 rockchip rk322x box 
@@ -4507,7 +4517,7 @@ bcf219448daf31c9
 
 efeerre
 Xiaomi oneday
-084ccb83f7824871
+f72d53d93e62ac12
 dolphin SBQ-SM007
 333c0d398bf8246b
 Amlogic p281
@@ -11969,7 +11979,7 @@ Xiaomi spes
 Xiaomi soul
 0eda8eeec27006aa
 rockchip rk322x_box
-d676c0509bca5506
+de1037dad7b7e39f
 Amazon sheldon
 b66d2eabf4fdfb3d
 Xiaomi veux
@@ -12011,6 +12021,11 @@ Amlogic p212
 1ada37fbd4101b6c
 rockchip rk322x_box
 a35d08c6ee95c53f
+rockchip rk322x_box
+d676c0509bca5506
++5
+Amazon tank
+72380b3ff1242e01
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14702,8 +14717,7 @@ Amazon sheldon
 6e55622b7490fbf2
 Amazon sheldon
 114c2bb977ec3e32
-Amazon sheldon
-77f284a19e891927
+
 
 oscarama
 Amazon sheldon
@@ -20931,6 +20945,8 @@ rockchip rk322x_box
 6035d83c2e8799df
 rockchip rk322x_box
 1b69b9f2721352cc
+FTROU eros-p1
+1cd55fbe6c157aa1
 
 rabanota
 Xiaomi oneday
@@ -22381,6 +22397,8 @@ dolphin dolphin_fvd_p1
 66d63e0bec5d0d17
 rockchip rk322x_box
 4003de92fd9d1f59
+streambus p212
+76af1877cd69f3
 
 velozoa
 motorola java
@@ -22516,6 +22534,8 @@ Xiaomi vayu
 11465ad3ba4b14bb
 Xiaomi oneday
 b610f79a25f1ad94
+Xiaomi jaws
+479f425cdffa46dc
 
 matias19
 Xiaomi aquaman
@@ -22602,3 +22622,23 @@ Google sabrina
 82bb72fbfa38bca3
 Google sabrina
 14b1daed029524a4
+
+arnaldoal
+samsung p3s
+ee1177af25087de2
+Xiaomi aquaman
+f6349c5c3febec6e
+
+rodriza
+rockchip rk322x_box
+8207aaaa3fe888aa
+samsung a54x
+82231abc4abfec1a
+
+calito
+STREAMBUS p231
+6f5f7deb1d9e45cc
+samsung r8q
+0e2cfb98c454419c
+Droidlogic franklin
+0a895448d257d385
