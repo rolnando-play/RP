@@ -15462,6 +15462,8 @@ Xiaomi vayu
 e0cbba9be814552a
 Xiaomi marble
 8b8883d94e4ad9a6
+TCL G07
+36b935e96f6bf29c
 
 luis.za
 Amazon sheldonp
