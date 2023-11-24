@@ -2037,6 +2037,8 @@ d1f916b093544e56
 +6
 Xiaomi vayu
 2bb22a1fa0fa7001
+alps ac8257_demo_1g_32
+e5debd9cf287eb02
 
 seraqu
 Allwinner dolphin-fvd-p1
