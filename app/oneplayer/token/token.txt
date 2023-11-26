@@ -3597,6 +3597,8 @@ Amlogic p201
 c49a9804391f1825
 rockchip rk322x_box
 ca4c8a4ed64b445c
+Xiaomi merlin
+6eea731b3da62459
 
 aescobar9
 samsung y2s
@@ -20957,6 +20959,8 @@ rockchip rk322x_box
 1b69b9f2721352cc
 FTROU eros-p1
 1cd55fbe6c157aa1
+FTROU eros-p1
+c843fe18a041df22
 
 rabanota
 Xiaomi oneday
