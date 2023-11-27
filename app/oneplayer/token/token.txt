@@ -13276,6 +13276,10 @@ rockchip rk3328_box
 +5
 samsung q5q
 07a45ccec2d378c9
+samsung c1s
+d9cb3d67bb1a6d98
+incar CP20
+036a108c2e9446b9
 
 camanra
 Allwinner petrel-p1
