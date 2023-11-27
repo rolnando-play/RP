@@ -20652,6 +20652,9 @@ Amlogic p201
 dee49ecfb4d4b15b
 rockchip rk322x_box
 2b88ea0f17eac708
++10
+Google titan-p1
+b9f432ecd2e5684f
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
