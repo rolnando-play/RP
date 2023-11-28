@@ -13432,6 +13432,8 @@ Amazon mantis
 hugo.mi
 Google eros-p1
 0b897f11f466d7ee
+google G011A
+9fe07b3e5ea84b1e
 
 joseco
 Xiaomi monet
