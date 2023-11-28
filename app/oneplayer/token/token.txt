@@ -822,8 +822,8 @@ rockchip rk322x_box
 ac33df34436e5ce9
 
 anileo
-MIBOX4
-8a88878ece8b2777
+Xiaomi oneday
+d875b18c361d8fcc
 Mi 9 Lite
 b056e984d406b204
 Mi 9 Lite: Xiaomi once
