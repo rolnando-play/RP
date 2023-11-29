@@ -20657,6 +20657,8 @@ rockchip rk322x_box
 +10
 Google titan-p1
 b9f432ecd2e5684f
+Google titan-p1
+6c1bd9a416a84c10
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
@@ -22682,3 +22684,5 @@ NVIDIA mdarcy
 edgil2
 samsung dreamqlteue
 0a7883f85c97d3a7
+Xiaomi aquaman
+be50821378163037
