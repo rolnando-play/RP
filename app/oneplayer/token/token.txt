@@ -20661,6 +20661,8 @@ Google titan-p1
 6c1bd9a416a84c10
 Google titan-p1
 dcd672766420f743
+Google titan-p1
+375df0dfe098f747
 
 scohen +10 psc
 Allwinner dolphin-fvd-p1
@@ -22688,3 +22690,5 @@ samsung dreamqlteue
 0a7883f85c97d3a7
 Xiaomi aquaman
 be50821378163037
+rockchip rk322x_box
+46ae9e6dc8cc892d
