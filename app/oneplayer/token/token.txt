@@ -14765,8 +14765,6 @@ Amazon trona
 179626b724d465aa
 Xiaomi aquaman
 756377879f4f40c3
-SkyworthDigital YYT
-f77b65455da3d241
 Xiaomi aquaman
 ddb68369b23657a1
 Google sabrina
@@ -14777,8 +14775,6 @@ Google sabrina
 0fc99b496f438b62
 Xiaomi croods
 9574d4069d5ff7ca
-MTK cvt_mt5886_sa
-50c3a3a5f0203198
 Xiaomi aquaman
 01bbf235e7ab9cf3
 Amazon sheldonp
@@ -14790,8 +14786,10 @@ Google sabrina
 Changhong sindorim
 7c9f6faa3a0e81f4
 Xiaomi aquaman
- f5501ccb409fea38
- 
+f5501ccb409fea38
+ Google sabrina
+219ec3bd330a3cef
+
 l4626
 Xiaomi oneday
 d608e131bcbc9385
