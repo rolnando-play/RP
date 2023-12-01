@@ -22690,3 +22690,5 @@ Xiaomi aquaman
 be50821378163037
 rockchip rk322x_box
 46ae9e6dc8cc892d
+Amlogic p201
+5dd409eef7b7480a
