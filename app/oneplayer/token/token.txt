@@ -22486,6 +22486,8 @@ SkyworthDigital HP40A2
 81a913edef12a075
 SkyworthDigital HP40A2
 8e8f17fdae714739
+SkyworthDigital HP40A2
+944e649a3b1c4c69
 
 bangof
 Amlogic p282
