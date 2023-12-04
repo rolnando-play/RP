@@ -22636,6 +22636,8 @@ e6360b3bddf2f18f
 anthonya
 samsung a02
 72e3ea6bd6d0314a
+samsung a51
+bcf515d4d8dd2f5b
 
 oliveral
 motorola corfu
