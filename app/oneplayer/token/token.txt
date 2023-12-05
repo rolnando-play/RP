@@ -5758,8 +5758,6 @@ a5b3f26a530edc9a
 Amazon mantis
 c1372fd8adb923ce
 Amazon mantis
-b0844a4bff805a1a
-Amazon mantis
 692af26c96c7be31
 Amazon duckie
 38571b5a4b8965be
