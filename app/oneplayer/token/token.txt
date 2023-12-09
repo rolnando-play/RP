@@ -20925,6 +20925,8 @@ HUAWEI HWVOG
 5feee7fd7191af49
 SkyworthDigital HP40A2
 5809f0543d31279c
+Xiaomi jaws
+d9fa81c4033921fe
 
 joelito.r
 HUAWEI HWEML
