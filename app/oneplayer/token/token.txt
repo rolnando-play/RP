@@ -13278,6 +13278,8 @@ samsung c1s
 d9cb3d67bb1a6d98
 incar CP20
 036a108c2e9446b9
+samsung crownqltechn
+f495ab8fe52cec66
 
 camanra
 Allwinner petrel-p1
