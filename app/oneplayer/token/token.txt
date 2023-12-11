@@ -22372,6 +22372,8 @@ Amlogic p212
 6616d8ce313471c1
 Box ap201
 87b6e2a6a17a644c
+dolphin dolphin-fvd-p1
+6ab21da69495e06b
 
 eladioa +5
 samsung g0q
@@ -22447,6 +22449,8 @@ streambus p212
 76af1877cd69f3
 Amlogic p201
 bf6c46fceb72fc5f
+streambus p212
+a953ce02a5135095
 
 velozoa
 motorola java
