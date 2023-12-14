@@ -21071,6 +21071,8 @@ Google titan-p1
 +5
 Allwinner dolphin-fvd p1
 bae0a23178d7c936
+Xiaomi gale
+f668a91d6187f15d
 
 juankps +6 BCH
 dolphin dolphin_fvd_p1
