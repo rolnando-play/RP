@@ -21069,8 +21069,8 @@ joservb2
 Google titan-p1
 5135fe0849eee7c6
 +5
-Allwinner dolphin-fvd p1
-bae0a23178d7c936
+Allwinner dolphin-fvd-p1
+bae0a23f78d7c936
 Xiaomi gale
 f668a91d6187f15d
 
