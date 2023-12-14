@@ -21068,6 +21068,9 @@ Amazon mantis
 joservb2
 Google titan-p1
 5135fe0849eee7c6
++5
+Allwinner dolphin-fvd p1
+bae0a23178d7c936
 
 juankps +6 BCH
 dolphin dolphin_fvd_p1
