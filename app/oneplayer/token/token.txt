@@ -22454,6 +22454,8 @@ streambus p212
 a953ce02a5135095
 Amlogic p201
 69e8bf00755d502
+rockchip rk322x_box
+30fee89d941da227
 
 velozoa
 motorola java
