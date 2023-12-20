@@ -12033,6 +12033,8 @@ Amazon tank
 72380b3ff1242e01
 Amlogic franklin
 bc0e8f353fec34db
+Amazon sheldonp
+03714322cf0447d3
 
 danieljo
 Allwinner dolphin-fvd-p1
