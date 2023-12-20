@@ -991,7 +991,7 @@ r69
 bf12441e79e548c5
 +3
 Rockchip sofia3gr_car
-1ac890c336459235
+70f651245e382662
 HUAWEI HWMAR
 6c2d697bcd4ff1d5
 samsung a21s
@@ -2704,8 +2704,8 @@ Xiaomi oneday
 3d2df5e473e7feff
 
 dannyp
-samsung a52q
-639fae1c50511cf2
+samsung a54x
+4ccfca665f638ee8
 Xiaomi aquaman
 1bac7fd106cd3abc
 Xiaomi oneday
