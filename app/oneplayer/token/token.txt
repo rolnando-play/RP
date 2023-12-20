@@ -991,7 +991,7 @@ r69
 bf12441e79e548c5
 +3
 Rockchip sofia3gr_car
-9246bda9a8a3138
+1ac890c336459235
 HUAWEI HWMAR
 6c2d697bcd4ff1d5
 samsung a21s
