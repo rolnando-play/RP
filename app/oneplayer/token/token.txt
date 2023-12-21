@@ -12035,6 +12035,8 @@ Amlogic franklin
 bc0e8f353fec34db
 Amazon sheldonp
 03714322cf0447d3
+rockchip rk322x_box
+e401b001e7f399b0
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13816,6 +13818,8 @@ Amazon tank
 4a77e2c2c2b6f7
 Amazon tank
 7b2a6629a52ed4d2
+Amazon mantis
+9791d13097d63196
 
 chavezqu
 HUAWEI HWMAR
