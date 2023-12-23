@@ -22743,3 +22743,9 @@ Amlogic p201
 5dd409eef7b7480a
 MTK cvt_mt5863_sa
 c892dfceaba82fbf
+
+fbrit
+Xiaomi tapas
+a06f85552a5337f7
+dolphin dolphin-fvd-p1
+3fd1dfbf2e97acfd
