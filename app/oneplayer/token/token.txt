@@ -21080,6 +21080,8 @@ Allwinner dolphin-fvd-p1
 bae0a23f78d7c936
 Xiaomi gale
 f668a91d6187f15d
+Amazon sheldon
+6b3560b715c3e328
 
 juankps +6 BCH
 dolphin dolphin_fvd_p1
