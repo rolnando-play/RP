@@ -22755,3 +22755,7 @@ Xiaomi tapas
 a06f85552a5337f7
 dolphin dolphin-fvd-p1
 3fd1dfbf2e97acfd
+
+jabam
+samsung dm3q
+7281c4f883c78d76
