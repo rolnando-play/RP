@@ -22759,3 +22759,7 @@ dolphin dolphin-fvd-p1
 jabam
 samsung dm3q
 7281c4f883c78d76
+
+lazcan
+samsung b0q
+5fdb0444216f58d2
