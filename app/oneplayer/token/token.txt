@@ -20131,6 +20131,8 @@ Xiaomi sweet
 8523f3d850b11bf1 
 Xiaomi oneday
 6753893d1687c158
+Allwinner dolphin-fvd-p1
+22d07de6e028f569
 
 leosam
 rockchip rk322x_box
