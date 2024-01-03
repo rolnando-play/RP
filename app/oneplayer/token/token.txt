@@ -12171,6 +12171,8 @@ Xiaomi oneday
 7a50bdb8fa0d8989
 HMD Global DRSA_sprout
 8296e7489a33829f
+samsung a13
+cd1c9dec36974923
 
 aguardia +6
 Xiaomi sweet
