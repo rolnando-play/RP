@@ -3930,6 +3930,8 @@ samsung on7xelte
 2b018cbde5a345e2
 rockchip rk322x_box
 766485ae77eb42d5
+samsung r11s
+3670188f2147cd3e
 
 fenriq
 Xiaomi citrus
