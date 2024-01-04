@@ -22719,6 +22719,8 @@ Google sabrina
 82bb72fbfa38bca3
 Google sabrina
 14b1daed029524a4
+Allwinner dolphin-fvd-p1
+5445c507fd3e9fdb
 
 arnaldoal
 samsung p3s
