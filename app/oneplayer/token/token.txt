@@ -22775,3 +22775,7 @@ samsung dm3q
 lazcan
 samsung b0q
 5fdb0444216f58d2
+
+leticialu
+rockchip rk322x_box
+fab40bb6da813ab1
