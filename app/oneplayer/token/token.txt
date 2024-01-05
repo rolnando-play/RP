@@ -705,6 +705,8 @@ samsung j4primelte
 +10
 samsung z3q
 655ab5399d510a5c
+Xiaomi jaws
+5d77cd292a26a9a7
 
 ampi_h
 r69
@@ -22773,6 +22775,10 @@ dolphin dolphin-fvd-p1
 jabam
 samsung dm3q
 7281c4f883c78d76
+SkyworthDigital HP40A2
+6701560351c35a8f
+SkyworthDigital HP40A2
+afa13ce8d411e87a
 
 lazcan
 samsung b0q
