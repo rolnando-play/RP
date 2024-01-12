@@ -22795,3 +22795,5 @@ samsung b0q
 leticialu
 rockchip rk322x_box
 fab40bb6da813ab1
+Xiaomi frost
+b64c5c3e9574c105
