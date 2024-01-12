@@ -9855,6 +9855,8 @@ rockchip rk322x_box
 4980218b2e359674
 rockchip rk322x_box
 a27d1f0f6d7ff4fb
+rockchip rk322x_box
+c4c0d3c317dd99f2
 
 j88be
 Google walleye
