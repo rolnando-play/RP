@@ -9806,8 +9806,8 @@ Amlogic p201
 rockchip rk322x_box
 ef6cc969b3b00406
 +6 psc
-Hisilicon Hi3751V350
-71005f33a884ee63
+rockchip rk322x_box
+c4c0d3c317dd99f2
 dolphin dolphin_fvd_p1
 7756a12f3903cda1
 rockchip rk322x_box
@@ -9855,8 +9855,6 @@ rockchip rk322x_box
 4980218b2e359674
 rockchip rk322x_box
 a27d1f0f6d7ff4fb
-rockchip rk322x_box
-c4c0d3c317dd99f2
 
 j88be
 Google walleye
