@@ -1122,6 +1122,8 @@ BLL-L23
 bcda5071c1609476
 Droidlogic franklin
 a244a97b4ae1c7ee
+Xiaomi merlinnfc
+f99da17399e26ad5
 
 merefig
 smartphone
