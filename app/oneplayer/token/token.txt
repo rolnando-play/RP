@@ -21320,6 +21320,8 @@ Google sabrina
 86608f45dc4218e2
 Amazon mantis
 ffbb02a3eed2ad58
+Xiaomi venom
+0cb42f9fdd689fcc
 
 cadavid
 Sony BRAVIA_ATV2
@@ -22791,7 +22793,7 @@ SkyworthDigital HP40A2
 ed51f4ab23ee4a48
 Technicolor uiw4054mil
 ff377a566f9faeda
-+6
++15
 
 lazcan
 samsung b0q
