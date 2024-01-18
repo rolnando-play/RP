@@ -3180,9 +3180,9 @@ samsung j6lte
 ab2bc76f8ea31bb6
 Xiaomi aquaman
 1055cfe82b541416
-+6
 Xiaomi aquaman
 c4b35e2f0e389270
++6
 rockchip rk322x_box
 f786fd23c73c61dd
 Xiaomi aquaman
@@ -3193,6 +3193,8 @@ samsung a51
 5729cd35eb190b9d
 Xiaomi aquaman
 de2e92e2e455971c
+Xiaomi aquaman 
+83aff16793d33eed
 
 mgwei
 MBOX dolphin-p1
