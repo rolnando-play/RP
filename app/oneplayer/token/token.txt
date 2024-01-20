@@ -13844,6 +13844,8 @@ Amazon sheldonp
 460c9dc4e3d43439
 Amazon sheldonp
 196b238abda64dbb
+MTK cvt_mt5863_sa
+b5535167fcde7cb2
 
 chavezqu
 HUAWEI HWMAR
