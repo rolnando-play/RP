@@ -21024,6 +21024,8 @@ Amlogic p201
 +5
 Changhong redwood
 d0efd6a0e469230e
+rockchip rk322x_box
+2b395e6a03912eab
 
 mariaram
 samsung a30s
