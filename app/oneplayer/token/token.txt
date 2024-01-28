@@ -1416,6 +1416,8 @@ samsung a21s
 1b0472224c76ce71
 Amazon onyx
 b76a3429ee48bd92
+samsung a24
+3e4396c5c392332a
 
 Javier_b
 tv box
