@@ -16304,6 +16304,8 @@ SkyworthDigital LAS
 a73656ed9f50dfc9
 SEI Robotics HND
 5d8a44cef802ed13
+SkyworthDigital YDA
+e37da772dba9d1a2
 
 dany_el
 Allwinner dolphin-fvd-p1
