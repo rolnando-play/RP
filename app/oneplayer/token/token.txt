@@ -22830,6 +22830,8 @@ Technicolor uiw4054mil
 4642eaa0b31a8c2d
 dolphin dolphin_fvd_p1
 18a03929fbd4bd5e
+Xiaomi soul
+d1039ddb4196d163
 
 lazcan
 samsung b0q
