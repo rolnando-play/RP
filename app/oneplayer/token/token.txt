@@ -707,6 +707,8 @@ samsung z3q
 655ab5399d510a5c
 Xiaomi jaws
 5d77cd292a26a9a7
+LENOVO YT-X705L
+d39f477183a9e69b
 
 ampi_h
 r69
