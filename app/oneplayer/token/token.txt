@@ -22834,6 +22834,8 @@ dolphin dolphin_fvd_p1
 18a03929fbd4bd5e
 Xiaomi soul
 d1039ddb4196d163
+Xiaomi aquaman
+3bb8287e5788dcf9
 
 lazcan
 samsung b0q
