@@ -4548,6 +4548,8 @@ dolphin SBQ-SM007
 333c0d398bf8246b
 Amlogic p281
 6e5eff3583918b7d
+Xiaomi jaws
+5944eaa957da69a1
 
 cristhian.co
 samsung r8q
