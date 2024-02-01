@@ -22463,8 +22463,8 @@ samsung dm2q
 lic.fr +5
 SEI Robotics SEI400TV
 db890d11c2a97092
-Amazon sheldonp
-761b7d1f2cbbe77f
+Amazon kara
+34cb9551c45d1c0a
 SEI Robotics SEI400TV
 8fc014f2311eba5f
 SkyworthDigital HP40A2
