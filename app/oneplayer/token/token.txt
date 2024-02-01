@@ -13854,6 +13854,8 @@ Amazon sheldonp
 196b238abda64dbb
 MTK cvt_mt5863_sa
 b5535167fcde7cb2
+Xiaomi aquaman
+a946fbdf03d49da4
 
 chavezqu
 HUAWEI HWMAR
