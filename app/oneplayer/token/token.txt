@@ -22769,10 +22769,6 @@ Allwinner dolphin-fvd-p1
 5445c507fd3e9fdb
 
 arnaldoal
-samsung p3s
-ee1177af25087de2
-Xiaomi aquaman
-f6349c5c3febec6e
 TCL Eternals11
 8e5b452a1c4de6a6
 motorola gnevan
