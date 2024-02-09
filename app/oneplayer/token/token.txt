@@ -22808,6 +22808,8 @@ c892dfceaba82fbf
 +10
 Amazon sheldon
 d54c47e4bf8c158b
+Amazon sheldon
+288137a6d2d5b487
 
 fbrit
 Xiaomi tapas
