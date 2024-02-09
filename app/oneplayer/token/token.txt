@@ -22805,6 +22805,9 @@ Amlogic p201
 5dd409eef7b7480a
 MTK cvt_mt5863_sa
 c892dfceaba82fbf
++10
+Amazon sheldon
+d54c47e4bf8c158b
 
 fbrit
 Xiaomi tapas
