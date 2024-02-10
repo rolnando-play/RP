@@ -6188,6 +6188,8 @@ dolphin dolphin_fvd_p1
 14dc7aabe26be203
 rockchip MK
 c7c5dd8aeefeab44
+samsung a53x
+f8314181d9e6a4d3
 
 maxgt
 MBOX dolphin-p1
