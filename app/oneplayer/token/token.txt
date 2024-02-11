@@ -22723,6 +22723,8 @@ dolphin dolphin_fvd_p1
 671d0a12512100a
 dolphin dolphin_fvd_p1
 32a24fdd9356dde5
+samsung a71
+934fb1d98a06f621
 
 javica
 samsung SCG01
