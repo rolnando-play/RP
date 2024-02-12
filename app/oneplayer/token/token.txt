@@ -20548,6 +20548,8 @@ dolphin dolphin_fvd_p1
 +5
 dolphin dolphin_fvd_p1
 ede94aa542e671a1
+Rockchip rk322x_box
+3d67f1afafdbbe1a
 
 edujar
 samsung a71
