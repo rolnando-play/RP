@@ -18668,6 +18668,8 @@ motorola saipan
 bc210efc6f32e9db
 Hisense hamamatsucho
 91ebf3318484a464
+samsung a34x
+57fd17c912965fc6
 
 jleona
 HUAWEI HWMAR
