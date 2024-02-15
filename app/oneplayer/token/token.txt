@@ -5,6 +5,8 @@ Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
 61e102e3c3040789
+unknown generic_x86
+8fbfd4e563000911
 Amlogic nexbox_a95x
 2b0bc679db6298fa
 unknown generic_x86
