@@ -2055,6 +2055,8 @@ Xiaomi vayu
 2bb22a1fa0fa7001
 alps ac8257_demo_1g_32
 e5debd9cf287eb02
+Xiaomi vayu
+a7a48554736b751f
 
 seraqu
 Allwinner dolphin-fvd-p1
@@ -22866,6 +22868,8 @@ Google sabrina
 e8c90bbbf63dc140
 Xiaomi aquaman
 4758684d3387e05c
+rockchip rk322x_box
+c2041ae054f18184
 
 lazcan
 samsung b0q
