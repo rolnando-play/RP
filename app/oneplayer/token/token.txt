@@ -2057,6 +2057,8 @@ alps ac8257_demo_1g_32
 e5debd9cf287eb02
 Xiaomi vayu
 a7a48554736b751f
+Xiaomi vayu
+2358a3e5cd57f1c9
 
 seraqu
 Allwinner dolphin-fvd-p1
