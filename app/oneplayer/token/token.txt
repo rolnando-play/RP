@@ -13867,6 +13867,8 @@ MTK cvt_mt5863_sa
 b5535167fcde7cb2
 Xiaomi aquaman
 a946fbdf03d49da4
+rockchip rk322x_box
+b0059c3c87760e35
 
 chavezqu
 HUAWEI HWMAR
