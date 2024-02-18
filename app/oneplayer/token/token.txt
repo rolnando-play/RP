@@ -20583,6 +20583,8 @@ d54c082a1cdcd4a9
 sebaseli
 Xiaomi aquaman
 306638e592647130
+samsung a30
+77facb2e99ffec1d
 
 admeza
 samsung a21s
