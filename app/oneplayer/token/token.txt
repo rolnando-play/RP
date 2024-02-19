@@ -2773,6 +2773,8 @@ Xiaomi sweet
 bef517f2cc749e5b
 Google sabrina
 a17f3b495cb62b03
+Xiaomi diting
+27031703902bb04e
 
 roroc
 Rockchip rk3328_box
