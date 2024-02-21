@@ -2059,6 +2059,8 @@ Xiaomi vayu
 a7a48554736b751f
 Xiaomi vayu
 2358a3e5cd57f1c9
+Xiaomi vayu
+5ba796ffa918159e
 
 seraqu
 Allwinner dolphin-fvd-p1
