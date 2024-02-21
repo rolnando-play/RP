@@ -22555,6 +22555,8 @@ Amlogic p201
 69e8bf00755d502
 rockchip rk322x_box
 30fee89d941da227
+rockchip rk322x_box
+4e61e7eb7e547bef
 
 velozoa
 motorola java
