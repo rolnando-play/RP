@@ -22814,6 +22814,8 @@ rockchip rk322x_box
 8207aaaa3fe888aa
 samsung a54x
 82231abc4abfec1a
+samsung a14
+7395f1048d706b67
 
 calito
 STREAMBUS p231
