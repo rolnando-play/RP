@@ -18867,6 +18867,8 @@ Xiaomi oneday
 546cac1b8087ce69
 dolphin dolphin_fvd_p1
 df0c97bf6d515bcf
+Xiaomi jaws
+516b1ba8a2701ae0
 
 rodrigopa
 HUAWEI HWJNY
