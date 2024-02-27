@@ -22897,6 +22897,8 @@ Xiaomi aquaman
 4758684d3387e05c
 rockchip rk322x_box
 c2041ae054f18184
+rockchip rk322x_box
+3949de836c23a6e6
 
 lazcan
 samsung b0q
