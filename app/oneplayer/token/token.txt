@@ -22566,6 +22566,8 @@ rockchip rk322x_box
 30fee89d941da227
 rockchip rk322x_box
 4e61e7eb7e547bef
+streambus rk322x_box
+5da8197c2df0b71a
 
 velozoa
 motorola java
