@@ -12080,6 +12080,8 @@ rockchip rk322x_box
 +5
 Amazon sheldon
 cdb381119237a2fb
+Amlogic p212
+2a0f7695c708d44e
 
 danieljo
 Allwinner dolphin-fvd-p1
