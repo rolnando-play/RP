@@ -13880,6 +13880,8 @@ Xiaomi aquaman
 a946fbdf03d49da4
 rockchip rk322x_box
 b0059c3c87760e35
+Amazon sheldonp
+a79651bc2f8a2136
 
 chavezqu
 HUAWEI HWMAR
