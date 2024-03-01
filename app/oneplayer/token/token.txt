@@ -12082,6 +12082,8 @@ Amazon sheldon
 cdb381119237a2fb
 Amlogic p212
 2a0f7695c708d44e
+Amazon mantis
+b31d5bce27f06af9
 
 danieljo
 Allwinner dolphin-fvd-p1
