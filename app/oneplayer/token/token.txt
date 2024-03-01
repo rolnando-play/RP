@@ -649,8 +649,8 @@ rockchip rk322x_box
 7e31e1c5715043dd
 
 luis03k
-ANE-LX3
-42c89cc146f826a0
+Xiaomi tapas
+1293a21806afbe59
 R69
 6ef0c844cd8542dd
 mdtv
