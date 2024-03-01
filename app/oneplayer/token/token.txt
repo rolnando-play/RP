@@ -22903,6 +22903,8 @@ rockchip rk322x_box
 c2041ae054f18184
 rockchip rk322x_box
 3949de836c23a6e6
+Xiaomi oneday
+77bc04e7897c81bf
 
 lazcan
 samsung b0q
