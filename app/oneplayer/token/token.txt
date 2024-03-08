@@ -22919,6 +22919,8 @@ rockchip rk322x_box
 +15
 rockchip rk322x_box
 574a574c9ed559f1
+rockchip rk322x_box
+58fb361661836ce6
 
 lazcan
 samsung b0q
