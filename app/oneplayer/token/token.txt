@@ -22921,6 +22921,8 @@ rockchip rk322x_box
 574a574c9ed559f1
 rockchip rk322x_box
 58fb361661836ce6
+Xiaomi aquaman
+b9195a6f3e994fb8
 
 lazcan
 samsung b0q
