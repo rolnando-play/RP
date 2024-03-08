@@ -19802,6 +19802,8 @@ Android MDTV5G
 cb5028c792845f89
 Android MDTV5G
 31fea6bed44c8a98
+samsung a04s
+c19658c49e59cab7
 
 ronald.r
 Amazon mantis
