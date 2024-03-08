@@ -22914,6 +22914,9 @@ Xiaomi oneday
 77bc04e7897c81bf
 rockchip rk322x_box
 9143e5bafd87a73
++15
+rockchip rk322x_box
+574a574c9ed559f1
 
 lazcan
 samsung b0q
