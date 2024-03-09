@@ -20385,8 +20385,6 @@ Amazon mantis
 b9d6a934a8e88603
 
 jorgealva
-OnePlus OnePlus3T
-88d93db908920de3
 MTK cvt_mt5886_sa
 ac5320b5f75e0fdc
 Xiaomi oneday
