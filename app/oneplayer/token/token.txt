@@ -22925,6 +22925,8 @@ rockchip rk322x_box
 58fb361661836ce6
 Xiaomi aquaman
 b9195a6f3e994fb8
+Amlogic p212
+fa2c6ffeb370f712
 
 lazcan
 samsung b0q
