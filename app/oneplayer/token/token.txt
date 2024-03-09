@@ -20391,6 +20391,8 @@ MTK cvt_mt5886_sa
 ac5320b5f75e0fdc
 Xiaomi oneday
 37c4e9c4d2a72886
+Xiaomi oneday
+861859088ee77756
 
 moralesro +6
 Xiaomi oneday
