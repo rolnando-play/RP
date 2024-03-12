@@ -3487,6 +3487,8 @@ Hisilicon Hi3751V350
 53f972faf0e61f92
 Xiaomi oneday
 0400775d6b2161bb
+Xiaomi garnet
+e699c8b2eaef96f9
 
 cesar.tu
 Xiaomi begonia
