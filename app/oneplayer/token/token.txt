@@ -21082,6 +21082,8 @@ Changhong redwood
 d0efd6a0e469230e
 rockchip rk322x_box
 2b395e6a03912eab
+Amazon sheldonp
+293316ef4470dbc1
 
 mariaram
 samsung a30s
@@ -22252,6 +22254,8 @@ Amlogic p281
 2e589c55997f3d1e
 askey sti6140d360
 d8523ca658722930
+askey sti6140d360
+f94af542fb192a76
 
 juliofl
 dolphin dolphin_fvd_p1
@@ -22977,3 +22981,7 @@ KTC stanford
 miguelb
 Sony BRAVIA_VH2
 222e9242d1de5647
+
+soydio
+samsung e3q
+b2a98753ed1af296
