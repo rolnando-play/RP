@@ -12090,6 +12090,8 @@ Amlogic p212
 2a0f7695c708d44e
 Amazon mantis
 b31d5bce27f06af9
+Xiaomi vayu
+3ea01845547e858e
 
 danieljo
 Allwinner dolphin-fvd-p1
