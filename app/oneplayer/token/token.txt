@@ -5153,6 +5153,8 @@ rockchip rkpx3
 +6 psc
 dolphin dolphin_fvd_p1
 fe4ff735bd2b6f5a
+dolphin dolphin_fvd_p1
+83cb5cdceddcca68
 
 aylenmon
 OnePlus OnePlus8TMO
