@@ -5150,6 +5150,9 @@ sprd ums512_1h10
 b020f2cc9bbeca51
 rockchip rkpx3
 6717b1825ee8be55
++6 psc
+dolphin dolphin_fvd_p1
+fe4ff735bd2b6f5a
 
 aylenmon
 OnePlus OnePlus8TMO
