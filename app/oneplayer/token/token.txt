@@ -5939,6 +5939,8 @@ rockchip rk322x_box
 ab6310e530d302bb
 Amazon sheldon
 7efe5041b39bed16
+Amazon sheldonp
+2271b8d57ade61fc
 
 victorcal
 realme RMX1931L1
