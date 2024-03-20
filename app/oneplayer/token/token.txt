@@ -1,6 +1,4 @@
 adm
-Google oriole
-af366c2f44a1581c
 Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
@@ -47,8 +45,6 @@ unknown generic_x86
 ea552aaae59fa342
 askey sti6140d360
 b3584e2a3f307399
-Google oriole
-e53aa42dd1c681b9
 unknown generic_x86
 2abbe7a6af092b68
 askey sti6140d360
