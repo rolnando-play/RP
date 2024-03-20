@@ -2522,6 +2522,8 @@ d8d6f1faa849ea4f
 +5
 Amazon sheldon
 d7947b6e17338179
+rockchip rk322x_box
+1dc2a3fee5fcd04
 
 ricar.fu
 HUAWEI HWMAR
