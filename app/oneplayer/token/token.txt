@@ -1,18 +1,16 @@
 adm
+Google oriole
+af366c2f44a1581c
 Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
 61e102e3c3040789
-unknown generic_x86
-8fbfd4e563000911
 Motorola athene_f
 8da43cc6959d2fb5
+unknown generic_x86
+8fbfd4e563000911
 Amlogic nexbox_a95x
 2b0bc679db6298fa
-Google oriole
-af366c2f44a1581c
-Google oriole
-e53aa42dd1c681b9
 unknown generic_x86
 64fbf8234a3875c1
 Motorola athene_f
@@ -49,6 +47,8 @@ unknown generic_x86
 ea552aaae59fa342
 askey sti6140d360
 b3584e2a3f307399
+Google oriole
+e53aa42dd1c681b9
 unknown generic_x86
 2abbe7a6af092b68
 askey sti6140d360
@@ -8431,12 +8431,8 @@ dolphin dolphin_fvd_p1
 6672398cf82a8d2f
 
 freddy_k
-rockchip rk322x_box
-f580e93a18c1ec36
-Allwinner dolphin-fvd-p1
-5207917de22cf386
-dolphin dolphin_fvd_p1
-8446d4152746e26b
+Xiaomi hermano
+56eab071edd41fcd
 
 rodrine
 Xiaomi oneday
