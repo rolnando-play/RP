@@ -4685,6 +4685,8 @@ rockchip rk322x_box
 291695bbef89f32a
 HUAWEI HWLDN-Q
 230c9d34cabc7904
+samsung a12
+3e1086bc4d584c08
 
 ylrsto
 Xiaomi davinci
