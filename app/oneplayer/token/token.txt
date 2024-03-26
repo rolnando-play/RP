@@ -9,6 +9,8 @@ Motorola athene_f
 8da43cc6959d2fb5
 unknown generic_x86
 8fbfd4e563000911
+Google generic_x86
+84554ffc4d9e8ce3
 Amlogic nexbox_a95x
 2b0bc679db6298fa
 unknown generic_x86
