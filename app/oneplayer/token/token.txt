@@ -9,6 +9,8 @@ Motorola athene_f
 8da43cc6959d2fb5
 unknown generic_x86
 8fbfd4e563000911
+Google generic_x86
+84554ffc4d9e8ce3
 Amlogic nexbox_a95x
 2b0bc679db6298fa
 unknown generic_x86
@@ -2052,9 +2054,9 @@ Xiaomi vayu
 e93996514ac5b911
 HUAWEI HWMGA-H
 d1f916b093544e56
-+6
 Xiaomi vayu
 2bb22a1fa0fa7001
++6
 alps ac8257_demo_1g_32
 e5debd9cf287eb02
 Xiaomi vayu
@@ -2065,6 +2067,8 @@ Xiaomi vayu
 5ba796ffa918159e
 alps ac8257_demo_1g_32
 1c8df8f7413c65d9
+Xiaomi vayu
+e341c44467921251
 
 seraqu
 Allwinner dolphin-fvd-p1
@@ -2522,6 +2526,8 @@ d8d6f1faa849ea4f
 +5
 Amazon sheldon
 d7947b6e17338179
+rockchip rk322x_box
+1dc2a3fee5fcd04
 
 ricar.fu
 HUAWEI HWMAR
@@ -4429,7 +4435,7 @@ Xiaomi machuca
 a6bc0d9f2a19ae89
 +6 psc
 Xiaomi machuca
-af6eaa2009eef5e4
+a0aad7ab8d35f053
 SEI Robotics SEI400TV
 4cae01297f4e6f8c
 Xiomi jaws
@@ -4681,6 +4687,8 @@ rockchip rk322x_box
 291695bbef89f32a
 HUAWEI HWLDN-Q
 230c9d34cabc7904
+samsung a12
+3e1086bc4d584c08
 
 ylrsto
 Xiaomi davinci
@@ -5150,6 +5158,11 @@ sprd ums512_1h10
 b020f2cc9bbeca51
 rockchip rkpx3
 6717b1825ee8be55
++6 psc
+dolphin dolphin_fvd_p1
+fe4ff735bd2b6f5a
+dolphin dolphin_fvd_p1
+83cb5cdceddcca68
 
 aylenmon
 OnePlus OnePlus8TMO
@@ -5932,6 +5945,8 @@ rockchip rk322x_box
 ab6310e530d302bb
 Amazon sheldon
 7efe5041b39bed16
+Amazon sheldonp
+2271b8d57ade61fc
 
 victorcal
 realme RMX1931L1
@@ -8424,12 +8439,8 @@ dolphin dolphin_fvd_p1
 6672398cf82a8d2f
 
 freddy_k
-rockchip rk322x_box
-f580e93a18c1ec36
-Allwinner dolphin-fvd-p1
-5207917de22cf386
-dolphin dolphin_fvd_p1
-8446d4152746e26b
+Xiaomi hermano
+56eab071edd41fcd
 
 rodrine
 Xiaomi oneday
@@ -12090,6 +12101,8 @@ Amlogic p212
 2a0f7695c708d44e
 Amazon mantis
 b31d5bce27f06af9
+Xiaomi vayu
+3ea01845547e858e
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -13890,6 +13903,12 @@ rockchip rk322x_box
 b0059c3c87760e35
 Amazon sheldonp
 a79651bc2f8a2136
+Amazon sheldon
+dcedb05548fa76ce
+Amazon sheldon
+017992602cb48900
+Amazon sheldon
+afdb50cb70b7b9de
 
 chavezqu
 HUAWEI HWMAR
@@ -21080,6 +21099,8 @@ Changhong redwood
 d0efd6a0e469230e
 rockchip rk322x_box
 2b395e6a03912eab
+Amazon sheldonp
+293316ef4470dbc1
 
 mariaram
 samsung a30s
@@ -22250,6 +22271,8 @@ Amlogic p281
 2e589c55997f3d1e
 askey sti6140d360
 d8523ca658722930
+askey sti6140d360
+f94af542fb192a76
 
 juliofl
 dolphin dolphin_fvd_p1
@@ -22772,6 +22795,8 @@ f7037cd27eff90cb
 albertomi
 Xiaomi oneday
 c31c399ad63630ac
+Xiaomi redwood
+e9409377d3c81eee
 
 yuliy
 dolphin dolphin_fvd_p1
@@ -22812,6 +22837,8 @@ Xiaomi oneday
 8a01b49f32de7e9b
 rockchip rk322x_box
 dc423d6d15987786
+Xiaomi duchamp
+e79b6784cc7a182b
 
 daniel-a
 motorola sofiar
@@ -22937,6 +22964,18 @@ Xiaomi aquaman
 e6fc302d3e4cb3be
 Xiaomi aquaman
 21cba59cbb45af92
+Technicolor uiw4059mil
+1c8991d9e74a02cc
+SkyworthDigital HP40A2
+7a2edcf7626f8b20
+Xiaomi aquaman
+e13a606b47621805
+SkyworthDigital HP40A2
+8f33a05e1db8f96b
+Xiaomi aquaman
+9d3a88df7aa3b137
+Xiaomi aquaman
+5607f1fe3351d22b
 
 lazcan
 samsung b0q
@@ -22973,3 +23012,19 @@ KTC stanford
 miguelb
 Sony BRAVIA_VH2
 222e9242d1de5647
+
+soydio
+samsung e3q
+b2a98753ed1af296
+
+pablowi
+Xiaomi oneday
+cc7d56c58ce8c849
+Xiaomi oneday
+cf44eef8fc7439c4
+Amazon kara
+9c38c71b26a406a
+Amazon kara
+48dbb7513c699fd5
+Amazon kara
+9c38c71b26a406af
