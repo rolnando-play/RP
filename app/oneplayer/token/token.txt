@@ -13901,6 +13901,12 @@ rockchip rk322x_box
 b0059c3c87760e35
 Amazon sheldonp
 a79651bc2f8a2136
+Amazon sheldon
+dcedb05548fa76ce
+Amazon sheldon
+017992602cb48900
+Amazon sheldon
+afdb50cb70b7b9de
 
 chavezqu
 HUAWEI HWMAR
