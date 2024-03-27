@@ -18868,8 +18868,8 @@ rockchip rk322x_box
 885667094cd73ca2
 samsung a51
 e8f386659edd10ef
-Xiaomi alioth
-7f07c7927a0dfc89
+Xiaomi duchamp
+d149ba1b9e91efa7
 +5
 Amazon tank
 8d1f6c2fc90fe81a
