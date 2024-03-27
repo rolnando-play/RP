@@ -12103,6 +12103,8 @@ Amazon mantis
 b31d5bce27f06af9
 Xiaomi vayu
 3ea01845547e858e
+realme RE5C9F
+11f220efa7369793
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -19703,7 +19705,7 @@ Xiaomi oneday
 rockchip rockchip006
 e09fa9bfbfcb3bc7
 HUAWEI HWELE
-bb332f1b77dbffd9
+f3b922abf2e053fa
 +6
 Xiaomi viva
 3e26fd219a2d5828
