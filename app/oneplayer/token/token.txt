@@ -14841,6 +14841,8 @@ Amazon sheldon
 +5
 Changhong redwood
 ccf6f601aaaf7b84
+Google titan-p1
+e99e29331355d45e
 
 oscarama
 Amazon sheldon
@@ -22982,6 +22984,8 @@ Xiaomi aquaman
 9d3a88df7aa3b137
 Xiaomi aquaman
 5607f1fe3351d22b
+SkyworthDigital HP40A2
+af192a7f5a375e57
 
 lazcan
 samsung b0q
