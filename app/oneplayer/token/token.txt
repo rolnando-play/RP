@@ -22986,6 +22986,8 @@ Xiaomi aquaman
 5607f1fe3351d22b
 SkyworthDigital HP40A2
 af192a7f5a375e57
+Xiaomi aquaman
+c7cdedf909e1b2e5
 
 lazcan
 samsung b0q
