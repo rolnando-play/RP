@@ -22996,6 +22996,8 @@ b9794dc9e317dee1
 +15
 Technicolor uiw4054mil
 f4f1d466517d2403
+dolphin dolphin_fvd_p1
+769b01d321b4fc79
 
 lazcan
 samsung b0q
