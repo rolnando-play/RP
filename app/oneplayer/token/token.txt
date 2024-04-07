@@ -23000,6 +23000,8 @@ dolphin dolphin_fvd_p1
 769b01d321b4fc79
 Technicolor uiw4054mil
 2e75983966a09dfb
+Technicolor uiw4059mil
+a2bebe35436fb5f4
 
 lazcan
 samsung b0q
