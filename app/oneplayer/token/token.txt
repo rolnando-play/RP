@@ -3727,12 +3727,10 @@ Xiaomi oneday
 8e1ed5b87b3d2da8
 
 diegoafra
-HUAWEI HWEML
-0dc39b1bffde74f0
-Allwinner dolphin-fvd-p1
-484c8e61e0180204
-samsung jackpotlte
-007d4e751f837ef5
+Amazon kara
+61ef8f87579b8729
+CUBOT KINGKONG_9
+6d082c8b85c9609c
 
 sebassca
 Allwinner dolphin-fvd-p1
