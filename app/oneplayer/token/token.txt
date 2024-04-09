@@ -15546,18 +15546,10 @@ Amazon onyx
 6aad8d4dd21323a2
 
 marcosoj +6
-amlogic sw01
-63d7d0fc34102359
-unknown x86_64
-de8cb554bfd1273a
-MTK cvt_mt5863_sa
-743ab4b454f49dd
-OnePlus OnePlus5
-8a3fe25ecacd9b48
 Google sabrina
 f8ce8a6423560071
-Google sabrina
-982ab89d8d42f4c1
+samsung p3s
+c4b23945934aa360
 
 sebastiandi +18
 samsung gta4xlwifi
