@@ -23008,6 +23008,8 @@ SkyworthDigital HP40A2
 c6499fe00ecce7ad
 Technicolor uiw4059mil
 f8daca26ae53b356
+Technicolor uiw4059mil
+88d9bc12ea8cf3a5
 
 lazcan
 samsung b0q
