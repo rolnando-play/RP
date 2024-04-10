@@ -7102,7 +7102,7 @@ rockchip rk322x_box
 rockchip rk322x_box
 eeecdb4424b0c548
 rockchip rk322x_box
-ca31c11ce4ba203e
+d0407e59d9cb74f
 Xiaomi oneday
 b3de9ce9133f2389
 rockchip rk322x_box
@@ -23004,6 +23004,8 @@ SkyworthDigital HP40A2
 5ad75b2e4b6018ad 
 Xiaomi aquaman
 ac91ae72cb43dfd2
+SkyworthDigital HP40A2
+c6499fe00ecce7ad
 
 lazcan
 samsung b0q
