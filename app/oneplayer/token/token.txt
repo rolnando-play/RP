@@ -23012,6 +23012,8 @@ Technicolor uiw4059mil
 f8daca26ae53b356
 Technicolor uiw4059mil
 88d9bc12ea8cf3a5
+ARRIS vip6102w
+bf64d2ed83872960
 
 lazcan
 samsung b0q
