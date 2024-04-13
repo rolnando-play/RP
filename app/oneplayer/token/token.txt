@@ -19586,6 +19586,8 @@ Xiaomi curtana
 0d1504ce5506e58c
 samsung z3q
 3646e42aea9a5246
+SkyworthDigital LAS
+c15b43f283bd2c0c
 
 santiagob +6
 Xiaomi raphael
