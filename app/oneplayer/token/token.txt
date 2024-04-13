@@ -20877,6 +20877,8 @@ Allwinner dolphin-fvd-p1
 +5
 Amlogic p281
 1531f167036a52fd
+samsung e1s
+c5d7de088c7ee7ea
 
 delvallesa
 Xiaomi oneday
