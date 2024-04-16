@@ -23024,6 +23024,8 @@ ARRIS vip6102w
 bf64d2ed83872960
 Technicolor uiw4054mil
 c12126c82ecb360e
+Xiaomi viva
+9c5e186b049f508d
 
 lazcan
 samsung b0q
