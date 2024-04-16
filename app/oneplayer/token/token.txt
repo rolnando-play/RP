@@ -5883,6 +5883,8 @@ Amazon trona
 fe4504d54f743239
 Google sabrina
 e71bd8158e018bf8
+samsung r8q
+4a4a5fa8a2484eaa
 
 psicov
 Xiaomi lavender
