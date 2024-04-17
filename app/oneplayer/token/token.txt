@@ -20345,6 +20345,8 @@ c3266df916872714
 +10
 sprd uis8581a2h10
 e61203ea246750ea
+Amazon mantis
+854e08b1191b50e6
 
 nuzzar +6
 Xiaomi renoir
