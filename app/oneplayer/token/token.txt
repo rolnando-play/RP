@@ -18262,6 +18262,8 @@ Amlogic p281
 luisvill
 rockchip rk322x_box
 b0bd251c446552cc
+Xiaomi surya
+fe28ac14a2b50347
 
 luisbnt +6
 rockchip rk322x_box
@@ -22694,6 +22696,8 @@ rockchip rk322x_box
 aba16adcd720c3ae
 rockchip rk322x_box
 cc661fd3ddb2a8c3
+samsung
+a3125c8f4fc4e86e115
 
 juanchopp +10
 Xiaomi oneday
