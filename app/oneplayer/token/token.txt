@@ -19618,8 +19618,8 @@ Xiaomi veux
 cad623a7ef6c08c1
 
 py.este
-samsung b0q
-4093fcfa09f0c7b4
+samsung e3q
+51a08554f80798ba
 rockchip rk322x_box
 80b314bc12c9ab3d
 samsung a52sxq
