@@ -3897,6 +3897,8 @@ rockchip rk322x_box
 fc5a19fffe76f9fd
 TCL C06
 252a7276a31b2b85
+rockchip rk322x_box
+d6ffb597642e6282
 
 guillermodu x6
 Xiaomi surya
