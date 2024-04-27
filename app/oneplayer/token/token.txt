@@ -1454,6 +1454,8 @@ Google sabrina
 +5
 SkyworthDigital HP40A2
 98ad8330b2d00b65
+motorola lyriq
+48ce01b07435bf52
 
 elite36
 bitv
