@@ -12115,6 +12115,9 @@ Xiaomi vayu
 3ea01845547e858e
 realme RE5C9F
 11f220efa7369793
++5
+samsung a50
+97e3024fae2cfea6
 
 danieljo
 Allwinner dolphin-fvd-p1
