@@ -682,6 +682,8 @@ Xiaomi surya
 c4873f4a806ab26a
 Amazon sheldon
 ffca8d5a888145d8
+Xiaomi emerald
+fcfdbde150d68382
 
 kalaza
 Allwinner dolphin-fvd-p1
