@@ -23091,6 +23091,8 @@ Sony BRAVIA_VH2
 soydio
 samsung e3q
 b2a98753ed1af296
+Amazon sheldon
+7eba49e1b615a94f
 
 pablowi
 Xiaomi oneday
