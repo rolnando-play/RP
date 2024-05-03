@@ -2224,7 +2224,7 @@ dolphin dolphin_fvd_p1
 dolphin dolphin_fvd_p1
 d3573122c634a3c8
 rockchip rk322x_box
-b9cbab7deffda0e2
+29d0fdf99d3aead4
 motorola caprip
 66a3c68aa56fdbf6
 
