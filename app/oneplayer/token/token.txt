@@ -2227,6 +2227,8 @@ rockchip rk322x_box
 29d0fdf99d3aead4
 motorola caprip
 66a3c68aa56fdbf6
+Google p281
+ceb8947d1c31f0cd
 
 gus_mz
 rockchip rk322x_box
