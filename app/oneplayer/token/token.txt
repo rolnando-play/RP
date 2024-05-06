@@ -9314,6 +9314,8 @@ SkyworthDigital BOS
 bcc64206b72df01c
 rockchip rk322x_box
 99376ce1363d0778
+dolphin dolphin_fvd_p1
+7dc31c5665a08516
 
 dariomar
 samsung z3s
