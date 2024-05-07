@@ -2056,6 +2056,8 @@ Xiaomi vayu
 923954a94c7a2d7b
 HUAWEI HWMGA-H
 d1f916b093544e56
+alps ac8257_demo_1g_32
+1c8df8f7413c65d9
 +6
 
 seraqu
