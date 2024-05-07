@@ -2053,24 +2053,10 @@ b51f4d199b18221f
 
 martinezde
 Xiaomi vayu
-e93996514ac5b911
+923954a94c7a2d7b
 HUAWEI HWMGA-H
 d1f916b093544e56
-Xiaomi vayu
-2bb22a1fa0fa7001
 +6
-alps ac8257_demo_1g_32
-e5debd9cf287eb02
-Xiaomi vayu
-a7a48554736b751f
-Xiaomi vayu
-2358a3e5cd57f1c9
-Xiaomi vayu
-5ba796ffa918159e
-alps ac8257_demo_1g_32
-1c8df8f7413c65d9
-Xiaomi vayu
-e341c44467921251
 
 seraqu
 Allwinner dolphin-fvd-p1
