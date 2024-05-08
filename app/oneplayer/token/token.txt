@@ -21133,6 +21133,8 @@ rockchip rk322x_box
 2b395e6a03912eab
 Amazon sheldonp
 293316ef4470dbc1
+Amazon sheldon
+9a8c03a30c0b0f3b
 
 mariaram
 samsung a30s
