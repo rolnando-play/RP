@@ -23096,6 +23096,8 @@ samsung e3q
 b2a98753ed1af296
 Amazon sheldon
 7eba49e1b615a94f
+Amazon karat
+70f3c2adb99c79db
 
 pablowi
 Xiaomi oneday
