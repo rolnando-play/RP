@@ -1458,6 +1458,8 @@ SkyworthDigital HP40A2
 98ad8330b2d00b65
 motorola lyriq
 48ce01b07435bf52
+android TV walleye
+ee6151e37034224f
 
 elite36
 bitv
@@ -6216,16 +6218,8 @@ Xiaomi curtana
 d8d565929b70ba6d
 
 canete.c +6
-samsung a6plte
-e8cac19f38606dac
 Xiaomi oneday
 c46598ee8668b9f9
-Allwinner dolphin-fvd-p1
-6dc5a466ee9f55ac
-dolphin dolphin_fvd_p1
-14dc7aabe26be203
-rockchip MK
-c7c5dd8aeefeab44
 Xiaomi jaws
 368f9998cebe7cbd
 
