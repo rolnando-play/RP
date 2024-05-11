@@ -2522,6 +2522,10 @@ Amazon sheldon
 d7947b6e17338179
 rockchip rk322x_box
 1dc2a3fee5fcd04
+Amazon sheldonp
+8fc34785cd06274c
+Amazon sheldon
+140cdc2b0c04fb48
 
 ricar.fu
 HUAWEI HWMAR
@@ -3895,6 +3899,8 @@ TCL C06
 252a7276a31b2b85
 rockchip rk322x_box
 d6ffb597642e6282
+Android MBOX
+a6b3b9ff6436bde4
 
 guillermodu x6
 Xiaomi surya
