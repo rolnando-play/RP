@@ -22668,6 +22668,8 @@ samsung t2s
 f01d18a31e849ec7
 samsung g0q
 127a75b5fe39ae03
+motorola denver
+789315d058d35be1
 
 davidber
 Amazon sheldon
