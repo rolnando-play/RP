@@ -12116,6 +12116,8 @@ Xiaomi miel
 fc44f73fdbfcb83e
 dolphin dolphin_fvd_p1
 7ad042adfa06fcfc
+Xiaomi aquaman
+295006ba5cd897ae
 
 danieljo
 Allwinner dolphin-fvd-p1
