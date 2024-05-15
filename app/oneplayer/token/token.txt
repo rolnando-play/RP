@@ -3455,10 +3455,8 @@ dolphin dolphin_fvd_p1
 cba36016aebb60b5
 
 danysan
-Google generic_x86_64
-9c13aa30fb8df809
-rockchip rk3328_box
-73cc1ad2d49daebe
+Xiaomi venom
+e4384f6a43f3cc52
 
 jose.ma9
 Xiaomi lithium
