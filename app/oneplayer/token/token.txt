@@ -3457,6 +3457,8 @@ cba36016aebb60b5
 danysan
 Xiaomi venom
 e4384f6a43f3cc52
+Hisilicon Hi3751V350
+e39e10ddf096431a
 
 jose.ma9
 Xiaomi lithium
