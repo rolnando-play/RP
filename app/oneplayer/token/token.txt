@@ -10992,6 +10992,8 @@ Xiaomi oneday
 dae590b51506a3c3
 Amazon sheldonp
 3acc8b48286f2516
+Xiaomi oneday
+37ae331a54470207
 
 timog
 samsung a53g
