@@ -19579,6 +19579,8 @@ Allwinner dolphin-fvd-p1
 8f3c1532d81ab8d0
 OnePlus OnePlus9
 806b6b03809f6601
+Allwinner apollo-p16
+3631b7d5edd20ab9
 
 agodel +6
 samsung b2q
