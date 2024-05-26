@@ -15053,6 +15053,8 @@ Google boreal
 f42b9b245bc2b1b9
 samsung dm3q
 6f6a477cfe83b45c
+fengmi eva
+db38a6bde29a0268
 
 ricardoan
 Xiaomi oneday
