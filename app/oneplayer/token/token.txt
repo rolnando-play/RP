@@ -536,8 +536,8 @@ dolphin dolphin-fvd-p1
 27b66945791e421b
 samsung a03
 452a00d0e0877613
-samsung a13
-f14f95b8812ec0f1
+samsung a23
+2be4fb3199fe7a4a
 
 marcelo.sa
 Redmi Note 8 Pro
@@ -1460,6 +1460,8 @@ motorola lyriq
 48ce01b07435bf52
 android TV walleye
 ee6151e37034224f
+rockchip rk3126c
+5189a5bb6da3c7e2
 
 elite36
 bitv
