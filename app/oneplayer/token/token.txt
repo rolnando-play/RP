@@ -1438,26 +1438,11 @@ tv box
 4f2e1836e2c4311f
 
 pedropa
-Amazon tank
-944c41d9fad6f0f1
-Amazon sheldon
-d4a053ff7045edf4
-Amazon sheldonp
-bc8276781bb0fb89
-+6
-Amazon maverick
-709048f8e75faa8a
-Amazon sheldon
-0c665662ea9f2861
-Amazon sheldon
-240cbb3fff21f5eb
-Amazon sheldonp
-60fd8478d174ecfa
-Google sabrina
-4075fe11df4a2a43
+
 +5
-SkyworthDigital HP40A2
-98ad8330b2d00b65
+
++5
+
 motorola lyriq
 48ce01b07435bf52
 android TV walleye
