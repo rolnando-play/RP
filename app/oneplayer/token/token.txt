@@ -12112,6 +12112,8 @@ dolphin dolphin_fvd_p1
 7ad042adfa06fcfc
 Xiaomi aquaman
 295006ba5cd897ae
+Xiaomi aquaman
+dbb5bf48197d8023
 
 danieljo
 Allwinner dolphin-fvd-p1
