@@ -15,6 +15,8 @@ Amlogic nexbox_a95x
 2b0bc679db6298fa
 unknown generic_x86
 64fbf8234a3875c1
+askey sti6140d360
+bddec4bc515aa07c
 Motorola athene_f
 a540f6973517696c
 unknown generic_x86
