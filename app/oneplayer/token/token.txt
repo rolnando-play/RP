@@ -22875,6 +22875,8 @@ Xiaomi oneday
 c31c399ad63630ac
 Xiaomi redwood
 e9409377d3c81eee
+HUAWEI HWMRD-M1
+1cffa81d9c2205ff
 
 yuliy
 dolphin dolphin_fvd_p1
