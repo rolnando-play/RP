@@ -2518,6 +2518,9 @@ Amazon sheldon
 140cdc2b0c04fb48
 samsung e2s
 eedfa96b3673bb27
++5
+rockchip rk322x_box
+99822f776d1308fa
 
 ricar.fu
 HUAWEI HWMAR
