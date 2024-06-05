@@ -2045,7 +2045,7 @@ b51f4d199b18221f
 
 martinezde
 Xiaomi vayu
-923954a94c7a2d7b
+012dbb54b8fc3013
 HUAWEI HWMGA-H
 d1f916b093544e56
 alps ac8257_demo_1g_32
