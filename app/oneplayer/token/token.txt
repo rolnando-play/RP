@@ -8515,7 +8515,7 @@ dolphin dolphin-fvd-p1
 rockchip rk322x_box
 2f22804dc17fc967
 Amazon mantis
-5c653d218083123e
+66963dae90de4c6b
 Xiaomi viva
 fc7ec42dacf5ec3b
 
