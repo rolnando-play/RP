@@ -15436,10 +15436,8 @@ askey sti6140d360
 97ca537fe12dd714
 
 chrisol
-Google eros-p1
-f216512425176c45
-rockchip rk3328 box
-f13589616bddc3c2
+samsung r9s
+2c843ff9f0f4a00f
 
 rubenador
 Google sabrina
