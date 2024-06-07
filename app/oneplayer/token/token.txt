@@ -15440,6 +15440,8 @@ askey sti6140d360
 chrisol
 samsung r9s
 2c843ff9f0f4a00f
+Google eros-p1
+d5565a8b5de581cd
 
 rubenador
 Google sabrina
