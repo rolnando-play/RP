@@ -22983,6 +22983,8 @@ Amazon sheldon
 9f52d9ca465656f2
 samsung a54x
 11b11f2de749b21e
+Xiaomi oneday
+48b1b57674aa1fcc
 
 fbrit
 Xiaomi tapas
