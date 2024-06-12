@@ -15054,6 +15054,8 @@ samsung dm3q
 6f6a477cfe83b45c
 fengmi eva
 db38a6bde29a0268
+Xiaomi croods
+5d187c1c11da2266
 
 ricardoan
 Xiaomi oneday
