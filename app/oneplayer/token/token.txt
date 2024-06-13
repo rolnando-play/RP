@@ -20679,6 +20679,8 @@ Xiaomi aquaman
 306638e592647130
 samsung a30
 77facb2e99ffec1d
+Xiaomi aquaman
+b6692ece2c4eeca2
 
 admeza
 samsung a21s
