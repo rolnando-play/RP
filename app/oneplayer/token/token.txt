@@ -21559,7 +21559,7 @@ sreami
 Amlogic p281
 5dcf17434295405f
 rockchip rk322x_box
-588d98c12be2f2fd
+bf2ce6d4a5c5a242
 
 ermelu
 HUAWEI HWAQM-H
