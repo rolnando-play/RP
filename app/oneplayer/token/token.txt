@@ -19750,8 +19750,8 @@ Xiaomi oneday
 1bae778548b26265
 rockchip rockchip006
 e09fa9bfbfcb3bc7
-HUAWEI HWELE
-f3b922abf2e053fa
+OPPO OP574FL1
+e563e0f7e16cbc08
 +6
 Xiaomi viva
 3e26fd219a2d5828
