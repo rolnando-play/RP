@@ -12113,8 +12113,6 @@ Xiaomi vayu
 realme RE5C9F
 11f220efa7369793
 +5
-Xiaomi miel
-fc44f73fdbfcb83e
 dolphin dolphin_fvd_p1
 7ad042adfa06fcfc
 Xiaomi aquaman
