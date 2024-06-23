@@ -21567,6 +21567,8 @@ Amlogic p281
 5dcf17434295405f
 rockchip rk322x_box
 bf2ce6d4a5c5a242
+Allwinner dolphin-fvd-p1
+2f34b3c2abb5a914
 
 ermelu
 HUAWEI HWAQM-H
