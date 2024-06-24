@@ -12121,6 +12121,8 @@ Xiaomi aquaman
 dbb5bf48197d8023
 Xiaomi miel
 8a83f08147b42c67
+Amazon sheldon
+2c2618b6e6c5a627
 
 danieljo
 Allwinner dolphin-fvd-p1
