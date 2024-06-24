@@ -2523,6 +2523,8 @@ rockchip rk322x_box
 99822f776d1308fa
 Google p281
 577d1b19ae5a216c
+Amazon sheldon
+140cdc2b0c04fb48
 
 ricar.fu
 HUAWEI HWMAR
