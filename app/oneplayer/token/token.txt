@@ -5725,7 +5725,7 @@ e8e49d7a9ccb23a1
 Allwinner dolphin-fvd-p1
 94aca0a5f86ad093
 dolphin dolphin-fvd-p1
-85fb7c2379188559
+af1ce098edb550b
 rockchip rk322x_box
 a34e2194b054eaa7
 samsung j7y17lte
