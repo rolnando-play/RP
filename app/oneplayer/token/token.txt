@@ -2802,12 +2802,8 @@ rockchip rk322x_box
 f09618b9e030a767
 
 fffpa
-dolphin SBQ-SM007
-d29b8f7428b27ea1
-samsung a32
-de650a318120ffd7
-samsung a11q
-2a80247b437c2a65
+samsung a14
+200918b1046fb303
 
 mdzaj
 MTK cvt_mt5863_sa
