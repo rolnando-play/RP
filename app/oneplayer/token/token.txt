@@ -20585,6 +20585,8 @@ samsung gta7lite
 074725fb4f71f06e
 samsung a51
 f00b0b47f721e0a6
+HMD Global ROGA_sprout
+f5c26657a2e7071e
 
 rodriber
 rockchip MK
