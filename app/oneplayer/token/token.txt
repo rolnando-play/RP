@@ -3637,6 +3637,8 @@ rockchip rk322x_box
 ca4c8a4ed64b445c
 Xiaomi merlin
 6eea731b3da62459
+Xiaomi aquaman
+233392171333302d
 
 aescobar9
 samsung y2s
