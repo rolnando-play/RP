@@ -12125,6 +12125,9 @@ Xiaomi miel
 8a83f08147b42c67
 Amazon sheldon
 2c2618b6e6c5a627
++5
+rockchip rk322x_box
+7a4210f35da57c
 
 danieljo
 Allwinner dolphin-fvd-p1
