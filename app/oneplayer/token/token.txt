@@ -22696,6 +22696,8 @@ rockchip rk322x_box
 4e61e7eb7e547bef
 streambus rk322x_box
 5da8197c2df0b71a
+Amlogic p212
+509900889c9f20ae
 
 velozoa
 motorola java
