@@ -22098,7 +22098,7 @@ OnePlus HD1907
 
 fabianme +9
 samsung a13
-722af6030ae7ae15
+0d286514205a1487
 
 jjalbe
 Xiaomi ginkgo
