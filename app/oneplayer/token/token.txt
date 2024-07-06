@@ -22856,6 +22856,9 @@ MTK cvt_mt5863_sa
 f1fe47955a199c21
 SkyworthDigital HP40A2
 47a5437f1614b18c
++5
+SkyworthDigital HP40A2
+cb7442f34faf6408
 
 pealv
 Xiaomi vayu
