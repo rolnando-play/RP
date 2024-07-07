@@ -1200,10 +1200,8 @@ BTV franklin
 75a7f139f8a0e83e
 
 plinio
-samsung a31
-19db9aa5b4f2a84e
-samsung a52q
-df5224cfb5e2e54e
+LENOVO TB350XU
+973e262114f8a1bd
 Xiaomi oneday
 0276d82ad85689f7
 
