@@ -1490,6 +1490,9 @@ tv box
 dbd20afbfa18ea4a
 Tvbox
 995621dfb8c4aae7
++5
+samsung star2qltechn
+489c50029aa50a8d
 
 jasguil
 SM-G610M
@@ -13955,6 +13958,8 @@ Xiaomi aquaman
 2becf1e2c77d0d95
 Google boreal
 1d8dd0090ffa1b17
+Google boreal
+f742b3aaa3a011c3
 
 chavezqu
 HUAWEI HWMAR
