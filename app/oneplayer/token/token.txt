@@ -13960,6 +13960,8 @@ Google boreal
 1d8dd0090ffa1b17
 Google boreal
 f742b3aaa3a011c3
+Google boreal
+616abca53f943647
 
 chavezqu
 HUAWEI HWMAR
@@ -16532,6 +16534,8 @@ Amazon sheldon
 ca3ce860c268f2b2
 Amazon kara
 bb4d670114e94164
+Amazon tank
+1ee65ab421861e4c
 
 agustinju
 rockchip rk322x_box
