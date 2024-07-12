@@ -22983,10 +22983,10 @@ Allwinner dolphin-fvd-p1
 5445c507fd3e9fdb
 
 arnaldoal
-TCL Eternals11
-8e5b452a1c4de6a6
 motorola gnevan
 f100facc069e9d57
+motorola bangkk
+c9ebadb8d4114e6c
 
 rodriza
 rockchip rk322x_box
