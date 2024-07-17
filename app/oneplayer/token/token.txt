@@ -22880,6 +22880,8 @@ SkyworthDigital HP40A2
 +5
 SkyworthDigital HP40A2
 cb7442f34faf6408
+SkyworthDigital HP40A2
+37618c0848f1a854
 
 pealv
 Xiaomi vayu
