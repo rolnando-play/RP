@@ -15133,18 +15133,10 @@ samsung a21s
 6d36c0cd0e8d83db
 
 beto-4 +6
-motorola guamp
-8d632ac00ec742a5
-Sony BRAVIA_VH2
-053d54fc2e7b8828
-Hisense xiaoyushan
-5eef4e680832e017
-Xiaomi aquaman
-8535e045506a9c9c
 Sony BRAVIA_VH2
 cedd1e9ee58ad268
-samsung a13
-4ede155033e54d34
+samsung a52sxq
+89e8f19a24c32f81
 
 silvioal
 Amazon kara
