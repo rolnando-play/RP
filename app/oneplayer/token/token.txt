@@ -1498,6 +1498,8 @@ Tvbox
 +5
 samsung star2qltechn
 489c50029aa50a8d
+Xiaomi croods
+13b98ad5e0d54067
 
 jasguil
 SM-G610M
