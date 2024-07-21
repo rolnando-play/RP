@@ -4698,7 +4698,7 @@ Xiaomi oneday
 
 cristianma +6 psc
 rockchip rk322x_box
-291695bbef89f32a
+a068dfbc7bcfe476
 HUAWEI HWLDN-Q
 230c9d34cabc7904
 samsung a12
