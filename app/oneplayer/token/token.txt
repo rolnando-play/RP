@@ -3761,12 +3761,8 @@ Xiaomi oneday
 5011c6d938151f91
 
 guillermofer
-samsung a30
-21a7329aa5a70161
-Allwinner dolphin-fvd-p1
-26ee818b8f54338f
-samsung star2qltechn
-7a1b59b1015dbdc4
+samsung r9s
+be2337b0a2daa49c
 
 fidelinob
 Xiaomi oneday
@@ -23241,3 +23237,7 @@ onn YOC
 c843eb46a07f7bad
 onn YOC
 6d80a4115abf513d
+
+adrianaen
+Xiaomi jasmine_sprout
+5fa0536363730619
