@@ -12139,6 +12139,8 @@ Amazon sheldon
 +5
 rockchip rk322x_box
 7a4210f35da57c
+Amazon kara
+044ca5a65621cf8f
 
 danieljo
 Allwinner dolphin-fvd-p1
