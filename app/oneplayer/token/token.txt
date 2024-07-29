@@ -2535,6 +2535,8 @@ Google p281
 577d1b19ae5a216c
 Amazon sheldon
 140cdc2b0c04fb48
+Amazon sheldon
+63bd5755ce1e1b3e
 
 ricar.fu
 HUAWEI HWMAR
@@ -12137,6 +12139,10 @@ Amazon sheldon
 +5
 rockchip rk322x_box
 7a4210f35da57c
+Amazon kara
+044ca5a65621cf8f
+Amazon kara
+88652957bda79960
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -22876,6 +22882,8 @@ SkyworthDigital HP40A2
 37618c0848f1a854
 Amazon sheldon
 67cbbe03ec9457fe
+Amazon sheldon
+e366305a9a7586da
 
 pealv
 Xiaomi vayu
@@ -23207,6 +23215,11 @@ Google titan-p1
 8d4c8814c6d1e59d
 Google titan-p1
 241acdb5385a0f9d
+Amazon sheldonp
+597ce79ebd787571
++5
+Amazon sheldonp
+332e8a53f13d742a
 
 pablowi
 Xiaomi oneday
