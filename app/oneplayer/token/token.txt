@@ -2986,6 +2986,8 @@ rockchip rk322x_box
 3050b933cab61a58
 Xiaomi fire
 0e0700b7a514ef2f
+cyprus64
+dd87ba0e5b550ec8
 
 marielo
 Xiaomi begonia
