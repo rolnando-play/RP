@@ -19824,8 +19824,8 @@ SCBC R2
 ad46970a92955b1d
 dolphin SBQ-SM007
 fd380046a7f2946b
-SEI Robotics SEI400TV
-87c906a1c5cf9383
+Xiaomi jaws
+615b9ff3937b00dd
 +6
 Droidlogic ampere 
 9bcda1e2d47a01b4
@@ -19876,6 +19876,8 @@ askey sti6140d360
 2aa1af0eaddcbb06
 dolphin dolphin-fvd-p1
 bf31c149daceaa77
+onn YOC
+69bba3846b8d0239
 
 roloca
 MTK cvt_mt5886_sa
