@@ -1177,6 +1177,8 @@ dolphin dolphin_fvd_p1
 e0046b4961e9ce1b
 dolphin dolphin_fvd_p1
 2cea4ef98e5825f
+TCL C06
+307bc109f8704a03
 
 alexis.ro
 3172340502e1210d
