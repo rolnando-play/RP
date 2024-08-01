@@ -23231,6 +23231,8 @@ Amazon sheldonp
 +5
 Amazon sheldonp
 332e8a53f13d742a
+Google titan-p1
+d822eaaa4ad63053
 
 pablowi
 Xiaomi oneday
