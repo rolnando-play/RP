@@ -4460,6 +4460,8 @@ Xiaomi jaws
 4902802e1a979a05
 KTC mountbaker
 80d0c4d092dc1ebb
+SkyworthDigital HP40A2
+93f180874deefe5f
 
 oma19 +9
 samsung c2s
