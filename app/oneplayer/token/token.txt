@@ -1540,6 +1540,8 @@ tv box
 fe375954d4d067ed
 samsung b0q
 8198b6bd45b0ec71
+samsung r8q
+76ed63a5131de005
 
 rokeri1
 tv box
