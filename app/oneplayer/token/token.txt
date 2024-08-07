@@ -1538,6 +1538,8 @@ Redmi Note 9 Pro
 0743845a5678d5a4
 tv box
 fe375954d4d067ed
+samsung b0q
+8198b6bd45b0ec71
 
 rokeri1
 tv box
