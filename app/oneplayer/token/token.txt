@@ -13994,6 +13994,8 @@ Google boreal
 7caeb8188fda052a
 Xiaomi aquaman
 92d5da66a0668d17
+Google titan-p1
+8b1f24463fb43241
 
 chavezqu
 HUAWEI HWMAR
