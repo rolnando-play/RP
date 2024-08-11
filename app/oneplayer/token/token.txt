@@ -21542,6 +21542,8 @@ Amazon mantis
 ffbb02a3eed2ad58
 Xiaomi venom
 0cb42f9fdd689fcc
+Xiaomi venom
+8eb2b2484498fbbe
 
 cadavid
 Sony BRAVIA_ATV2
