@@ -20984,6 +20984,8 @@ Amlogic p281
 1531f167036a52fd
 samsung e1s
 c5d7de088c7ee7ea
+Amlogic p281
+887971ec37e78963
 
 delvallesa
 Xiaomi oneday
