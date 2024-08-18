@@ -15623,8 +15623,8 @@ Zplus Hi3798MV100
 d74372e16d4213b6
 
 jochol
-samsung t2s
-d4933812b25e3406
+samsung e3q
+cb9a7940d648eb70
 Amazon kara
 599147e5d83b9e17
 KTC zhongshan
