@@ -1011,8 +1011,8 @@ c4c01c48e93a04b9
 r69
 bf12441e79e548c5
 +3
-Rockchip sofia3gr_car
-70f651245e382662
+Google blueline
+746b6acce4f0607d
 HUAWEI HWMAR
 6c2d697bcd4ff1d5
 samsung a21s
