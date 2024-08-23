@@ -22772,6 +22772,8 @@ samsung g0q
 127a75b5fe39ae03
 motorola denver
 789315d058d35be1
+samsung t2q
+2bd9dba70ef7a585
 
 davidber
 Amazon sheldon
