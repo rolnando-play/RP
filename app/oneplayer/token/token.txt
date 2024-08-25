@@ -686,6 +686,8 @@ Amazon sheldon
 ffca8d5a888145d8
 Xiaomi emerald
 fcfdbde150d68382
+Xiaomi emerald
+fcfdbde150d68382
 
 kalaza
 Allwinner dolphin-fvd-p1
@@ -1009,8 +1011,8 @@ c4c01c48e93a04b9
 r69
 bf12441e79e548c5
 +3
-Rockchip sofia3gr_car
-70f651245e382662
+Google blueline
+746b6acce4f0607d
 HUAWEI HWMAR
 6c2d697bcd4ff1d5
 samsung a21s
@@ -1177,6 +1179,8 @@ dolphin dolphin_fvd_p1
 e0046b4961e9ce1b
 dolphin dolphin_fvd_p1
 2cea4ef98e5825f
+TCL C06
+307bc109f8704a03
 
 alexis.ro
 3172340502e1210d
@@ -1534,6 +1538,10 @@ Redmi Note 9 Pro
 0743845a5678d5a4
 tv box
 fe375954d4d067ed
+samsung b0q
+8198b6bd45b0ec71
+samsung r8q
+76ed63a5131de005
 
 rokeri1
 tv box
@@ -2986,6 +2994,8 @@ rockchip rk322x_box
 3050b933cab61a58
 Xiaomi fire
 0e0700b7a514ef2f
+cyprus64
+dd87ba0e5b550ec8
 
 marielo
 Xiaomi begonia
@@ -4454,6 +4464,8 @@ Xiaomi jaws
 4902802e1a979a05
 KTC mountbaker
 80d0c4d092dc1ebb
+SkyworthDigital HP40A2
+93f180874deefe5f
 
 oma19 +9
 samsung c2s
@@ -12143,6 +12155,8 @@ Amazon kara
 044ca5a65621cf8f
 Amazon kara
 88652957bda79960
+Amazon sheldonp
+1852fbd5be355041
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12226,6 +12240,8 @@ rockchip rk322x_box
 9de112f63294f10f
 rockchip rk322x_box
 2b0669ab9ff90a02
+rockchip rk322x_box
+c12b9a89a2838ac9
 
 javi.ca
 Allwinner android_tv_box
@@ -13973,6 +13989,15 @@ Google boreal
 616abca53f943647
 Google boreal
 f0f46d6cee081b7a
++10
+Google boreal
+85bc5085790a2518
+Google boreal
+7caeb8188fda052a
+Xiaomi aquaman
+92d5da66a0668d17
+Google titan-p1
+8b1f24463fb43241
 
 chavezqu
 HUAWEI HWMAR
@@ -15600,8 +15625,8 @@ Zplus Hi3798MV100
 d74372e16d4213b6
 
 jochol
-samsung t2s
-d4933812b25e3406
+samsung e3q
+cb9a7940d648eb70
 Amazon kara
 599147e5d83b9e17
 KTC zhongshan
@@ -19818,8 +19843,8 @@ SCBC R2
 ad46970a92955b1d
 dolphin SBQ-SM007
 fd380046a7f2946b
-SEI Robotics SEI400TV
-87c906a1c5cf9383
+Xiaomi jaws
+615b9ff3937b00dd
 +6
 Droidlogic ampere 
 9bcda1e2d47a01b4
@@ -19870,6 +19895,8 @@ askey sti6140d360
 2aa1af0eaddcbb06
 dolphin dolphin-fvd-p1
 bf31c149daceaa77
+onn YOC
+69bba3846b8d0239
 
 roloca
 MTK cvt_mt5886_sa
@@ -20959,6 +20986,8 @@ Amlogic p281
 1531f167036a52fd
 samsung e1s
 c5d7de088c7ee7ea
+Amlogic p281
+887971ec37e78963
 
 delvallesa
 Xiaomi oneday
@@ -21521,6 +21550,8 @@ Amazon mantis
 ffbb02a3eed2ad58
 Xiaomi venom
 0cb42f9fdd689fcc
+Xiaomi venom
+8eb2b2484498fbbe
 
 cadavid
 Sony BRAVIA_ATV2
@@ -22743,6 +22774,8 @@ samsung g0q
 127a75b5fe39ae03
 motorola denver
 789315d058d35be1
+samsung t2q
+2bd9dba70ef7a585
 
 davidber
 Amazon sheldon
@@ -23047,6 +23080,8 @@ Xiaomi oneday
 48b1b57674aa1fcc
 Amazon sheldon
 38003c466b22de42
+KTC lavender
+0f5713648872b54b
 
 fbrit
 Xiaomi tapas
@@ -23220,6 +23255,10 @@ Amazon sheldonp
 +5
 Amazon sheldonp
 332e8a53f13d742a
+Google titan-p1
+d822eaaa4ad63053
+Amazon sheldonp
+854b18b3dd5fba18
 
 pablowi
 Xiaomi oneday
@@ -23256,3 +23295,7 @@ Xiaomi jasmine_sprout
 5fa0536363730619
 Amazon sheldonp
 0cfadd2841ab4b76
+
+mirandami
+samsung g0q
+211651ab95bc0524
