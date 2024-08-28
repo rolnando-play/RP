@@ -20735,8 +20735,8 @@ rockchip rk322x_box
 jemma
 Xiaomi aquaman
 45848bd4460a3b68
-Xiaomi aquaman
-cfd81ffe8ba05bec
+Xiaomi venom
+926da912468e6737
 Xiaomi oneday
 d54c082a1cdcd4a9
 
