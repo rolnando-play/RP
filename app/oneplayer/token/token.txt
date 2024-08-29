@@ -13418,6 +13418,8 @@ incar CP20
 036a108c2e9446b9
 samsung crownqltechn
 f495ab8fe52cec66
+Allwinner petrel-p1
+249f3ea1405308b7
 
 camanra
 Allwinner petrel-p1
