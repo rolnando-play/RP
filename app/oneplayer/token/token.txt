@@ -23306,3 +23306,5 @@ samsung g0q
 211651ab95bc0524
 
 copia.rd
+Amazon sheldon
+9dcceb941e1d4010
