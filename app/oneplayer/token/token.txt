@@ -23308,3 +23308,5 @@ samsung g0q
 copia.rd
 Amazon sheldon
 9dcceb941e1d4010
+Xiaomi oneday
+240080a0cc89ca25
