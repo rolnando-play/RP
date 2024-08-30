@@ -23304,3 +23304,5 @@ Amazon sheldonp
 mirandami
 samsung g0q
 211651ab95bc0524
+
+copia.rd
