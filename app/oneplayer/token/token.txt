@@ -20475,6 +20475,8 @@ Xiaomi joyeuse
 046099c55fc1a984
 TCL U3A_10_WIFI
 bab5cf3c14bbb952
+Xiaomi zircon
+b2e0cfac5ac2996f
 
 jqgal
 Xiaomi oneday
