@@ -4469,6 +4469,8 @@ SkyworthDigital HP40A2
 +10
 SkyworthDigital HP40A2
 df2953237973fddf
+SkyworthDigital HP40A2
+d8501a0ca21821c9
 
 oma19 +9
 samsung c2s
