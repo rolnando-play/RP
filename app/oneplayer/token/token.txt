@@ -534,12 +534,12 @@ samsung a13
 d2532b4b8c07ec59
 samsung A13
 c3574fce9110fb0a
-dolphin dolphin-fvd-p1
-27b66945791e421b
 samsung a03
 452a00d0e0877613
 samsung a15
 c20baf53a9720cac
+Amlogic p282
+16c3ba9ea1023b2d
 
 marcelo.sa
 Redmi Note 8 Pro
