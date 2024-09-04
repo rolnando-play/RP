@@ -22775,6 +22775,8 @@ samsung j7xelte
 874aec939b740e77
 motorola hawao
 c97dbd29562547ac
+motorola hawao
+8f7d47d962bca952
 
 jat31
 samsung t2s
