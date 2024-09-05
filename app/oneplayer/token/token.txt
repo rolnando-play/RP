@@ -14045,6 +14045,8 @@ Amazon kara
 1e40f1c89b6702a0
 Xiaomi soul
 9bead4d3d4fa93fd
+dolphin_p1 dolphin-p1
+91a1d891324291ab
 
 infoservi
 Xiaomi laurel_sprout
