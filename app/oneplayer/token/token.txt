@@ -14007,6 +14007,8 @@ Xiaomi aquaman
 92d5da66a0668d17
 Google titan-p1
 8b1f24463fb43241
+Amazon mantis
+da8583dbd11ef7f5
 
 chavezqu
 HUAWEI HWMAR
