@@ -5682,6 +5682,8 @@ Allwinner android_tv_box
 ba4be0277a123b20
 Allwinner android_tv_box
 ec539489ef2db8ba
+SkyworthDigital YYC
+ccd17727bf004a42
 
 apbt2
 Xiaomi aquaman
