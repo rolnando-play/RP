@@ -15770,12 +15770,8 @@ rockchip rk322x_box
 fe731be934d1991a
 
 andyke
-motorola java
-93353b1fa2fb66da
-Amazon mantis
-f33e5524d664bbda
-Xiaomi oneday
-51dcd4e59fb8850b
+HONOR HNCRT-M1
+b6531be80f696dca
 
 andreaort +18
 Google sabrina
