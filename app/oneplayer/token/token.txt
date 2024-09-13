@@ -2599,6 +2599,8 @@ Amazon kara
 mv_mf_
 Xiaomi oneday
 47eb7ebca2d29704
+Xiaomi oneday
+a3c1e4a45d3ef52c
 
 gustavopar
 dolphin dolphin_fvd_p1
@@ -4471,6 +4473,8 @@ SkyworthDigital HP40A2
 df2953237973fddf
 SkyworthDigital HP40A2
 d8501a0ca21821c9
+Xiaomi machuca
+f65d8aed2f5b2945
 
 oma19 +9
 samsung c2s
