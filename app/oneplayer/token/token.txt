@@ -5,6 +5,8 @@ Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
 61e102e3c3040789
+unknown generic_x86
+9b43496638b15f67
 Motorola athene_f
 8da43cc6959d2fb5
 unknown generic_x86
@@ -534,12 +536,12 @@ samsung a13
 d2532b4b8c07ec59
 samsung A13
 c3574fce9110fb0a
-dolphin dolphin-fvd-p1
-27b66945791e421b
 samsung a03
 452a00d0e0877613
-samsung a23
-2be4fb3199fe7a4a
+samsung a15
+c20baf53a9720cac
+Amlogic p282
+16c3ba9ea1023b2d
 
 marcelo.sa
 Redmi Note 8 Pro
@@ -2599,6 +2601,8 @@ Amazon kara
 mv_mf_
 Xiaomi oneday
 47eb7ebca2d29704
+Xiaomi oneday
+a3c1e4a45d3ef52c
 
 gustavopar
 dolphin dolphin_fvd_p1
@@ -4466,6 +4470,13 @@ KTC mountbaker
 80d0c4d092dc1ebb
 SkyworthDigital HP40A2
 93f180874deefe5f
++10
+SkyworthDigital HP40A2
+df2953237973fddf
+SkyworthDigital HP40A2
+d8501a0ca21821c9
+Xiaomi machuca
+f65d8aed2f5b2945
 
 oma19 +9
 samsung c2s
@@ -5677,6 +5688,8 @@ Allwinner android_tv_box
 ba4be0277a123b20
 Allwinner android_tv_box
 ec539489ef2db8ba
+SkyworthDigital YYC
+ccd17727bf004a42
 
 apbt2
 Xiaomi aquaman
@@ -12157,6 +12170,8 @@ Amazon kara
 88652957bda79960
 Amazon sheldonp
 1852fbd5be355041
+Xiaomi aquaman
+3085139701fb0dc1
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -12233,15 +12248,9 @@ samsung e2s
 
 angelpa btc
 rockchip rk322x_box
-426461193191175b
-samsung j7velte
-b2bd50c8d65986df
-rockchip rk322x_box
-9de112f63294f10f
-rockchip rk322x_box
-2b0669ab9ff90a02
-rockchip rk322x_box
 c12b9a89a2838ac9
+rockchip rk322x_box
+fa26ab73a903ef02
 
 javi.ca
 Allwinner android_tv_box
@@ -13413,6 +13422,8 @@ incar CP20
 036a108c2e9446b9
 samsung crownqltechn
 f495ab8fe52cec66
+Allwinner petrel-p1
+249f3ea1405308b7
 
 camanra
 Allwinner petrel-p1
@@ -13998,6 +14009,8 @@ Xiaomi aquaman
 92d5da66a0668d17
 Google titan-p1
 8b1f24463fb43241
+Amazon mantis
+da8583dbd11ef7f5
 
 chavezqu
 HUAWEI HWMAR
@@ -14034,6 +14047,8 @@ Amazon kara
 1e40f1c89b6702a0
 Xiaomi soul
 9bead4d3d4fa93fd
+dolphin_p1 dolphin-p1
+91a1d891324291ab
 
 infoservi
 Xiaomi laurel_sprout
@@ -15104,7 +15119,7 @@ Android MDTV5G
 
 maggielo
 Xiaomi machuca
-d658339b13715a1c
+50c9336416a487a3
 Google sabrina
 74f6691a894ad60d
 Xiaomi spes
@@ -15755,12 +15770,8 @@ rockchip rk322x_box
 fe731be934d1991a
 
 andyke
-motorola java
-93353b1fa2fb66da
-Amazon mantis
-f33e5524d664bbda
-Xiaomi oneday
-51dcd4e59fb8850b
+HONOR HNCRT-M1
+b6531be80f696dca
 
 andreaort +18
 Google sabrina
@@ -19318,6 +19329,8 @@ Amazon sheldon
 4711068442e0e841
 Amazon sheldonp
 33e35f5a4fe4f874
+Expressluck nagata
+0b1352a2cd9475fe
 
 juangu
 TECNO MOBILE LIMITED TECNO-LE7
@@ -20468,6 +20481,8 @@ Xiaomi joyeuse
 046099c55fc1a984
 TCL U3A_10_WIFI
 bab5cf3c14bbb952
+Xiaomi zircon
+b2e0cfac5ac2996f
 
 jqgal
 Xiaomi oneday
@@ -20733,8 +20748,8 @@ rockchip rk322x_box
 jemma
 Xiaomi aquaman
 45848bd4460a3b68
-Xiaomi aquaman
-cfd81ffe8ba05bec
+Xiaomi venom
+926da912468e6737
 Xiaomi oneday
 d54c082a1cdcd4a9
 
@@ -21370,10 +21385,8 @@ samsung z3q
 fc3d03d14f332e00
 
 enriqueme
-rockchip rk322x_box
-7256fe353fc1ecb3
-dolphin dolphin_fvd_p1
-ebce2f1f661da710
+SkyworthDigital HP40A2
+64aafd6c1d89f85c
 TECNO MOBILE LIMITED TECNO-LE7
 b37975c44440b5ec
 
@@ -22766,6 +22779,10 @@ samsung j7xelte
 874aec939b740e77
 motorola hawao
 c97dbd29562547ac
+motorola hawao
+8f7d47d962bca952
+Xiaomi tapas
+75a2b63617a04d3a
 
 jat31
 samsung t2s
@@ -23259,6 +23276,8 @@ Google titan-p1
 d822eaaa4ad63053
 Amazon sheldonp
 854b18b3dd5fba18
+Amazon sheldonp
+6fff365ff0d224a4
 
 pablowi
 Xiaomi oneday
@@ -23299,3 +23318,27 @@ Amazon sheldonp
 mirandami
 samsung g0q
 211651ab95bc0524
+
+copia.rd
+Amazon sheldon
+9dcceb941e1d4010
+Xiaomi oneday
+240080a0cc89ca25
+
+jorgeku
+samsung b0q
+96eb7834f94fdff6
+Xiaomi aquaman
+69236121fb0f3486
+
+sofiabe
+Google sabrina
+5f8e23c64d656968
+Xiaomi veux
+8ee654569810434c
+
+lataba
+Xiaomi gale
+dea59398c011a814
+dolphin dolphin_fvd_p1
+9d091a7a464fb506
