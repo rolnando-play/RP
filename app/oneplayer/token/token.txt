@@ -5,6 +5,8 @@ Changhong ikebukuro
 11bb1fe893000c9e
 unknown generic_x86
 61e102e3c3040789
+unknown generic_x86
+9b43496638b15f67
 Motorola athene_f
 8da43cc6959d2fb5
 unknown generic_x86
