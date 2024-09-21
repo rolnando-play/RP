@@ -11013,6 +11013,8 @@ Xiaomi oneday
 010bb6c3e5438452
 Xiaomi aquaman
 f8bde78b4a6afaed
+Xiaomi sapphire
+0c8747542da75b68
 
 victor@f
 Amazon mantis
