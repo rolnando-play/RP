@@ -16531,6 +16531,8 @@ Xiaomi oneday
 759e8523ca9f8e97
 Xiaomi oneday
 c9cdcd6132807b73
+Xiaomi jaws
+860ad32fb172c4ad
 
 adilsongon
 rockchip rk322x_box
