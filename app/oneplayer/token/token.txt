@@ -12192,8 +12192,8 @@ HUAWEI HWBLA
 afb6d4df15bb0537
 
 jclop
-Xiaomi angelica
-6cda9e41e3763fdc
+Xiaomi sapphire
+616da491547d163
 rockchip rk322x_box
 2fdca110b2d15cb2
 Amazon sheldonp
