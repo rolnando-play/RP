@@ -11005,8 +11005,8 @@ Allwinner dolphin-fvd-p1
 4269768b052c3bdb
 
 zarater
-samsung a21s
-933d3ba6bf382015
+CVT_NULL m7332
+da2536d46d163264
 rockchip rk322x_box
 82310749f60df93c
 Xiaomi oneday
