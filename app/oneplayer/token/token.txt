@@ -4477,6 +4477,8 @@ SkyworthDigital HP40A2
 d8501a0ca21821c9
 Xiaomi machuca
 f65d8aed2f5b2945
+SkyworthDigital HP40A2
+839074705ec7a1ee
 
 oma19 +9
 samsung c2s
