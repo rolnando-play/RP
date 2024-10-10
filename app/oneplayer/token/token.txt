@@ -20480,6 +20480,8 @@ sprd uis8581a2h10
 e61203ea246750ea
 Amazon mantis
 854e08b1191b50e6
+Hisilicon Hi3751V350
+25fa8bba9ece29bc
 
 nuzzar +6
 Xiaomi renoir
