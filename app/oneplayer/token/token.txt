@@ -16064,9 +16064,7 @@ rockchip rk322x_box
 
 chino8
 SEI Robotics SEI400TV
-12ba593ec2bd6063
-SEI Robotics SEI400TV
-ed06f01957d09bbb
+6fe296d8a486ef78
 Xiaomi croods
 c8003b9a5731fc46
 
