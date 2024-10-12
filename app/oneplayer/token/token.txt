@@ -11012,7 +11012,7 @@ da2536d46d163264
 rockchip rk322x_box
 82310749f60df93c
 Xiaomi oneday
-010bb6c3e5438452
+0212fb19653d7ea4
 Xiaomi aquaman
 f8bde78b4a6afaed
 Xiaomi sapphire
