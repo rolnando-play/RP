@@ -22747,6 +22747,9 @@ rockchip rk322x_box
 3ba8c4bd06ac1e1
 Google sabrina
 ceba1e2d0d475291
++5
+samsung a31
+02faf81438a0ef4c
 
 kbode
 Realtek rtd289x_tv001
@@ -23309,6 +23312,9 @@ Amazon sheldonp
 6fff365ff0d224a4
 MBOX dolphin-p1
 b6f9bc6b1a50e0ba
++5
+rockchip rk322x_box
+582396c0dfac922c
 
 pablowi
 Xiaomi oneday
