@@ -22966,6 +22966,8 @@ Amazon sheldon
 67cbbe03ec9457fe
 Amazon sheldon
 e366305a9a7586da
+SkyworthDigital HP40A2
+5f4c2b74cc64df01
 
 pealv
 Xiaomi vayu
