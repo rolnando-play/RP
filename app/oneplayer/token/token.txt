@@ -15191,6 +15191,12 @@ Xiaomi aquaman
 +5
 TCL C06
 59cfe9091089923e
+Xiaomi aquaman
+bf81a1e7a4cc4c05
+Amazon kara
+7cf9e830c53ecdb5
+Amazon kara
+1c03b13f914f7c3e
 
 +6 psc
 rockchip rk322x_box
