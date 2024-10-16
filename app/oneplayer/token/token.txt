@@ -15197,6 +15197,8 @@ Amazon kara
 7cf9e830c53ecdb5
 Amazon kara
 1c03b13f914f7c3e
+Amlogic at30a6
+ae5ced27fd47d507
 
 +6 psc
 rockchip rk322x_box
