@@ -538,8 +538,8 @@ samsung A13
 c3574fce9110fb0a
 samsung a03
 452a00d0e0877613
-samsung a15
-c20baf53a9720cac
+Expressluck marina
+fc7bf6bfa7ad86dc
 Amlogic p282
 16c3ba9ea1023b2d
 
