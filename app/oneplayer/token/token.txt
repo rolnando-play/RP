@@ -23334,6 +23334,8 @@ b6f9bc6b1a50e0ba
 +5
 rockchip rk322x_box
 582396c0dfac922c
+Amazon karat
+88d87cf84fc8c7fa
 
 pablowi
 Xiaomi oneday
