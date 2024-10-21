@@ -23336,6 +23336,8 @@ rockchip rk322x_box
 582396c0dfac922c
 Amazon karat
 88d87cf84fc8c7fa
+Amazon sheldonp
+14496f52604d18dd
 
 pablowi
 Xiaomi oneday
