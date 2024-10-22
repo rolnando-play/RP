@@ -23420,3 +23420,7 @@ askey sti6130d350
 fabrive
 samsung a15
 c6843a045b3a7e02
+onn XNA
+64272df160e42248
+Changhong redwood
+d06a86844a33cc8e
