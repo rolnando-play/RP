@@ -23342,6 +23342,8 @@ Amazon sheldonp
 14496f52604d18dd
 Allwinner dolphin-fvd-p1
 1e858f76eb281108
+Amazon sheldonp
+49670c23a6e3a3fa
 
 pablowi
 Xiaomi oneday
