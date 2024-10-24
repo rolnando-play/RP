@@ -1552,6 +1552,8 @@ Xiaomi oneday
 bd7ef7ae170858f0
 Amazon onyx
 8ea205555c0f4f95
+Xiaomi zircon
+ce14343de1608dd8
 
 edu.bo
 LM-V405
