@@ -1548,8 +1548,8 @@ samsung r8q
 rokeri1
 tv box
 bd7ef7ae170858f0
-telefono
-ea6df50a78b16cbf
+Xiaomi oneday
+bd7ef7ae170858f0
 Amazon onyx
 8ea205555c0f4f95
 
