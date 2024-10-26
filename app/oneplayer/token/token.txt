@@ -3992,12 +3992,8 @@ Xiaomi oneday
 4ef6c8e695d08c62
 
 josemve
-samsung on7xelte
-2b018cbde5a345e2
-rockchip rk322x_box
-766485ae77eb42d5
-samsung r11s
-3670188f2147cd3e
+Google titan-p1
+a6388c38a6ad485c
 
 fenriq
 Xiaomi citrus
