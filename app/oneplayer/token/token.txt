@@ -14028,6 +14028,8 @@ Xiaomi aquaman
 +5
 Google boreal
 27e2484114df9219
+Amazon mantis
+52c03fd97ab473f1
 
 chavezqu
 HUAWEI HWMAR
