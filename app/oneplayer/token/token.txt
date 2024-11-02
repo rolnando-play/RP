@@ -12176,6 +12176,9 @@ Amazon sheldonp
 1852fbd5be355041
 Xiaomi aquaman
 3085139701fb0dc1
++5
+TECNO TECNO-KJ7
+c6f14355848a3d20
 
 danieljo
 Allwinner dolphin-fvd-p1
