@@ -1175,8 +1175,8 @@ Xiaomi aquaman
 7da6ed94052c9753
 
 hacev
-Redmi Note 9 Pro
-75ea8f755b189381
+Xiaomi emerald
+e48ff9aa9d394f6b
 dolphin dolphin_fvd_p1
 e0046b4961e9ce1b
 dolphin dolphin_fvd_p1
