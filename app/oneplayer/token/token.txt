@@ -12179,6 +12179,8 @@ Xiaomi aquaman
 +5
 TECNO TECNO-KJ7
 c6f14355848a3d20
+Changhong ahua
+feb117bbbd0092d7
 
 danieljo
 Allwinner dolphin-fvd-p1
