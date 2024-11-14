@@ -1215,6 +1215,8 @@ LENOVO TB350XU
 973e262114f8a1bd
 Xiaomi oneday
 0276d82ad85689f7
+samsung dm3q
+49fee568194f8922
 
 v.gal
 h96
