@@ -1218,6 +1218,8 @@ Xiaomi oneday
 +5
 samsung dm3q
 49fee568194f8922
+Xiaomi jaws
+36d874e4b2e68dcd
 
 v.gal
 h96
