@@ -538,8 +538,8 @@ samsung A13
 c3574fce9110fb0a
 samsung a03
 452a00d0e0877613
-samsung a15
-c20baf53a9720cac
+Expressluck marina
+fc7bf6bfa7ad86dc
 Amlogic p282
 16c3ba9ea1023b2d
 
@@ -1125,8 +1125,8 @@ tv box
 b57aead3e2ee1d7b
 Xiaomi aquaman
 c186d92fe1768845
-samsung starlte
-51e3868551ad8106
+Xiaomi venom
+7ad7f3939e57460f
 Changhong redwood
 ab91a3801ef47dc4
 
@@ -1175,8 +1175,8 @@ Xiaomi aquaman
 7da6ed94052c9753
 
 hacev
-Redmi Note 9 Pro
-75ea8f755b189381
+Xiaomi emerald
+e48ff9aa9d394f6b
 dolphin dolphin_fvd_p1
 e0046b4961e9ce1b
 dolphin dolphin_fvd_p1
@@ -1215,6 +1215,11 @@ LENOVO TB350XU
 973e262114f8a1bd
 Xiaomi oneday
 0276d82ad85689f7
++5
+samsung dm3q
+49fee568194f8922
+Xiaomi jaws
+36d874e4b2e68dcd
 
 v.gal
 h96
@@ -1548,10 +1553,12 @@ samsung r8q
 rokeri1
 tv box
 bd7ef7ae170858f0
-telefono
-ea6df50a78b16cbf
+Xiaomi oneday
+bd7ef7ae170858f0
 Amazon onyx
 8ea205555c0f4f95
+Xiaomi zircon
+ce14343de1608dd8
 
 edu.bo
 LM-V405
@@ -3990,12 +3997,8 @@ Xiaomi oneday
 4ef6c8e695d08c62
 
 josemve
-samsung on7xelte
-2b018cbde5a345e2
-rockchip rk322x_box
-766485ae77eb42d5
-samsung r11s
-3670188f2147cd3e
+Google titan-p1
+a6388c38a6ad485c
 
 fenriq
 Xiaomi citrus
@@ -12178,6 +12181,15 @@ Amazon sheldonp
 1852fbd5be355041
 Xiaomi aquaman
 3085139701fb0dc1
++5
+TECNO TECNO-KJ7
+c6f14355848a3d20
+Changhong ahua
+feb117bbbd0092d7
+Amazon sheldonp
+e7932411d162ef3c
+Xiaomi duchamp
+3cde1f6293fe80cb
 
 danieljo
 Allwinner dolphin-fvd-p1
@@ -14023,6 +14035,17 @@ Google boreal
 aa7e1455e5d65833
 Xiaomi aquaman
 b9c9aa2c9ac35e43
+Google boreal
+84a1624ab07dc871
+Xiaomi aquaman
+911ccbb57397a11d
++5
+Google boreal
+27e2484114df9219
+Amazon mantis
+52c03fd97ab473f1
+Google boreal
+2b3547cb7b3f4be2
 
 chavezqu
 HUAWEI HWMAR
@@ -14333,6 +14356,8 @@ Amlogic p281
 38cec7a18f955b82
 Amlogic p281
 891c749f99c8fb7d
+Xiaomi venom
+8b028da61c3e5c95
 
 jmtv19 +10 psc
 Xiaomi aquaman
@@ -15184,6 +15209,17 @@ AOC sofia3gr
 a2f67cda7a99a14b
 Xiaomi aquaman
 56be73c41f13ed09
++5
+TCL C06
+59cfe9091089923e
+Xiaomi aquaman
+bf81a1e7a4cc4c05
+Amazon kara
+7cf9e830c53ecdb5
+Amazon kara
+1c03b13f914f7c3e
+Amlogic at30a6
+ae5ced27fd47d507
 
 +6 psc
 rockchip rk322x_box
@@ -15362,6 +15398,8 @@ rockchip rk3318
 d213b796115964fc
 Google sabrina
 bdacc1073b98f804
+Google sabrina
+d84dcb8664e3f2a5
 
 alejandrojor
 SCBC R2
@@ -21426,6 +21464,8 @@ ad7f9bcc2671a4a1
 +5
 onn YOC
 3fbfc51b2815065d
+Amlogic p282
+fee138a3e1edd673
 
 samuli
 Xiaomi aquaman
@@ -22902,6 +22942,8 @@ SkyworthDigital HP40A2
 adrianfel
 Xiaomi oneday
 af8438806226f11f
+Xiaomi venom
+537229d9bfdac527
 
 wilson.ca
 HUAWEI HWCOL
@@ -23317,6 +23359,19 @@ b6f9bc6b1a50e0ba
 +5
 rockchip rk322x_box
 582396c0dfac922c
+Amazon karat
+88d87cf84fc8c7fa
+Amazon sheldonp
+14496f52604d18dd
+Allwinner dolphin-fvd-p1
+1e858f76eb281108
+Amazon sheldonp
+49670c23a6e3a3fa
++5
+Amazon sheldon
+e8353ce09fce965a
+Xiaomi jaws
+368a2ddeb3d11a98
 
 pablowi
 Xiaomi oneday
@@ -23393,3 +23448,11 @@ Xiaomi once
 f7d24abc0505d6de
 askey sti6130d350
 26bfe3f8607f0181
+
+fabrive
+samsung a15
+c6843a045b3a7e02
+onn XNA
+64272df160e42248
+Changhong redwood
+d06a86844a33cc8e
