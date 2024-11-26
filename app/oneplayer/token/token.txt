@@ -23470,3 +23470,5 @@ d06a86844a33cc8e
 rjpari +10
 dolphin dolphin_fvd_p1
 60e8cd61a110923e
+rockchip rk322x_box
+3df9e484a6d636d3
