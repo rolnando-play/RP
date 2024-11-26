@@ -6420,18 +6420,8 @@ rockchip rk322x_box
 d7cce2ef6a0a6134
 
 studiodi +6 psc
-rockchip rk322x_box
-b64c5133a593d9a8
-Allwinner dolphin-fvd-p1
-340791ba04a1a991
-rockchip rk322x_box
-58e1467bc1c3392f
-rockchip rk3328_box
-0c449a9cab0c58da
-rockchip rk3328_box
-d1bd87f01dec438a
-rockchip rk3328_box
-f2b2a3750531cefd
+Technicolor uiw4059mil
+ec468f09b2b0f25f
 
 tecnomar
 rockchip rk322x_box
