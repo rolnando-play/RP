@@ -23462,3 +23462,5 @@ dolphin dolphin_fvd_p1
 60e8cd61a110923e
 rockchip rk322x_box
 3df9e484a6d636d3
+Google titan-p1
+dd1b21a0eecce721
