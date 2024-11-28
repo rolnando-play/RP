@@ -23464,3 +23464,5 @@ rockchip rk322x_box
 3df9e484a6d636d3
 Google titan-p1
 dd1b21a0eecce721
+Google titan-p1
+59d3eb7ada14c40e
