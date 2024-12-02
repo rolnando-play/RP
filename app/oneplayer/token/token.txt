@@ -12184,6 +12184,9 @@ Xiaomi duchamp
 3cde1f6293fe80cb
 Amazon sheldonp
 f3dffce592515463
++5
+dolphin dolphin-fvd-p1
+5f174abe0ee16ae4
 
 danieljo
 Allwinner dolphin-fvd-p1
