@@ -12187,6 +12187,8 @@ f3dffce592515463
 +5
 dolphin dolphin-fvd-p1
 5f174abe0ee16ae4
+Xiaomi sapphire
+3747a7433c3278cb
 
 danieljo
 Allwinner dolphin-fvd-p1
