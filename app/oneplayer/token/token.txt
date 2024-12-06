@@ -4484,6 +4484,8 @@ Xiaomi machuca
 f65d8aed2f5b2945
 SkyworthDigital HP40A2
 839074705ec7a1ee
+KTC mountbaker
+70a677530e39b571
 
 oma19 +9
 samsung c2s
