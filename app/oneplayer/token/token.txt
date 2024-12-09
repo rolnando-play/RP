@@ -3467,9 +3467,7 @@ hraya
 rockchip rk322x_box
 2665aab60726e7b7
 Allwinner Transpeed_H616
-554f6be0e1df09c9
-Allwinner Transpeed_H616
-ce2401408c054c4e
+3975e036c69ab143
 
 ancri
 Amazon sheldon
