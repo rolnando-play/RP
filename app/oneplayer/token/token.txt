@@ -1015,8 +1015,8 @@ bf12441e79e548c5
 +3
 Google blueline
 746b6acce4f0607d
-HUAWEI HWMAR
-6c2d697bcd4ff1d5
+Xiaomi pond
+4c95211c357f2380
 samsung a21s
 0cbbb7f41eee4efd
 
@@ -22899,6 +22899,9 @@ SkyworthDigital HP40A2
 944e649a3b1c4c69
 SkyworthDigital HP40A2
 e2112a4baabea647
++5
+Xiaomi venom
+35458f9d7813adb8
 
 bangof
 Amlogic p282
