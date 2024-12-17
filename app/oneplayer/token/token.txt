@@ -22834,6 +22834,8 @@ streambus rk322x_box
 5da8197c2df0b71a
 Amlogic p212
 509900889c9f20ae
+Xiaomi aquaman
+3448706bcb14f480
 
 velozoa
 motorola java
