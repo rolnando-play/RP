@@ -12193,6 +12193,8 @@ dolphin dolphin-fvd-p1
 5f174abe0ee16ae4
 Xiaomi sapphire
 3747a7433c3278cb
+Amazon sheldonp
+b8c53231d273000e
 
 danieljo
 Allwinner dolphin-fvd-p1
