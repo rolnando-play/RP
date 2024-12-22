@@ -12197,6 +12197,10 @@ Xiaomi sapphire
 3747a7433c3278cb
 Amazon sheldonp
 b8c53231d273000e
+Amazon sheldonp
+3b2ad503dbd8692b
+Xiaomi emerald
+e5a0d335d683fa88
 
 danieljo
 Allwinner dolphin-fvd-p1
