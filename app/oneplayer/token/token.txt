@@ -12282,6 +12282,8 @@ rockchip rk322x_box
 c12b9a89a2838ac9
 rockchip rk322x_box
 fa26ab73a903ef02
+rockchip rk322x_box
+ee73f0f1d19f9718
 
 javi.ca
 Allwinner android_tv_box
