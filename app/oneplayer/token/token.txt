@@ -22969,6 +22969,8 @@ samsung a54x
 aecf811fdb7171e6
 SkyworthDigital HP40A2
 734e6c8b1dbfa4b8
+samsung b6q
+7652d0ceff48c452
 
 adrianfel
 Xiaomi oneday
