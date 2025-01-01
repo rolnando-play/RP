@@ -16341,6 +16341,8 @@ Google titan-p1
 7c8777efc5814403
 Xiaomi machuca
 801ecf715357738d
+KTC mountbaker
+e35e62200ba1c78a
 
 Arturo_Cab
 motorola addison
