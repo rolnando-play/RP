@@ -23424,6 +23424,8 @@ Amazon sheldonp
 d834c6c72c2531cf
 Amazon sheldon
 ca84ba50288cd2a4
+Amazon karat
+10d0c5f3923cf4e3
 
 pablowi
 Xiaomi oneday
