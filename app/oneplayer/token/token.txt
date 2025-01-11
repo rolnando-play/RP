@@ -22781,6 +22781,8 @@ samsung a50
 a14b9e8957db3e48
 samsung dm2q
 3e3056e6f992c30d
+Google boreal
+406d60751f8c1e61
 
 lic.fr +5
 SEI Robotics SEI400TV
