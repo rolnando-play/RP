@@ -2616,6 +2616,8 @@ Xiaomi oneday
 47eb7ebca2d29704
 Xiaomi oneday
 a3c1e4a45d3ef52c
+Xiaomi jaws
+7c73486a8cd64db3
 
 gustavopar
 dolphin dolphin_fvd_p1
