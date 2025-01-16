@@ -23147,6 +23147,8 @@ rockchip rk322x_box
 dc423d6d15987786
 Xiaomi duchamp
 e79b6784cc7a182b
+ZTE Antel_B866V2FAS
+076495098500cb07
 
 daniel-a
 motorola sofiar
