@@ -13196,7 +13196,8 @@ rockchip rk322x_box
 samsung p3q
 750a94d94e9d59c6
 +5
-
+Xiaomi venom
+6328806360c0f5b8
 
 smartpy6 +10
 rockchip rk322x_box
