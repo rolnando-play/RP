@@ -732,6 +732,8 @@ Amlogic p282
 844d03d364d360d4
 KTC mountbaker
 6209462fbac9b14d
+Hisilicon Hi3751V350
+c04a078f14b902a6
 
 ampi_h
 r69
