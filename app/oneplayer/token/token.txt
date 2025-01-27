@@ -732,6 +732,8 @@ Amlogic p282
 844d03d364d360d4
 KTC mountbaker
 6209462fbac9b14d
+Hisilicon Hi3751V350
+c04a078f14b902a6
 
 ampi_h
 r69
@@ -13195,6 +13197,9 @@ rockchip rk322x_box
 35e4f75e1cce7850
 samsung p3q
 750a94d94e9d59c6
++5
+Xiaomi venom
+6328806360c0f5b8
 
 smartpy6 +10
 rockchip rk322x_box
@@ -20352,14 +20357,10 @@ samsung a51
 81254a1d7f5c2fac
 TCL UnionTV
 21c19c7ef4d68ba9
-TCL BeyondTV
-c5bf2e74f6a1c6f8
 Google sabrina
 11162974b6b82c1b
 TCL BeyondTV
-642813fd13908514
-TCL BeyondTV
-01023f9280f21fca
+a95c47bd91852f15
 
 nilsonj
 samsung d2q
@@ -22917,8 +22918,8 @@ Amazon sheldon
 bd8840c8bd77c0d5
 
 william.g
-Xiaomi tapas
-ac78c0d6061957db
+Xiaomi emerald
+72311cd63794f16d
 Xiaomi oneday
 f6f5d6fe6b202c0d
 Amazon tank
