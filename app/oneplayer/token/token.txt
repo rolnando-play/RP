@@ -22302,6 +22302,8 @@ dolphin dolphin_fvd_p1
 685daac1c19d64aa
 Hivendor p281
 1195156035ba43c8
+Linked-z SmartTV350
+e03cdccb59797437
 
 rolimar
 Xiaomi machuca
