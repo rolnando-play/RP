@@ -20014,6 +20014,8 @@ dolphin dolphin-fvd-p1
 bf31c149daceaa77
 onn YOC
 69bba3846b8d0239
+rockchip rk322x_box
+54f0a21a81e5f208
 
 roloca
 MTK cvt_mt5886_sa
