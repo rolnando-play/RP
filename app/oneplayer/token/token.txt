@@ -13200,6 +13200,8 @@ samsung p3q
 +5
 Xiaomi venom
 6328806360c0f5b8
+Amazon sheldon
+898be62295667c04
 
 smartpy6 +10
 rockchip rk322x_box
