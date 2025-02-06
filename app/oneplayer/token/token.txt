@@ -23450,6 +23450,8 @@ Amazon karat
 +5
 Amazon sheldonp
 b400719012d3f48e
+Amazon sheldonp
+d4bf452221f7be70
 
 pablowi
 Xiaomi oneday
