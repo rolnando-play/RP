@@ -15445,6 +15445,8 @@ samsung manta
 39f0377b16cc0e58
 TECNO TECNO-KI7
 468480efa7d8abc8
+TECNO TECNO-KI7
+78d6d05f7156edf0
 
 silvio_7
 rockchip rk3188
