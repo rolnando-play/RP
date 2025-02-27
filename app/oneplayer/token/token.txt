@@ -13205,6 +13205,8 @@ Xiaomi venom
 6328806360c0f5b8
 Amazon sheldon
 898be62295667c04
+Xiaomi soul
+6eef466c82cf8dec
 
 smartpy6 +10
 rockchip rk322x_box
@@ -23465,6 +23467,9 @@ Google titan-p1
 418fa5be99e1c747
 Amazon sheldon
 9ca145e5f2ad1c7e
++5
+Amazon karat
+0702fd86c65cf09c
 
 pablowi
 Xiaomi oneday
