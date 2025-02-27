@@ -15383,8 +15383,8 @@ Amazon mantis
 6c9a1f2a7097e197
 Google sabrina
 e694586dffe77cba
-samsung g0q
-9d7946b0e4c01c3f
+Amazon karat
+b825eec1da5fa23e
 
 mandyco +18
 Amlogic p281
@@ -22993,8 +22993,8 @@ Amazon kara
 c7411c3c9174558d
 Amazon sheldonp
 a59eb011162daa4a
-Amazon karat
-b825eec1da5fa23e
+samsung a54x
+aecf811fdb7171e6
 SkyworthDigital HP40A2
 734e6c8b1dbfa4b8
 samsung b6q
