@@ -16746,12 +16746,8 @@ Amlogic p281
 grao9
 Amazon sheldonp
 e3e83bf100f637e4
-Xiaomi oneday
-03d40b165e223027
 Amazon kara
-fe856bf608b13c11
-Amazon kara
-579dbaac66199d7e
+faeff457c2b81f2c
 
 gcgab +6
 Xiaomi surya
