@@ -19052,8 +19052,8 @@ b2da7f39d70c0983
 Allwinner dolphin-fvd-p1
 233d70a1168c2077
 +3
-SkyworthDigital YYT
-80db12c7684bcf5e
+Xiaomi venom
+0fee350f41a6eb6d
 SkyworthDigital YYT
 beef696ff34e782c
 Amazon mantis
