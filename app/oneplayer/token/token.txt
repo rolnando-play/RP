@@ -4906,8 +4906,8 @@ dolphin dolphin_fvd_p1
 3a849481d9b4de2a
 
 diego_al +6 psc
-Xiaomi laurel_sprout
-095adbf093418d00
+Xiaomi ginkgo
+6afefe6e151c2fc7
 Xiaomi oneday
 126ade66940ef5dd
 MBOX dolphin-p1
