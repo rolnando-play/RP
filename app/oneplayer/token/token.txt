@@ -22953,6 +22953,8 @@ e2112a4baabea647
 +5
 Xiaomi venom
 35458f9d7813adb8
+Technicolor uiw4054mil
+e125aaa607a4cc72
 
 bangof
 Amlogic p282
