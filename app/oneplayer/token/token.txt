@@ -12903,6 +12903,8 @@ f453de0f03f8b876
 fierapro
 samsung a23
 e295e3e156dd0b4b
+SkyworthDigital HP40A2
+ac14f7ec5d2a4f87
 
 gonzalochu
 TCL BeyondTV
