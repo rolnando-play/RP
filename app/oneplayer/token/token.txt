@@ -22668,8 +22668,8 @@ samsung j6primelte
 arnaldovar +6
 HUAWEI HWMAR
 4f42b48b3c7ceb21
-rockchip rk322x_box
-393a824c3d4d55eb
+Xiaomi aquaman
+428fe6dc68bcb4d1
 
 sestec
 MBX m201_512m
