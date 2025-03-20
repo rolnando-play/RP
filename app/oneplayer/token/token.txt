@@ -20757,7 +20757,7 @@ c47f48bc83549f34
 
 rockman +6
 samsung a71
-6fe9f950b489c65b
+0c5f9158d6240b53
 samsung a51
 6ad1d8feab4bfb1f
 samsung gta7lite
