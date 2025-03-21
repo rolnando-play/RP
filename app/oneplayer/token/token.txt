@@ -20025,6 +20025,8 @@ onn YOC
 69bba3846b8d0239
 rockchip rk322x_box
 e9614250f24feea6
+onn YOC
+14e019b360ff21ce
 
 roloca
 MTK cvt_mt5886_sa
