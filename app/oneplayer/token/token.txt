@@ -1137,10 +1137,8 @@ ab91a3801ef47dc4
 aguero.j
 SM-G985F
 6b335269bbb02733
-chromecast
-46344558da3b9db2
 Google sabrina
-4c1d11625a5325b7
+0be1c60a38739ac4
 
 ariel57
 BLL-L23
