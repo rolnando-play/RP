@@ -19659,6 +19659,8 @@ MTK cvt_mt5863_sa
 c17cbb988382a0c0
 Android MDTV5G
 eb8fb2a17812539f
+samsung a32
+2ce4cfa1655b5ec7
 
 riegoam
 OnePlus OnePlus7T
