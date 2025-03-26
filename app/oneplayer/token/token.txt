@@ -12216,6 +12216,8 @@ e5a0d335d683fa88
 +5
 Xiaomi emerald
 fbcd8616f6a09150
+Google titan-p1
+b7f97af52a405cac
 
 danieljo
 Allwinner dolphin-fvd-p1
