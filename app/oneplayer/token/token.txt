@@ -12218,6 +12218,8 @@ Xiaomi emerald
 fbcd8616f6a09150
 Google titan-p1
 b7f97af52a405cac
+Amazon karat
+b6703f9013383c61
 
 danieljo
 Allwinner dolphin-fvd-p1
