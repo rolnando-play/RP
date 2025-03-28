@@ -20469,13 +20469,15 @@ Xiaomi oneday
 Allwinner dolphin-fvd-p1
 22d07de6e028f569
 
-leosam
+leosan
 rockchip rk322x_box
 18a5e0f03ca3db40
 rockchip rk322x_box
 c30a35b30702fc00
 rockchip rk322x_box
 c76fa7a8acd1d2b0
+rockchip rk322x_box
+f9c846ff844c0ce8
 
 lualfo
 Xiaomi aquaman
