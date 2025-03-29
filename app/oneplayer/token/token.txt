@@ -12220,6 +12220,8 @@ Google titan-p1
 b7f97af52a405cac
 Amazon karat
 b6703f9013383c61
+Xiaomi obsidian
+226c5faf36695d09
 
 danieljo
 Allwinner dolphin-fvd-p1
