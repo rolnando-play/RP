@@ -12222,6 +12222,8 @@ Amazon karat
 b6703f9013383c61
 Xiaomi obsidian
 226c5faf36695d09
+Amlogic p281
+ad7c8b5285eac432
 
 danieljo
 Allwinner dolphin-fvd-p1
