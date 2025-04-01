@@ -23602,3 +23602,7 @@ samsung on7xelte
 tvbox04
 Xiaomi tapas
 c5f83de926ab0267
+
+pjbas
+rockchip rk322x_box
+b1201a5429adbe27
