@@ -13368,7 +13368,7 @@ rockchip rk322x_box
 rockchip rk322x_box
 3b4ff6449bf463c1
 Xiaomi croods
-041a30743cf6a7aa
+62b4fd0273c650ee
 rockchip rk322x_box
 32a4abb8df38df28
 
