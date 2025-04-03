@@ -6397,6 +6397,8 @@ LENOVO 8505F
 b0681046a5ae6b96
 Amazon onyx
 0e82733d7e12a350
+Amazon mantis
+a08877d2f7902ae
 
 cuentatv
 Allwinner dolphin-fvd-p1
