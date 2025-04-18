@@ -1541,8 +1541,8 @@ r69
 97559db5d1b83e22
 
 dileca
-tv tokio
-9ada9245aa59bb86
+Hisilicon Hi3751V350
+c77ecc6dff44dcdb
 Xiaomi aquaman
 5a36724e746a95e9
 samsung a12s
