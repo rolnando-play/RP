@@ -20584,6 +20584,8 @@ Amazon mantis
 854e08b1191b50e6
 Hisilicon Hi3751V350
 25fa8bba9ece29bc
+Allwinner dolphin-fvd-p1
+59fc1f19e0c42bcf
 
 nuzzar +6
 Xiaomi renoir
