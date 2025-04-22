@@ -23147,6 +23147,8 @@ Xiaomi redwood
 e9409377d3c81eee
 HUAWEI HWMRD-M1
 1cffa81d9c2205ff
+Xiaomi aquaman
+8dcaca8163d048c1
 
 yuliy
 dolphin dolphin_fvd_p1
