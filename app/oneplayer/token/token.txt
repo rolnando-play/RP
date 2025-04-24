@@ -20027,8 +20027,8 @@ rockchip MK
 aa0df5842817b7f7
 rockchip rk322x_box
 ab1637c17a124ca3
-rockchip rk322x_box
-7cb97862ca6e8d78
+Xiaomi soul
+ef1a2c7ac179c1c2
 askey sti6140d360
 2aa1af0eaddcbb06
 dolphin dolphin-fvd-p1
