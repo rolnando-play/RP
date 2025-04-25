@@ -22821,8 +22821,8 @@ dolphin SBQ-SM007
 8c8ba1ace4e43ab9
 samsung a50
 a14b9e8957db3e48
-samsung dm2q
-3e3056e6f992c30d
+samsung pa2q
+f423fcb80bc3d97a
 Google boreal
 406d60751f8c1e61
 
