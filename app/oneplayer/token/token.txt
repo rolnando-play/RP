@@ -12226,6 +12226,9 @@ Xiaomi obsidian
 226c5faf36695d09
 Amlogic p281
 ad7c8b5285eac432
++5
+Xiaomi tapas
+348a34d95b0718e6
 
 danieljo
 Allwinner dolphin-fvd-p1
