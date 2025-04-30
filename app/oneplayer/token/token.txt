@@ -19537,8 +19537,8 @@ askey sti6140d360
 795daa0566e9a56a
 rockchip rk322x_box
 abdcf5cc77f233fc
-dolphin dolphin_fvd_p1
-78c267833dd22b52
+onn YOC
+b5b6e6ab9487a664
 rockchip rk322x_box
 66983557f96a954c
 askey sti6140d360
