@@ -23220,12 +23220,8 @@ motorola bangkk
 c9ebadb8d4114e6c
 
 rodriza
-rockchip rk322x_box
-8207aaaa3fe888aa
-samsung a54x
-82231abc4abfec1a
-samsung a14
-7395f1048d706b67
+INFINIX Infinix-X6880
+6647dc6cbc75acfc
 
 calito
 STREAMBUS p231
