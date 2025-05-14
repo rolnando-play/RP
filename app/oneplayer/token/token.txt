@@ -20593,6 +20593,8 @@ Allwinner dolphin-fvd-p1
 59fc1f19e0c42bcf
 SkyworthDigital HP40A2
 8e6e862f08518672
+SkyworthDigital HP40A2
+1e7717db48639908
 
 nuzzar +6
 Xiaomi renoir
