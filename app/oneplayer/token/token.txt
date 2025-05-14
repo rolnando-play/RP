@@ -14412,6 +14412,8 @@ Amlogic p281
 891c749f99c8fb7d
 Xiaomi venom
 8b028da61c3e5c95
+Changhong osaka
+6b77c5e6653f6e1a
 
 jmtv19 +10 psc
 Xiaomi aquaman
