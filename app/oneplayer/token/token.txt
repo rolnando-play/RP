@@ -20591,6 +20591,8 @@ Hisilicon Hi3751V350
 25fa8bba9ece29bc
 Allwinner dolphin-fvd-p1
 59fc1f19e0c42bcf
+SkyworthDigital HP40A2
+8e6e862f08518672
 
 nuzzar +6
 Xiaomi renoir
