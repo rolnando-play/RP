@@ -21819,6 +21819,9 @@ rockchip rk322x_box
 d61c29690446bacf
 Android MDTV5G
 2ae93904f4911234
++5
+samsung m52xq
+11e69ec175e06863
 
 cardozoi
 MTK cvt_mt5863_sa
