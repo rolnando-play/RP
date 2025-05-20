@@ -21822,6 +21822,8 @@ Android MDTV5G
 +5
 samsung m52xq
 11e69ec175e06863
+Xiaomi venom
+ca9cc527c82ef392
 
 cardozoi
 MTK cvt_mt5863_sa
