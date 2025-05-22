@@ -8592,6 +8592,8 @@ Allwinner dolphin-fvd-p1
 +3
 Google sabrina
 597f7abc090224a9
+Xiaomi vayu
+a334908f09a4e6a6
 
 pjc0409 +6
 rockchip rk322x_box
