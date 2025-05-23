@@ -5715,6 +5715,9 @@ SkyworthDigital YYC
 ccd17727bf004a42
 samsung e2s
 e4ad531adf157b44
++5
+Xiaomi venom
+367e7211bdaa9050
 
 apbt2
 Xiaomi aquaman
