@@ -2079,8 +2079,8 @@ DUB-ULTRA
 b51f4d199b18221f
 
 martinezde
-Xiaomi vayu
-058ef15e7ff3d76d
+Xiaomi tanzanite
+6032b333e00521d0
 HUAWEI HWMGA-H
 d1f916b093544e56
 alps ac8257_demo_1g_32
