@@ -4910,8 +4910,8 @@ Xiaomi ginkgo
 6afefe6e151c2fc7
 Xiaomi oneday
 126ade66940ef5dd
-MBOX dolphin-p1
-db02d0649e95059e
+MTK cvt_mt5863_sa
+92ac81850248c6d5
 Xiaomi aquaman
 df35d2e012d4e0d2
 Xiaomi oneday
