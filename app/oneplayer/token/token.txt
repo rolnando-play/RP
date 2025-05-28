@@ -14150,6 +14150,8 @@ Xiaomi soul
 9bead4d3d4fa93fd
 dolphin_p1 dolphin-p1
 91a1d891324291ab
+Xiaomi twilight
+98e10119dfe8f6d7
 
 infoservi
 Xiaomi laurel_sprout
