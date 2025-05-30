@@ -22959,6 +22959,8 @@ motorola hawao
 8f7d47d962bca952
 Xiaomi tapas
 75a2b63617a04d3a
+motorola sorap
+d89634b1bee03590
 
 jat31
 samsung t2s
