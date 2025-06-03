@@ -23443,6 +23443,8 @@ Sony BRAVIA_VH2
 222e9242d1de5647
 Xiaomi jaws
 799f959efa5912aa
+Sony BRAVIA_VH2
+83a8773262811f0a
 
 soydio
 samsung e3q
