@@ -15314,6 +15314,8 @@ Sony BRAVIA_VH2
 cedd1e9ee58ad268
 samsung a52sxq
 89e8f19a24c32f81
+samsung a55x
+5ce2310871f13d90
 
 silvioal
 Amazon kara
