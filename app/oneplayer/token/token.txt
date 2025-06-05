@@ -12315,6 +12315,8 @@ rockchip rk322x_box
 fa26ab73a903ef02
 rockchip rk322x_box
 45223220901e94cd
+SkyworthDigital HP40A2
+c36a73373aaf8787
 
 javi.ca
 Allwinner android_tv_box
