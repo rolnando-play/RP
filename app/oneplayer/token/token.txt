@@ -15729,8 +15729,8 @@ dolphin dolphin_fvd_p1
 18c4b355e039357d
 
 matiasva
-samsung c2s
-a487aa477132b672
+samsung e3q
+df42aa9199c17ee6
 Xiaomi oneday
 6cdd4c278b9af4b2
 Xiaomi venom
