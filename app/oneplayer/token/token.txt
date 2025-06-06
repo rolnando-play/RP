@@ -21849,8 +21849,8 @@ Xiaomi aquaman
 carlos_bo +6
 Amazon sheldonp
 9bfb535ca14219e9
-samsung a04s
-6a6296d96bdf11e2
+samsung a06
+79acac9f9a390be8
 Amazon sheldonp
 802632e9694e880f
 Amazon sheldon
