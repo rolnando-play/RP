@@ -6419,7 +6419,7 @@ ca1bd5ae31834abb
 Xiaomi oneday
 edda874cd8165d69
 MTK cvt_mt5863_sa
-50265ea6c378614d
+117e2cf79775df05
 Xiaomi aquaman
 7ed8e44c57baae79
 
