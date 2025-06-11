@@ -4910,8 +4910,8 @@ Xiaomi ginkgo
 6afefe6e151c2fc7
 Xiaomi oneday
 126ade66940ef5dd
-MTK cvt_mt5863_sa
-92ac81850248c6d5
+Hisilicon Hi3751V350
+0523b18a09e9b7e9
 Xiaomi aquaman
 df35d2e012d4e0d2
 Xiaomi oneday
