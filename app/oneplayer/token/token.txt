@@ -534,16 +534,10 @@ S905W
 355760360a1240c2.
 
 rodrigoes
-samsung a13
-d2532b4b8c07ec59
-samsung A13
-c3574fce9110fb0a
-samsung a03
-452a00d0e0877613
 Expressluck marina
 fc7bf6bfa7ad86dc
-Amlogic p282
-16c3ba9ea1023b2d
+Xiaomi pond
+8ed74dc65b411765
 
 marcelo.sa
 Redmi Note 8 Pro
