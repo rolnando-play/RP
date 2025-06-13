@@ -23656,3 +23656,5 @@ Google titan-p1
 matialv
 Xiaomi whyred
 9c1681b34f635950
+Xiaomi oneday
+3be505a762574748
