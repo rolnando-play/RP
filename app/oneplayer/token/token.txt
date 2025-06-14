@@ -22939,6 +22939,9 @@ Amlogic p212
 509900889c9f20ae
 Xiaomi aquaman
 3448706bcb14f480
++5
+SkyworthDigital HP40A2
+2f3504fdd15af054
 
 velozoa
 motorola java
