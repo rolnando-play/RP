@@ -23661,3 +23661,5 @@ Xiaomi whyred
 9c1681b34f635950
 Xiaomi oneday
 3be505a762574748
+samsung r9s
+e7e3792fc00a94a1
