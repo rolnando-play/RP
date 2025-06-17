@@ -23663,3 +23663,5 @@ Xiaomi oneday
 3be505a762574748
 samsung r9s
 e7e3792fc00a94a1
+Xiaomi twilight
+fc337d1a27fcc8ee
