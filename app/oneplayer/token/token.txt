@@ -22942,6 +22942,8 @@ Xiaomi aquaman
 +5
 SkyworthDigital HP40A2
 2f3504fdd15af054
+Xiaomi jaws
+dd70e05141846a4e
 
 velozoa
 motorola java
