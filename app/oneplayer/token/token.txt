@@ -23667,3 +23667,5 @@ samsung r9s
 e7e3792fc00a94a1
 Xiaomi twilight
 fc337d1a27fcc8ee
+Xiaomi aquaman
+7bf02864bebc2f2e
