@@ -7,6 +7,8 @@ unknown generic_x86
 61e102e3c3040789
 unknown generic_x86
 9b43496638b15f67
+askey sti6140d360
+fefa8f84697f5fff
 Asus fugu
 265b41ea4344df7a
 Motorola athene_f
