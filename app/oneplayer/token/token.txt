@@ -22859,6 +22859,8 @@ samsung pa2q
 f423fcb80bc3d97a
 Google boreal
 406d60751f8c1e61
+samsung pa2q
+3071e5aa30aabbc2
 
 lic.fr +5
 SEI Robotics SEI400TV
