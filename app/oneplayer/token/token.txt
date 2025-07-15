@@ -20046,7 +20046,7 @@ c79c0f6d98b75be7
 rockchip MK
 b5d3ed6bc285f1f7
 SkyworthDigital YYT
-c7b28e28adeb864e
+bb11e2f5e882530c
 +10
 rockchip rk322x_box
 cb594cd22e15c949
