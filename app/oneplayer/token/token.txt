@@ -12234,6 +12234,8 @@ Xiaomi tanzanite
 9aa9b4f0b7aef502
 Google titan-p1
 54cd69456a992caa
+Amazon mantis
+254a3a1b9f61b59b
 
 danieljo
 Allwinner dolphin-fvd-p1
