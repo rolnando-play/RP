@@ -16676,6 +16676,8 @@ Xiaomi oneday
 c9cdcd6132807b73
 Xiaomi jaws
 860ad32fb172c4ad
+KTC hongkong
+46f00548d3216410
 
 adilsongon
 rockchip rk322x_box
