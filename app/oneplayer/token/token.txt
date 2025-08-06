@@ -4631,6 +4631,8 @@ Xiaomi jaws
 5944eaa957da69a1
 TCL G07
 53dfdc4a6b25b55f
+TCL C06
+65fb81066afba327
 
 cristhian.co
 samsung r8q
