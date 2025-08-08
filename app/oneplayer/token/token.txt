@@ -2230,16 +2230,8 @@ rockchip rk3328_box
 0980094b2081cc75
 
 ag.tom
-dolphin dolphin_fvd_p1
-1517c577a361bcd1
-dolphin dolphin_fvd_p1
-d3573122c634a3c8
-rockchip rk322x_box
-29d0fdf99d3aead4
-motorola caprip
-66a3c68aa56fdbf6
-Google p281
-ceb8947d1c31f0cd
+SkyworthDigital HP40A2
+f81e228213bc6ce3
 
 gus_mz
 rockchip rk322x_box
