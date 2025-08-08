@@ -2232,6 +2232,8 @@ rockchip rk3328_box
 ag.tom
 SkyworthDigital HP40A2
 f81e228213bc6ce3
+motorola caprip
+66a3c68aa56fdbf6
 
 gus_mz
 rockchip rk322x_box
