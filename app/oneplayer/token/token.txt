@@ -23432,6 +23432,8 @@ rockchip rk322x_box
 fab40bb6da813ab1
 Xiaomi frost
 b64c5c3e9574c105
+Xiaomi pond
+bde0f0c8853c9a57
 
 oneplayerpro0 +30
 Xiaomi machuca
