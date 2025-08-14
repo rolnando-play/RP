@@ -3470,8 +3470,8 @@ Allwinner dolphin-fvd-p1
 hraya
 Allwinner apollo-p17
 0226dbe4bd6469e1
-Allwinner Transpeed_H616 (2)
-ce2401408c054c4e
+Allwinner Transpeed_H616
+672360b077da7649
 Allwinner Transpeed_H616
 3975e036c69ab143
 
