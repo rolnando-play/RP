@@ -22958,6 +22958,8 @@ SkyworthDigital HP40A2
 2f3504fdd15af054
 Xiaomi jaws
 dd70e05141846a4e
+SkyworthDigital HP40A2
+358fcb399675dbe4
 
 velozoa
 motorola java
