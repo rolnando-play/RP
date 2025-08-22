@@ -8449,6 +8449,9 @@ rockchip rk3328_box
 995b7fb6f5c874aa
 Xiaomi croods
 4eacb2293dbfef56
++5
+Google titan-p1
+6cc9c91e6c200517
 
 cessl +9
 Xiaomi surya
