@@ -22965,6 +22965,8 @@ SkyworthDigital HP40A2
 358fcb399675dbe4
 SkyworthDigital HP44H
 82505fe5be4b1107
+SkyworthDigital HP44H
+f6dc16b477f3ccf6
 
 velozoa
 motorola java
