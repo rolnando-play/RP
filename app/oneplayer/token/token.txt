@@ -12241,6 +12241,8 @@ Google titan-p1
 54cd69456a992caa
 Amazon mantis
 254a3a1b9f61b59b
+Amazon sheldon
+f6c847a58d41e196
 
 danieljo
 Allwinner dolphin-fvd-p1
