@@ -12241,6 +12241,8 @@ Amazon mantis
 254a3a1b9f61b59b
 Amazon sheldon
 f6c847a58d41e196
+Xiaomi tanzanite
+1513edef02d59d68
 
 danieljo
 Allwinner dolphin-fvd-p1
