@@ -8450,8 +8450,6 @@ rockchip rk3328_box
 Xiaomi croods
 4eacb2293dbfef56
 +5
-Google titan-p1
-6cc9c91e6c200517
 Xiaomi hermano
 7ce6ac20fa821cc3
 
