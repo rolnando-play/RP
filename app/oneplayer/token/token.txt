@@ -23061,6 +23061,8 @@ Google sabrina
 c0fd05cd6e2c71fe
 Amazon kara
 f6c2352df07f882e
+Google boreal
+9cf6be9b19963f33
 
 bangof
 Amlogic p282
