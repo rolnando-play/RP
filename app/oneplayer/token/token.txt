@@ -12243,6 +12243,9 @@ Amazon sheldon
 f6c847a58d41e196
 Xiaomi tanzanite
 1513edef02d59d68
++5
+Google titan-p1
+b07493daac231b4d
 
 danieljo
 Allwinner dolphin-fvd-p1
