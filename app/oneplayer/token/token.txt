@@ -12211,8 +12211,8 @@ Xiaomi duchamp
 Amazon sheldonp
 f3dffce592515463
 +5
-dolphin dolphin-fvd-p1
-5f174abe0ee16ae4
+Smart SmartTV235X
+ce06ef487a8acc9e
 Xiaomi sapphire
 3747a7433c3278cb
 Amazon sheldonp
