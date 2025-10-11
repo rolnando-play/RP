@@ -4009,6 +4009,8 @@ Google titan-p1
 a6388c38a6ad485c
 samsung r12s
 601dbcd456de427b
+Xiaomi twilight
+1bc9fbbe755414fd
 
 fenriq
 Xiaomi citrus
