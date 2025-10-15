@@ -2778,6 +2778,8 @@ Xiaomi aquaman
 1bac7fd106cd3abc
 Xiaomi oneday
 4021628115b35eaa
+samsung a56x
+10022af285d88320
 
 silbus
 Google eros-p1
