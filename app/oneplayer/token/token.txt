@@ -10396,6 +10396,8 @@ incar T15
 4b0844211a2ccf07
 SDMC DV8235
 61b2c62942a2e11d
+samsung m55xq
+c04d04ff7fd96291
 
 giarru
 Amazon sheldonp
