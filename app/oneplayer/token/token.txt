@@ -174,6 +174,9 @@ unknown generic_x86
 6ec6a11cdaec25b6
 motorola athene_f
 e165d25a0e975510
+Google frankel
+7e0836f9222b4e9b
+
 +di
 askey sti6140d360
 11aa8a55e0e1dba9
