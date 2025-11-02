@@ -5234,6 +5234,8 @@ dolphin dolphin_fvd_p1
 89bbe7340c7591e7
 dolphin dolphin_fvd_p1
 e150d068b1c99f15
+Xiaomi jaws
+b6b4d99ef5db9ee3
 
 aylenmon
 OnePlus OnePlus8TMO
