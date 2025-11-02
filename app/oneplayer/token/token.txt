@@ -8607,6 +8607,8 @@ Google sabrina
 597f7abc090224a9
 Xiaomi vayu
 a334908f09a4e6a6
+HONOR HNELIX
+b8c351e5701a895d
 
 pjc0409 +6
 rockchip rk322x_box
