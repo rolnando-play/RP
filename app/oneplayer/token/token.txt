@@ -4112,6 +4112,8 @@ Xiaomi cepheus
 90bddd1742fb1498
 Xiaomi aquaman
 e33ae5b21e35c6b7
+nubia NX769J
+a7c104e7a43e0fa1
 
 suporte0
 Xiaomi surya
