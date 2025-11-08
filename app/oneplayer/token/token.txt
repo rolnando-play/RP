@@ -12261,8 +12261,8 @@ Xiaomi tanzanite
 +5
 Google titan-p1
 b07493daac231b4d
-Amazon sheldonp
-986b7f8317527536
+Google titan-p1
+6a671d758c2bba0a
 
 danieljo
 Allwinner dolphin-fvd-p1
