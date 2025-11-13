@@ -12267,6 +12267,9 @@ Google titan-p1
 0f5b44eaffe9cf3a
 samsung b0q
 484339994679c354
++5
+rockchip rk322x_box
+342e516c03b0031b
 
 danieljo
 Allwinner dolphin-fvd-p1
