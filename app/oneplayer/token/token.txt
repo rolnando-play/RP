@@ -23663,6 +23663,8 @@ samsung g0q
 211651ab95bc0524
 samsung g0q
 d113824cecbd506e
+samsung e3q
+f0b290d6872a6f7d
 
 copia.rd
 Amazon sheldon
