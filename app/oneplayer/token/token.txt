@@ -1013,8 +1013,8 @@ Amlogic p281
 azogi
 Amlogic p281
 f7c4b1440c126011
-P3 LITE
-c4c01c48e93a04b9
+Google titan-p1
+c222198a10b96dfd
 r69
 bf12441e79e548c5
 +3
