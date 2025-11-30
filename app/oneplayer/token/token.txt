@@ -3,6 +3,8 @@ Google oriole
 af366c2f44a1581c
 Changhong ikebukuro
 11bb1fe893000c9e
+askey stephen
+7e65cb21cafccff9
 unknown generic_x86
 61e102e3c3040789
 unknown generic_x86
