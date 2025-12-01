@@ -12272,6 +12272,8 @@ samsung b0q
 +5
 rockchip rk322x_box
 342e516c03b0031b
+Google titan-p1
+cdfac7905fadaeed
 
 danieljo
 Allwinner dolphin-fvd-p1
