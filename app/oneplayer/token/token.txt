@@ -12274,6 +12274,8 @@ rockchip rk322x_box
 342e516c03b0031b
 Google titan-p1
 cdfac7905fadaeed
+rockchip auto_rk_t10
+6dd36e62ab3b627a
 
 danieljo
 Allwinner dolphin-fvd-p1
