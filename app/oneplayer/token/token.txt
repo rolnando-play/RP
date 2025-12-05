@@ -2083,7 +2083,7 @@ b51f4d199b18221f
 
 martinezde
 Xiaomi tanzanite
-6032b333e00521d0
+1fd12d141c65f9ee
 HUAWEI HWMGA-H
 d1f916b093544e56
 alps ac8257_demo_1g_32
