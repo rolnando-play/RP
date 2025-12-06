@@ -19253,6 +19253,8 @@ samsung a10s
 9f49abc4d548a2f3
 dolphin dolphin_fvd_p1
 67f54fa87ae79902
+samsung a56x
+9b5a449cb4ebb95a
 
 tigresi
 samsung a50
