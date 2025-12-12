@@ -12273,7 +12273,7 @@ samsung b0q
 rockchip rk322x_box
 342e516c03b0031b
 Google titan-p1
-cdfac7905fadaeed
+b57f81563ed45e6d
 rockchip auto_rk_t10
 6dd36e62ab3b627a
 
