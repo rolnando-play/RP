@@ -8613,6 +8613,8 @@ Xiaomi vayu
 a334908f09a4e6a6
 HONOR HNELIX
 b8c351e5701a895d
+Xiaomi twilight
+60d175976c779af5
 
 pjc0409 +6
 rockchip rk322x_box
