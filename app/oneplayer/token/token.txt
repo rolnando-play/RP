@@ -12280,6 +12280,8 @@ Google titan-p1
 b57f81563ed45e6d
 rockchip auto_rk_t10
 6dd36e62ab3b627a
+TECNO TECNO-KJ7
+2853f9c1ea39e78c
 
 danieljo
 Allwinner dolphin-fvd-p1
