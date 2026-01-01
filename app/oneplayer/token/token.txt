@@ -20686,6 +20686,8 @@ SkyworthDigital HP40A2
 8e6e862f08518672
 SkyworthDigital HP40A2
 1e7717db48639908
+samsung pa3q
+297ce78b54e0b351
 
 nuzzar +6
 Xiaomi renoir
