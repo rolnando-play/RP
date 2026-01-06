@@ -3945,6 +3945,8 @@ rockchip rk322x_box
 d6ffb597642e6282
 Android MBOX
 a6b3b9ff6436bde4
+HONOR HNALT-QL
+4cb6649ea15c5341
 
 guillermodu x6
 Xiaomi surya
