@@ -21217,8 +21217,8 @@ rockchip rk322x_box
 1ae91aaf13869277
 
 obaez1
-Xiaomi oneday
-7ea99143e413e1f5
+Amazon karat
+e8cc95da2d259d15
 Xiaomi oneday
 2ca31e5fe977fa9f
 Xiaomi twilight
