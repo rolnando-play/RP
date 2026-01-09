@@ -23044,6 +23044,8 @@ SkyworthDigital HP44H
 fbecc4c216a3951c
 ZTE B866V2F_FLOW
 29c89c17a5a6b348
+ZTE B866V2F_FLOW
+8a8e292393b5d3df
 
 velozoa
 motorola java
