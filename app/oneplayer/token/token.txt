@@ -12284,6 +12284,8 @@ rockchip auto_rk_t10
 6dd36e62ab3b627a
 TECNO TECNO-KJ7
 2853f9c1ea39e78c
+Xiaomi flourite
+8799f2fd1f61aa44
 
 danieljo
 Allwinner dolphin-fvd-p1
