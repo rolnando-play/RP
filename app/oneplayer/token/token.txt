@@ -4634,8 +4634,8 @@ SEI Robotics SEI400TV
 bcf219448daf31c9
 
 efeerre
-Xiaomi oneday
-f72d53d93e62ac12
+TCL G09
+888690e056bd8119
 dolphin SBQ-SM007
 333c0d398bf8246b
 Amlogic p281
