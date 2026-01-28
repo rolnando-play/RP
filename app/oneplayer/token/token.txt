@@ -12286,6 +12286,9 @@ TECNO TECNO-KJ7
 2853f9c1ea39e78c
 Xiaomi flourite
 8799f2fd1f61aa44
++10
+Xiaomi aquaman
+0b151b3568385ed7
 
 danieljo
 Allwinner dolphin-fvd-p1
