@@ -7129,6 +7129,8 @@ samsung a70q
 650b7c25a732dba7
 Xiaomi oneday
 8778d9d3b66a30f1
+Xiaomi garnet
+dcf7c0f7689f0576
 
 edgaram
 Xiaomi vayu
