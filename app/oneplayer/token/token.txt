@@ -12291,6 +12291,8 @@ Xiaomi flourite
 +10
 Xiaomi aquaman
 0b151b3568385ed7
+Xiaomi tanzanite
+9aa6e6ab04078296
 
 danieljo
 Allwinner dolphin-fvd-p1
