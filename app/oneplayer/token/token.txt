@@ -11457,6 +11457,8 @@ Amlogic BC13
 46b5eedb09c883b6
 SkyworthDigital HP40A2
 41eb7eb907855435
+Google ohm
+98abe20a90db5098
 
 mabaros
 Amazon sheldon
