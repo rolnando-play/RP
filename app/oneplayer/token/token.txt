@@ -23706,6 +23706,8 @@ samsung g0q
 d113824cecbd506e
 samsung e3q
 f0b290d6872a6f7d
+samsung a56x
+a35fe37113aa08e6
 
 copia.rd
 Amazon sheldon
