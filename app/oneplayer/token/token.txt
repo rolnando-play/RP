@@ -15504,8 +15504,8 @@ Amazon mantis
 6c9a1f2a7097e197
 Google sabrina
 e694586dffe77cba
-Amazon karat
-b825eec1da5fa23e
+Xiaomi twilight
+12640ceee588b7a8
 
 mandyco +18
 Amlogic p281
