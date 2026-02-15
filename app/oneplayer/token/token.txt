@@ -23182,7 +23182,7 @@ a59eb011162daa4a
 samsung a56x
 044019a0a6d6f20d
 SkyworthDigital HP40A2
-734e6c8b1dbfa4b8
+7696542dfa18e1a9
 samsung b6q
 7652d0ceff48c452
 
@@ -23827,6 +23827,8 @@ Amazon karat
 cbf3995534961136
 Amazon kara
 aa656f21e9b18206
+Xiaomi aquaman
+f110ca9a8eb69ed2
 
 r_trav
 Xiaomi Oneday 
