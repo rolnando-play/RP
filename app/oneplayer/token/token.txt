@@ -20398,6 +20398,8 @@ Amazon sheldonp
 44341997cf12aa6d
 samsung pa3q
 b7db9e023d315c28
+samsung pa3q
+b7db9e023d315c28
 
 ibarraf
 Amazon mantis
