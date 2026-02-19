@@ -6,6 +6,8 @@ Changhong ikebukuro
 askey stephen
 7e65cb21cafccff9
 unknown generic_x86
+4f11e7fe6e9b81b1
+unknown generic_x86
 61e102e3c3040789
 unknown generic_x86
 9b43496638b15f67
@@ -20394,6 +20396,8 @@ Amazon sheldonp
 erlabo
 Amazon sheldonp
 44341997cf12aa6d
+samsung pa3q
+b7db9e023d315c28
 
 ibarraf
 Amazon mantis
