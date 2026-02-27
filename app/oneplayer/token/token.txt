@@ -12299,6 +12299,8 @@ Xiaomi aquaman
 0b151b3568385ed7
 Xiaomi tanzanite
 9aa6e6ab04078296
+OPPO OP5745L1
+01e9687cf5c296d1
 
 danieljo
 Allwinner dolphin-fvd-p1
