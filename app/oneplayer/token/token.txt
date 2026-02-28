@@ -4100,8 +4100,8 @@ e30e2fd6979c1b89
 ser10
 dolphin dolphin_fvd_p1
 e9b460c81275b72b
-Xiaomi aquaman
-f793d63e8df0414b
+SkyworthDigital HP40A2
+aedf1fce55f91e5e
 SkyworthDigital LAS
 27c23959e6b81b3c
 
