@@ -19617,6 +19617,8 @@ samsung y2s
 16a8d90ae3674a64
 Amazon sheldonp
 a385e4ac30f6649b
+Amazon kara
+523c5fc658ce8a38
 
 ramyni
 Xiaomi oneday
