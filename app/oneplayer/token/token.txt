@@ -8471,6 +8471,8 @@ Xiaomi croods
 +5
 Xiaomi hermano
 7ce6ac20fa821cc3
+rockchip rk322x_box
+fa0fb2306e9663d4
 
 cessl +9
 Xiaomi surya
