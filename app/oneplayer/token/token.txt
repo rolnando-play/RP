@@ -14502,18 +14502,10 @@ Amazon mantis
 880a09b0c077e742
 
 nbalan
-MTK cvt_mt5863_sa
-4e021a761a538c8c
-HUAWEI HWJNY
-5dbcdfda8f4e0592
-Amlogic p281
-38cec7a18f955b82
-Amlogic p281
-891c749f99c8fb7d
 Xiaomi venom
 8b028da61c3e5c95
-Changhong osaka
-6b77c5e6653f6e1a
+Xiaomi croods
+51571f13753c2628
 
 jmtv19 +10 psc
 Xiaomi aquaman
