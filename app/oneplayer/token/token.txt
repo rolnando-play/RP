@@ -4925,8 +4925,8 @@ Xiaomi ginkgo
 6afefe6e151c2fc7
 Xiaomi oneday
 126ade66940ef5dd
-Hisilicon Hi3751V350
-0523b18a09e9b7e9
+Xiaomi malachite
+a289a3801ca6b1f8
 Xiaomi aquaman
 df35d2e012d4e0d2
 Xiaomi oneday
