@@ -23843,3 +23843,5 @@ Smart SmartTV256X
 7e555f265a627fe7
 Xiaomi aquaman
 1809422295e74979
+Hisilicon Hi3751V350
+1ca5f1ccbcc5dbb7
