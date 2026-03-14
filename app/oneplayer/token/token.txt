@@ -12303,6 +12303,8 @@ Xiaomi tanzanite
 9aa6e6ab04078296
 OPPO OP5745L1
 01e9687cf5c296d1
+Xiaomi tapas
+e90f0a5e215c95e8
 
 danieljo
 Allwinner dolphin-fvd-p1
