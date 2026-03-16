@@ -12301,8 +12301,8 @@ Xiaomi aquaman
 0b151b3568385ed7
 Xiaomi tanzanite
 9aa6e6ab04078296
-OPPO OP5745L1
-01e9687cf5c296d1
+Amlogic p281
+8547eb02ec0d161f
 Xiaomi tapas
 e90f0a5e215c95e8
 
