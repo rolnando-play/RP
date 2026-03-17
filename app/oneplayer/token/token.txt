@@ -12305,6 +12305,8 @@ Amlogic p281
 8547eb02ec0d161f
 Xiaomi tapas
 e90f0a5e215c95e8
+Xiaomi aquaman
+7686027d09024ca5
 
 danieljo
 Allwinner dolphin-fvd-p1
