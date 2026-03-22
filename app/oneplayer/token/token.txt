@@ -543,10 +543,8 @@ S905W
 355760360a1240c2.
 
 rodrigoes
-Expressluck marina
-fc7bf6bfa7ad86dc
-Xiaomi pond
-8ed74dc65b411765
+samsung a6plte
+e05a817306231750
 
 marcelo.sa
 Redmi Note 8 Pro
