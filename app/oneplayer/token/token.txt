@@ -23318,6 +23318,8 @@ Xiaomi redwood
 e9409377d3c81eee
 Xiaomi aquaman
 8dcaca8163d048c1
+askey adt3
+1fb21d1fffef8027
 
 yuliy
 dolphin dolphin_fvd_p1
