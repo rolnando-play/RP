@@ -5733,6 +5733,8 @@ e4ad531adf157b44
 +5
 Xiaomi venom
 367e7211bdaa9050
+Allwinner android_tv_box
+1c056735a7fd0231
 
 apbt2
 Xiaomi aquaman
