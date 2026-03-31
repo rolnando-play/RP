@@ -5725,7 +5725,7 @@ SkyworthDigital LAS
 Allwinner android_tv_box
 ba4be0277a123b20
 Allwinner android_tv_box
-ec539489ef2db8ba
+1c056735a7fd0231
 SkyworthDigital YYC
 ccd17727bf004a42
 samsung e2s
@@ -5733,8 +5733,6 @@ e4ad531adf157b44
 +5
 Xiaomi venom
 367e7211bdaa9050
-Allwinner android_tv_box
-1c056735a7fd0231
 
 apbt2
 Xiaomi aquaman
@@ -22980,6 +22978,8 @@ aefc734c0dde38e8
 prehi
 Google cupid-p1
 4f3f97a644c42ec5
+OnePlus OnePlusN100
+b769810e6332f781
 
 v_rami
 Amazon mantis
