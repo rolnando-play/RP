@@ -23862,3 +23862,5 @@ Xiaomi aquaman
 1809422295e74979
 Hisilicon Hi3751V350
 1ca5f1ccbcc5dbb7
+Expressluck nagata
+47a7c43fa72196c3
