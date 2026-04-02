@@ -7131,6 +7131,8 @@ Xiaomi oneday
 8778d9d3b66a30f1
 Xiaomi garnet
 dcf7c0f7689f0576
+Amazon sheldonp
+6b43e85146a70b58
 
 edgaram
 Xiaomi vayu
