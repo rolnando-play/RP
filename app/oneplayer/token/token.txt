@@ -23723,6 +23723,8 @@ samsung e3q
 f0b290d6872a6f7d
 samsung a56x
 a35fe37113aa08e6
+samsung a26xs
+5dea9133e8ff99ba
 
 copia.rd
 Amazon sheldon
