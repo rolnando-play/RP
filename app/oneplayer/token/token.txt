@@ -1,6 +1,8 @@
 adm
 Google oriole
 af366c2f44a1581c
+Amazon sheldon
+32af9adc25b2e689
 Changhong ikebukuro
 11bb1fe893000c9e
 askey stephen
