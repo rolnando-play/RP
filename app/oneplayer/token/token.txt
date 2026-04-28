@@ -21268,6 +21268,8 @@ samsung e1s
 c5d7de088c7ee7ea
 Amlogic p281
 887971ec37e78963
+Google titan-p1
+912481e248097f27
 
 delvallesa
 Xiaomi oneday
