@@ -12309,6 +12309,8 @@ Xiaomi tapas
 e90f0a5e215c95e8
 Xiaomi aquaman
 7686027d09024ca5
+Xiaomi viva
+0e3f242c376bd782
 
 danieljo
 Allwinner dolphin-fvd-p1
