@@ -1007,8 +1007,8 @@ dolphin dolphin_fvd_p1
 5d9c6a594cfc187
 
 chamorr
-Xiaomi oneday
-b37d8edf766e9ec5
+Google titan-p1
+b2b9699ccc79a13f
 tx6s
 4d703b1b7ffc2a45
 Amlogic p281
