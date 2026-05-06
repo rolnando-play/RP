@@ -15515,8 +15515,6 @@ KaonMedia KSTB6130
 e4b0b1eabf293717
 
 dr.adan
-Amazon kara
-d719b2fa13ff68e2
 Amazon mantis
 6c9a1f2a7097e197
 Google sabrina
@@ -23194,8 +23192,7 @@ Xiaomi oneday
 707425e042e070a0
 
 adangi
-Amazon kara
-c7411c3c9174558d
+
 Amazon sheldonp
 a59eb011162daa4a
 samsung a56x
