@@ -16856,6 +16856,8 @@ Xiaomi miel
 e043b91877dbd8c9
 Xiaomi jaws
 fca68d05f93a3096
+samsung r13s
+293396f418f95e6d
 
 gmarmo
 Xiaomi lavender
