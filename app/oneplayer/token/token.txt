@@ -2911,6 +2911,9 @@ Rockchip rk3328_box
 411847c64cb93767
 Xiaomi whyred
 48d6e771220983aa
++10
+Amazon karat
+b162d8e69f9f41dd
 
 augustoe
 Amlogic p281
