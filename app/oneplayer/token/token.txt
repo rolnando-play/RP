@@ -2914,6 +2914,10 @@ Xiaomi whyred
 +10
 Amazon karat
 b162d8e69f9f41dd
+Google titan-p1
+deff21bca31661b6
+Google titan-p1
+5d08e4eba1306688
 
 augustoe
 Amlogic p281
