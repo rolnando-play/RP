@@ -12318,6 +12318,8 @@ Xiaomi aquaman
 7686027d09024ca5
 Xiaomi viva
 0e3f242c376bd782
+Amazon mantis
+cb6e54f13580864e
 
 danieljo
 Allwinner dolphin-fvd-p1
