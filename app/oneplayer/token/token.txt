@@ -2918,6 +2918,8 @@ Google titan-p1
 deff21bca31661b6
 Google titan-p1
 5d08e4eba1306688
+Google titan-p1
+962b9dc4fa6560bc
 
 augustoe
 Amlogic p281
