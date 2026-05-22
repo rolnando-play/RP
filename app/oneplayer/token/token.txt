@@ -23899,3 +23899,7 @@ Hisilicon Hi3751V350
 1ca5f1ccbcc5dbb7
 Expressluck nagata
 47a7c43fa72196c3
+
+mendozaru
+Amlogic MXQ
+fdb6f6acc553b1f7
