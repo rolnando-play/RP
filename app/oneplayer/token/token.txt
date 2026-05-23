@@ -12322,6 +12322,8 @@ Xiaomi viva
 0e3f242c376bd782
 Amazon mantis
 cb6e54f13580864e
+LUO C36
+ee7607b075d08e89
 
 danieljo
 Allwinner dolphin-fvd-p1
