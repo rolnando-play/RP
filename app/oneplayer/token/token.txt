@@ -10434,8 +10434,8 @@ c04d04ff7fd96291
 giarru
 Amazon sheldonp
 fe873091a14cdb07
-samsung a53x
-f7ac6edf4e567b96
+BLACK_SHARK Pad7
+6cdad037067159e5
 rockchip rk322x_box
 5acfef747d239e13
 
