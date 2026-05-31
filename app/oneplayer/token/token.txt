@@ -23911,3 +23911,5 @@ Amlogic p281
 Negri
 Xiaomi spes
 dbd4378cd6fbda58
+Xiaomi oneday
+4dce45bd913334a7
