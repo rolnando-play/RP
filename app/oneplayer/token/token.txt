@@ -23907,3 +23907,7 @@ Amlogic MXQ
 fdb6f6acc553b1f7
 Amlogic p281
 9eb5b8fed2076c4a
+
+Negri
+Xiaomi spes
+dbd4378cd6fbda58
