@@ -15407,6 +15407,8 @@ ae5ced27fd47d507
 +10
 Google titan-p1
 eb1ea49a993992da
+Xiaomi jaws 
+196a6a4e80a40592
 
 +6 psc
 rockchip rk322x_box
