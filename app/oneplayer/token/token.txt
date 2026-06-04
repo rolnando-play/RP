@@ -15409,6 +15409,10 @@ Google titan-p1
 eb1ea49a993992da
 Xiaomi jaws 
 196a6a4e80a40592
+Amazon kara
+9644042a0ee018dc
+KTC lavender
+cfb2341be54e4aaf
 
 +6 psc
 rockchip rk322x_box
