@@ -21930,6 +21930,8 @@ rockchip rk322x_box
 5a4d55b734671983
 OPPO OP5B16L1
 c513d36762e90d1f
+samsung a14
+52f7551ddfbc4616
 
 tungus
 Pixel Core Hi3798MV200
