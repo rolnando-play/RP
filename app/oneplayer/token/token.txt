@@ -1015,8 +1015,8 @@ Amlogic p281
 6be61807c582af19
 
 azogi
-Amlogic p281
-f7c4b1440c126011
+samsung gta4xlswifi
+674fb5b9fb00ae5a
 Google titan-p1
 c222198a10b96dfd
 r69
