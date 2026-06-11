@@ -8612,7 +8612,7 @@ rockchip rk322x_box
 Amazon mantis
 66963dae90de4c6b
 Xiaomi viva
-fc7ec42dacf5ec3b
+bea81f634ec7ca85
 
 ferher
 Amlogic A95X_R1
