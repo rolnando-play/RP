@@ -15415,6 +15415,8 @@ KTC lavender
 cfb2341be54e4aaf
 SDMC at30aq
 9519f2e3d414214e
+Xiaomi aquaman
+4aa00c3ebf2aced2
 
 +6 psc
 rockchip rk322x_box
