@@ -11466,6 +11466,8 @@ samsung r8q
 9393a9f2acb43191
 Xiaomi angelica
 667a3d58242715e2
+samsung pa3q
+9bcf43826d5ebcdd
 
 germol
 Amlogic BC13
