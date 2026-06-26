@@ -23849,6 +23849,8 @@ samsung on7xelte
 6e54863df6980540
 HMD Global APO_sprout
 f69f779278b46fb8
+Xiaomi twilight
+3907b0a6a87254d4
 
 tvbox04
 Xiaomi tapas
