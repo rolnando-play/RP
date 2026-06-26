@@ -12326,6 +12326,8 @@ Amazon mantis
 cb6e54f13580864e
 LUO C36
 ee7607b075d08e89
+Xiaomi twilight
+b8aa3d9a5fdb45fb
 
 danieljo
 Allwinner dolphin-fvd-p1
