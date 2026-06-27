@@ -1009,10 +1009,10 @@ dolphin dolphin_fvd_p1
 chamorr
 Google titan-p1
 b2b9699ccc79a13f
-tx6s
-4d703b1b7ffc2a45
 Amlogic p281
 6be61807c582af19
+CVTE Hi3751V560
+6ebe580ef26ed19d
 
 azogi
 samsung gta4xlswifi
