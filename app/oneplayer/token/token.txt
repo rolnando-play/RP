@@ -22654,6 +22654,8 @@ Xiaomi veux
 martinezru
 samsung y2s
 b7c06393f24be61c
+samsung r0q
+df8a437a1451942c
 
 jmatia
 Android MDTV5G
