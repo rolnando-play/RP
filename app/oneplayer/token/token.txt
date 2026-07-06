@@ -23794,6 +23794,8 @@ dolphin dolphin_fvd_p1
 9d091a7a464fb506
 rockchip rk322x_box
 ae591f4340d5d8f4
+Expressluck nagata
+c49e453eece54663
 
 luisgg
 Xiaomi aquaman
