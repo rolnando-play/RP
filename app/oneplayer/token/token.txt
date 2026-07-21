@@ -19261,7 +19261,7 @@ rockchip rk322x_box
 samsung a51
 e8f386659edd10ef
 Xiaomi venom
-13d6bf5b0e3554a4
+18f738f3c0a0b4aa
 +5
 Amazon tank
 8d1f6c2fc90fe81a
