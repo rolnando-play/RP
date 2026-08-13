@@ -7617,7 +7617,7 @@ fa5764a9518bd2fa
 rockchip rk322x_box
 1e337cceaccf79fe
 Google walleye
-f69426474ea8edd9
+0a57bfcc04b48b79
 rockchip rk322x_box
 e9ffc19d494691f8
 askey sti6140d360
