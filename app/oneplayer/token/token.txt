@@ -12334,6 +12334,9 @@ Xiaomi twilight
 b8aa3d9a5fdb45fb
 Xiaomi aquaman
 1ded0168c0c2321c
++10
+BLACK_SHARK Pad7
+6c0141005697251d
 
 danieljo
 Allwinner dolphin-fvd-p1
