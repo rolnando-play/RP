@@ -4522,6 +4522,8 @@ KTC mountbaker
 70a677530e39b571
 Changhong osaka
 d0b1396f186d14d4
+Xiaomi ladybird
+9e1c44125af7f31d
 
 oma19 +9
 samsung c2s
