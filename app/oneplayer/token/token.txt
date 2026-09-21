@@ -12337,6 +12337,8 @@ Xiaomi aquaman
 +10
 BLACK_SHARK Pad7
 6c0141005697251d
+Google komodo
+779a4a039f5f6030
 
 danieljo
 Allwinner dolphin-fvd-p1
