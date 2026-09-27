@@ -15434,6 +15434,8 @@ SDMC at30aq
 9519f2e3d414214e
 Xiaomi aquaman
 4aa00c3ebf2aced2
+Xiaomi aquaman
+e47e06f6b2bea9eb
 
 +6 psc
 rockchip rk322x_box
