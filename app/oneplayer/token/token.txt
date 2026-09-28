@@ -23254,6 +23254,8 @@ SkyworthDigital HP40A2
 7696542dfa18e1a9
 samsung b6q
 7652d0ceff48c452
+MediaTek mt5867
+06809cfb7926ee05
 
 adrianfel
 Xiaomi oneday
