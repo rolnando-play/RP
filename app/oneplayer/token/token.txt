@@ -15560,8 +15560,6 @@ KaonMedia KSTB6130
 e4b0b1eabf293717
 
 dr.adan
-Amazon mantis
-6c9a1f2a7097e197
 Google sabrina
 e694586dffe77cba
 Xiaomi twilight
