@@ -1233,6 +1233,8 @@ samsung dm3q
 49fee568194f8922
 Xiaomi jaws
 36d874e4b2e68dcd
+Xiaomi river
+0ff7682da0867d16
 
 v.gal
 h96
