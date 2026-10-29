@@ -4,6 +4,8 @@ af366c2f44a1581c
 unknown generic_x86
 667abc8439c4f5f6
 Amazon sheldon
+3b490babc2c253df
+Amazon sheldon
 32af9adc25b2e689
 Changhong ikebukuro
 11bb1fe893000c9e
