@@ -9,6 +9,8 @@ Amazon sheldon
 32af9adc25b2e689
 Amlogic nexbox_a95x
 a45ebe085a148c6e
+Amlogic p281
+bef6bec17c9da5df
 Changhong ikebukuro
 11bb1fe893000c9e
 askey stephen
