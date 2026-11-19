@@ -4123,6 +4123,8 @@ SkyworthDigital HP40A2
 aedf1fce55f91e5e
 SkyworthDigital LAS
 27c23959e6b81b3c
+SkyworthDigital LAS
+ce5fae4c196f5c95
 
 bartonth
 Xiaomi ginkgo
